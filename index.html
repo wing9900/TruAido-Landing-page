@@ -62,14 +62,14 @@
   details.transcript summary { padding: 12px 18px; font-size: 13.5px; cursor: pointer; font-weight: 600; }
   details.transcript div { padding: 0 18px 16px; font-size: 13.5px; color: #47546B; line-height: 1.6; }
 
-  .demo { background: #EAF4EF; border: 1px solid #C6E2D4; border-radius: 12px; padding: 32px; }
+  .demo { background: #EAF4EF; border: 1px solid #C6E2D4; border-radius: 12px; padding: 32px 32px 24px; }
   .demo h3 { font-stretch: 118%; font-weight: 750; font-size: 24px; color: #0B4A34; margin-bottom: 6px; }
   .demo p { font-size: 15px; color: #3E5D50; margin-bottom: 16px; }
   .demo-row { display: flex; gap: 10px; max-width: 480px; }
   .demo input { flex: 1; background: #fff; border: 1px solid #C6E2D4; border-radius: 6px; padding: 13px 15px; font-size: 15px; font-family: inherit; outline: none; }
   .demo input:focus { border-color: #0E8A5F; }
   .micro { font-size: 11.5px; color: #6E857A; margin-top: 10px; }
-  .demo-status { margin-top: 12px; font-size: 14px; min-height: 20px; }
+  .demo-status { font-size: 14px; } .demo-status:not(:empty) { margin-top: 12px; }
   .demo-status.ok { color: #0B4A34; font-weight: 600; }
   .demo-status.err { color: #B0432B; }
 
@@ -109,7 +109,7 @@
   .mockup-cap { text-align: center; font-size: 15px; color: #47546B; line-height: 1.5; margin-top: 14px; font-stretch: 105%; font-weight: 500; min-height: 45px; }
   @media (max-width: 379px) { .mockup-cap { min-height: 68px; } }
   .mockup-cap b { color: #10203A; font-weight: 700; }
-  .clipframe { border: none; position: absolute; top: 50%; left: 50%; transform-origin: center center; pointer-events: none; }
+  .clipframe { border: none; position: absolute; top: 50%; left: 50%; transform-origin: center center; pointer-events: none; will-change: transform; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
   .subs { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 22px; margin-top: 18px; }
   .subs b { display: block; font-size: 13.5px; margin-bottom: 2px; font-stretch: 110%; font-weight: 700; padding-left: 14px; text-indent: -14px; }
   .subs b::before { content: ""; display: inline-block; width: 7px; height: 7px; background: #0E8A5F; border-radius: 2px; margin-right: 7px; }
@@ -222,7 +222,7 @@
 
   /* --- Mobile: enlarge the demo so it's easy to read/tap --- */
   @media (max-width: 860px) {
-    .demo { padding: 26px 20px; }
+    .demo { padding: 26px 20px 20px; }
     .demo h3 { font-size: 27px; }
     .demo p { font-size: 17px; }
     .demo input { font-size: 17px; padding: 16px 16px; }
@@ -396,7 +396,7 @@
   .mb-cam { position:absolute; top:6px; left:50%; transform:translateX(-50%);
     width:5px; height:5px; border-radius:50%;
     background: radial-gradient(circle at 35% 35%, #3A4A5E, #0A0C10 70%); z-index:5; }
-  .mb-screen { position:relative; background:#fff; border-radius:6px; overflow:hidden; height:604px; }
+  .mb-screen { position:relative; background:#fff; border-radius:6px; overflow:hidden; height:604px; transform:translateZ(0); }
   .mb-base { position:relative; height:16px;
     background: linear-gradient(180deg,#F2F3F5 0%, #D9DADD 45%, #A8AAAE 85%, #7E8084 100%);
     border-radius:0 0 14px 14px; box-shadow:0 1px 0 rgba(255,255,255,0.6) inset; }
@@ -407,8 +407,8 @@
 
   /* site iframe scaled into screen */
   #siteFrame {
-    width:1180px; height:738px; border:none;
-    transform: scale(0.854); transform-origin: 0 0;
+    width:1080px; height:738px; border:none;
+    transform: scale(0.9333); transform-origin: 0 0;
     pointer-events:none;
   }
 
@@ -428,7 +428,7 @@
     box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
   .ip-inner { position:absolute; inset:3px; border-radius:41px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
-  .ip-screen { position:absolute; inset:12px; border-radius:33px; background:#fff; overflow:hidden; }
+  .ip-screen { position:absolute; inset:12px; border-radius:33px; background:#fff; overflow:hidden; transform:translateZ(0); }
   .ip-glare { position:absolute; inset:12px; border-radius:33px; z-index:9; pointer-events:none;
     background: linear-gradient(115deg, rgba(255,255,255,0.10) 0%, rgba(255,255,255,0.035) 28%, rgba(255,255,255,0) 42%); }
   .ip-island { position:absolute; top:22px; left:50%; transform:translateX(-50%);
@@ -552,7 +552,7 @@
   /* hero */
   .hero { position:relative; overflow:hidden; }
   .hero .bg { position:absolute; inset:0; }
-  .hero .bg img { width:100%; height:100%; object-fit:cover; object-position:center 30%; display:block; }
+  .hero .bg img { width:100%; height:100%; object-fit:cover; object-position:64% 30%; display:block; }
   .hero .tint { position:absolute; inset:0;
     background: linear-gradient(100deg, rgba(10,32,18,0.78) 0%, rgba(13,40,22,0.55) 42%, rgba(16,44,26,0.32) 68%, rgba(16,44,26,0.45) 100%); }
   .hero .wrap { position:relative; z-index:2; display:flex; align-items:center; justify-content:space-between; gap:56px; padding-top:64px; padding-bottom:64px; }
@@ -611,7 +611,7 @@
 
   body { overflow:hidden; }
   .hero { min-height:631px; display:flex; flex-direction:column; justify-content:center; }
-  .hero .wrap { padding-top:104px; padding-bottom:44px; }
+  .hero .wrap { padding-top:28px; padding-bottom:44px; }
   .fcard { position:relative; }
   .fsucc { position:absolute; inset:0; border-radius:16px; background:#fff;
     display:flex; flex-direction:column; align-items:center; justify-content:center;
@@ -805,7 +805,7 @@
     const r = el.getBoundingClientRect(); // iframe coords
     const fr = frame.getBoundingClientRect(); // scaled top-left in page
     const s = stage.getBoundingClientRect();
-    const sx = fr.width / 1180, sy = fr.height / 738;
+    const sx = fr.width / 1080, sy = fr.height / 738;
     const x = fr.left - s.left + (r.left + r.width/2 + dx) * sx;
     const y = fr.top - s.top + (r.top + r.height/2 + dy) * sy;
     cursor.style.left = x + 'px';
@@ -927,7 +927,7 @@
     box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
   .ip-inner { position:absolute; inset:3px; border-radius:45px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
-  .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; }
+  .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; transform:translateZ(0); }
   .ip-glare { position:absolute; inset:13px; border-radius:36px; z-index:9; pointer-events:none;
     background: linear-gradient(115deg, rgba(255,255,255,0.10) 0%, rgba(255,255,255,0.035) 28%, rgba(255,255,255,0) 42%); }
   .ip-island { position:absolute; top:24px; left:50%; transform:translateX(-50%);
@@ -1255,7 +1255,7 @@
     box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
   .ip-inner { position:absolute; inset:3px; border-radius:45px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
-  .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; }
+  .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; transform:translateZ(0); }
   .ip-glare { position:absolute; inset:13px; border-radius:36px; z-index:9; pointer-events:none;
     background: linear-gradient(115deg, rgba(255,255,255,0.10) 0%, rgba(255,255,255,0.035) 28%, rgba(255,255,255,0) 42%); }
   .ip-island { position:absolute; top:24px; left:50%; transform:translateX(-50%);
@@ -1397,7 +1397,7 @@
   .rate-card .rrow { display:flex; align-items:center; gap:8px; }
   .rate-card .big { font-size:26px; font-weight:400; color:#202124; }
   .rate-card .stars5 { color:#FBBC04; font-size:15px; letter-spacing:1px; }
-  .rate-card .cnt { font-size:12px; color:#5F6368; white-space:nowrap; }
+  .rate-card .cnt { font-size:12px; color:#5F6368; margin-top:4px; }
   .rate-card .up { display:inline-flex; align-items:center; gap:4px; margin-top:8px;
     font-size:11.5px; color:#188038; font-weight:500; background:#E6F4EA;
     border-radius:999px; padding:3px 10px; }
@@ -1560,8 +1560,8 @@
             <div class=&quot;rrow&quot;>
               <span class=&quot;big&quot;>4.9</span>
               <span class=&quot;stars5&quot;>★★★★★</span>
-              <span class=&quot;cnt&quot; id=&quot;revcount&quot;>(212 reviews)</span>
             </div>
+            <div class=&quot;cnt&quot; id=&quot;revcount&quot;>(212 reviews)</div>
           </div>
         </div>
       </div>
@@ -1652,7 +1652,7 @@
     });
     at(6300, () => {
       $('povlabel').classList.remove('swap');
-      $('povtext').textContent = &quot;Five stars go public. Anything less comes to you privately.&quot;;
+      $('povtext').textContent = &quot;Happy customers get a one-tap path to Google.&quot;;
     });
 
     // tap 5th star, cascade fill
@@ -1722,7 +1722,7 @@
     });
     at(a0 + 3500, () => {
       $('povlabel').classList.remove('swap');
-      $('povtext').textContent = &quot;This one doesn't go to Google. It comes straight to you.&quot;;
+      $('povtext').textContent = &quot;Their feedback comes straight to you, so you can make it right.&quot;;
     });
     const nstep = 30;
     for (let i = 1; i <= NEG.length; i++) {
@@ -1755,7 +1755,7 @@
 
 </body>
 </html>
-"></iframe></div><div class="mockup-cap" id="mcap3" data-cap="1">Five stars go public. <b>Anything less comes to you privately</b>.</div></div>
+"></iframe></div><div class="mockup-cap" id="mcap3" data-cap="1">Happy customers get <b>a one-tap path to Google</b>.</div></div>
       </div>
       <div class="feature">
         <div class="txt">
@@ -1801,7 +1801,7 @@
     box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
   .ip-inner { position:absolute; inset:3px; border-radius:45px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
-  .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; }
+  .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; transform:translateZ(0); }
   .ip-glare { position:absolute; inset:13px; border-radius:36px; z-index:9; pointer-events:none;
     background: linear-gradient(115deg, rgba(255,255,255,0.10) 0%, rgba(255,255,255,0.035) 28%, rgba(255,255,255,0) 42%); }
   .ip-island { position:absolute; top:24px; left:50%; transform:translateX(-50%);
