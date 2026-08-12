@@ -102,8 +102,8 @@
   .feature + .feature { border-top: 1px solid #E5E6E8; padding-top: 44px; }
   .feature h3 { font-stretch: 118%; font-weight: 760; font-size: 25px; line-height: 1.15; margin: 8px 0 10px; }
   .feature .lead { font-size: 15px; color: #47546B; line-height: 1.6; }
-  .feature .shot { flex: 1.3; min-height: 340px; background: #F4F6F8; border: 1px solid #E5E6E8; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 12.5px; color: #8792A3; text-align: center; padding: 12px; }
-  .feature .clipwrap { padding: 0; overflow: hidden; position: relative; background: #F4F6F8; }
+  .feature .shot { flex: 1.3; min-height: 340px; background: #FFFFFF; border: 1px solid #E5E6E8; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 12.5px; color: #8792A3; text-align: center; padding: 12px; }
+  .feature .clipwrap { padding: 0; overflow: hidden; position: relative; background: #FFFFFF; }
   .shotcol { flex: 1.3; display: flex; flex-direction: column; align-items: stretch; }
   .shotcol .shot { flex: none; width: 100%; }
   .mockup-cap { text-align: center; font-size: 15px; color: #47546B; line-height: 1.5; margin-top: 14px; font-stretch: 105%; font-weight: 500; }
@@ -243,7 +243,7 @@
     .micro { color: #6E857A !important; }
     .demo-status.ok { color: #0B4A34 !important; }
     .demo-status.err { color: #B0432B !important; }
-    .feature .shot, .feature .clipwrap { background: #F4F6F8 !important; }
+    .feature .shot, .feature .clipwrap { background: #FFFFFF !important; }
     .mockup-cap { color: #47546B !important; }
     .mockup-cap b { color: #10203A !important; }
     .guarantee { background: #FFFFFF !important; }
@@ -377,7 +377,7 @@
   * { margin:0; padding:0; box-sizing:border-box; }
   html,body { height:100%; }
   body {
-    background: #F4F6F8;
+    background: #FFFFFF;
     font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Roboto, sans-serif;
     display:flex; align-items:center; justify-content:center;
     overflow:hidden;
@@ -794,7 +794,6 @@
   const cursor = $('cursor');
   const stage = $('stage');
   const frame = $('siteFrame');
-  const SCALE = 0.5695;
   let timers = [];
   const at = (ms, fn) => timers.push(setTimeout(fn, ms));
 
@@ -807,14 +806,14 @@
     const r = el.getBoundingClientRect(); // iframe coords
     const fr = frame.getBoundingClientRect(); // scaled top-left in page
     const s = stage.getBoundingClientRect();
-    const x = fr.left - s.left + (r.left + r.width/2 + dx) * SCALE;
-    const y = fr.top - s.top + (r.top + r.height/2 + dy) * SCALE;
+    const sx = fr.width / 1180, sy = fr.height / 738;
+    const x = fr.left - s.left + (r.left + r.width/2 + dx) * sx;
+    const y = fr.top - s.top + (r.top + r.height/2 + dy) * sy;
     cursor.style.left = x + 'px';
     cursor.style.top = y + 'px';
   }
 
   function typeIntoField(sel, text, cps, startDelay) {
-    at(startDelay, () => { const el = fel(sel); if (el) el.focus({preventScroll:true}); });
     const step = 1000 / cps;
     for (let i = 1; i <= text.length; i++) {
       at(startDelay + 80 + i * step, () => { const el = fel(sel); if (el) el.value = text.slice(0, i); });
@@ -825,7 +824,7 @@
   function resetState() {
     stage.classList.remove('sceneB');
     const d = fdoc(); if (d) {
-      d.querySelectorAll('input[type=text], input[type=tel], textarea').forEach(e => { e.value=''; e.blur(); });
+      d.querySelectorAll('input[type=text], input[type=tel], textarea').forEach(e => { e.value=''; });
       const cb = d.getElementById('smsOptIn'); if (cb) cb.checked = false;
       const sc = d.getElementById('animSuccess'); if (sc) sc.classList.remove('on');
       const btn = d.querySelector('.fbtn'); if (btn) btn.style.transform='';
@@ -914,7 +913,7 @@
   * { margin:0; padding:0; box-sizing:border-box; }
   html,body { height:100%; }
   body {
-    background: #F4F6F8;
+    background: #FFFFFF;
     font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Roboto, sans-serif;
     display:flex; align-items:center; justify-content:center;
     overflow:hidden;
@@ -1237,7 +1236,7 @@
   * { margin:0; padding:0; box-sizing:border-box; }
   html,body { height:100%; }
   body {
-    background: #F4F6F8;
+    background: #FFFFFF;
     font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Roboto, sans-serif;
     display:flex; align-items:center; justify-content:center;
     overflow:hidden;
@@ -1784,7 +1783,7 @@
   * { margin:0; padding:0; box-sizing:border-box; }
   html,body { height:100%; }
   body {
-    background: #F4F6F8;
+    background: #FFFFFF;
     font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Roboto, sans-serif;
     display:flex; align-items:center; justify-content:center;
     overflow:hidden;
@@ -2202,13 +2201,7 @@
   </div>
 </section>
 
-<section style="padding-top: 0; padding-bottom: 8px;">
-  <div class="container" style="text-align: center;">
-    <div style="font-size: 14px; color: #47546B;">Not ready yet? <a href="#" style="color: #1D4E89; font-weight: 650;">Get a free report showing where you rank on Google in your city.</a></div>
-  </div>
-</section>
-
-<section id="faq" style="padding-top: 24px;">
+<section id="faq">
   <div class="container">
     <div class="eyebrow">Questions</div>
     <h2 class="sec">Straight answers.</h2>
@@ -2315,7 +2308,8 @@
     });
   }
   fitClips();
-  window.addEventListener('resize', fitClips);
+  let _fcW = window.innerWidth;
+  window.addEventListener('resize', function(){ if (window.innerWidth !== _fcW) { _fcW = window.innerWidth; fitClips(); } });
   setTimeout(fitClips, 400);
 </script>
 <script>
