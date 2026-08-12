@@ -35,12 +35,13 @@
   .nav-ghost { color: #FFFFFF !important; border: 1px solid #2C3E5E; padding: 8px 14px; border-radius: 6px; }
   .nav-solid { color: #fff !important; background: #0E8A5F; padding: 9px 14px; border-radius: 6px; font-weight: 600; }
 
-  .hero { display: flex; gap: 56px; align-items: center; padding: 72px 0 56px; }
+  .hero { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 64px 0 48px; }
   .hero > div { max-width: 680px; }
-  .hero h1 { font-size: 50px; line-height: 1.04; margin: 16px 0 18px; max-width: 680px; }
+  .hero h1 { font-size: 50px; line-height: 1.04; margin: 0 auto 18px; max-width: 680px; }
   .priceline { font-stretch: 118%; font-weight: 750; font-size: 18px; margin-bottom: 10px; }
-  .sub { font-size: 16px; color: #47546B; line-height: 1.6; margin-bottom: 26px; max-width: 520px; }
+  .sub { font-size: 16px; color: #47546B; line-height: 1.6; margin: 0 auto 26px; max-width: 520px; }
   .cta-row { display: flex; gap: 12px; flex-wrap: wrap; }
+  .hero .cta-row { justify-content: center; }
   .trustline { font-size: 13.5px; color: #47546B; line-height: 1.5; margin-top: 16px; }
   .phone { background: #10203A; border-radius: 32px; padding: 14px 12px 22px; width: 280px; flex-shrink: 0; box-shadow: 24px 32px 60px rgba(17,26,34,0.22); transform: rotate(2deg); }
   .statusbar { display: flex; justify-content: space-between; color: #8A9BB8; font-size: 10px; padding: 2px 10px 8px; }
@@ -73,7 +74,7 @@
   .demo-status.ok { color: #0B4A34; font-weight: 600; }
   .demo-status.err { color: #B0432B; }
 
-  section.dark { background: #10203A; color: #FFFFFF; }
+  section.dark { background: #16294A; color: #FFFFFF; }
   section.dark .eyebrow { color: #35B37E; }
   section.dark .sec-sub { color: #A9B6CC; }
   .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 16px; }
@@ -106,7 +107,7 @@
   .feature .clipwrap { padding: 0; overflow: hidden; position: relative; background: #FFFFFF; }
   .shotcol { flex: 1.3; display: flex; flex-direction: column; align-items: stretch; }
   .shotcol .shot { flex: none; width: 100%; }
-  .mockup-cap { text-align: center; font-size: 15px; color: #47546B; line-height: 1.5; margin-top: 14px; font-stretch: 105%; font-weight: 500; min-height: 45px; }
+  .mockup-cap { text-align: center; font-size: 15px; color: #47546B; line-height: 1.5; margin-top: 6px; font-stretch: 105%; font-weight: 500; min-height: 45px; }
   @media (max-width: 379px) { .mockup-cap { min-height: 68px; } }
   .mockup-cap b { color: #10203A; font-weight: 700; }
   .clipframe { border: none; position: absolute; top: 50%; left: 50%; transform-origin: center center; pointer-events: none; will-change: transform; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
@@ -269,7 +270,6 @@
 <div class="container">
   <div class="hero">
     <div>
-      <div class="eyebrow">For contractors and service businesses that can't catch every call</div>
       <h1 class="wide">The company that <span class="hl">connects first</span> wins the job. We make sure that's always you.</h1>
       <div class="priceline">$297/mo. No contract. 30 days risk-free.</div>
       <div class="sub">Watch the 6-minute video, try the system on your own phone, then start today or book a call. You're live in about 7 days.</div>
@@ -366,7 +366,7 @@
             <div><b>Your reviews up front</b><span>Your best reviews are displayed where visitors see them before they scroll.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="980"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="980" data-mw="560" data-mh="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -383,6 +383,10 @@
   }
 
   .stage { position:relative; width:1120px; height:980px; }
+  html.mobile .stage { width:560px; height:640px; }
+  html.mobile .macbook { top:200px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
+  html.mobile .iphone { top:8px; width:300px; height:614px; transform:translateX(-50%) scale(1); }
+  html.mobile .cursor { width:14px; height:14px; }
 
   /* ============ MACBOOK ============ */
   .macbook { position:absolute; left:50%; top:150px; width:1040px; transform:translateX(-50%);
@@ -392,7 +396,7 @@
     background: linear-gradient(180deg,#26272A 0%, #131417 30%, #0B0C0E 100%);
     border-radius:22px 22px 0 0; padding:16px 16px 22px;
     border:1px solid #55575C; border-bottom:none;
-    box-shadow: inset 0 1px 0 rgba(255,255,255,0.18), 0 30px 50px rgba(20,30,45,0.18); }
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.18); }
   .mb-cam { position:absolute; top:6px; left:50%; transform:translateX(-50%);
     width:5px; height:5px; border-radius:50%;
     background: radial-gradient(circle at 35% 35%, #3A4A5E, #0A0C10 70%); z-index:5; }
@@ -425,7 +429,7 @@
   .stage.sceneB .iphone { opacity:1; }
   .ip-body { position:absolute; inset:0; border-radius:44px;
     background: linear-gradient(145deg,#E8E9EB 0%, #B8BABF 18%, #7E8188 50%, #A9ABB0 82%, #DEDFE1 100%);
-    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
+    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7); }
   .ip-inner { position:absolute; inset:3px; border-radius:41px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
   .ip-screen { position:absolute; inset:12px; border-radius:33px; background:#fff; overflow:hidden; transform:translateZ(0); }
@@ -902,7 +906,7 @@
             <div><b>Beats the next company on the list</b><span>Callers who don't get an answer just dial the next business on Google. This stops that.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="690"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -918,13 +922,13 @@
     overflow:hidden;
   }
 
-  .stage { position:relative; width:560px; height:690px; display:flex; align-items:flex-start; justify-content:center; padding-top:8px; }
+  .stage { position:relative; width:560px; height:640px; display:flex; align-items:flex-start; justify-content:center; padding-top:8px; }
 
   /* ============ IPHONE ============ */
   .iphone { position:relative; width:300px; height:614px; }
   .ip-body { position:absolute; inset:0; border-radius:48px;
     background: linear-gradient(145deg,#E8E9EB 0%, #B8BABF 18%, #7E8188 50%, #A9ABB0 82%, #DEDFE1 100%);
-    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
+    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7); }
   .ip-inner { position:absolute; inset:3px; border-radius:45px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
   .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; transform:translateZ(0); }
@@ -1224,7 +1228,7 @@
             <div><b>Reviews are rankings</b><span>A steady flow of five-star reviews is one of the most reliable ways for a local business to move up on Google.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="690"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -1240,7 +1244,7 @@
     overflow:hidden;
   }
 
-  .stage { position:relative; width:560px; height:690px; display:flex; align-items:flex-start; justify-content:center; padding-top:8px; }
+  .stage { position:relative; width:560px; height:640px; display:flex; align-items:flex-start; justify-content:center; padding-top:8px; }
 
   .povlabel { display:none !important; position:absolute; bottom:0; left:50%; transform:translateX(-50%);
     color:#46505C; font-size:15px; font-weight:500;
@@ -1252,7 +1256,7 @@
   .iphone { position:relative; width:300px; height:614px; }
   .ip-body { position:absolute; inset:0; border-radius:48px;
     background: linear-gradient(145deg,#E8E9EB 0%, #B8BABF 18%, #7E8188 50%, #A9ABB0 82%, #DEDFE1 100%);
-    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
+    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7); }
   .ip-inner { position:absolute; inset:3px; border-radius:45px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
   .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; transform:translateZ(0); }
@@ -1770,7 +1774,7 @@
             <div><b>Zero upkeep from you</b><span>You approve it once. After that we monitor it, keep it running, and adjust the campaigns as the seasons change, so you never touch a thing.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="690"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -1786,7 +1790,7 @@
     overflow:hidden;
   }
 
-  .stage { position:relative; width:560px; height:690px; display:flex; align-items:flex-start; justify-content:center; padding-top:8px; }
+  .stage { position:relative; width:560px; height:640px; display:flex; align-items:flex-start; justify-content:center; padding-top:8px; }
 
   .povlabel { display:none !important; position:absolute; bottom:0; left:50%; transform:translateX(-50%);
     color:#46505C; font-size:15px; font-weight:500;
@@ -1798,7 +1802,7 @@
   .iphone { position:relative; width:300px; height:614px; }
   .ip-body { position:absolute; inset:0; border-radius:48px;
     background: linear-gradient(145deg,#E8E9EB 0%, #B8BABF 18%, #7E8188 50%, #A9ABB0 82%, #DEDFE1 100%);
-    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7), 0 24px 40px rgba(15,22,35,0.28); }
+    box-shadow:0 0 0 1px rgba(60,64,72,0.55), inset 0 0 3px rgba(255,255,255,0.7); }
   .ip-inner { position:absolute; inset:3px; border-radius:45px; background:#060607;
     box-shadow: inset 0 0 2px 1.5px rgba(255,255,255,0.09); }
   .ip-screen { position:absolute; inset:13px; border-radius:36px; background:#fff; overflow:hidden; transform:translateZ(0); }
@@ -2291,14 +2295,25 @@
 
 <script>
   function fitClips() {
+    var mobile = window.innerWidth <= 860;
+    var wideScale = null;
     document.querySelectorAll('.clipwrap').forEach(function(wrap) {
       var w = parseInt(wrap.dataset.w), h = parseInt(wrap.dataset.h);
+      if (mobile && wrap.dataset.mw) { w = parseInt(wrap.dataset.mw); h = parseInt(wrap.dataset.mh); }
       var isWide = w > h;
       var cw = wrap.clientWidth;
-      var scale = isWide ? Math.min(cw / w, 900 / h) : Math.min(560 / h, cw / 380);
+      var scale;
+      if (isWide) {
+        scale = Math.min(cw / w, 900 / h);
+        wideScale = scale;
+      } else {
+        var target = (!mobile && wideScale) ? (482 * wideScale) / 300 : (560 / h);
+        scale = Math.min(target, 560 / h, cw / 380);
+      }
       wrap.style.height = Math.round(h * scale) + 'px';
       wrap.style.minHeight = '0';
       var f = wrap.querySelector('.clipframe');
+      try { if (wrap.dataset.mw && f.contentDocument && f.contentDocument.documentElement) f.contentDocument.documentElement.classList.toggle('mobile', mobile); } catch(e) {}
       f.style.width = w + 'px';
       f.style.height = h + 'px';
       f.style.transform = 'translate(-50%, -50%) scale(' + scale + ')';
@@ -2308,6 +2323,7 @@
   let _fcW = window.innerWidth;
   window.addEventListener('resize', function(){ if (window.innerWidth !== _fcW) { _fcW = window.innerWidth; fitClips(); } });
   setTimeout(fitClips, 400);
+  setTimeout(fitClips, 1200);
 </script>
 <script>
 (function(){
