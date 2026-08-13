@@ -2351,6 +2351,14 @@
   }
 
 
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+  window.addEventListener('load', function() {
+    if (location.hash) history.replaceState(null, '', location.pathname + location.search);
+    document.documentElement.style.scrollBehavior = 'auto';
+    window.scrollTo(0, 0);
+    document.documentElement.style.scrollBehavior = '';
+  });
+
   var hambBtn = document.getElementById('hambBtn');
   var mnav = document.getElementById('mnav');
   var mnavBackdrop = document.getElementById('mnavBackdrop');
