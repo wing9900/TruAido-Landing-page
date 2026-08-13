@@ -185,9 +185,17 @@
   .why h4 { font-stretch: 114%; font-weight: 730; font-size: 16px; margin-bottom: 6px; }
   .why p { font-size: 13px; color: #47546B; line-height: 1.55; }
   .why .k { font-stretch: 120%; font-weight: 800; font-size: 22px; color: #0E8A5F; margin-bottom: 8px; }
-  .builder { display: flex; gap: 20px; align-items: center; background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 20px 24px; }
-  .builder .port { flex: 1; height: 76px; background: #F0F1F2; border: 1px solid #E5E6E8; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 11.5px; color: #8792A3; }
-  .builder p { flex: 1.6; font-size: 14.5px; line-height: 1.6; }
+  .trust-row { display: grid; grid-template-columns: 1.5fr 1fr; gap: 16px; align-items: stretch; }
+  .fnote, .verify { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 26px 28px; }
+  .fnote .fn-lbl, .verify h4 { font-size: 11px; color: #8792A3; letter-spacing: 0.07em; text-transform: uppercase; font-weight: 700; margin-bottom: 12px; }
+  .fnote p { font-size: 14.5px; line-height: 1.65; color: #10203A; }
+  .fnote p + p { margin-top: 12px; }
+  .fnote .sig { margin-top: 16px; font-family: 'Caveat', cursive; font-size: 27px; color: #10203A; line-height: 1; }
+  .verify ul { list-style: none; }
+  .verify li { position: relative; padding-left: 24px; font-size: 13px; color: #47546B; line-height: 1.55; }
+  .verify li + li { margin-top: 13px; }
+  .verify li::before { content: '\2713'; position: absolute; left: 0; top: 0; color: #0E8A5F; font-weight: 800; }
+  .verify li b { display: block; color: #10203A; font-weight: 700; font-size: 13.5px; margin-bottom: 2px; }
 
   .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
   .step { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 26px; position: relative; overflow: hidden; }
@@ -234,7 +242,8 @@
     .feature, .feature:nth-child(even) { flex-direction: column; }
     .fnum { font-size: 54px; top: -26px; }
     .subs { grid-template-columns: 1fr; }
-    .offer-row, .builder { flex-direction: column; }
+    .offer-row { flex-direction: column; }
+    .trust-row { grid-template-columns: 1fr; }
     .demo-row { flex-direction: column; max-width: none; }
     .demo-row .btn-solid { width: 100%; text-align: center; }
     .video-frame { height: 220px; }
@@ -2254,9 +2263,23 @@
       <div class="why"><div class="k">$297</div><h4>The price is on the page</h4><p>No quote games, no surprise invoices, no contract holding you hostage. What you see is what it costs.</p></div>
       <div class="why"><div class="k">Week 1</div><h4>Working in week one</h4><p>Your past customer campaign goes out before your website is even finished. The system starts working in days, not months.</p></div>
     </div>
-    <div class="builder">
-      <p>TruAido is built and run by Bob. No call center, no ticket queue, no account manager reading from a script: a small team that knows your account, and the buck stops with the name on the guarantee. And you don't have to take our word for how the work looks: explore a live build yourself.</p>
-      <div class="port">explore a live demo build: click around a real working site (swaps to client portfolio once permitted)</div>
+    <div class="trust-row">
+      <div class="fnote">
+        <div class="fn-lbl">A note from the founder</div>
+        <p>Every feature on this page exists because good contractors lose jobs they never even know about. The customer calls while you're on a roof or under a sink, nobody answers, and the next company on the list gets the work. That's a solvable problem, and solving it is this entire business.</p>
+        <p>TruAido is small on purpose. No call center, no ticket queue, no account manager reading from a script. I know every account by name, and the guarantee next to the price is mine personally: if the system hasn't paid for itself by day 90, you stop paying until it has.</p>
+        <div class="sig">Bob</div>
+        <div class="sig-role">Founder, TruAido</div>
+      </div>
+      <div class="verify">
+        <h4>Don't take my word for it</h4>
+        <ul>
+          <li><b>Text the demo.</b>The demo on this page texts your actual phone in seconds. That's the same speed your customers get.</li>
+          <li><b>Watch the lead log.</b>Every lead is logged where you and we both see it, so the guarantee is measured in real numbers, not our word.</li>
+          <li><b>Keep the exit open.</b>Month to month, cancel anytime. We have to re-earn the $297 every single month.</li>
+          <li><b>Your name on the assets.</b>Your domain and your customer list stay registered to you, client or not.</li>
+        </ul>
+      </div>
     </div>
   </div>
 </section>
