@@ -1711,19 +1711,19 @@
 
     // tap 5th star, cascade fill
     const fstars = document.querySelectorAll('#funstars .fst');
-    at(8600, () => tapAt(fstars[4]));
+    at(9600, () => tapAt(fstars[4]));
     fstars.forEach((s, i) => {
-      at(8750 + i*110, () => s.classList.add('on','pop'));
+      at(9750 + i*110, () => s.classList.add('on','pop'));
     });
 
     // forward to Google composer, stars prefilled
-    at(10100, () => {
+    at(11100, () => {
       $('funscr').classList.remove('on'); $('revscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
     const stars = document.querySelectorAll('#revstars .st');
     stars.forEach((s, i) => {
-      at(10500 + i*90, () => s.classList.add('on','pop'));
+      at(11500 + i*90, () => s.classList.add('on','pop'));
     });
     at(9600, () => {
       $('povlabel').classList.remove('swap');
@@ -1733,12 +1733,12 @@
     // review types
     const step = 34;
     for (let i = 1; i <= REVIEW.length; i++) {
-      at(11600 + i*step, () => {
+      at(12600 + i*step, () => {
         $('revph').style.display='none';
         $('revtext').textContent = REVIEW.slice(0, i);
       });
     }
-    const typeEnd = 11600 + REVIEW.length*step;
+    const typeEnd = 12600 + REVIEW.length*step;
 
     // post
     at(typeEnd + 600, () => tapAt($('postbtn')));
