@@ -36,15 +36,15 @@
   .hamb.open span:nth-child(2) { opacity: 0; }
   .hamb.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
   .mnav-backdrop { display: none; position: fixed; inset: 0; background: rgba(8,14,26,0.55); z-index: 90; opacity: 0; transition: opacity 0.25s ease; pointer-events: none; }
-  .mnav { display: none; position: fixed; top: 10px; right: 10px; width: min(340px, calc(100vw - 20px)); background: #FFFFFF; border-radius: 22px; box-shadow: 0 24px 60px rgba(10,21,38,0.35); padding: 58px 26px 24px; z-index: 100; opacity: 0; transform: translateY(-8px) scale(0.98); transform-origin: top right; transition: opacity 0.22s ease, transform 0.22s ease; pointer-events: none; }
+  .mnav { display: none; position: fixed; top: 10px; right: 10px; width: min(340px, calc(100vw - 20px)); background: #10203A; border: 1px solid #2C3E5E; border-radius: 22px; box-shadow: 0 24px 60px rgba(10,21,38,0.35); padding: 58px 26px 24px; z-index: 100; opacity: 0; transform: translateY(-8px) scale(0.98); transform-origin: top right; transition: opacity 0.22s ease, transform 0.22s ease; pointer-events: none; }
   @media (max-width: 860px) { .mnav, .mnav-backdrop { display: block; } }
   .mnav.open { opacity: 1; transform: none; pointer-events: auto; }
   .mnav-backdrop.open { opacity: 1; pointer-events: auto; }
   .mnav-close { position: absolute; top: 18px; right: 20px; background: none; border: 0; padding: 6px; cursor: pointer; line-height: 0; }
   .mnav-close svg { display: block; }
-  .mnav > a { display: block; text-align: left; padding: 13px 0; color: #10203A; font-size: 19px; font-weight: 650; font-stretch: 105%; text-decoration: none; }
-  .mnav > a:hover, .mnav > a:active { color: #0E8A5F; }
-  .mnav-div { border-top: 1px solid #E5E6E8; margin: 12px 0 18px; }
+  .mnav > a { display: block; text-align: left; padding: 13px 0; color: #E9EEF6; font-size: 19px; font-weight: 650; font-stretch: 105%; text-decoration: none; }
+  .mnav > a:hover, .mnav > a:active { color: #35B37E; }
+  .mnav-div { border-top: 1px solid rgba(255,255,255,0.14); margin: 12px 0 18px; }
   .mnav-cta { display: flex; flex-direction: column; gap: 10px; }
   .nav-ctas a { color: #A9B6CC; font-size: 13.5px; text-decoration: none; }
   @media (max-width: 1120px) { nav.links-center { position: static; transform: none; } }
@@ -286,13 +286,13 @@
     <button class="hamb" id="hambBtn" aria-label="Menu"><span></span><span></span><span></span></button>
     <div class="mnav-backdrop" id="mnavBackdrop"></div>
     <div class="mnav" id="mnav">
-      <button class="mnav-close" id="mnavClose" aria-label="Close menu"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#10203A" stroke-width="2.2" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button>
+      <button class="mnav-close" id="mnavClose" aria-label="Close menu"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button>
       <a href="#how">How it works</a>
       <a href="#industries">Industries</a>
       <a href="#offer">Pricing</a>
       <a href="#faq">FAQ</a>
       <div class="mnav-div"></div>
-      <div class="mnav-cta"><a href="#" class="btn-ghost" style="text-align:center;">Book a call</a><a href="#offer" class="btn-solid" style="text-align:center;">Start today, $297/mo</a></div>
+      <div class="mnav-cta"><a href="#" class="btn-ghost" style="text-align:center; border-color:#2C3E5E; color:#FFFFFF;">Book a call</a><a href="#offer" class="btn-solid" style="text-align:center;">Start today, $297/mo</a></div>
     </div>
     <div class="nav-ctas">
       <a href="#" class="nav-ghost">Book a call</a>
