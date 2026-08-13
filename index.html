@@ -391,7 +391,7 @@
 
   .stage { position:relative; width:1120px; height:950px; }
   html.mobile .stage { width:560px; height:640px; }
-  html.mobile .macbook { top:200px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
+  html.mobile .macbook { top:348px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
   html.mobile .iphone { top:8px; width:300px; height:614px; transform:translateX(-50%) scale(1); }
   html.mobile .cursor { width:14px; height:14px; }
   html.mobile .iphone::before { content:&quot;&quot;; position:absolute; left:4%; right:4%; bottom:-13px; height:26px; border-radius:50%; background:radial-gradient(ellipse at center, rgba(15,22,35,0.30), rgba(15,22,35,0) 68%); }
@@ -416,6 +416,10 @@
     width:150px; height:10px; background:linear-gradient(180deg,#9EA0A4,#C9CACD); border-radius:0 0 12px 12px; }
   .mb-base::after { content:&quot;&quot;; position:absolute; left:3%; right:3%; bottom:-6px; height:10px; border-radius:50%;
     background: radial-gradient(ellipse at center, rgba(15,20,30,0.28), rgba(15,20,30,0) 70%); z-index:-1; }
+  .mb-base .ft { position:absolute; bottom:-4px; width:38px; height:5px; border-radius:0 0 4px 4px;
+    background:linear-gradient(180deg,#7A7D82,#45474B); }
+  .mb-base .ftl { left:64px; }
+  .mb-base .ftr { right:64px; }
 
   /* site iframe scaled into screen */
   #siteFrame {
@@ -737,7 +741,7 @@
 &quot;></iframe>
       </div>
     </div>
-    <div class=&quot;mb-base&quot;></div>
+    <div class=&quot;mb-base&quot;><i class=&quot;ft ftl&quot;></i><i class=&quot;ft ftr&quot;></i></div>
   </div>
 
   <svg class=&quot;cursor&quot; id=&quot;cursor&quot; viewBox=&quot;0 0 24 24&quot;>
