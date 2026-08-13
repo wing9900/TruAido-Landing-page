@@ -2139,11 +2139,11 @@
     at(9400, () => { $('povtext').textContent = 'A referral offer turns one customer into two.'; });
 
     // cut to Mike's inbox
-    at(14400, () => {
+    at(15400, () => {
       $('msgscr').classList.add('off'); $('inbscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
-    at(14900, () => {
+    at(15900, () => {
       $('povlabel').classList.remove('swap');
       $('povtext').textContent = &quot;You're notified in the app as the replies start rolling in.&quot;;
       $('leadbadge').classList.add('show');
@@ -2151,11 +2151,11 @@
 
     // replies pour in
     REPLIES.forEach((r, i) => {
-      at(15600 + i*1350, () => addReply(r, i+1));
+      at(16600 + i*1350, () => addReply(r, i+1));
     });
 
     // hold, fade, loop
-    const total = 15600 + REPLIES.length*1350 + 3800;
+    const total = 16600 + REPLIES.length*1350 + 3800;
     at(total, () => stage.classList.add('resetting'));
     at(total + 600, () => {
       stage.classList.remove('resetting');
