@@ -105,7 +105,7 @@
   .stat { background: #2B4269; border: 1px solid #3D5A8A; border-radius: 10px; padding: 22px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.30); }
   .stat .num { font-stretch: 120%; font-weight: 800; font-size: 34px; color: #35B37E; font-variant-numeric: tabular-nums; }
   .stat .lbl { font-size: 14px; color: #C4D0E4; margin-top: 6px; line-height: 1.5; }
-  .calc { background: #fff; color: #10203A; border-radius: 12px; padding: 28px; box-shadow: 0 8px 40px rgba(0,0,0,0.25); }
+  .calc { background: #fff; color: #10203A; border-radius: 12px; padding: 28px; box-shadow: 0 8px 40px rgba(0,0,0,0.25); scroll-margin-top: 92px; }
   .calc h3 { font-stretch: 118%; font-weight: 750; font-size: 20px; margin-bottom: 16px; }
   .calc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 20px; }
   .calc label { display: block; font-size: 12.5px; color: #47546B; margin-bottom: 6px; font-weight: 600; }
@@ -363,7 +363,7 @@
       <div class="stat"><div class="num">1st</div><div class="lbl">the first company to respond is usually the one that gets hired</div></div>
       <div class="stat"><div class="num">2+</div><div class="lbl">calls missed in a typical week when your hands are full. Each one is a job at risk</div></div>
     </div>
-    <div class="calc">
+    <div class="calc" id="calculator">
       <h3>Run your own numbers</h3>
       <div class="calc-grid">
         <div><label>Your trade</label>
@@ -373,6 +373,7 @@
             <option value="3500">Electrical</option>
             <option value="12000">HVAC</option>
             <option value="15000">Roofing</option>
+            <option value="5000">Paving</option>
             <option value="3000">Other service trade</option>
           </select>
         </div>
@@ -2190,12 +2191,12 @@
     <h2 class="sec">One system. Every service trade.</h2>
     <div class="sec-sub">No matter the trade, jobs come the same way: a customer searches, reaches out, and hires whoever responds first. Our system wins that race for you.</div>
     <div class="grid5">
-      <a href="#" class="tile"><div class="ph">photo: climber at work</div>Tree service</a>
-      <a href="#" class="tile"><div class="ph">photo: plumber on job</div>Plumbing</a>
-      <a href="#" class="tile"><div class="ph">photo: electrician panel</div>Electrical</a>
-      <a href="#" class="tile"><div class="ph">photo: rooftop unit</div>HVAC</a>
-      <a href="#" class="tile"><div class="ph">photo: crew on roof</div>Roofing</a>
-      <a href="#" class="tile"><div class="ph">photo: fresh asphalt driveway</div>Paving</a>
+      <a href="#calculator" class="tile" data-trade="Tree service"><div class="ph">photo: climber at work</div>Tree service</a>
+      <a href="#calculator" class="tile" data-trade="Plumbing"><div class="ph">photo: plumber on job</div>Plumbing</a>
+      <a href="#calculator" class="tile" data-trade="Electrical"><div class="ph">photo: electrician panel</div>Electrical</a>
+      <a href="#calculator" class="tile" data-trade="HVAC"><div class="ph">photo: rooftop unit</div>HVAC</a>
+      <a href="#calculator" class="tile" data-trade="Roofing"><div class="ph">photo: crew on roof</div>Roofing</a>
+      <a href="#calculator" class="tile" data-trade="Paving"><div class="ph">photo: fresh asphalt driveway</div>Paving</a>
     </div>
     <div class="breadth">Also serving landscaping, fencing, concrete, garage doors, painters, pressure washing, pest control, auto repair, and most other service trades. Don't see your trade? The system works the same. Start today or bring your questions to a call.</div>
   </div>
@@ -2335,6 +2336,19 @@
     calc();
   }
   calc();
+
+  document.querySelectorAll('.tile[data-trade]').forEach(function(t) {
+    t.addEventListener('click', function(e) {
+      e.preventDefault();
+      var sel = document.getElementById('trade');
+      var name = t.getAttribute('data-trade');
+      for (var i = 0; i < sel.options.length; i++) {
+        if (sel.options[i].textContent.trim() === name) { sel.selectedIndex = i; break; }
+      }
+      presetTrade();
+      document.getElementById('calculator').scrollIntoView();
+    });
+  });
 
   const dInput = document.getElementById('demoPhone');
   dInput.addEventListener('input', function(e) {
