@@ -156,13 +156,15 @@
   .plan ul { list-style: none; }
   .plan li { font-size: 14.5px; padding: 8px 0; border-bottom: 1px solid #F0F1F2; }
   .plan li span { color: #8792A3; font-size: 12.5px; margin-left: 6px; }
-  .online-box { background: #10203A; border-radius: 8px; padding: 18px 20px; margin-top: 18px; }
-  .online-box .obl { font-stretch: 82%; font-weight: 650; letter-spacing: 0.07em; text-transform: uppercase; font-size: 11px; color: #35B37E; margin-bottom: 12px; }
-  .obi { margin-bottom: 12px; }
-  .obi:last-child { margin-bottom: 0; }
-  .obi b { display: block; color: #FFFFFF; font-size: 14px; font-stretch: 112%; font-weight: 700; margin-bottom: 2px; padding-left: 15px; text-indent: -15px; }
-  .obi b::before { content: ""; display: inline-block; width: 7px; height: 7px; background: #35B37E; border-radius: 2px; margin-right: 8px; }
-  .obi span { color: #A9B6CC; font-size: 12.5px; line-height: 1.5; display: block; padding-left: 15px; }
+  .online-box { background: #10203A; border: 1px solid rgba(53,179,126,0.35); border-radius: 10px; padding: 20px 22px; margin-top: 18px; }
+  .online-box .obl { font-stretch: 82%; font-weight: 650; letter-spacing: 0.07em; text-transform: uppercase; font-size: 11px; color: #35B37E; margin-bottom: 14px; }
+  .obi { display: flex; gap: 11px; align-items: flex-start; margin-bottom: 14px; }
+  .obi .ck { flex: 0 0 18px; height: 18px; border-radius: 50%; background: rgba(53,179,126,0.18); color: #35B37E; font-size: 11px; font-weight: 800; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+  .obi b { display: block; color: #FFFFFF; font-size: 14px; font-stretch: 112%; font-weight: 700; margin-bottom: 3px; }
+  .obi .val { display: inline-block; background: rgba(53,179,126,0.18); color: #35B37E; font-size: 10.5px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; padding: 2px 9px; border-radius: 999px; margin-left: 7px; vertical-align: 1px; }
+  .obi span.d { color: #A9B6CC; font-size: 12.5px; line-height: 1.5; display: block; }
+  .ob-note { margin-top: 4px; padding-top: 13px; border-top: 1px solid rgba(255,255,255,0.10); color: #A9B6CC; font-size: 12px; line-height: 1.55; }
+  .ob-note b { color: #FFFFFF; font-weight: 700; }
   .spots { margin-top: 16px; display: inline-block; background: #F0F1F2; color: #1D4E89; font-size: 13.5px; font-weight: 600; padding: 7px 13px; border-radius: 6px; }
   .plan .cta-row { margin-top: 20px; }
   .guarantee { flex: 1; background: #FFFFFF; border: 1px solid #E5E6E8; border-top: 4px solid #0E8A5F; border-radius: 12px; padding: 28px 30px; align-self: flex-start; position: relative; box-shadow: 0 2px 24px rgba(17,26,34,0.05); }
@@ -187,14 +189,14 @@
   .why .k { font-stretch: 120%; font-weight: 800; font-size: 22px; color: #0E8A5F; margin-bottom: 8px; }
   .trust-row { display: grid; grid-template-columns: 1.5fr 1fr; gap: 16px; align-items: stretch; }
   .fnote, .verify { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 26px 28px; }
-  .fnote .fn-lbl, .verify h4 { font-size: 11px; color: #8792A3; letter-spacing: 0.07em; text-transform: uppercase; font-weight: 700; margin-bottom: 12px; }
+  .fnote .fn-lbl, .verify h4 { font-size: 11px; color: #1D4E89; letter-spacing: 0.07em; text-transform: uppercase; font-weight: 700; margin-bottom: 12px; }
   .fnote p { font-size: 14.5px; line-height: 1.65; color: #10203A; }
   .fnote p + p { margin-top: 12px; }
   .fnote .sig { margin-top: 16px; font-family: 'Caveat', cursive; font-size: 27px; color: #10203A; line-height: 1; }
   .verify ul { list-style: none; }
-  .verify li { position: relative; padding-left: 24px; font-size: 13px; color: #47546B; line-height: 1.55; }
+  .verify li { position: relative; padding-left: 27px; font-size: 13px; color: #47546B; line-height: 1.55; }
   .verify li + li { margin-top: 13px; }
-  .verify li::before { content: '\2713'; position: absolute; left: 0; top: 0; color: #0E8A5F; font-weight: 800; }
+  .verify li::before { content: '\2713'; position: absolute; left: 0; top: 1px; width: 17px; height: 17px; border-radius: 50%; background: #E7F5EE; color: #0E8A5F; font-size: 10.5px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
   .verify li b { display: block; color: #10203A; font-weight: 700; font-size: 13.5px; margin-bottom: 2px; }
 
   .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
@@ -2233,8 +2235,9 @@
         </ul>
         <div class="online-box">
           <div class="obl">Start online today and get</div>
-          <div class="obi"><b>Same-day build start</b><span>Your onboarding form comes straight to us, so the build begins the day you sign up.</span></div>
-          <div class="obi"><b>Google Business Profile audit + full optimization</b><span>A $300+ service, included.</span></div>
+          <div class="obi"><div class="ck">&#10003;</div><div><b>Same-day build start</b><span class="d">Your onboarding form comes straight to us, so the build begins the day you sign up.</span></div></div>
+          <div class="obi"><div class="ck">&#10003;</div><div><b>Google Business Profile audit + full optimization <span class="val">$300+ value</span></b><span class="d">A complete tune-up of the profile Google shows in map results, included free.</span></div></div>
+          <div class="ob-note">Rather talk it through first? <b>Booking a call is always fine.</b> Starting online just means your build begins today instead of after we find a time to connect.</div>
         </div>
         <div class="cta-row">
           <a href="#" class="btn-solid">Start today</a>
@@ -2266,7 +2269,7 @@
     <div class="trust-row">
       <div class="fnote">
         <div class="fn-lbl">A note from the founder</div>
-        <p>Every feature on this page exists because good contractors lose jobs they never even know about. The customer calls while you're on a roof or under a sink, nobody answers, and the next company on the list gets the work. That's a solvable problem, and solving it is this entire business.</p>
+        <p>The best crew in town loses jobs every week to a worse company that simply looks better online. They show up higher on Google, they answer faster, they have more reviews. Not better work, better systems. TruAido puts that same machinery behind your business, so the quality of your work is what actually decides who wins.</p>
         <p>TruAido is small on purpose. No call center, no ticket queue, no account manager reading from a script. I know every account by name, and the guarantee next to the price is mine personally: if the system hasn't paid for itself by day 90, you stop paying until it has.</p>
         <div class="sig">Bob</div>
         <div class="sig-role">Founder, TruAido</div>
