@@ -32,7 +32,7 @@
   .nav-ctas { display: flex; gap: 22px; align-items: center; }
   .nav-ctas a { color: #A9B6CC; font-size: 13.5px; text-decoration: none; }
   @media (max-width: 1120px) { nav.links-center { position: static; transform: none; } }
-  .logo { color: #FFFFFF; font-weight: 800; font-stretch: 120%; font-size: 19px; }
+  .logo { color: #FFFFFF; font-weight: 800; font-stretch: 120%; font-size: 19px; text-decoration: none; }
   nav.links { display: flex; gap: 22px; align-items: center; }
   nav.links a { color: #A9B6CC; font-size: 13.5px; text-decoration: none; }
   nav.links a:hover { color: #FFFFFF; }
@@ -68,10 +68,10 @@
   details.transcript summary { padding: 12px 18px; font-size: 13.5px; cursor: pointer; font-weight: 600; }
   details.transcript div { padding: 0 18px 16px; font-size: 13.5px; color: #47546B; line-height: 1.6; }
 
-  .demo { background: #EAF4EF; border: 1px solid #C6E2D4; border-radius: 12px; padding: 32px 32px 24px; }
+  .demo { background: #EAF4EF; border: 1px solid #C6E2D4; border-radius: 12px; padding: 32px 32px 24px; text-align: center; }
   .demo h3 { font-stretch: 118%; font-weight: 750; font-size: 24px; color: #0B4A34; margin-bottom: 6px; }
   .demo p { font-size: 15px; color: #3E5D50; margin-bottom: 16px; }
-  .demo-row { display: flex; gap: 10px; max-width: 480px; }
+  .demo-row { display: flex; gap: 10px; max-width: 480px; margin: 0 auto; }
   .demo input { flex: 1; background: #fff; border: 1px solid #C6E2D4; border-radius: 6px; padding: 13px 15px; font-size: 15px; font-family: inherit; outline: none; }
   .demo input:focus { border-color: #0E8A5F; }
   .micro { font-size: 11.5px; color: #6E857A; margin-top: 10px; }
@@ -260,7 +260,7 @@
 
 <header class="top">
   <div class="nav">
-    <span class="logo">TruAido</span>
+    <a href="#" class="logo">TruAido</a>
     <nav class="links links-center">
       <a href="#how">How it works</a>
       <a href="#industries">Industries</a>
@@ -373,7 +373,7 @@
             <div><b>Your reviews up front</b><span>Your best reviews are displayed where visitors see them before they scroll.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="980" data-mw="560" data-mh="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="950" data-mw="560" data-mh="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -389,7 +389,7 @@
     overflow:hidden;
   }
 
-  .stage { position:relative; width:1120px; height:980px; }
+  .stage { position:relative; width:1120px; height:950px; }
   html.mobile .stage { width:560px; height:640px; }
   html.mobile .macbook { top:200px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
   html.mobile .iphone { top:8px; width:300px; height:614px; transform:translateX(-50%) scale(1); }
@@ -397,7 +397,7 @@
   html.mobile .iphone::before { content:&quot;&quot;; position:absolute; left:4%; right:4%; bottom:-13px; height:26px; border-radius:50%; background:radial-gradient(ellipse at center, rgba(15,22,35,0.30), rgba(15,22,35,0) 68%); }
 
   /* ============ MACBOOK ============ */
-  .macbook { position:absolute; left:50%; top:150px; width:1040px; transform:translateX(-50%);
+  .macbook { position:absolute; left:50%; top:240px; width:1040px; transform:translateX(-50%);
     transition:opacity .6s ease; }
   .stage.sceneB .macbook { opacity:0; pointer-events:none; }
   .mb-lid { position:relative;
@@ -409,11 +409,11 @@
     width:5px; height:5px; border-radius:50%;
     background: radial-gradient(circle at 35% 35%, #3A4A5E, #0A0C10 70%); z-index:5; }
   .mb-screen { position:relative; background:#fff; border-radius:6px; overflow:hidden; height:604px; transform:translateZ(0); }
-  .mb-base { position:relative; height:16px;
+  .mb-base { position:relative; height:22px; margin:0 -26px;
     background: linear-gradient(180deg,#F2F3F5 0%, #D9DADD 45%, #A8AAAE 85%, #7E8084 100%);
-    border-radius:0 0 14px 14px; box-shadow:0 1px 0 rgba(255,255,255,0.6) inset; }
+    border-radius:0 0 16px 16px; box-shadow:0 1px 0 rgba(255,255,255,0.6) inset; }
   .mb-base::before { content:&quot;&quot;; position:absolute; left:50%; top:0; transform:translateX(-50%);
-    width:110px; height:8px; background:linear-gradient(180deg,#9EA0A4,#C9CACD); border-radius:0 0 10px 10px; }
+    width:150px; height:10px; background:linear-gradient(180deg,#9EA0A4,#C9CACD); border-radius:0 0 12px 12px; }
   .mb-base::after { content:&quot;&quot;; position:absolute; left:3%; right:3%; bottom:-6px; height:10px; border-radius:50%;
     background: radial-gradient(ellipse at center, rgba(15,20,30,0.28), rgba(15,20,30,0) 70%); z-index:-1; }
 
@@ -432,7 +432,7 @@
   .stage.sceneB .cursor { opacity:0; pointer-events:none; }
 
   /* ============ IPHONE ============ */
-  .iphone { position:absolute; left:50%; top:0px; width:330px; height:672px; z-index:10; transform:translateX(-50%) scale(1.46);
+  .iphone { position:absolute; left:50%; top:0px; width:330px; height:672px; z-index:10; transform:translateX(-50%) scale(1.41);
     transform-origin:center top;
     opacity:0; transition:opacity .6s ease; }
   .stage.sceneB .iphone { opacity:1; }
@@ -856,9 +856,9 @@
   function run() {
     resetState();
 
-    at(150, () => { frame.style.transform = 'scale(1.28) translate(-293px, -180px)'; });
-    at(1250, () => moveCursorTo('input[type=text]'));
-    let e1 = typeIntoField('input[type=text]', 'Jim Smith', 16, 1800);
+    at(1300, () => { frame.style.transform = 'scale(1.28) translate(-293px, -180px)'; });
+    at(2550, () => moveCursorTo('input[type=text]'));
+    let e1 = typeIntoField('input[type=text]', 'Jim Smith', 16, 3100);
 
     at(e1+150, () => moveCursorTo('input[type=tel]'));
     let e2 = typeIntoField('input[type=tel]', '(281) 555-0187', 18, e1+450);
@@ -2154,7 +2154,7 @@
       <div class="plan">
         <div class="head">
           <span class="name">The Never-Miss-A-Job System</span>
-          <span><span class="old">$397</span> <span class="price">$297/mo</span></span>
+          <span><span class="old">$597</span> <span class="price">$297/mo</span></span>
         </div>
         <ul>
           <li>Custom website build, made to rank in your area</li>
@@ -2324,7 +2324,7 @@
         scale = Math.min(cw / w, 900 / h);
         wideScale = scale;
       } else {
-        var target = (!mobile && wideScale) ? (482 * wideScale) / 300 : (560 / h);
+        var target = (!mobile && wideScale) ? (465 * wideScale) / 300 : (560 / h);
         scale = Math.min(target, 560 / h, cw / 380);
       }
       wrap.style.height = Math.round(h * scale) + 'px';
