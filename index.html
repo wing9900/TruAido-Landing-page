@@ -373,7 +373,7 @@
             <div><b>Your reviews up front</b><span>Your best reviews are displayed where visitors see them before they scroll.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="950" data-mw="560" data-mh="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="950" data-mw="400" data-mh="330"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -390,11 +390,11 @@
   }
 
   .stage { position:relative; width:1120px; height:950px; }
-  html.mobile .stage { width:560px; height:640px; }
-  html.mobile .macbook { top:348px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
-  html.mobile .iphone { top:8px; width:300px; height:614px; transform:translateX(-50%) scale(1); }
+  html.mobile .stage { width:560px; height:330px; }
+  html.mobile .macbook { top:60px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
+  html.mobile .iphone { display:none; }
+  html.mobile .stage.sceneB .macbook { opacity:1; }
   html.mobile .cursor { width:14px; height:14px; }
-  html.mobile .iphone::before { content:&quot;&quot;; position:absolute; left:4%; right:4%; bottom:-13px; height:26px; border-radius:50%; background:radial-gradient(ellipse at center, rgba(15,22,35,0.30), rgba(15,22,35,0) 68%); }
 
   /* ============ MACBOOK ============ */
   .macbook { position:absolute; left:50%; top:240px; width:1040px; transform:translateX(-50%);
@@ -892,7 +892,7 @@
     at(p0+6100, () => { $('typingRow2').style.display='flex'; });
     at(p0+7300, () => { $('typingRow2').style.display='none'; $('msg3').classList.add('show'); });
 
-    const total = p0 + 10600;
+    const total = p0 + (document.documentElement.classList.contains('mobile') ? 4200 : 10600);
     at(total, () => stage.classList.add('resetting'));
     at(total+600, () => {
       stage.classList.remove('resetting');
