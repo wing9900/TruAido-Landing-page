@@ -2017,7 +2017,7 @@
             <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
           </div>
           <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg1&quot;>
-            <div class=&quot;bubble in&quot;>Hey Susan, it's Mike. We trimmed your oaks last winter. Our spring prep route hits your neighborhood next week, and past customers get 15% off. Want me to save you a spot?</div>
+            <div class=&quot;bubble in&quot;>Hey Susan, it's Mike. We trimmed your oaks last winter. Our spring prep route hits your neighborhood next week, and past customers get 10% off. Want me to save you a spot?</div>
           </div>
           <div class=&quot;brow out msg-anim out-anim&quot; id=&quot;msg2&quot; style=&quot;margin-top:7px;&quot;>
             <div class=&quot;bubble out&quot;>Yes, perfect timing. We have some trees we need taken care of as soon as possible.</div>
@@ -2027,7 +2027,7 @@
             <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
           </div>
           <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg3&quot; style=&quot;margin-top:7px;&quot;>
-            <div class=&quot;bubble in&quot;>You got it, Susan. And if a neighbor needs tree work too, send them my way and you'll both get $50 off.</div>
+            <div class=&quot;bubble in&quot;>You got it, Susan. And if a neighbor needs tree work too, send them my way and you'll each get $100 off.</div>
           </div>
         </div>
         <div class=&quot;ios-inputbar&quot;>
@@ -2139,11 +2139,11 @@
     at(9400, () => { $('povtext').textContent = 'A referral offer turns one customer into two.'; });
 
     // cut to Mike's inbox
-    at(13400, () => {
+    at(14400, () => {
       $('msgscr').classList.add('off'); $('inbscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
-    at(13900, () => {
+    at(14900, () => {
       $('povlabel').classList.remove('swap');
       $('povtext').textContent = &quot;You're notified in the app as the replies start rolling in.&quot;;
       $('leadbadge').classList.add('show');
@@ -2151,11 +2151,11 @@
 
     // replies pour in
     REPLIES.forEach((r, i) => {
-      at(14600 + i*1350, () => addReply(r, i+1));
+      at(15600 + i*1350, () => addReply(r, i+1));
     });
 
     // hold, fade, loop
-    const total = 14600 + REPLIES.length*1350 + 3800;
+    const total = 15600 + REPLIES.length*1350 + 3800;
     at(total, () => stage.classList.add('resetting'));
     at(total + 600, () => {
       stage.classList.remove('resetting');
