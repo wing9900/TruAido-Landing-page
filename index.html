@@ -373,7 +373,7 @@
             <div><b>Your reviews up front</b><span>Your best reviews are displayed where visitors see them before they scroll.</span></div>
           </div>
         </div>
-        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="950" data-mw="400" data-mh="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
+        <div class="shotcol"><div class="shot clipwrap" data-w="1120" data-h="950" data-mw="400" data-mh="920"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
 <html lang=&quot;en&quot;>
 <head>
 <meta charset=&quot;UTF-8&quot;>
@@ -390,9 +390,10 @@
   }
 
   .stage { position:relative; width:1120px; height:950px; }
-  html.mobile .stage { width:560px; height:640px; }
-  html.mobile .macbook { top:210px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
-  html.mobile .iphone { top:8px; width:300px; height:614px; transform:translateX(-50%); zoom:1; }
+  html.mobile .stage { width:560px; height:920px; }
+  html.mobile .macbook { top:6px; transform:translateX(-50%) scale(0.36); transform-origin:top center; }
+  html.mobile .iphone { top:290px; width:300px; height:614px; transform:translateX(-50%); zoom:1; opacity:1; transition:none; }
+  html.mobile .stage.sceneB .macbook { opacity:1; }
   html.mobile .cursor { width:14px; height:14px; }
   html.mobile .iphone::before { content:&quot;&quot;; position:absolute; left:4%; right:4%; bottom:-13px; height:26px; border-radius:50%; background:radial-gradient(ellipse at center, rgba(15,22,35,0.30), rgba(15,22,35,0) 68%); }
 
@@ -2328,8 +2329,9 @@
         scale = Math.min(cw / w, 900 / h);
         wideScale = scale;
       } else {
-        var target = (!mobile && wideScale) ? (465 * wideScale) / 300 : (560 / h);
-        scale = Math.min(target, 560 / h, cw / 380);
+        var maxS = mobile ? 0.875 : 560 / h;
+        var target = (!mobile && wideScale) ? (465 * wideScale) / 300 : maxS;
+        scale = Math.min(target, maxS, cw / 380);
       }
       wrap.style.height = Math.round(h * scale) + 'px';
       wrap.style.minHeight = '0';
