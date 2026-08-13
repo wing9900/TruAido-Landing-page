@@ -2023,6 +2023,12 @@
             <div class=&quot;bubble out&quot;>Yes, perfect timing. We have some trees we need taken care of as soon as possible.</div>
           </div>
           <div class=&quot;delivered fade-el&quot; id=&quot;dlv&quot;>Delivered</div>
+          <div class=&quot;brow in&quot; id=&quot;typingRow2&quot; style=&quot;display:none; margin-top:7px;&quot;>
+            <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
+          </div>
+          <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg3&quot; style=&quot;margin-top:7px;&quot;>
+            <div class=&quot;bubble in&quot;>You got it, Susan. And if a neighbor needs tree work too, send them my way and you'll both get $50 off.</div>
+          </div>
         </div>
         <div class=&quot;ios-inputbar&quot;>
           <div class=&quot;ios-plus&quot;><svg width=&quot;12&quot; height=&quot;12&quot; viewBox=&quot;0 0 11 11&quot;><path d=&quot;M5.5 0.5 V10.5 M0.5 5.5 H10.5&quot; stroke=&quot;#7C7C82&quot; stroke-width=&quot;1.7&quot; stroke-linecap=&quot;round&quot;/></svg></div>
@@ -2086,7 +2092,7 @@
 
   const REPLIES = [
     { init:'SM', color:'#7E57C2', name:'Susan Mitchell', tm:'10:03 AM', snip:&quot;Yes, perfect timing. We have some trees we need taken care of as soon as possible.&quot; },
-    { init:'DK', color:'#00897B', name:'Dan Kowalski', tm:'10:06 AM', snip:'What times do you have Thursday?' },
+    { init:'DK', color:'#00897B', name:'Dan Kowalski', tm:'10:06 AM', snip:'Hi, Susan Mitchell passed along your number. Can you come look at two oaks?' },
     { init:'ML', color:'#E07F0F', name:'Maria Lopez', tm:'10:09 AM', snip:'Yes please, same two trees as last year' },
     { init:'TR', color:'#5C6BC0', name:'Tom Rodriguez', tm:'10:12 AM', snip:'How much for the pine out front?' },
     { init:'AC', color:'#C2554F', name:'Alan Cho', tm:'10:14 AM', snip:'Put me down for the 15% off' }
@@ -2095,8 +2101,8 @@
   function resetState() {
     $('msgscr').classList.remove('off');
     $('inbscr').classList.remove('on');
-    $('typingRow').style.display='none';
-    ['msg1','msg2'].forEach(id => $(id).classList.remove('show'));
+    $('typingRow').style.display='none'; $('typingRow2').style.display='none';
+    ['msg1','msg2','msg3'].forEach(id => $(id).classList.remove('show'));
     ['dlv','stamp','leadbadge'].forEach(id => $(id).classList.remove('show'));
     $('povlabel').classList.remove('swap');
     $('povtext').textContent = &quot;Every trade has a slow season. Our campaigns text your past customers to fill the gaps.&quot;;
@@ -2127,12 +2133,17 @@
     at(6200, () => $('msg2').classList.add('show'));
     at(6950, () => $('dlv').classList.add('show'));
 
+    // referral offer beat
+    at(7800, () => { $('typingRow2').style.display='flex'; });
+    at(9000, () => { $('typingRow2').style.display='none'; $('msg3').classList.add('show'); });
+    at(9400, () => { $('povtext').textContent = 'A referral offer turns one customer into two.'; });
+
     // cut to Mike's inbox
-    at(9200, () => {
+    at(13400, () => {
       $('msgscr').classList.add('off'); $('inbscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
-    at(9700, () => {
+    at(13900, () => {
       $('povlabel').classList.remove('swap');
       $('povtext').textContent = &quot;You're notified in the app as the replies start rolling in.&quot;;
       $('leadbadge').classList.add('show');
@@ -2140,11 +2151,11 @@
 
     // replies pour in
     REPLIES.forEach((r, i) => {
-      at(10400 + i*1350, () => addReply(r, i+1));
+      at(14600 + i*1350, () => addReply(r, i+1));
     });
 
     // hold, fade, loop
-    const total = 10400 + REPLIES.length*1350 + 3800;
+    const total = 14600 + REPLIES.length*1350 + 3800;
     at(total, () => stage.classList.add('resetting'));
     at(total + 600, () => {
       stage.classList.remove('resetting');
