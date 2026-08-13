@@ -122,8 +122,8 @@
   .feature .clipwrap { padding: 0; overflow: hidden; position: relative; background: #FFFFFF; }
   .shotcol { flex: 1.3; display: flex; flex-direction: column; align-items: stretch; }
   .shotcol .shot { flex: none; width: 100%; }
-  .mockup-cap { text-align: center; font-size: 15px; color: #47546B; line-height: 1.5; margin-top: 10px; font-stretch: 105%; font-weight: 500; min-height: 45px; }
-  @media (max-width: 379px) { .mockup-cap { min-height: 68px; } }
+  .mockup-cap { text-align: center; font-size: 15px; color: #47546B; line-height: 1.5; margin-top: 10px; font-stretch: 105%; font-weight: 700; min-height: 45px; }
+  @media (max-width: 429px) { .mockup-cap { min-height: 68px; } }
   .mockup-cap b { color: #10203A; font-weight: 700; }
   .clipframe { border: none; position: absolute; top: 50%; left: 50%; transform-origin: center center; pointer-events: none; will-change: transform; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
   .subs { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 22px; margin-top: 18px; }
@@ -382,7 +382,7 @@
         <div class="txt">
           <div class="fnum">01</div>
           <div class="eyebrow">Feature 1 of 4</div>
-          <h3>A website that texts leads back in seconds</h3>
+          <h3>A website that texts leads back and ranks you higher</h3>
           <div class="lead">We build you a real website, made to rank in your area. Every quote form and chat message starts a text conversation with the customer instantly, before they call your competitor.</div>
           <div class="subs">
             <div><b>Found on Google and AI</b><span>Built with real local SEO, and structured so tools like ChatGPT can read your business and surface it in AI search.</span></div>
@@ -925,12 +925,12 @@
   window.addEventListener('load', () => {try{var _f=document.getElementById('siteFrame');if(_f){var _d=_f.getAttribute('srcdoc');_f.removeAttribute('srcdoc');setTimeout(function(){_f.setAttribute('srcdoc',_d);},30);}}catch(e){}setTimeout(run, 700);});
 })();
 
-(function(){try{var st=document.getElementById('stage');if(!st)return;var A='A customer finds your website and fills out your form.';var B='You\'re notified instantly, and the lead gets a text that starts the conversation.';var _last='';function send(){var b=st.classList.contains('sceneB');var v=b?B:A;if(v===_last)return;_last=v;try{parent.postMessage({type:'truaido-cap',text:v},'*');}catch(e){}}var mo=new MutationObserver(send);mo.observe(st,{attributes:true,attributeFilter:['class']});send();}catch(e){}})();
+(function(){try{var st=document.getElementById('stage');if(!st)return;var A='A customer finds your website and fills out the form.';var B='You\'re notified instantly, and the lead gets a text that starts the conversation.';var _last='';function send(){var b=st.classList.contains('sceneB');var v=b?B:A;if(v===_last)return;_last=v;try{parent.postMessage({type:'truaido-cap',text:v},'*');}catch(e){}}var mo=new MutationObserver(send);mo.observe(st,{attributes:true,attributeFilter:['class']});send();}catch(e){}})();
 </script>
 
 </body>
 </html>
-"></iframe></div><div class="mockup-cap" id="mcap1" data-cap="1">A customer finds your website and fills out your form.</div></div>
+"></iframe></div><div class="mockup-cap" id="mcap1" data-cap="1">A customer finds your website and fills out the form.</div></div>
       </div>
       <div class="feature">
         <div class="txt">
@@ -942,7 +942,7 @@
             <div><b>Works when you can't</b><span>Your hands are full and you can't pick up. The text goes out anyway, every time.</span></div>
             <div><b>Covers nights and weekends</b><span>A 9pm caller gets a response at 9pm. You deal with it in the morning.</span></div>
             <div><b>Starts the quote immediately</b><span>The text can be customized to ask what they need and for photos. So when you call back, you already know the job.</span></div>
-            <div><b>Beats the next company on the list</b><span>Callers who don't get an answer just dial the next business on Google. This stops that.</span></div>
+            <div><b>Beats the next company on the list</b><span>Callers who don't get an answer just dial the next business on Google. Our system stops that.</span></div>
           </div>
         </div>
         <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
@@ -1219,7 +1219,7 @@
     at(5000, () => {
       $('povlabel').classList.remove('swap');
       $('callscr').classList.add('off'); $('msgscr').classList.add('on');
-      $('povtext').innerHTML = &quot;Seconds later, on <b>your potential customer's phone</b>&quot;;
+      $('povtext').innerHTML = &quot;Our system immediately connects them with your business so you don't lose the customer.&quot;;
     });
     at(5450, () => { $('stamp').classList.add('show'); $('missed').classList.add('show'); });
 
@@ -1253,7 +1253,7 @@
 
 </body>
 </html>
-"></iframe></div><div class="mockup-cap" id="mcap2" data-cap="1">Seconds later, <b>on your customer's phone</b>.</div></div>
+"></iframe></div><div class="mockup-cap" id="mcap2" data-cap="1">Our system immediately connects them with your business so you don't lose the customer.</div></div>
       </div>
       <div class="feature">
         <div class="txt">
@@ -1702,19 +1702,19 @@
 
     // tap 5th star, cascade fill
     const fstars = document.querySelectorAll('#funstars .fst');
-    at(7600, () => tapAt(fstars[4]));
+    at(8600, () => tapAt(fstars[4]));
     fstars.forEach((s, i) => {
-      at(7750 + i*110, () => s.classList.add('on','pop'));
+      at(8750 + i*110, () => s.classList.add('on','pop'));
     });
 
     // forward to Google composer, stars prefilled
-    at(9100, () => {
+    at(10100, () => {
       $('funscr').classList.remove('on'); $('revscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
     const stars = document.querySelectorAll('#revstars .st');
     stars.forEach((s, i) => {
-      at(9500 + i*90, () => s.classList.add('on','pop'));
+      at(10500 + i*90, () => s.classList.add('on','pop'));
     });
     at(9600, () => {
       $('povlabel').classList.remove('swap');
@@ -1724,12 +1724,12 @@
     // review types
     const step = 34;
     for (let i = 1; i <= REVIEW.length; i++) {
-      at(10600 + i*step, () => {
+      at(11600 + i*step, () => {
         $('revph').style.display='none';
         $('revtext').textContent = REVIEW.slice(0, i);
       });
     }
-    const typeEnd = 10600 + REVIEW.length*step;
+    const typeEnd = 11600 + REVIEW.length*step;
 
     // post
     at(typeEnd + 600, () => tapAt($('postbtn')));
@@ -1972,7 +1972,7 @@
 <body>
 
 <div class=&quot;stage&quot; id=&quot;stage&quot;>
-  <div class=&quot;povlabel&quot; id=&quot;povlabel&quot;><span id=&quot;povtext&quot;>Spring slows down. So the system texts your old customers.</span></div>
+  <div class=&quot;povlabel&quot; id=&quot;povlabel&quot;><span id=&quot;povtext&quot;>Every trade has a slow season. Our campaigns text your past customers to fill the gaps.</span></div>
 
   <div class=&quot;iphone&quot;>
     <div class=&quot;ip-btn action&quot;></div>
@@ -2008,7 +2008,7 @@
             <div class=&quot;bubble in&quot;>Hey Susan, it's Mike from Mike's Tree Service. We trimmed your oaks last spring. We're doing our spring route through your neighborhood next week, and past customers get 15% off. Want me to save you a spot?</div>
           </div>
           <div class=&quot;brow out msg-anim out-anim&quot; id=&quot;msg2&quot; style=&quot;margin-top:7px;&quot;>
-            <div class=&quot;bubble out&quot;>Yes! Perfect timing, they're getting shaggy again. Thursday works</div>
+            <div class=&quot;bubble out&quot;>Yes, perfect timing. We have some trees we need taken care of as soon as possible.</div>
           </div>
           <div class=&quot;delivered fade-el&quot; id=&quot;dlv&quot;>Delivered</div>
         </div>
@@ -2073,7 +2073,7 @@
   const at = (ms, fn) => timers.push(setTimeout(fn, ms));
 
   const REPLIES = [
-    { init:'SM', color:'#7E57C2', name:'Susan Mitchell', tm:'10:03 AM', snip:&quot;Yes! Perfect timing, they're getting shaggy again. Thursday works&quot; },
+    { init:'SM', color:'#7E57C2', name:'Susan Mitchell', tm:'10:03 AM', snip:&quot;Yes, perfect timing. We have some trees we need taken care of as soon as possible.&quot; },
     { init:'DK', color:'#00897B', name:'Dan Kowalski', tm:'10:06 AM', snip:'What times do you have Thursday?' },
     { init:'ML', color:'#E07F0F', name:'Maria Lopez', tm:'10:09 AM', snip:'Yes please, same two trees as last year' },
     { init:'TR', color:'#5C6BC0', name:'Tom Rodriguez', tm:'10:12 AM', snip:'How much for the pine out front?' },
@@ -2087,7 +2087,7 @@
     ['msg1','msg2'].forEach(id => $(id).classList.remove('show'));
     ['dlv','stamp','leadbadge'].forEach(id => $(id).classList.remove('show'));
     $('povlabel').classList.remove('swap');
-    $('povtext').textContent = &quot;Spring slows down. So the system texts your old customers.&quot;;
+    $('povtext').textContent = &quot;Every trade has a slow season. Our campaigns text your past customers to fill the gaps.&quot;;
     document.querySelectorAll('#inblist .conv:not(.old)').forEach(e => e.remove());
     $('leadbadge').textContent = '0 new replies';
   }
@@ -2122,7 +2122,7 @@
     });
     at(9700, () => {
       $('povlabel').classList.remove('swap');
-      $('povtext').textContent = &quot;She wasn't the only one who said yes.&quot;;
+      $('povtext').textContent = &quot;You're notified in the app as the replies start rolling in.&quot;;
       $('leadbadge').classList.add('show');
     });
 
@@ -2149,7 +2149,7 @@
 
 </body>
 </html>
-"></iframe></div><div class="mockup-cap" id="mcap4" data-cap="1">Spring slows down. <b>So it texts your old customers back</b>.</div></div>
+"></iframe></div><div class="mockup-cap" id="mcap4" data-cap="1">Every trade has a slow season. Our campaigns text your past customers to fill the gaps.</div></div>
       </div>
     </div>
   </div>
