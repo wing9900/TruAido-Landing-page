@@ -1007,6 +1007,7 @@
 <head>
 <meta charset=&quot;UTF-8&quot;>
 <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;>
 <title>TruAido — Feature 2: Missed call → instant text-back</title>
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
@@ -1066,23 +1067,37 @@
   .callscr > .sbar, .callscr .inc-head, .callscr .inc-bottom { position:relative; z-index:2; }
   .callscr.off { opacity:0; pointer-events:none; }
   .callscr .sbar { color:#fff; }
-  .inc-head { text-align:center; margin-top:52px; text-shadow:0 1px 14px rgba(0,0,0,0.45); }
+  .inc-head { text-align:center; margin-top:52px; text-shadow:0 1px 14px rgba(0,0,0,0.45);
+    transition:opacity .4s ease; }
   .inc-num { font-size:26px; font-weight:600; letter-spacing:0.01em; }
   .inc-loc { font-size:15px; color:rgba(255,255,255,0.75); margin-top:5px; }
-  .inc-state { font-size:13px; color:rgba(255,255,255,0.75); margin-top:14px; min-height:20px;
-    display:flex; align-items:center; justify-content:center; gap:6px; }
-  .ring-dots { display:inline-flex; gap:3px; }
-  .ring-dots i { width:4px; height:4px; border-radius:50%; background:rgba(255,255,255,0.75);
-    animation: rd 1.4s infinite ease-in-out; }
-  .ring-dots i:nth-child(2){ animation-delay:.2s; } .ring-dots i:nth-child(3){ animation-delay:.4s; }
-  @keyframes rd { 0%,60%,100%{opacity:.3} 30%{opacity:1} }
-  .inc-bottom { margin-top:auto; padding:0 26px 34px; }
+  .inc-bottom { margin-top:auto; padding:0 26px 34px; transition:opacity .4s ease; }
+
+  /* Call goes unanswered: the call UI drops away and the phone falls back to the
+     lock screen with a Missed Call notification, the way iOS actually behaves. */
+  .callscr.mcall .inc-head, .callscr.mcall .inc-bottom { opacity:0; }
+  .lockface { position:absolute; top:0; left:0; right:0; z-index:2; margin-top:52px;
+    text-align:center; color:#fff; text-shadow:0 1px 14px rgba(0,0,0,0.45);
+    opacity:0; transition:opacity .45s ease; pointer-events:none; }
+  .lockface .ld { font-size:12px; font-weight:600; color:rgba(255,255,255,0.92); }
+  .lockface .lt { font-size:64px; font-weight:500; line-height:1.06; letter-spacing:-0.02em; margin-top:2px; }
+  .callscr.mcall .lockface { opacity:1; }
+  .notif { position:absolute; left:14px; right:14px; bottom:34px; z-index:3;
+    background:rgba(40,44,42,0.55); backdrop-filter:blur(14px); border-radius:18px;
+    padding:11px 13px; display:flex; gap:9px; align-items:flex-start;
+    opacity:0; transform:translateY(12px); transition:opacity .35s ease, transform .35s ease; }
+  .callscr.mcall .notif { opacity:1; transform:none; }
+  .notif .app { width:34px; height:34px; border-radius:9px; background:#34C759; flex-shrink:0;
+    display:flex; align-items:center; justify-content:center; }
+  .notif .ntxt { flex:1; min-width:0; }
+  .notif .nrow { display:flex; justify-content:space-between; align-items:baseline; gap:8px; }
+  .notif .nt { font-size:13.5px; font-weight:600; color:#fff; }
+  .notif .nw { font-size:11px; color:rgba(255,255,255,0.7); flex-shrink:0; }
+  .notif .nb { font-size:13px; color:rgba(255,255,255,0.85); margin-top:1px; }
   .inc-minor { display:flex; justify-content:space-between; padding:0 14px; margin-bottom:22px; }
   .inc-minor .mb { text-align:center; font-size:11px; color:rgba(255,255,255,0.9); }
   .inc-minor .mb .ic { width:40px; height:40px; border-radius:50%; background:rgba(30,34,32,0.55);
     backdrop-filter:blur(6px); margin:0 auto 6px; display:flex; align-items:center; justify-content:center; }
-  .inc-label { text-align:center; font-size:10px; font-weight:600; letter-spacing:0.14em;
-    text-transform:uppercase; color:rgba(255,255,255,0.85); margin-bottom:10px; }
   .slide-pill { position:relative; height:62px; border-radius:34px;
     background:rgba(30,34,32,0.5); backdrop-filter:blur(8px);
     display:flex; align-items:center; padding-left:78px; }
@@ -1107,7 +1122,6 @@
   .ios-thread { flex:1; padding:12px 14px 6px; overflow:hidden; display:flex; flex-direction:column; }
   .ios-stamp { text-align:center; font-size:11px; color:#8E8E93; margin:2px 0 8px; font-weight:500; }
   .ios-stamp b { font-weight:600; }
-  .missed { text-align:center; font-size:11px; color:#8E8E93; margin-bottom:12px; }
   .brow { display:flex; margin-bottom:3px; }
   .brow.in { justify-content:flex-start; }
   .brow.out { justify-content:flex-end; }
@@ -1148,7 +1162,7 @@
 
   .stage.resetting .ip-screen > div { opacity:0 !important; }
 
-  @media (prefers-reduced-motion: reduce) { .typing i, .ring-dots i { animation:none !important; } }
+  @media (prefers-reduced-motion: reduce) { .typing i, .slide-knob { animation:none !important; } }
 
 </style>
 </head>
@@ -1178,22 +1192,31 @@
         </div>
         <div class=&quot;bgimg&quot;><img src=&quot;data:image/jpeg;base64,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&quot; alt=&quot;&quot;></div>
         <div class=&quot;bgtint&quot;></div>
+        <div class=&quot;lockface&quot;>
+          <div class=&quot;ld&quot; id=&quot;lockDate&quot;>Thursday, August 14</div>
+          <div class=&quot;lt&quot;>9:47</div>
+        </div>
         <div class=&quot;inc-head&quot;>
           <div class=&quot;inc-num&quot;>(281) 555-0187</div>
           <div class=&quot;inc-loc&quot;>Houston, TX</div>
-          <div class=&quot;inc-state&quot; id=&quot;callSub&quot;>ringing <span class=&quot;ring-dots&quot;><i></i><i></i><i></i></span></div>
         </div>
         <div class=&quot;inc-bottom&quot;>
           <div class=&quot;inc-minor&quot;>
             <div class=&quot;mb&quot;><div class=&quot;ic&quot;><svg width=&quot;19&quot; height=&quot;19&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;1.7&quot;><circle cx=&quot;12&quot; cy=&quot;13&quot; r=&quot;7&quot;/><path d=&quot;M12 9v4l2.5 2.5M9 2h6&quot; stroke-linecap=&quot;round&quot;/></svg></div>Remind Me</div>
             <div class=&quot;mb&quot;><div class=&quot;ic&quot;><svg width=&quot;19&quot; height=&quot;19&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;1.7&quot;><path d=&quot;M21 14a2 2 0 0 1-2 2H8l-4 4V6a2 2 0 0 1 2-2h13a2 2 0 0 1 2 2z&quot; stroke-linejoin=&quot;round&quot;/></svg></div>Message</div>
           </div>
-          <div class=&quot;inc-label&quot;>Incoming Call</div>
           <div class=&quot;slide-pill&quot;>
             <div class=&quot;slide-knob&quot;>
               <svg width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;#fff&quot;><path d=&quot;M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.2.2 2.4.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z&quot;/></svg>
             </div>
             <span class=&quot;st&quot;>slide to answer</span>
+          </div>
+        </div>
+        <div class=&quot;notif&quot;>
+          <div class=&quot;app&quot;><svg width=&quot;19&quot; height=&quot;19&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;#fff&quot;><path d=&quot;M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.2.2 2.4.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z&quot;/></svg></div>
+          <div class=&quot;ntxt&quot;>
+            <div class=&quot;nrow&quot;><span class=&quot;nt&quot;>Missed Call</span><span class=&quot;nw&quot;>now</span></div>
+            <div class=&quot;nb&quot;>(281) 555-0187</div>
           </div>
         </div>
       </div>
@@ -1215,7 +1238,6 @@
         </div>
         <div class=&quot;ios-thread&quot;>
           <div class=&quot;ios-stamp fade-el&quot; id=&quot;stamp&quot;><b>Today</b> 9:47 AM</div>
-          <div class=&quot;missed fade-el&quot; id=&quot;missed&quot;>Missed Call</div>
           <div class=&quot;brow in&quot; id=&quot;typingRow&quot; style=&quot;display:none;&quot;>
             <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
           </div>
@@ -1254,22 +1276,28 @@
   let timers = [];
   const at = (ms, fn) => timers.push(setTimeout(fn, ms));
 
+  // Lock screen shows today's date, the way the phone in a viewer's hand would.
+  try {
+    $('lockDate').textContent = new Date().toLocaleDateString('en-US',
+      { weekday: 'long', month: 'long', day: 'numeric' });
+  } catch(e) {}
+
   function resetState() {
     $('callscr').classList.remove('off');
+    $('callscr').classList.remove('mcall');
     $('msgscr').classList.remove('on');
-    $('callSub').innerHTML = 'ringing <span class=&quot;ring-dots&quot;><i></i><i></i><i></i></span>';
     $('povlabel').classList.remove('swap');
     $('povtext').innerHTML = &quot;Sometimes you just can't catch the call.&quot;;
     $('typingRow').style.display='none'; $('typingRow2').style.display='none';
     ['msg1','msg2','msg3'].forEach(id => $(id).classList.remove('show'));
-    ['dlv','stamp','missed'].forEach(id => $(id).classList.remove('show'));
+    ['dlv','stamp'].forEach(id => $(id).classList.remove('show'));
   }
 
   function run() {
     resetState();
 
-    // Mike's phone rings out
-    at(3900, () => { $('callSub').textContent = 'Missed Call'; });
+    // Mike's phone rings out: call screen drops to the lock screen + missed-call notification
+    at(3900, () => { $('callscr').classList.add('mcall'); });
 
     // cut to customer's phone
     at(4550, () => $('povlabel').classList.add('swap'));
@@ -1278,7 +1306,7 @@
       $('callscr').classList.add('off'); $('msgscr').classList.add('on');
       $('povtext').innerHTML = &quot;Our system immediately contacts the caller before they dial the next business.&quot;;
     });
-    at(5450, () => { $('stamp').classList.add('show'); $('missed').classList.add('show'); });
+    at(5450, () => { $('stamp').classList.add('show'); });
 
     // text-back fires
     at(6000, () => { $('typingRow').style.display='flex'; });
@@ -2292,7 +2320,7 @@
       <div class="fnote">
         <div class="fn-lbl">A note from the founder</div>
         <p>The best crew in town loses jobs every week to a worse company that simply looks better online. They show up higher on Google, they answer faster, they have more reviews. Not better work, better systems. TruAido puts those same systems behind your business, so the quality of your work is what actually decides who wins.</p>
-        <p>When something needs attention, you reach a real person who knows your account, not a ticket number in a queue. No call center, no script, no waiting a week for a small change. And the guarantee next to the price is mine personally: if the system hasn't paid for itself by day 90, you stop paying until it has.</p>
+        <p>When something needs attention, you reach a real person who knows your account, not a ticket number in a queue. No call center, no script, no waiting a week for a small change. The guarantee next to the price is mine personally: if the system hasn't paid for itself by day 90, you stop paying until it has.</p>
         <div class="sig">Jordan</div>
         <div class="sig-role">Founder, TruAido</div>
       </div>
