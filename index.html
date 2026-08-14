@@ -86,6 +86,11 @@
   details.transcript { border-top: 1px solid #E5E6E8; }
   details.transcript summary { padding: 12px 18px; font-size: 13.5px; cursor: pointer; font-weight: 600; }
   details.transcript div { padding: 0 18px 16px; font-size: 13.5px; color: #47546B; line-height: 1.6; }
+  .video-headline { padding: 20px 22px 22px; font-stretch: 118%; font-weight: 750; font-size: 20px; line-height: 1.35; letter-spacing: -0.01em; color: #10203A; text-align: center; }
+  .offer-block { text-align: center; margin-top: 44px; padding-top: 40px; border-top: 1px solid #E9EBEE; }
+  .offer-block .cta-row { justify-content: center; }
+  .offer-price { font-stretch: 118%; font-weight: 780; font-size: 21px; letter-spacing: -0.01em; color: #10203A; margin-top: 22px; }
+  .offer-block .trustline { font-weight: 700; color: #47546B; font-size: 13.5px; line-height: 1.6; max-width: 540px; margin: 8px auto 0; }
 
   .demo { background: #EAF4EF; border: 1px solid #C6E2D4; border-radius: 12px; padding: 32px 32px 24px; text-align: center; }
   .demo h3 { font-stretch: 118%; font-weight: 750; font-size: 24px; color: #0B4A34; margin-bottom: 6px; }
@@ -93,12 +98,14 @@
   .demo-row { display: flex; gap: 10px; max-width: 480px; margin: 0 auto; }
   .demo input { flex: 1; background: #fff; border: 1px solid #C6E2D4; border-radius: 6px; padding: 13px 15px; font-size: 15px; font-family: inherit; outline: none; }
   .demo input:focus { border-color: #0E8A5F; }
+  .demo .btn-solid { background: #1B3358; }
+  .demo .btn-solid:hover { background: #1D4E89; }
   .micro { font-size: 11.5px; color: #6E857A; margin-top: 10px; }
   .demo-status { font-size: 14px; } .demo-status:not(:empty) { margin-top: 12px; }
   .demo-status.ok { color: #0B4A34; font-weight: 600; }
   .demo-status.err { color: #B0432B; }
 
-  section.dark { background: #16294A; color: #FFFFFF; }
+  section.dark { background: #132441; color: #FFFFFF; }
   section.dark .eyebrow { color: #35B37E; }
   section.dark .sec-sub { color: #A9B6CC; }
   .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 16px; }
@@ -156,22 +163,31 @@
   .plan ul { list-style: none; }
   .plan li { font-size: 14.5px; padding: 8px 0; border-bottom: 1px solid #F0F1F2; }
   .plan li span { color: #8792A3; font-size: 12.5px; margin-left: 6px; }
-  .online-box { background: #10203A; border: 1px solid rgba(53,179,126,0.35); border-radius: 10px; padding: 20px 22px; margin-top: 18px; }
-  .online-box .obl { font-stretch: 82%; font-weight: 650; letter-spacing: 0.07em; text-transform: uppercase; font-size: 11px; color: #35B37E; margin-bottom: 14px; }
-  .obi { display: flex; gap: 11px; align-items: flex-start; margin-bottom: 14px; }
-  .obi .ck { flex: 0 0 18px; height: 18px; border-radius: 50%; background: rgba(53,179,126,0.18); color: #35B37E; font-size: 11px; font-weight: 800; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+  .online-box { background: #10203A; border: 1px solid rgba(53,179,126,0.35); border-radius: 10px; padding: 24px 26px; margin-top: 22px; }
+  .online-box .obl { font-stretch: 114%; font-weight: 730; letter-spacing: -0.01em; font-size: 15.5px; color: #FFFFFF; margin-bottom: 18px; padding-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.10); }
+  .obi { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 18px; }
+  .obi:last-child { margin-bottom: 0; }
+  .obi .ck { flex: 0 0 18px; height: 18px; border-radius: 50%; background: #35B37E; color: #10203A; font-size: 11px; font-weight: 800; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
   .obi b { display: block; color: #FFFFFF; font-size: 14px; font-stretch: 112%; font-weight: 700; margin-bottom: 3px; }
   .obi .val { display: inline-block; background: rgba(53,179,126,0.18); color: #35B37E; font-size: 10.5px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; padding: 2px 9px; border-radius: 999px; margin-left: 7px; vertical-align: 1px; }
   .obi span.d { color: #A9B6CC; font-size: 12.5px; line-height: 1.5; display: block; }
-  .ob-note { margin-top: 4px; padding-top: 13px; border-top: 1px solid rgba(255,255,255,0.10); color: #A9B6CC; font-size: 12px; line-height: 1.55; }
-  .ob-note b { color: #FFFFFF; font-weight: 700; }
+  .plan-note { margin-top: 14px; color: #47546B; font-size: 12.5px; line-height: 1.55; }
+  .plan-note b { color: #10203A; font-weight: 700; }
   .spots { margin-top: 16px; display: inline-block; background: #F0F1F2; color: #1D4E89; font-size: 13.5px; font-weight: 600; padding: 7px 13px; border-radius: 6px; }
-  .plan .cta-row { margin-top: 20px; }
+  .plan .cta-row { margin-top: 20px; justify-content: center; }
+  .plan-note { text-align: center; }
+  .step1-cta { display: inline-block; }
+  .step1-cta .s1-line { font-stretch: 116%; font-weight: 720; font-size: 17px; margin-bottom: 12px; }
+  .step1-cta .btn-solid { display: block; width: 100%; box-sizing: border-box; text-align: center; }
+  .s1-note { font-size: 12.5px; color: #47546B; margin-top: 8px; line-height: 1.5; }
   .guarantee { flex: 1; background: #FFFFFF; border: 1px solid #E5E6E8; border-top: 4px solid #0E8A5F; border-radius: 12px; padding: 28px 30px; align-self: flex-start; position: relative; box-shadow: 0 2px 24px rgba(17,26,34,0.05); }
+  .guarantee .g-support { margin-top: 16px; padding-top: 16px; border-top: 1px solid #EEF0F2; font-size: 13px; color: #47546B; line-height: 1.55; }
+  .guarantee .g-support b { color: #10203A; font-weight: 700; }
   .guarantee::before { content: none; }
   .guarantee .lbl { font-stretch: 82%; font-weight: 650; letter-spacing: 0.07em; text-transform: uppercase; font-size: 12px; color: #1D4E89; margin-bottom: 10px; }
   .g-row { display: flex; gap: 16px; margin-bottom: 14px; padding-bottom: 14px; border-bottom: 1px solid #EEF0F2; align-items: flex-start; }
-  .g-row:last-of-type { border-bottom: none; padding-bottom: 0; margin-bottom: 8px; }
+  .g-row:last-of-type { border-bottom: none; padding-bottom: 0; margin-bottom: 0; }
+  .guarantee .g-row + .g-row { border-bottom: none; padding-bottom: 0; margin-bottom: 0; }
     .g-day { flex-shrink: 0; width: 56px; text-align: center; background: #EAF4EF; border: 1px solid #C6E2D4; border-radius: 10px; padding: 9px 0 7px; align-self: flex-start; }
   .g-day b { display:block; font-stretch: 120%; font-weight: 800; font-size: 30px; line-height: 1; color: #0E8A5F; font-variant-numeric: tabular-nums; }
   .g-day span { display:block; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: #5B7C69; margin-top: 3px; font-weight: 600; }
@@ -196,7 +212,7 @@
   .verify ul { list-style: none; }
   .verify li { position: relative; padding-left: 27px; font-size: 13px; color: #47546B; line-height: 1.55; }
   .verify li + li { margin-top: 13px; }
-  .verify li::before { content: '\2713'; position: absolute; left: 0; top: 1px; width: 17px; height: 17px; border-radius: 50%; background: #E7F5EE; color: #0E8A5F; font-size: 10.5px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+  .verify li::before { content: '\2713'; position: absolute; left: 0; top: 1px; width: 17px; height: 17px; border-radius: 50%; background: #0E8A5F; color: #FFFFFF; font-size: 10.5px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
   .verify li b { display: block; color: #10203A; font-weight: 700; font-size: 13.5px; margin-bottom: 2px; }
 
   .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
@@ -249,6 +265,11 @@
     .demo-row { flex-direction: column; max-width: none; }
     .demo-row .btn-solid { width: 100%; text-align: center; }
     .video-frame { height: 220px; }
+    .video-headline { font-size: 18px; padding: 16px 18px 18px; }
+    .offer-block { margin-top: 32px; padding-top: 32px; }
+    .offer-block .cta-row { flex-direction: row; justify-content: center; gap: 10px; }
+    .offer-block .cta-row a { width: auto; text-align: center; font-size: 14.5px; padding: 12px 20px; }
+    .offer-price { font-size: 19px; }
     .sticky-cta.on { display: flex; }
     body { padding-bottom: 70px; }
     h2.sec { font-size: 26px; }
@@ -302,7 +323,7 @@
   <div class="nav">
     <a href="#" class="logo"><img class="logo-mark" src="data:image/png;base64,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" alt="TruAido logo"><span class="logo-text">TruAido</span></a>
     <nav class="links links-center">
-      <a href="#how">How it works</a>
+      <a href="#how">Getting started</a>
       <a href="#industries">Industries</a>
       <a href="#offer">Pricing</a>
       <a href="#faq">FAQ</a>
@@ -311,7 +332,7 @@
     <div class="mnav-backdrop" id="mnavBackdrop"></div>
     <div class="mnav" id="mnav">
       <button class="mnav-close" id="mnavClose" aria-label="Close menu"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></button>
-      <a href="#how">How it works</a>
+      <a href="#how">Getting started</a>
       <a href="#industries">Industries</a>
       <a href="#offer">Pricing</a>
       <a href="#faq">FAQ</a>
@@ -329,13 +350,6 @@
   <div class="hero">
     <div>
       <h1 class="wide">The company that <br><span class="hl">connects first</span> wins the job. <br>We make sure that's always you.</h1>
-      <div class="priceline">$297/mo. No contract. 30 days risk-free.</div>
-      <div class="sub">Watch the 6-minute video, try the system on your own phone, then start today or book a call. You're live in about 7 days.</div>
-      <div class="cta-row">
-        <a href="#offer" class="btn-solid">Start today</a>
-        <a href="#" class="btn-ghost">Book a call</a>
-      </div>
-      <div class="trustline">No contract, cancel anytime, and if it hasn't paid for itself in 90 days it's free until it does.</div>
     </div>
     
   </div>
@@ -343,13 +357,8 @@
 
 <div class="container">
   <div class="video-block">
-    <div class="video-label">Step 1: watch this</div>
     <div class="video-frame" onclick="this.querySelector('.play').textContent='VSL plays here'"><div class="play">&#9654;</div></div>
-    <div class="video-note">6 minutes. The whole system working live, before you pay anything.</div>
-    <details class="transcript">
-      <summary>Read the transcript</summary>
-      <div>Full VSL transcript renders here in static HTML so every claim in the video is also readable text: the price, the four features, the live demos, the guarantee, and the online-start extras. On the production site this is the real transcript.</div>
-    </details>
+    <div class="video-headline">Watch a lead come in, get answered in seconds, and turn into a booked job.</div>
   </div>
 </div>
 
@@ -364,6 +373,14 @@
       </div>
       <div class="micro">You'll get one text. Message and data rates may apply. Reply STOP to opt out.</div>
       <div class="demo-status" id="demoStatus"></div>
+    </div>
+    <div class="offer-block">
+      <div class="cta-row">
+        <a href="#offer" class="btn-solid">Start today</a>
+        <a href="#" class="btn-ghost">Book a call</a>
+      </div>
+      <div class="offer-price">$297/mo. No contract, cancel anytime.</div>
+      <div class="trustline">30 days risk-free, and if it hasn't paid for itself in 90 days it's free until it has.</div>
     </div>
   </div>
 </section>
@@ -2006,7 +2023,7 @@
 <body>
 
 <div class=&quot;stage&quot; id=&quot;stage&quot;>
-  <div class=&quot;povlabel&quot; id=&quot;povlabel&quot;><span id=&quot;povtext&quot;>Every trade has a slow season. Our campaigns text your past customers to fill the gaps.</span></div>
+  <div class=&quot;povlabel&quot; id=&quot;povlabel&quot;><span id=&quot;povtext&quot;>Every trade has a slow season. Our campaigns contact your past customers to fill the gaps.</span></div>
 
   <div class=&quot;iphone&quot;>
     <div class=&quot;ip-btn action&quot;></div>
@@ -2127,7 +2144,7 @@
     ['msg1','msg2','msg3'].forEach(id => $(id).classList.remove('show'));
     ['dlv','stamp','leadbadge'].forEach(id => $(id).classList.remove('show'));
     $('povlabel').classList.remove('swap');
-    $('povtext').textContent = &quot;Every trade has a slow season. Our campaigns text your past customers to fill the gaps.&quot;;
+    $('povtext').textContent = &quot;Every trade has a slow season. Our campaigns contact your past customers to fill the gaps.&quot;;
     document.querySelectorAll('#inblist .conv:not(.old)').forEach(e => e.remove());
     $('leadbadge').textContent = '0 new replies';
   }
@@ -2194,7 +2211,7 @@
 
 </body>
 </html>
-"></iframe></div><div class="mockup-cap" id="mcap4" data-cap="1">Every trade has a slow season. Our campaigns text your past customers to fill the gaps.</div></div>
+"></iframe></div><div class="mockup-cap" id="mcap4" data-cap="1">Every trade has a slow season. Our campaigns contact your past customers to fill the gaps.</div></div>
       </div>
     </div>
   </div>
@@ -2232,12 +2249,12 @@
           <li>Missed-call text-back on your business line</li>
           <li>Review engine with private routing for bad reviews</li>
           <li>Job generation machine: week-one reactivation, then repeat and referral campaigns forever</li>
+          <li>Support and site updates included, every month, never billed hourly</li>
         </ul>
         <div class="online-box">
-          <div class="obl">Start online today and get</div>
+          <div class="obl">Two bonuses when you start online today</div>
           <div class="obi"><div class="ck">&#10003;</div><div><b>Same-day build start</b><span class="d">Your onboarding form comes straight to us, so the build begins the day you sign up.</span></div></div>
-          <div class="obi"><div class="ck">&#10003;</div><div><b>Google Business Profile audit + full optimization <span class="val">$300+ value</span></b><span class="d">A complete tune-up of the profile Google shows in map results, included free.</span></div></div>
-          <div class="ob-note">Rather talk it through first? <b>Booking a call is always fine.</b> Starting online just means your build begins today instead of after we find a time to connect.</div>
+          <div class="obi"><div class="ck">&#10003;</div><div><b>Google Business Profile audit and full optimization</b><span class="d">The profile Google shows in map results, fully tuned up: categories, services, service area, and photos. Most agencies bill this as its own project. Yours is included.</span></div></div>
         </div>
         <div class="cta-row">
           <a href="#" class="btn-solid">Start today</a>
@@ -2246,11 +2263,10 @@
       </div>
       <div class="guarantee">
         <div class="lbl">The TruAido guarantee</div>
-        <div class="txt">30 days risk-free, and if it hasn't paid for itself in 90, it's free until it does.</div>
+        <div class="txt">30 days risk-free, and if it hasn't paid for itself in 90, it's free until it has.</div>
         <div class="g-row"><div class="g-day"><b>30</b><span>days</span></div><p>Any reason at all in your first 30 days, full refund.</p></div>
         <div class="g-row"><div class="g-day"><b>90</b><span>days</span></div><p>If jobs booked through the system haven't covered what you've paid by day 90, billing pauses and you don't pay again until they have. Every lead is logged where we can both see it.</p></div>
-        <div class="sig">Bob</div>
-        <div class="sig-role">Founder, TruAido</div>
+        <div class="g-support"><b>Support is included.</b> Send us a change or a question any business day and a real person answers. You're never billed extra for it.</div>
       </div>
     </div>
   </div>
@@ -2269,18 +2285,18 @@
     <div class="trust-row">
       <div class="fnote">
         <div class="fn-lbl">A note from the founder</div>
-        <p>The best crew in town loses jobs every week to a worse company that simply looks better online. They show up higher on Google, they answer faster, they have more reviews. Not better work, better systems. TruAido puts that same machinery behind your business, so the quality of your work is what actually decides who wins.</p>
-        <p>TruAido is small on purpose. No call center, no ticket queue, no account manager reading from a script. I know every account by name, and the guarantee next to the price is mine personally: if the system hasn't paid for itself by day 90, you stop paying until it has.</p>
+        <p>The best crew in town loses jobs every week to a worse company that simply looks better online. They show up higher on Google, they answer faster, they have more reviews. Not better work, better systems. TruAido puts those same systems behind your business, so the quality of your work is what actually decides who wins.</p>
+        <p>When something needs attention, you reach a real person who knows your account, not a ticket number in a queue. No call center, no script, no waiting a week for a small change. And the guarantee next to the price is mine personally: if the system hasn't paid for itself by day 90, you stop paying until it has.</p>
         <div class="sig">Bob</div>
         <div class="sig-role">Founder, TruAido</div>
       </div>
       <div class="verify">
         <h4>Don't take my word for it</h4>
         <ul>
-          <li><b>Text the demo.</b>The demo on this page texts your actual phone in seconds. That's the same speed your customers get.</li>
+          <li><b>Text the demo.</b>The demo on this page texts your actual phone in seconds. That's the same speed your customers get, and we'll set the timing to whatever works for you.</li>
           <li><b>Watch the lead log.</b>Every lead is logged where you and we both see it, so the guarantee is measured in real numbers, not our word.</li>
           <li><b>Keep the exit open.</b>Month to month, cancel anytime. We have to re-earn the $297 every single month.</li>
-          <li><b>Your name on the assets.</b>Your domain and your customer list stay registered to you, client or not.</li>
+          <li><b>Your name on the assets.</b>Your domain is registered in your name, and your customer list is yours to take with you, whether you stay a client or not.</li>
         </ul>
       </div>
     </div>
@@ -2289,7 +2305,7 @@
 
 <section id="how" style="background: #fff; border-top: 1px solid #E5E6E8; border-bottom: 1px solid #E5E6E8;">
   <div class="container">
-    <div class="eyebrow">How it works</div>
+    <div class="eyebrow">Getting started</div>
     <h2 class="sec">You're live in about 7 days. Here's the process, start to finish.</h2>
     <div class="steps">
       <div class="step"><div class="n">1</div><h4>Check out</h4><div class="t">2 minutes</div><p>Start with the button just below, or book a call first if you'd rather talk it through. No contract either way.</p></div>
@@ -2297,9 +2313,12 @@
       <div class="step"><div class="n">3</div><h4>We build, you work</h4><div class="t">Live in ~7 days</div><p>Missed-call text-back and the reactivation campaign start working in week one, before the website is even done. At launch, you get a short video walkthrough of your exact system. No meeting required.</p></div>
     </div>
     <div style="text-align: center; margin-top: 28px;">
-      <div style="font-stretch: 116%; font-weight: 720; font-size: 17px; margin-bottom: 12px;">Step 1 takes 2 minutes.</div>
-      <a href="#offer" class="btn-solid">Start today</a>
-      <div style="font-size: 12.5px; color: #47546B; margin-top: 10px;">30 days risk-free, cancel anytime. Same-day build start when you begin online.</div>
+      <div class="step1-cta">
+        <div class="s1-line">Step 1 takes 2 minutes.</div>
+        <a href="#offer" class="btn-solid">Start today</a>
+      </div>
+      <div class="s1-note">30 days risk-free, cancel anytime.</div>
+      <div class="s1-note">Same-day build start when you begin online.</div>
     </div>
   </div>
 </section>
@@ -2318,14 +2337,14 @@
       <details><summary>I already use Jobber, Housecall Pro, or QuickBooks. Does this work with them?</summary><div>Yes. Keep running your jobs in the tools you already like. Our system handles the front door, the leads, missed calls, reviews, and campaigns, and we connect the two so new customers flow into your existing setup. We map that out with you in onboarding.</div></details>
       <details><summary>Is this like HomeAdvisor or Angi leads?</summary><div>No, and this matters. Those services sell the same lead to you and four other companies, and you pay whether it turns into a job or not. Everything this system produces comes from your own website, your own phone number, and your own customer list. Every lead is yours alone, and you never pay per lead.</div></details>
       <details><summary>If I cancel, what do I keep?</summary><div>Your domain is always registered in your name and your customer list is always yours to take, no games. The website and automations run on our system while you're a client, which is how we can do this month to month with no contract instead of charging thousands up front. Nobody holds your business hostage here, in either direction.</div></details>
-      <details><summary>What if it doesn't work in my market?</summary><div>That's what the guarantee is for. 30 days risk-free for any reason, and if the system hasn't paid for itself by day 90, you don't pay again until it does. Every lead is logged in the system where we can both see it, so there's no arguing about what came from where.</div></details>
+      <details><summary>What if it doesn't work in my market?</summary><div>That's what the guarantee is for. 30 days risk-free for any reason, and if the system hasn't paid for itself by day 90, you don't pay again until it has. Every lead is logged in the system where we can both see it, so there's no arguing about what came from where.</div></details>
       <details><summary>Is this one of those AI bots that annoys customers?</summary><div>No. The messages sound like you, you approve every one of them before anything goes live, and the moment a real conversation starts, it's you talking, not a bot.</div></details>
     </div>
   </div>
 </section>
 
 <div class="final">
-  <h2 class="wide">One saved job pays for this. Start today.</h2>
+  <h2 class="wide">Stop losing work to companies that aren't better than you.</h2>
   <div class="cta-row" style="justify-content: center;">
     <a href="#" class="btn-solid">Start today</a>
     <a href="#" class="btn-ghost">Book a call</a>
