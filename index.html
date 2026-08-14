@@ -1628,7 +1628,7 @@
           <div class=&quot;fn&quot;>Mike's Tree Service</div>
         </div>
         <div class=&quot;fun-card&quot;>
-          <h4>How did we do, Jim?</h4>
+          <h4 id=&quot;fungreet&quot;>How did we do, Jim?</h4>
           <div class=&quot;fs&quot;>Tap a star to rate your experience<br>with our crew today.</div>
           <div class=&quot;fun-stars&quot; id=&quot;funstars&quot;>
             <div class=&quot;fst&quot;><svg viewBox=&quot;0 0 24 24&quot;><path d=&quot;M12 2l2.9 6.3 6.9.8-5.1 4.7 1.4 6.8-6.1-3.4-6.1 3.4 1.4-6.8L2.2 9.1l6.9-.8z&quot;/></svg></div>
@@ -1703,7 +1703,7 @@
           <div class=&quot;fn&quot;>Mike's Tree Service</div>
         </div>
         <div class=&quot;neg-card&quot;>
-          <h4>We're sorry we missed the mark, Jim.</h4>
+          <h4>We're sorry we missed the mark, Rob.</h4>
           <div class=&quot;ns&quot;>Tell us what happened and Mike will<br>personally make it right.</div>
           <div class=&quot;neg-field&quot;><span class=&quot;ph&quot; id=&quot;negph&quot;>What could we have done better?</span><span id=&quot;negtext&quot;></span></div>
           <button class=&quot;neg-send&quot; id=&quot;negsend&quot;>Send to Mike</button>
@@ -1764,6 +1764,8 @@
     $('revtext').textContent='';
     $('postbtn').classList.remove('press');
     $('revcount').textContent = '(212 reviews)';
+    // Act 1 is Jim's five-star job; act 2 is a different customer, Rob.
+    $('fungreet').textContent = 'How did we do, Jim?';
   }
 
   function run() {
@@ -1834,6 +1836,7 @@
     $('negph').style.display='';
     $('negtext').textContent='';
     $('negsend').classList.remove('press');
+      $('fungreet').textContent = 'How did we do, Rob?';
       $('funscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
