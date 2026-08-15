@@ -150,10 +150,11 @@
   .subs span { font-size: 12.5px; color: #47546B; line-height: 1.5; }
 
   section.sand { background: #FFFFFF; border-top: 1px solid #E5E6E8; border-bottom: 1px solid #E5E6E8; }
-  .grid5 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 16px; }
+  .grid5 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 16px; }
   .tile { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 0 0 14px; text-align: center; font-size: 14px; font-weight: 600; overflow: hidden; text-decoration: none; color: #10203A; display: block; transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s; }
   .tile:hover { border-color: #1D4E89; transform: translateY(-3px); box-shadow: 0 10px 24px rgba(16,32,58,0.10); }
   .tile .ph { display: block; width: 100%; height: 112px; object-fit: cover; background: #F0F1F2; margin-bottom: 10px; }
+  .tile .ph-todo { display: flex; align-items: center; justify-content: center; font-size: 11px; color: #8792A3; font-weight: 400; }
   .breadth { font-size: 14.5px; color: #47546B; line-height: 1.6; max-width: 720px; }
 
   .offer-row { display: flex; gap: 20px; }
@@ -398,7 +399,7 @@
     <div class="sec-sub">Not material prices. Not rising equipment costs. The jobs that called you first and hired someone&nbsp;else.</div>
     <div class="stats">
       <div class="stat"><div class="num">$2,500+</div><div class="lbl">what a single job is worth in most service trades, and often far more</div></div>
-      <div class="stat"><div class="num">1st</div><div class="lbl">the first company to respond is usually the one that gets hired</div></div>
+      <div class="stat"><div class="num">1st</div><div class="lbl">the first company to answer is the first to quote, and often the only one</div></div>
       <div class="stat"><div class="num">2+</div><div class="lbl">calls missed in a typical week when your hands are full. Each one is a job at risk</div></div>
     </div>
     <div class="calc" id="calculator">
@@ -412,6 +413,10 @@
             <option value="12000">HVAC</option>
             <option value="15000">Roofing</option>
             <option value="5000">Paving</option>
+            <option value="15000">Remodeling</option>
+            <option value="8000">Restoration</option>
+            <option value="3000">Moving</option>
+            <option value="800">Auto repair</option>
             <option value="3000">Other service trade</option>
           </select>
         </div>
@@ -424,16 +429,16 @@
         <div><div class="small" id="jobsOut">that's 26 lost jobs</div><div class="small" id="ratioOut" style="font-weight:700; color:#10203A; margin-top:2px;">the leak is 29x the fix</div></div>
       </div>
       <div class="calc-note">Conservative on purpose: assumes only 1 in 4 missed calls was a real customer who would have hired you.</div>
-      <div class="calc-close">This system needs to save you one job a year to pay for itself.</div>
+      <div class="calc-close">You've been paying that number for years. This is the first month you don't have to.</div>
     </div>
   </div>
 </section>
 
 <section id="features" style="background: #fff; border-bottom: 1px solid #E5E6E8;">
   <div class="container">
-    <div class="eyebrow">What you get</div>
-    <h2 class="sec">Four systems, one goal: winning you more jobs.</h2>
-    <div class="sec-sub">Every lead answered in seconds, every review captured, every past customer invited back. All of it built for you and running in about 7 days.</div>
+    <div class="eyebrow">The system</div>
+    <h2 class="sec">Four places you lose jobs. One system that closes all four.</h2>
+    <div class="sec-sub">Found on Google and worth calling, answered in seconds, reviewed after the job, invited back for the next one. All of it built for you and running in about 7 days.</div>
     <div class="features">
       <div class="feature">
         <div class="txt">
@@ -1345,12 +1350,12 @@
           <div class="fnum">03</div>
           <div class="eyebrow">Feature 3 of 4</div>
           <h3>A review engine that moves you up on Google</h3>
-          <div class="lead">After every job, an automated review request. Four and five stars go straight to your public Google profile. One to three stars come to you privately first, so you can make it right before it goes public.</div>
+          <div class="lead">In week one we begin asking your past customers for the reviews they never got around to leaving. Every finished job triggers a request automatically. Four and five stars go straight to your public Google profile. One to three stars come to you privately first, so you can make it right before it goes public.</div>
           <div class="subs">
-            <div><b>Asks so you don't have to</b><span>Every finished job triggers a review request automatically. No awkward conversation.</span></div>
-            <div><b>Follows up politely</b><span>Most customers mean to leave a review and forget. Gentle reminders go out until it's done.</span></div>
+            <div><b>Asks so you don't have to</b><span>Every finished job triggers a request automatically, plus a couple gentle reminders if they forget. No awkward conversation.</span></div>
+            <div><b>Reviews that stay up</b><span>Most owners have years of happy customers and very few reviews. We work through that list at a steady pace, because Google filters out reviews that come in too fast.</span></div>
             <div><b>Bad reviews reach you first</b><span>Low ratings route to your phone privately, so you get the chance to fix the problem first.</span></div>
-            <div><b>Reviews are rankings</b><span>A steady flow of five-star reviews is one of the most reliable ways for a local business to move up on Google.</span></div>
+            <div><b>Reviews are rankings</b><span>A steady flow of positive reviews is one of the most reliable ways for a local business to move up on Google.</span></div>
           </div>
         </div>
         <div class="shotcol"><div class="shot clipwrap" data-w="560" data-h="640"><iframe class="clipframe" scrolling="no" srcdoc="<!DOCTYPE html>
@@ -2258,7 +2263,7 @@
   <div class="container">
     <div class="eyebrow">Industries</div>
     <h2 class="sec">One system. Every service trade.</h2>
-    <div class="sec-sub">No matter the trade, jobs come the same way: a customer searches, reaches out, and hires whoever responds first. Our system wins that race for you.</div>
+    <div class="sec-sub">No matter the trade, every job follows the same path: they search, they compare reviews, they call until they reach a person, and then they either come back or they don't. We build the system for all four.</div>
     <div class="grid5">
       <a href="#calculator" class="tile" data-trade="Tree service"><img class="ph" src="images/tree-service.webp" width="720" height="280" loading="lazy" alt="Tree service crew working from a bucket truck in a residential yard">Tree service</a>
       <a href="#calculator" class="tile" data-trade="Plumbing"><img class="ph" src="images/plumbing.webp" width="720" height="280" loading="lazy" alt="Plumber repairing a copper supply line under a kitchen sink">Plumbing</a>
@@ -2266,8 +2271,10 @@
       <a href="#calculator" class="tile" data-trade="HVAC"><img class="ph" src="images/hvac.webp" width="720" height="280" loading="lazy" alt="HVAC technician servicing an outdoor air conditioning condenser">HVAC</a>
       <a href="#calculator" class="tile" data-trade="Roofing"><img class="ph" src="images/roofing.webp" width="720" height="305" loading="lazy" alt="Newly installed architectural shingle roof on a two-story home">Roofing</a>
       <a href="#calculator" class="tile" data-trade="Paving"><img class="ph" src="images/paving.webp" width="720" height="305" loading="lazy" alt="Paving crew compacting fresh asphalt with a roller">Paving</a>
+      <a href="#calculator" class="tile" data-trade="Restoration"><img class="ph" src="images/restoration.webp" width="720" height="305" loading="lazy" alt="Restoration technicians drying a fire and water damaged living room with air movers">Restoration</a>
+      <a href="#calculator" class="tile" data-trade="Moving"><img class="ph" src="images/moving.webp" width="720" height="305" loading="lazy" alt="Packed moving boxes and a hand truck in a cleared living room">Moving</a>
     </div>
-    <div class="breadth">Also serving landscaping, fencing, concrete, garage doors, painters, pressure washing, pest control, auto repair, and most other service trades. Don't see your trade? The system works the same. Start today or bring your questions to a call.</div>
+    <div class="breadth">Also serving landscaping, fencing, concrete, garage door repair, painting, pressure washing, pest control, remodeling, auto repair, pet care, and most other service trades. Don't see your trade? The system works the same. Start today or bring your questions to a call.</div>
   </div>
 </section>
 
@@ -2369,7 +2376,7 @@
       <details><summary>I already have a website.</summary><div>No problem. Every client gets the full rebuild included: we pull over what's worth keeping from your current site, your photos, your content, your best reviews, build the new one on our system, and point your domain at it. We don't patch old code, so you get the same quality build as everyone else, and your domain stays registered in your name, always.</div></details>
       <details><summary>I'm not good with technology.</summary><div>There's one simple app, and it works like texting. Leads show up as conversations, you reply the way you'd reply to any text. If you can text, you can run this. We handle all the setup and the technical side for you.</div></details>
       <details><summary>What happens right after I pay?</summary><div>You fill out a 10-minute onboarding form, we start the build, your missed-call text-back and reactivation campaign go live in week one, and the full website and the rest of your system follow in about 7 days.</div></details>
-      <details><summary>I'm a newer business without many past customers. Is this for me?</summary><div>Yes. The website, missed-call text-back, review engine, and your Google Business Profile all work from day one. The only piece that needs an existing customer list is the week-one reactivation campaign, so with a short list that part starts small and grows as you finish jobs. Everything else works the same, including both guarantees.</div></details>
+      <details><summary>I'm a newer business without many past customers. Is this for me?</summary><div>Yes. The website, missed-call text-back, review engine, and your Google Business Profile all work from day one. Two pieces lean on an existing customer list, the week-one reactivation campaign and the past-customer review push, so with a short list those start small and grow as you finish jobs. Everything else works the same, including both guarantees.</div></details>
       <details><summary>Does this include a CRM?</summary><div>Yes. Contacts, conversation history, jobs, and appointments all live in one place, the same app your leads arrive in. Nothing extra to buy, nothing to sync.</div></details>
       <details><summary>I already use Jobber, Housecall Pro, or QuickBooks. Does this work with them?</summary><div>Yes. Keep running your jobs in the tools you already like. Our system handles the front door, the leads, missed calls, reviews, and campaigns, and we connect the two so new customers flow into your existing setup. We map that out with you in onboarding.</div></details>
       <details><summary>Is this like HomeAdvisor or Angi leads?</summary><div>No, and this matters. Those services sell the same lead to you and four other companies, and you pay whether it turns into a job or not. Everything this system produces comes from your own website, your own Google Business Profile, your own phone number, and your own customer list. Every lead is yours alone, and you never pay per lead.</div></details>
@@ -2419,7 +2426,7 @@
     document.getElementById('riskOut').textContent = '$' + risk.toLocaleString();
     document.getElementById('jobsOut').textContent = "that's " + lostJobs + " lost jobs";
     const ratio = Math.round(risk / 3564);
-    document.getElementById('ratioOut').textContent = ratio >= 2 ? 'the leak is ' + ratio + 'x the fix' : 'one saved job covers the year';
+    document.getElementById('ratioOut').textContent = ratio >= 2 ? 'the leak is ' + ratio + 'x the fix' : 'before repeat and referrals';
   }
   function presetTrade() {
     document.getElementById('ticket').value = document.getElementById('trade').value;
