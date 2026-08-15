@@ -153,7 +153,7 @@
   .grid5 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 16px; }
   .tile { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 0 0 14px; text-align: center; font-size: 14px; font-weight: 600; overflow: hidden; text-decoration: none; color: #10203A; display: block; transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s; }
   .tile:hover { border-color: #1D4E89; transform: translateY(-3px); box-shadow: 0 10px 24px rgba(16,32,58,0.10); }
-  .tile .ph { height: 112px; background: #F0F1F2; margin-bottom: 10px; display: flex; align-items: center; justify-content: center; font-size: 11px; color: #8792A3; font-weight: 400; }
+  .tile .ph { display: block; width: 100%; height: 112px; object-fit: cover; background: #F0F1F2; margin-bottom: 10px; }
   .breadth { font-size: 14.5px; color: #47546B; line-height: 1.6; max-width: 720px; }
 
   .offer-row { display: flex; gap: 20px; }
@@ -998,7 +998,7 @@
           <div class="subs">
             <div><b>Works when you can't</b><span>Your hands are full and you can't pick up. The text goes out anyway, every time.</span></div>
             <div><b>Covers nights and weekends</b><span>A 9pm caller gets a response at 9pm. You deal with it in the morning.</span></div>
-            <div><b>Starts the quote immediately</b><span>The text can be customized to ask what they need and for photos. So when you call back, you already know the job.</span></div>
+            <div><b>Starts the quote immediately</b><span>The text can ask for job details and photos. By the time you call back, you already know the job.</span></div>
             <div><b>Beats the next company on the list</b><span>Callers who don't get an answer just dial the next business on Google. Our system stops that.</span></div>
           </div>
         </div>
@@ -1855,7 +1855,7 @@
     });
     at(a0 + 3500, () => {
       $('povlabel').classList.remove('swap');
-      $('povtext').textContent = &quot;Their feedback comes straight to you, so you can make it right.&quot;;
+      $('povtext').textContent = &quot;Their feedback comes straight to you, so you can address the issue.&quot;;
     });
     const nstep = 30;
     for (let i = 1; i <= NEG.length; i++) {
@@ -2260,12 +2260,12 @@
     <h2 class="sec">One system. Every service trade.</h2>
     <div class="sec-sub">No matter the trade, jobs come the same way: a customer searches, reaches out, and hires whoever responds first. Our system wins that race for you.</div>
     <div class="grid5">
-      <a href="#calculator" class="tile" data-trade="Tree service"><div class="ph">photo: climber at work</div>Tree service</a>
-      <a href="#calculator" class="tile" data-trade="Plumbing"><div class="ph">photo: plumber on job</div>Plumbing</a>
-      <a href="#calculator" class="tile" data-trade="Electrical"><div class="ph">photo: electrician panel</div>Electrical</a>
-      <a href="#calculator" class="tile" data-trade="HVAC"><div class="ph">photo: rooftop unit</div>HVAC</a>
-      <a href="#calculator" class="tile" data-trade="Roofing"><div class="ph">photo: crew on roof</div>Roofing</a>
-      <a href="#calculator" class="tile" data-trade="Paving"><div class="ph">photo: fresh asphalt driveway</div>Paving</a>
+      <a href="#calculator" class="tile" data-trade="Tree service"><img class="ph" src="images/tree-service.webp" width="720" height="280" loading="lazy" alt="Tree service crew working from a bucket truck in a residential yard">Tree service</a>
+      <a href="#calculator" class="tile" data-trade="Plumbing"><img class="ph" src="images/plumbing.webp" width="720" height="280" loading="lazy" alt="Plumber repairing a copper supply line under a kitchen sink">Plumbing</a>
+      <a href="#calculator" class="tile" data-trade="Electrical"><img class="ph" src="images/electrical.webp" width="720" height="280" loading="lazy" alt="Electrician testing circuits at an open residential breaker panel">Electrical</a>
+      <a href="#calculator" class="tile" data-trade="HVAC"><img class="ph" src="images/hvac.webp" width="720" height="280" loading="lazy" alt="HVAC technician servicing an outdoor air conditioning condenser">HVAC</a>
+      <a href="#calculator" class="tile" data-trade="Roofing"><img class="ph" src="images/roofing.webp" width="720" height="305" loading="lazy" alt="Newly installed architectural shingle roof on a two-story home">Roofing</a>
+      <a href="#calculator" class="tile" data-trade="Paving"><img class="ph" src="images/paving.webp" width="720" height="305" loading="lazy" alt="Paving crew compacting fresh asphalt with a roller">Paving</a>
     </div>
     <div class="breadth">Also serving landscaping, fencing, concrete, garage doors, painters, pressure washing, pest control, auto repair, and most other service trades. Don't see your trade? The system works the same. Start today or bring your questions to a call.</div>
   </div>
