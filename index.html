@@ -412,26 +412,26 @@
       <div class="calc-grid">
         <div><label>Your trade</label>
           <select id="trade" onchange="presetTrade()">
-            <option value="4000">Tree service</option>
-            <option value="2500">Plumbing</option>
-            <option value="3500">Electrical</option>
-            <option value="12000">HVAC</option>
-            <option value="15000">Roofing</option>
-            <option value="5000">Paving</option>
-            <option value="15000">Remodeling</option>
+            <option value="1800">Tree service</option>
+            <option value="2300">Plumbing</option>
             <option value="8000">Restoration</option>
+            <option value="6000">HVAC</option>
+            <option value="2700">Electrical</option>
+            <option value="5000">Paving</option>
             <option value="3000">Moving</option>
-            <option value="800">Auto repair</option>
+            <option value="12000">Roofing</option>
+            <option value="15000">Remodeling</option>
+            <option value="1200">Auto repair</option>
             <option value="3000">Other service trade</option>
           </select>
         </div>
-        <div><label>Average job value ($)</label><input type="number" id="ticket" value="4000" oninput="calc()"></div>
+        <div><label>Average job value ($)</label><input type="number" id="ticket" value="1800" oninput="calc()"></div>
         <div><label>Missed calls per week</label><input type="number" id="missed" value="2" oninput="calc()"></div>
       </div>
       <div class="calc-out">
-        <div><div class="small">revenue at risk this year</div><div class="big risk" id="riskOut">$104,000</div></div>
+        <div><div class="small">revenue at risk this year</div><div class="big risk" id="riskOut">$46,800</div></div>
         <div><div class="small">TruAido this year</div><div class="big cost">$3,564</div></div>
-        <div><div class="small" id="jobsOut">that's 26 lost jobs</div><div class="small" id="ratioOut" style="font-weight:700; color:#10203A; margin-top:2px;">the leak is 29x the fix</div></div>
+        <div><div class="small" id="jobsOut">that's 26 lost jobs</div><div class="small" id="ratioOut" style="font-weight:700; color:#10203A; margin-top:2px;">the leak is 13x the fix</div></div>
       </div>
       <div class="calc-note">Conservative on purpose: assumes only 1 in 4 missed calls was a real customer who would have hired you.</div>
       <div class="calc-close">You've been paying that number for years. This is the first month you don't have to.</div>
