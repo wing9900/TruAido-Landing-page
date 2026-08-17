@@ -18,9 +18,10 @@
   .hl::after { content: ""; position: absolute; left: -1%; right: -1%; bottom: -0.1em; height: 0.26em; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 12' preserveAspectRatio='none'%3E%3Cpath d='M3 9 Q60 2 120 7 T197 4' stroke='%230E8A5F' stroke-width='5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat center / 100% 100%; }
   .eyebrow { font-stretch: 78%; font-weight: 600; letter-spacing: 0.09em; text-transform: uppercase; font-size: 12px; color: #1D4E89; }
   .btn-solid { background: #0E8A5F; color: #fff; font-weight: 650; border-radius: 6px; display: inline-block; text-decoration: none; padding: 15px 28px; font-size: 16px; cursor: pointer; border: none; font-family: inherit; transition: background 0.15s, transform 0.15s, box-shadow 0.15s; }
-  .btn-solid:hover { background: #0B6E4C; transform: translateY(-1px); box-shadow: 0 6px 16px rgba(14,138,95,0.25); }
+  @media (hover: hover) { .btn-solid:hover { background: #0B6E4C; transform: translateY(-1px); box-shadow: 0 6px 16px rgba(14,138,95,0.25); } }
+  .btn-solid:active { transform: translateY(-1px); }
   .btn-ghost { border: 1px solid #C9CBCF; color: #10203A; border-radius: 6px; display: inline-block; text-decoration: none; padding: 15px 28px; font-size: 16px; cursor: pointer; background: transparent; font-family: inherit; transition: border-color 0.15s; }
-  .btn-ghost:hover { border-color: #10203A; }
+  @media (hover: hover) { .btn-ghost:hover { border-color: #10203A; } }
   .container { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
   section { padding: 64px 0; }
   section { scroll-margin-top: 39px; }
@@ -46,7 +47,8 @@
   .mnav-close { position: absolute; top: 18px; right: 20px; background: none; border: 0; padding: 6px; cursor: pointer; line-height: 0; }
   .mnav-close svg { display: block; }
   .mnav > a { display: block; text-align: left; padding: 13px 0; color: #E9EEF6; font-size: 19px; font-weight: 650; font-stretch: 105%; text-decoration: none; }
-  .mnav > a:hover, .mnav > a:active { color: #35B37E; }
+  @media (hover: hover) { .mnav > a:hover { color: #35B37E; } }
+  .mnav > a:active { color: #35B37E; }
   .mnav-div { border-top: 1px solid rgba(255,255,255,0.14); margin: 12px 0 18px; }
   .mnav-cta { display: flex; flex-direction: column; gap: 10px; }
   .nav-ctas a { color: #A9B6CC; font-size: 13.5px; text-decoration: none; }
@@ -56,11 +58,11 @@
   .logo-text { color: #FFFFFF; }
   nav.links { display: flex; gap: 22px; align-items: center; }
   nav.links a { color: #A9B6CC; font-size: 13.5px; text-decoration: none; }
-  nav.links a:hover { color: #FFFFFF; }
+  @media (hover: hover) { nav.links a:hover { color: #FFFFFF; } }
   .nav-ghost { color: #FFFFFF !important; border: 1px solid #2C3E5E; padding: 8px 14px; border-radius: 6px; transition: border-color 0.15s; }
-  .nav-ghost:hover { border-color: #FFFFFF; }
+  @media (hover: hover) { .nav-ghost:hover { border-color: #FFFFFF; } }
   .nav-solid { color: #fff !important; background: #0E8A5F; padding: 9px 14px; border-radius: 6px; font-weight: 600; transition: background 0.15s, transform 0.15s, box-shadow 0.15s; }
-  .nav-solid:hover { background: #0B6E4C; transform: translateY(-1px); box-shadow: 0 6px 16px rgba(14,138,95,0.25); }
+  @media (hover: hover) { .nav-solid:hover { background: #0B6E4C; transform: translateY(-1px); box-shadow: 0 6px 16px rgba(14,138,95,0.25); } }
 
   .hero { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 64px 0 48px; }
   .hero > div { max-width: 980px; }
@@ -85,7 +87,7 @@
   .video-label { background: #10203A; color: #FFFFFF; font-stretch: 82%; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; font-size: 12px; padding: 10px 18px; }
   .video-frame { height: 420px; background: #16273F; display: flex; align-items: center; justify-content: center; cursor: pointer; }
   .play { width: 72px; height: 72px; border-radius: 50%; background: #0E8A5F; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 26px; transition: transform 0.15s; }
-  .video-frame:hover .play { transform: scale(1.07); }
+  @media (hover: hover) { .video-frame:hover .play { transform: scale(1.07); } }
   .video-note { padding: 12px 18px; font-size: 13.5px; color: #47546B; }
   details.transcript { border-top: 1px solid #E5E6E8; }
   details.transcript summary { padding: 12px 18px; font-size: 13.5px; cursor: pointer; font-weight: 600; }
@@ -103,7 +105,7 @@
   .demo input { flex: 1; background: #fff; border: 1px solid #C6E2D4; border-radius: 6px; padding: 13px 15px; font-size: 15px; font-family: inherit; outline: none; }
   .demo input:focus { border-color: #0E8A5F; }
   .demo .btn-solid { background: #1B3358; }
-  .demo .btn-solid:hover { background: #1D4E89; }
+  @media (hover: hover) { .demo .btn-solid:hover { background: #1D4E89; } }
   .micro { font-size: 11.5px; color: #6E857A; margin-top: 10px; }
   .demo-status { font-size: 14px; } .demo-status:not(:empty) { margin-top: 12px; }
   .demo-status.ok { color: #0B4A34; font-weight: 600; }
@@ -154,7 +156,8 @@
   section.sand { background: #FFFFFF; border-top: 1px solid #E5E6E8; border-bottom: 1px solid #E5E6E8; }
   .grid5 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 16px; }
   .tile { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 0 0 14px; text-align: center; font-size: 14px; font-weight: 600; overflow: hidden; text-decoration: none; color: #10203A; display: block; transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s; }
-  .tile:hover { border-color: #1D4E89; transform: translateY(-3px); box-shadow: 0 10px 24px rgba(16,32,58,0.10); }
+  @media (hover: hover) { .tile:hover { border-color: #1D4E89; transform: translateY(-3px); box-shadow: 0 10px 24px rgba(16,32,58,0.10); } }
+  .tile:active { transform: translateY(-1px); }
   .tile .ph { display: block; width: 100%; height: 112px; object-fit: cover; background: #F0F1F2; margin-bottom: 10px; }
   .tile .ph-todo { display: flex; align-items: center; justify-content: center; font-size: 11px; color: #8792A3; font-weight: 400; }
   .breadth { font-size: 14.5px; color: #47546B; line-height: 1.6; max-width: 720px; }
@@ -206,7 +209,7 @@
 
   .why-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 20px; }
   .why { background: #fff; border: 1px solid #E5E6E8; border-radius: 10px; padding: 22px; transition: transform 0.15s, border-color 0.15s; }
-  .why:hover { border-color: #1D4E89; transform: translateY(-3px); }
+  @media (hover: hover) { .why:hover { border-color: #1D4E89; transform: translateY(-3px); } }
   .why h4 { font-stretch: 114%; font-weight: 730; font-size: 16px; margin-bottom: 6px; }
   .why p { font-size: 13px; color: #47546B; line-height: 1.55; }
   .why .k { font-stretch: 120%; font-weight: 800; font-size: 22px; color: #0E8A5F; margin-bottom: 8px; }
@@ -242,7 +245,7 @@
   .final h2 { color: #FFFFFF; font-stretch: 120%; font-weight: 780; font-size: 36px; margin-bottom: 22px; letter-spacing: -0.02em; }
   .final .micro2 { font-size: 13.5px; color: #A9B6CC; margin-top: 16px; }
   .final .btn-ghost, .mnav-cta .btn-ghost, .sticky-cta .btn-ghost { border-color: #2C3E5E; color: #FFFFFF; }
-  .final .btn-ghost:hover, .mnav-cta .btn-ghost:hover, .sticky-cta .btn-ghost:hover { border-color: #FFFFFF; }
+  @media (hover: hover) { .final .btn-ghost:hover, .mnav-cta .btn-ghost:hover, .sticky-cta .btn-ghost:hover { border-color: #FFFFFF; } }
 
   footer { background: #0A1526; padding: 32px 24px; }
   .foot { max-width: 1080px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; }
@@ -252,7 +255,7 @@
   .foot-contact { display: flex; flex-direction: column; gap: 12px; }
   .foot-contact .fc-lbl { display: block; color: #75879F; font-size: 11px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 600; margin-bottom: 3px; }
   .foot-contact a { color: #E9EEF6; font-size: 14px; font-weight: 600; }
-  .foot-contact a:hover { color: #35B37E; }
+  @media (hover: hover) { .foot-contact a:hover { color: #35B37E; } }
   .foot .fact { color: #75879F; font-size: 12px; max-width: 420px; line-height: 1.5; }
 
   .sticky-cta { position: fixed; bottom: 0; left: 0; right: 0; background: #10203A; padding: 12px 16px; display: none; justify-content: center; gap: 10px; z-index: 60; box-shadow: 0 -4px 20px rgba(17,26,34,0.3); }
