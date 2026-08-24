@@ -496,6 +496,12 @@
   ]
 }
 </script>
+<style>
+  #checkout-mount { min-width: 172px; }
+  #checkout-mount > a { display: block; width: 100%; box-sizing: border-box; text-align: center; }
+  @media (max-width: 640px) { #checkout-mount { flex: 1 1 0; min-width: 0; } }
+</style>
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
 </head>
 <body>
 
@@ -2482,7 +2488,7 @@
           <div class="obi"><div class="ck">&#10003;</div><div><b>Same-day build start</b><span class="d">Your onboarding form comes straight to us, so the build begins the day you sign up.</span></div></div>
         </div>
         <div class="cta-row">
-          <a href="#" class="btn-solid">Start my build</a>
+          <div id="checkout-mount"><a href="#offer" class="btn-solid">Start my build</a></div>
           <a href="#" class="btn-ghost">Book a call</a>
         </div>
       </div>
@@ -2579,7 +2585,7 @@
 <div class="final">
   <h2 class="wide">Stop losing work to companies that aren't better than yours.</h2>
   <div class="cta-row" style="justify-content: center;">
-    <a href="#" class="btn-solid">Win the next job</a>
+    <a href="#offer" class="btn-solid">Win the next job</a>
     <a href="#" class="btn-ghost">Book a call</a>
   </div>
   <div class="micro2">30 days risk-free. Backed by our 90-day pays-for-itself guarantee.</div>
@@ -2754,6 +2760,30 @@
 })();
 
 (function(){try{var t=document.getElementById('povtext')||document.querySelector('.povlabel');if(!t)return;var _last='';function send(){var v=t.innerHTML;if(v===_last)return;_last=v;try{parent.postMessage({type:'truaido-cap',text:v},'*');}catch(e){}}var mo=new MutationObserver(send);mo.observe(t,{childList:true,characterData:true,subtree:true});send();}catch(e){}})();
+</script>
+
+<!-- ===== Stripe checkout =====================================================
+     Replace the two values below with those from your Stripe dashboard.
+     Both are PUBLIC values and are safe to ship in this file.
+     Never put a secret key (sk_test_... / sk_live_...) in here.
+     Until both are filled in, the button stays a plain link and nothing breaks.
+========================================================================== -->
+<script>
+  var STRIPE_BUY_BUTTON_ID   = "REPLACE_WITH_BUY_BUTTON_ID";   // buy_btn_...
+  var STRIPE_PUBLISHABLE_KEY = "REPLACE_WITH_PUBLISHABLE_KEY"; // pk_test_... or pk_live_...
+
+  (function () {
+    var mount = document.getElementById("checkout-mount");
+    if (!mount) return;
+    var configured = /^buy_btn_/.test(STRIPE_BUY_BUTTON_ID) &&
+                     /^pk_(test|live)_/.test(STRIPE_PUBLISHABLE_KEY);
+    if (!configured) return; // keep the fallback link until the real IDs are in
+    var btn = document.createElement("stripe-buy-button");
+    btn.setAttribute("buy-button-id", STRIPE_BUY_BUTTON_ID);
+    btn.setAttribute("publishable-key", STRIPE_PUBLISHABLE_KEY);
+    mount.innerHTML = "";
+    mount.appendChild(btn);
+  })();
 </script>
 </body>
 </html>
