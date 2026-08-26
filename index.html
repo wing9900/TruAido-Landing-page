@@ -497,11 +497,7 @@
 }
 </script>
 <style>
-  #checkout-mount { min-width: 172px; }
-  #checkout-mount > a { display: block; width: 100%; box-sizing: border-box; text-align: center; }
-  @media (max-width: 640px) { #checkout-mount { flex: 1 1 0; min-width: 0; } }
 </style>
-<script async src="https://js.stripe.com/v3/buy-button.js"></script>
 </head>
 <body>
 
@@ -531,11 +527,11 @@
       <a href="#how">Getting Started</a>
       <a href="#faq">FAQ</a>
       <div class="mnav-div"></div>
-      <div class="mnav-cta"><a href="https://cal.com/truaido/video-meeting" class="btn-ghost" style="text-align:center;" target="_blank" rel="noopener noreferrer">Book a call</a><a href="#offer" class="btn-solid" style="text-align:center;">Start my build</a></div>
+      <div class="mnav-cta"><a href="https://cal.com/truaido/video-meeting" class="btn-ghost" style="text-align:center;" target="_blank" rel="noopener noreferrer">Book a call</a><a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="btn-solid" style="text-align:center;">Start my build</a></div>
     </div>
     <div class="nav-ctas">
       <a href="https://cal.com/truaido/video-meeting" class="nav-ghost" target="_blank" rel="noopener noreferrer">Book a call</a>
-      <a href="#offer" class="nav-solid">Start my build</a>
+      <a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="nav-solid">Start my build</a>
     </div>
   </div>
 </header>
@@ -569,7 +565,7 @@
     </div>
     <div class="offer-block">
       <div class="cta-row">
-        <a href="#offer" class="btn-solid">Start my build</a>
+        <a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="btn-solid">Start my build</a>
         <a href="https://cal.com/truaido/video-meeting" class="btn-ghost" target="_blank" rel="noopener noreferrer">Book a call</a>
       </div>
       <div class="offer-price">$297/mo. No contract, cancel anytime.</div>
@@ -2488,7 +2484,7 @@
           <div class="obi"><div class="ck">&#10003;</div><div><b>Same-day build start</b><span class="d">Your onboarding form comes straight to us, so the build begins the day you sign up.</span></div></div>
         </div>
         <div class="cta-row">
-          <div id="checkout-mount"><a href="#offer" class="btn-solid">Start my build</a></div>
+          <a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="btn-solid">Start my build</a>
           <a href="https://cal.com/truaido/video-meeting" class="btn-ghost" target="_blank" rel="noopener noreferrer">Book a call</a>
         </div>
       </div>
@@ -2546,7 +2542,7 @@
     <div style="text-align: center; margin-top: 28px;">
       <div class="step1-cta">
         <div class="s1-line">Step 1 takes 2 minutes.</div>
-        <a href="#offer" class="btn-solid">Start my build</a>
+        <a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="btn-solid">Start my build</a>
       </div>
       <div class="s1-note">30 days risk-free, cancel anytime.</div>
       <div class="s1-note">Same-day build start, and nothing is charged today.</div>
@@ -2585,7 +2581,7 @@
 <div class="final">
   <h2 class="wide">Stop losing work to companies that aren't better than yours.</h2>
   <div class="cta-row" style="justify-content: center;">
-    <a href="#offer" class="btn-solid">Win the next job</a>
+    <a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="btn-solid">Win the next job</a>
     <a href="https://cal.com/truaido/video-meeting" class="btn-ghost" target="_blank" rel="noopener noreferrer">Book a call</a>
   </div>
   <div class="micro2">30 days risk-free. Backed by our 90-day pays-for-itself guarantee.</div>
@@ -2610,7 +2606,7 @@
 </footer>
 
 <div class="sticky-cta" id="stickyCta">
-  <a href="#offer" class="btn-solid" style="font-size:14px;">Start my build</a>
+  <a href="https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00" class="btn-solid" style="font-size:14px;">Start my build</a>
   <a href="https://cal.com/truaido/video-meeting" class="btn-ghost" style="font-size:14px;" target="_blank" rel="noopener noreferrer">Book a call</a>
 </div>
 
@@ -2762,49 +2758,7 @@
 (function(){try{var t=document.getElementById('povtext')||document.querySelector('.povlabel');if(!t)return;var _last='';function send(){var v=t.innerHTML;if(v===_last)return;_last=v;try{parent.postMessage({type:'truaido-cap',text:v},'*');}catch(e){}}var mo=new MutationObserver(send);mo.observe(t,{childList:true,characterData:true,subtree:true});send();}catch(e){}})();
 </script>
 
-<!-- ===== Stripe checkout =====================================================
-     Fill in ONE of the two options below. Both use only PUBLIC values that
-     are safe to ship in this file. Never put a secret key (sk_test_... /
-     sk_live_...) in here. Until one option is filled in, the button stays a
-     plain link and nothing breaks.
-
-     OPTION A - Payment Link (preferred). Needed for "Save payment details
-     for future use", which collects the card and charges $0 today. Renders
-     as the page's own button, so it matches the site exactly.
-
-     OPTION B - Buy Button. Stripe's embedded widget. Only use this if the
-     Payment Link route is not what you want.
-========================================================================== -->
-<script>
-  // --- Option A -------------------------------------------------------
-  var STRIPE_PAYMENT_LINK    = "https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00";
-
-  // --- Option B -------------------------------------------------------
-  var STRIPE_BUY_BUTTON_ID   = "REPLACE_WITH_BUY_BUTTON_ID";    // buy_btn_...
-  var STRIPE_PUBLISHABLE_KEY = "REPLACE_WITH_PUBLISHABLE_KEY";  // pk_test_... or pk_live_...
-
-  (function () {
-    var mount = document.getElementById("checkout-mount");
-    if (!mount) return;
-
-    // Option A wins if present: point the existing styled link at checkout.
-    if (/^https:\/\/buy\.stripe\.com\/\S+/.test(STRIPE_PAYMENT_LINK)) {
-      var a = mount.querySelector("a");
-      if (a) a.setAttribute("href", STRIPE_PAYMENT_LINK);
-      return;
-    }
-
-    // Option B: swap the link for Stripe's embedded widget.
-    if (/^buy_btn_/.test(STRIPE_BUY_BUTTON_ID) &&
-        /^pk_(test|live)_/.test(STRIPE_PUBLISHABLE_KEY)) {
-      var btn = document.createElement("stripe-buy-button");
-      btn.setAttribute("buy-button-id", STRIPE_BUY_BUTTON_ID);
-      btn.setAttribute("publishable-key", STRIPE_PUBLISHABLE_KEY);
-      mount.innerHTML = "";
-      mount.appendChild(btn);
-    }
-    // Neither configured: leave the fallback link untouched.
-  })();
-</script>
+<!-- Checkout: the Stripe payment link is set directly on every green
+     purchase button above. To change it, replace the buy.stripe.com URL. -->
 </body>
 </html>
