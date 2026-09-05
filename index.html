@@ -2677,14 +2677,14 @@
   syncDemoBtn();
   function runDemo() {
     const s = document.getElementById('demoStatus');
-    if (!dConsent.checked) { s.className = 'demo-status err'; s.textContent = 'Please check the consent box first so we know it\'s okay to text you.'; return; }
+    if (!dConsent.checked) { s.className = 'demo-status err'; s.textContent = 'Check the consent box first so we know it\'s okay to text you.'; return; }
     const digits = dInput.value.replace(/\D/g, '');
     if (digits.length < 10) { s.className = 'demo-status err'; s.textContent = 'That number looks short. Ten digits and we\'re in business.'; return; }
     const b = document.getElementById('demoBtn');
-    b.disabled = true; s.className = 'demo-status'; s.textContent = 'Sending...';
+    b.disabled = true; s.className = 'demo-status'; s.textContent = 'Sending your text...';
     setTimeout(function() {
       s.className = 'demo-status ok';
-      s.textContent = 'Check your phone. That text took about 3 seconds. Your customers get the same thing. (On the live site, a real text arrives via the GHL demo line.)';
+      s.textContent = 'Check your phone. That took about 3 seconds, and it works the same at 2am on a Sunday. Every missed call, form, and chat message on your site can answer itself exactly like that.';
       syncDemoBtn();
     }, 1400);
   }
