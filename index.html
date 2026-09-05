@@ -577,7 +577,7 @@
         <input type="tel" id="demoPhone" placeholder="(555) 555-0134" maxlength="14">
         <button class="btn-solid" id="demoBtn" onclick="runDemo()" style="font-size:14px;">Text my phone the demo</button>
       </div>
-      <div class="demo-consent">
+      <div class="demo-consent" id="demoConsent">
         <input type="checkbox" id="smsConsent" autocomplete="off">
         <label for="smsConsent">I agree to receive text messages from TruAido at the number provided, including a one-time demo message and messages about my account or onboarding. Consent is not a condition of purchase. Message frequency varies. Msg &amp; data rates may apply. Reply STOP to opt out, HELP for help. See our <a href="/privacy.html" target="_blank" rel="noopener">Privacy Policy</a> and <a href="/terms.html" target="_blank" rel="noopener">Terms</a>.</label>
       </div>
@@ -2681,6 +2681,8 @@
     const digits = dInput.value.replace(/\D/g, '');
     if (digits.length < 10) { s.className = 'demo-status err'; s.textContent = 'That number looks short. Ten digits and we\'re in business.'; return; }
     const b = document.getElementById('demoBtn');
+    const c = document.getElementById('demoConsent');
+    if (c) c.style.display = 'none';
     b.disabled = true; s.className = 'demo-status'; s.textContent = 'Sending your text...';
     setTimeout(function() {
       s.className = 'demo-status ok';
