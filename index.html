@@ -1552,9 +1552,9 @@
           <div class="fnum">03</div>
           <div class="eyebrow">Feature 3 of 4</div>
           <h3>A review engine that moves you up on Google</h3>
-          <div class="lead">In week one we begin asking your past customers for the reviews they never got around to leaving. Every finished job triggers a request automatically. Four and five stars go straight to your public Google profile. One to three stars come to you privately first, so you can make it right before it goes public.</div>
+          <div class="lead">In week one we begin asking your past customers for the reviews they never got around to leaving. Every finished job triggers a personal request, with a couple gentle reminders if they forget. Four and five stars go straight to your public Google profile. One to three stars come to you privately first, so you can make it right before it goes public.</div>
           <div class="subs">
-            <div><b>Asks so you don't have to</b><span>Every finished job triggers a request automatically, plus a couple gentle reminders if they forget. No awkward conversation.</span></div>
+            <div><b>A photo with their name on it</b><span>Each request includes a photo of your crew holding a sign with the customer's name on it. It stands out from every other text they get that day.</span></div>
             <div><b>Reviews that stay up</b><span>Most owners have years of happy customers and very few reviews. We work through that list at a steady pace, because Google filters out reviews that come in too fast.</span></div>
             <div><b>Bad reviews reach you first</b><span>Low ratings route to your phone privately, so you get the chance to fix the problem first.</span></div>
             <div><b>Reviews are rankings</b><span>A steady flow of positive reviews is one of the most reliable ways for a local business to move up on Google.</span></div>
@@ -1657,6 +1657,8 @@
     transition:opacity .28s ease, transform .42s cubic-bezier(.2,1.1,.35,1.12); }
   .fade-el { opacity:0; transition:opacity .3s ease; }
   .fade-el.show { opacity:1; }
+  .mms { display:block; width:200px; height:auto; aspect-ratio:3/2; object-fit:cover;
+    border-radius:18px; background:#E9E9EB; }
 
 
   /* ---------- FUNNEL (gate) SCREEN ---------- */
@@ -1783,7 +1785,7 @@
 <body>
 
 <div class=&quot;stage&quot; id=&quot;stage&quot;>
-  <div class=&quot;povlabel&quot; id=&quot;povlabel&quot;><span id=&quot;povtext&quot;>The job's done. Our system sends the review request automatically.</span></div>
+  <div class=&quot;povlabel&quot; id=&quot;povlabel&quot;><span id=&quot;povtext&quot;>The job's done. Your customer gets a personal photo from your crew.</span></div>
 
   <div class=&quot;iphone&quot;>
     <div class=&quot;ip-btn action&quot;></div>
@@ -1815,8 +1817,11 @@
           <div class=&quot;brow in&quot; id=&quot;typingRow&quot; style=&quot;display:none;&quot;>
             <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
           </div>
+          <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg0&quot;>
+            <img class=&quot;mms&quot; src=&quot;https://res.cloudinary.com/dpxlc4ep/image/upload/w_1200/l_text:Kalam_46_bold_center_letter_spacing_-3_line_spacing_-10:Hey%20Jim!%0AWill%20you%20please%0Aleave%20us%20a%20review%3F/c_fit,w_440/fl_layer_apply,y_80/f_webp,q_auto,w_600/v1788992583/Google_Review_Request_Conroe_Tree_Service_Blank_Sign.png&quot; width=&quot;1200&quot; height=&quot;800&quot; alt=&quot;Tree crew holding a sign that reads: Hey Jim! Will you please leave us a review?&quot;>
+          </div>
           <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg1&quot;>
-            <div class=&quot;bubble in&quot;>Hey Jim, it's Mike. Thanks for trusting us with your pine today. If you were happy with the work, would you leave us a quick Google review? It takes about 20 seconds and helps us a ton: <span class=&quot;link&quot; id=&quot;revlink&quot;>mikestreeservice.com/review</span></div>
+            <div class=&quot;bubble in&quot;>Hi Jim, it's Mike. Thanks for trusting us with your tree care needs. If you have a second, we'd love it if you could leave us a quick review here: <span class=&quot;link&quot; id=&quot;revlink&quot;>mikestreeservice.com/review</span></div>
           </div>
         </div>
         <div class=&quot;ios-inputbar&quot;>
@@ -1962,10 +1967,11 @@
     $('negsend').classList.remove('press');
     $('revdone').classList.remove('on');
     $('typingRow').style.display='none';
+    $('msg0').classList.remove('show');
     $('msg1').classList.remove('show');
     $('stamp').classList.remove('show');
     $('povlabel').classList.remove('swap');
-    $('povtext').textContent = &quot;The job's done. Our system sends the review request automatically.&quot;;
+    $('povtext').textContent = &quot;The job's done. Your customer gets a personal photo from your crew.&quot;;
     document.querySelectorAll('#revstars .st').forEach(s => s.classList.remove('on','pop'));
     $('revph').style.display='';
     $('revtext').textContent='';
@@ -1978,10 +1984,11 @@
   function run() {
     resetState();
 
-    // review request arrives
+    // review request arrives: sign photo first, then the text
     at(500, () => $('stamp').classList.add('show'));
     at(900, () => { $('typingRow').style.display='flex'; });
-    at(2200, () => { $('typingRow').style.display='none'; $('msg1').classList.add('show'); });
+    at(2200, () => { $('typingRow').style.display='none'; $('msg0').classList.add('show'); });
+    at(2400, () => $('msg1').classList.add('show'));
 
     // tap the link -> funnel gate
     at(5200, () => tapAt($('revlink')));
