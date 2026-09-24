@@ -2101,7 +2101,7 @@
           <div class="fnum">04</div>
           <div class="eyebrow">Feature 4 of 4</div>
           <h3>Your customer list starts paying you in week one</h3>
-          <div class="lead">Your past customers already know your work, so we don't wait on the website. In week one, we reach out to them with a real offer and a real deadline. For most companies, that books paying jobs in the first seven days. After that, we keep the campaigns running year-round.</div>
+          <div class="lead">Your past customers already know your work, so we don't wait on the website. In week one, we reach out to them with a real offer and a real deadline, and a link that lets them book themselves. For most companies, that books paying jobs in the first seven days. After that, we keep the campaigns running year-round.</div>
           <div class="subs">
             <div><b>Books jobs in week one</b><span>Your existing customer list goes to work before anything else is even built.</span></div>
             <div><b>Follows up every season</b><span>Seasonal reminders and repeat-service campaigns go out on schedule, year after year, automatically.</span></div>
@@ -2325,8 +2325,8 @@
   .conv .pill.on { opacity:1; transform:scale(1); }
 
   /* ---------- BOOKING NOTIFICATION (two styles, see NOTIFY_STYLE) ---------- */
-  .bnotif, .snotif { position:absolute; left:10px; right:10px; z-index:12;
-    display:none; gap:9px; align-items:center;
+  .bnotif, .snotif { position:absolute; left:8px; right:8px; z-index:12;
+    display:none; gap:10px; align-items:center;
     opacity:0; transform:translateY(-130%);
     transition:opacity .3s ease, transform .38s cubic-bezier(.2,1.1,.35,1.12); }
   .bnotif.live, .snotif.live { display:flex; }
@@ -2336,15 +2336,16 @@
 
   /* the in-app toast sits on the first list row, so it collapses into Susan's
      conversation exactly where that row lands, and the header stays readable */
-  .bnotif { top:118px; background:#1F2328; border:1px solid #2C3138; border-radius:16px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.45); padding:11px 13px; }
-  .bnotif .nic { width:30px; height:30px; border-radius:50%; background:#12321F; flex-shrink:0;
+  /* the card and the list behind it are both near black, so the green edge is
+     what separates them: #2F6B47 reads 2.96:1 against the list, #2C3138 read 1.43:1 */
+  .bnotif { top:118px; background:#1F2328; border:1px solid #2F6B47; border-radius:16px;
+    box-shadow:0 8px 24px rgba(0,0,0,0.45); padding:13px; }
+  .bnotif .nic { width:32px; height:32px; border-radius:50%; background:#12321F; flex-shrink:0;
     display:flex; align-items:center; justify-content:center; }
   .bnotif .ntxt { flex:1; min-width:0; }
   .bnotif .nrow { display:flex; justify-content:space-between; align-items:baseline; gap:8px; }
-  .bnotif .nt { font-size:13px; font-weight:600; color:#F2F4F6; white-space:nowrap; }
-  .bnotif .nw { font-size:11px; color:#6E7680; flex-shrink:0; }
-  .bnotif .nb { font-size:12.5px; color:#8B939D; margin-top:1px; white-space:nowrap;
+  .bnotif .nt { font-size:14px; font-weight:600; color:#F2F4F6; white-space:nowrap; }
+  .bnotif .nb { font-size:13px; color:#8B939D; margin-top:2px; white-space:nowrap;
     overflow:hidden; text-overflow:ellipsis; }
 
   /* a real iOS text banner lives at the top of the screen */
@@ -2556,10 +2557,10 @@
         <!-- in-app booking toast (NOTIFY_STYLE = 'toast') -->
         <div class=&quot;bnotif&quot; id=&quot;bnotif&quot;>
           <div class=&quot;nic&quot;>
-            <svg width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#6FCF97&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;><rect x=&quot;3&quot; y=&quot;5&quot; width=&quot;18&quot; height=&quot;16&quot; rx=&quot;3&quot;/><path d=&quot;M8 3 v4 M16 3 v4 M3 10 h18 M8.8 15.4 l2.4 2.4 L15.6 13&quot;/></svg>
+            <svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#6FCF97&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;><rect x=&quot;3&quot; y=&quot;5&quot; width=&quot;18&quot; height=&quot;16&quot; rx=&quot;3&quot;/><path d=&quot;M8 3 v4 M16 3 v4 M3 10 h18 M8.8 15.4 l2.4 2.4 L15.6 13&quot;/></svg>
           </div>
           <div class=&quot;ntxt&quot;>
-            <div class=&quot;nrow&quot;><span class=&quot;nt&quot;>New appointment booked</span><span class=&quot;nw&quot;>now</span></div>
+            <div class=&quot;nrow&quot;><span class=&quot;nt&quot;>New appointment booked</span></div>
             <div class=&quot;nb&quot;>Susan Mitchell · Wed 4:30 PM</div>
           </div>
         </div>
@@ -2714,57 +2715,57 @@
     at(8050, () => showMsg('msgcard'));
 
     // beat 3: she books herself
-    at(9800, () => tapAt($('linkcard')));
-    at(10300, () => { $('bdim').classList.add('on'); $('bsheet').classList.add('up'); });
-    at(10900, () => { tapAt($('bday15')); $('bday15').classList.add('sel'); });
-    at(11700, () => {
+    at(10800, () => tapAt($('linkcard')));
+    at(11300, () => { $('bdim').classList.add('on'); $('bsheet').classList.add('up'); });
+    at(11900, () => { tapAt($('bday15')); $('bday15').classList.add('sel'); });
+    at(12700, () => {
       tapAt($('btime430'));
       $('btime430').classList.add('sel');
       $('bconf').classList.remove('dim');
     });
-    at(12400, () => { tapAt($('bconf')); $('bconf').classList.add('press'); });
-    at(12620, () => $('bconf').classList.remove('press'));
-    at(12900, () => { $('bsform').classList.add('gone'); $('bsdone').classList.add('on'); });
-    at(14400, () => { $('bsheet').classList.remove('up'); $('bdim').classList.remove('on'); });
+    at(13400, () => { tapAt($('bconf')); $('bconf').classList.add('press'); });
+    at(13620, () => $('bconf').classList.remove('press'));
+    at(13900, () => { $('bsform').classList.add('gone'); $('bsdone').classList.add('on'); });
+    at(15400, () => { $('bsheet').classList.remove('up'); $('bdim').classList.remove('on'); });
 
     // beat 4: confirmation, then the referral offer
-    at(14900, () => typing(true));
-    at(15800, () => { typing(false); showMsg('msg4'); });
-    at(16600, () => typing(true));
-    at(17400, () => {
+    at(15900, () => typing(true));
+    at(16800, () => { typing(false); showMsg('msg4'); });
+    at(17600, () => typing(true));
+    at(18400, () => {
       typing(false); showMsg('msg5');
       $('povtext').textContent = 'The referral offer goes out the moment they book.';
     });
 
     // beat 5: cut to Mike's phone
-    at(21000, () => {
+    at(22000, () => {
       $('msgscr').classList.add('off'); $('inbscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
-    at(21500, () => {
+    at(22500, () => {
       $('povlabel').classList.remove('swap');
       $('povtext').textContent = &quot;It lands on your calendar. You didn't lift a finger.&quot;;
       notifEl().classList.add('in');
     });
 
     // the notification collapses as Susan's conversation row takes its place
-    at(23700, () => {
+    at(25700, () => {
       notifEl().classList.remove('in');
       notifEl().classList.add('out');
       addReply(REPLIES[0], 1);
       // the badge arrives with the booking it is counting, not empty beforehand
       $('leadbadge').classList.add('show');
     });
-    at(25000, () => {
+    at(27000, () => {
       addReply(REPLIES[1], 2);
       $('povtext').textContent = 'Across your whole list, the estimates book themselves.';
     });
-    at(26300, () => addReply(REPLIES[2], 3));
-    at(27600, () => addReply(REPLIES[3], 3));
+    at(28300, () => addReply(REPLIES[2], 3));
+    at(29600, () => addReply(REPLIES[3], 3));
 
     // hold, fade, loop
-    at(31000, () => stage.classList.add('resetting'));
-    at(31600, () => {
+    at(33000, () => stage.classList.add('resetting'));
+    at(33600, () => {
       stage.classList.remove('resetting');
       timers.forEach(clearTimeout); timers = [];
       run();
