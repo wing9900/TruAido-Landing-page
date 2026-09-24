@@ -2105,7 +2105,7 @@
           <div class="subs">
             <div><b>Books jobs in week one</b><span>Your existing customer list goes to work before anything else is even built.</span></div>
             <div><b>Follows up every season</b><span>Seasonal reminders and repeat-service campaigns go out on schedule, year after year, automatically.</span></div>
-            <div><b>Turns customers into referrals</b><span>After the job, customers get a referral offer they can send to a neighbor, so recommending you isn't just a favor, there's something in it for them too.</span></div>
+            <div><b>Turns customers into referrals</b><span>As soon as a customer books, they get a referral offer to pass along to a neighbor, so recommending you isn't just a favor, there's something in it for them too.</span></div>
             <div><b>Zero upkeep from you</b><span>You approve it once. After that we monitor it, keep it running, and adjust the campaigns as the seasons change, so you never touch a thing.</span></div>
           </div>
         </div>
@@ -2173,6 +2173,10 @@
     display:flex; align-items:center; justify-content:center; }
   .ios-name { margin-top:4px; font-size:11.5px; color:#000; display:flex; align-items:center; gap:2px; }
   .ios-thread { flex:1; padding:12px 14px 6px; overflow:hidden; display:flex; flex-direction:column; }
+  /* the thread scrolls like iOS: the inner column is translated up so the newest
+     bubble always sits just above the input bar. See scrollThread() below. */
+  .ios-thread-inner { display:flex; flex-direction:column; flex-shrink:0;
+    transition:transform .45s cubic-bezier(.2,1,.35,1); will-change:transform; }
   .ios-stamp { text-align:center; font-size:11px; color:#8E8E93; margin:2px 0 10px; font-weight:500; }
   .ios-stamp b { font-weight:600; }
   .brow { display:flex; margin-bottom:3px; }
@@ -2213,6 +2217,76 @@
   .fade-el { opacity:0; transition:opacity .3s ease; }
   .fade-el.show { opacity:1; }
 
+  /* ---------- LINK PREVIEW CARD (iOS rich link) ---------- */
+  .linkcard { max-width:86%; width:86%; border-radius:18px; border-bottom-left-radius:5px;
+    overflow:hidden; background:#E9E9EB; }
+  .linkcard .lk-img { height:96px; display:flex; align-items:center; justify-content:center;
+    background:linear-gradient(135deg,#E6F2E9,#C9E3D1); }
+  .linkcard .lk-meta { padding:9px 12px 10px; }
+  .linkcard .lk-t { font-size:13px; font-weight:600; color:#000; letter-spacing:-0.01em; }
+  .linkcard .lk-d { font-size:11px; color:#8E8E93; margin-top:2px; }
+
+  /* ---------- BOOKING SHEET ---------- */
+  .bdim { position:absolute; inset:0; background:rgba(0,0,0,0.25); z-index:18;
+    opacity:0; visibility:hidden; transition:opacity .38s ease, visibility 0s .38s; }
+  .bdim.on { opacity:1; visibility:visible; transition:opacity .42s ease, visibility 0s 0s; }
+  .bsheet { position:absolute; left:0; right:0; top:44px; bottom:0; z-index:19;
+    background:#fff; border-radius:14px 14px 0 0; box-shadow:0 -10px 30px rgba(10,20,15,0.22);
+    display:flex; flex-direction:column; padding:0 16px 14px;
+    transform:translateY(100%); opacity:0; visibility:hidden;
+    transition:transform .38s cubic-bezier(.2,1,.35,1), opacity .25s ease, visibility 0s .38s; }
+  .bsheet.up { transform:translateY(0); opacity:1; visibility:visible;
+    transition:transform .42s cubic-bezier(.2,1,.35,1), opacity .2s ease, visibility 0s 0s; }
+  .bs-grab { width:36px; height:4px; border-radius:3px; background:#C7C7CC; margin:7px auto 9px; flex-shrink:0; }
+  .bs-url { background:#F1F3F5; border-radius:999px; padding:6px 11px; font-size:11px; color:#6B7280;
+    display:flex; align-items:center; justify-content:center; gap:5px; flex-shrink:0; }
+  .bs-stack { position:relative; flex:1; margin-top:14px; }
+  .bs-form { position:absolute; inset:0; transition:opacity .28s ease; }
+  .bs-form.gone { opacity:0; }
+  .bs-biz { display:flex; align-items:center; gap:7px; }
+  .bs-biz span { font-size:13px; font-weight:600; color:#16202B; }
+  .bs-title { font-size:18px; font-weight:700; color:#16202B; margin-top:16px; letter-spacing:-0.01em; }
+  .bs-meta { display:flex; align-items:center; gap:5px; font-size:12.5px; color:#6B7280; margin-top:9px; }
+  .bs-month { font-size:13.5px; font-weight:600; color:#16202B; margin-top:22px; }
+  .bs-days { display:flex; gap:6px; margin-top:12px; }
+  .bs-day { flex:1; border-radius:10px; background:#EAF2FE; padding:10px 0 11px; text-align:center;
+    transition:background .2s ease, transform .22s cubic-bezier(.2,1.5,.4,1.2); }
+  .bs-day .dn { font-size:10.5px; color:#8E8E93; }
+  .bs-day .dd { font-size:17px; font-weight:600; color:#1A73E8; margin-top:2px; }
+  .bs-day.sel { background:#1A73E8; transform:scale(1.06); }
+  .bs-day.sel .dn { color:rgba(255,255,255,0.8); }
+  .bs-day.sel .dd { color:#fff; }
+  .bs-lab { font-size:12px; font-weight:600; color:#6B7280; margin-top:22px; }
+  .bs-times { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:12px; }
+  .bs-time { border:1px solid rgba(26,115,232,0.4); border-radius:8px; padding:14px 0; text-align:center;
+    font-size:14px; font-weight:600; color:#1A73E8;
+    transition:background .2s ease, color .2s ease, border-color .2s ease; }
+  .bs-time.sel { background:#1A73E8; border-color:#1A73E8; color:#fff; }
+  .bs-conf { width:100%; border:none; border-radius:10px; background:#1E5B31; color:#fff;
+    font-family:inherit; font-weight:700; font-size:15px; padding:15px 0; margin-top:26px;
+    transition:transform .12s, filter .12s, opacity .25s ease; }
+  .bs-conf.dim { opacity:0.45; }
+  .bs-conf.press { transform:scale(0.96); filter:brightness(0.9); }
+  .bs-done { position:absolute; inset:0; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; text-align:center;
+    opacity:0; pointer-events:none; transition:opacity .35s ease; }
+  .bs-done.on { opacity:1; }
+  .bs-done .ck { width:56px; height:56px; border-radius:50%; background:#E8F3EC;
+    display:flex; align-items:center; justify-content:center; margin-bottom:14px; }
+  .bs-done .ck svg path { stroke:#1E5B31; stroke-width:3; fill:none; stroke-linecap:round; stroke-linejoin:round;
+    stroke-dasharray:30; stroke-dashoffset:30; }
+  .bs-done.on .ck svg path { animation:ckdraw .5s .15s ease forwards; }
+  @keyframes ckdraw { to { stroke-dashoffset:0; } }
+  .bs-done b { font-size:16px; font-weight:700; color:#152B1D; }
+  .bs-done span { font-size:12.5px; color:#6C7A70; margin-top:5px; }
+
+  /* tap ripple */
+  .tap { position:absolute; z-index:40; width:34px; height:34px; border-radius:50%;
+    background:rgba(26,115,232,0.28); border:1.5px solid rgba(26,115,232,0.45);
+    transform:scale(0); pointer-events:none; }
+  .tap.go { animation:tapgo .5s ease-out; }
+  @keyframes tapgo { 0%{ transform:scale(0.3); opacity:0;} 30%{ transform:scale(1); opacity:1;} 100%{ transform:scale(1.25); opacity:0;} }
+
   /* ---------- INBOX SCREEN (Mike) ---------- */
   .inbscr { position:absolute; inset:0; display:flex; flex-direction:column; background:#fff;
     opacity:0; transition:opacity .45s ease; }
@@ -2221,11 +2295,11 @@
   .inb-head .row1 { display:flex; align-items:center; justify-content:space-between; }
   .inb-head h3 { font-size:21px; font-weight:700; color:#16202B; letter-spacing:-0.01em; }
   .inb-badge { background:#E8F3EC; color:#1E5B31; font-size:11px; font-weight:700;
-    border-radius:999px; padding:5px 12px; transition:opacity .3s ease; }
+    border-radius:999px; padding:5px 12px; transition:opacity .3s ease; white-space:nowrap; }
   .inb-search { margin-top:10px; background:#F1F3F5; border-radius:9px; padding:7px 12px;
     font-size:12.5px; color:#9AA3AC; display:flex; align-items:center; gap:7px; }
   .inb-list { flex:1; overflow:hidden; }
-  .conv { display:flex; align-items:center; gap:11px; padding:12px 16px;
+  .conv { display:flex; align-items:center; gap:11px; padding:11px 16px;
     border-bottom:1px solid #F2F4F6; background:#fff;
     opacity:0; transform:translateY(-14px);
     transition:opacity .4s ease, transform .45s cubic-bezier(.2,1,.35,1.1);
@@ -2243,10 +2317,59 @@
   .conv .dot { width:9px; height:9px; border-radius:50%; background:#1A73E8; flex-shrink:0;
     opacity:0; transform:scale(0); transition:opacity .3s, transform .3s cubic-bezier(.2,1.5,.4,1.2); }
   .conv.unread .dot { opacity:1; transform:scale(1); }
+  .conv .pill { display:inline-flex; align-items:center; gap:4px; margin-top:5px;
+    border-radius:999px; padding:2px 8px; font-size:10.5px; font-weight:700;
+    background:#12321F; color:#6FCF97; white-space:nowrap;
+    opacity:0; transform:scale(0.86); transform-origin:left center;
+    transition:opacity .22s ease, transform .28s cubic-bezier(.2,1.5,.4,1.2); }
+  .conv .pill.on { opacity:1; transform:scale(1); }
+
+  /* ---------- BOOKING NOTIFICATION (two styles, see NOTIFY_STYLE) ---------- */
+  .bnotif, .snotif { position:absolute; left:10px; right:10px; z-index:12;
+    display:none; gap:9px; align-items:center;
+    opacity:0; transform:translateY(-130%);
+    transition:opacity .3s ease, transform .38s cubic-bezier(.2,1.1,.35,1.12); }
+  .bnotif.live, .snotif.live { display:flex; }
+  .bnotif.in, .snotif.in { opacity:1; transform:translateY(0); }
+  .bnotif.out, .snotif.out { opacity:0; transform:translateY(-12px) scale(0.96);
+    transition:opacity .3s ease, transform .3s ease; }
+
+  /* the in-app toast sits on the first list row, so it collapses into Susan's
+     conversation exactly where that row lands, and the header stays readable */
+  .bnotif { top:118px; background:#1F2328; border:1px solid #2C3138; border-radius:16px;
+    box-shadow:0 8px 24px rgba(0,0,0,0.45); padding:11px 13px; }
+  .bnotif .nic { width:30px; height:30px; border-radius:50%; background:#12321F; flex-shrink:0;
+    display:flex; align-items:center; justify-content:center; }
+  .bnotif .ntxt { flex:1; min-width:0; }
+  .bnotif .nrow { display:flex; justify-content:space-between; align-items:baseline; gap:8px; }
+  .bnotif .nt { font-size:13px; font-weight:600; color:#F2F4F6; white-space:nowrap; }
+  .bnotif .nw { font-size:11px; color:#6E7680; flex-shrink:0; }
+  .bnotif .nb { font-size:12.5px; color:#8B939D; margin-top:1px; white-space:nowrap;
+    overflow:hidden; text-overflow:ellipsis; }
+
+  /* a real iOS text banner lives at the top of the screen */
+  .snotif { top:44px; background:rgba(58,62,68,0.78); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
+    border-radius:18px; padding:11px 13px; align-items:flex-start; }
+  .snotif .app { width:34px; height:34px; border-radius:9px; background:#34C759; flex-shrink:0;
+    display:flex; align-items:center; justify-content:center; }
+  .snotif .ntxt { flex:1; min-width:0; }
+  .snotif .nrow { display:flex; justify-content:space-between; align-items:baseline; gap:8px; }
+  .snotif .nt { font-size:13.5px; font-weight:600; color:#fff; }
+  .snotif .nw { font-size:11px; color:rgba(255,255,255,0.7); flex-shrink:0; }
+  .snotif .nb { font-size:13px; color:rgba(255,255,255,0.85); margin-top:1px; line-height:1.3; }
 
   .stage.resetting .ip-screen > div { opacity:0 !important; }
 
-  @media (prefers-reduced-motion: reduce) { .typing i { animation:none !important; } }
+  @media (prefers-reduced-motion: reduce) {
+    .typing i { animation:none !important; }
+    .tap.go { animation:none !important; opacity:0 !important; }
+    .ios-thread-inner { transition:none !important; }
+    .bsheet, .bsheet.up { transform:none !important; }
+    .bnotif, .snotif, .bnotif.in, .snotif.in, .bnotif.out, .snotif.out { transform:none !important; }
+    .bs-day.sel { transform:none !important; }
+    .bs-conf.press { transform:none !important; }
+    .conv .pill, .conv .pill.on { transform:none !important; }
+  }
 
   /* dark mode for Mike's inbox */
   .inbscr { background:#101215; }
@@ -2293,23 +2416,45 @@
           <div class=&quot;ios-avatar&quot;>M</div>
           <div class=&quot;ios-name&quot;>Mike's Tree Service <svg width=&quot;6&quot; height=&quot;9&quot; viewBox=&quot;0 0 6 9&quot;><path d=&quot;M1 1 L5 4.5 L1 8&quot; stroke=&quot;#B0B0B6&quot; stroke-width=&quot;1.6&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot;/></svg></div>
         </div>
-        <div class=&quot;ios-thread&quot;>
-          <div class=&quot;ios-stamp fade-el&quot; id=&quot;stamp&quot;><b>Today</b> 10:02 AM</div>
-          <div class=&quot;brow in&quot; id=&quot;typingRow&quot; style=&quot;display:none;&quot;>
-            <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
-          </div>
-          <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg1&quot;>
-            <div class=&quot;bubble in&quot;>Hey Susan, it's Mike. We trimmed your oaks last winter. Our spring prep route hits your neighborhood next week, and past customers get 10% off. Want me to save you a spot?</div>
-          </div>
-          <div class=&quot;brow out msg-anim out-anim&quot; id=&quot;msg2&quot; style=&quot;margin-top:7px;&quot;>
-            <div class=&quot;bubble out&quot;>Yes, perfect timing. We have some trees we need taken care of as soon as possible.</div>
-          </div>
-          <div class=&quot;delivered fade-el&quot; id=&quot;dlv&quot;>Delivered</div>
-          <div class=&quot;brow in&quot; id=&quot;typingRow2&quot; style=&quot;display:none; margin-top:7px;&quot;>
-            <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
-          </div>
-          <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg3&quot; style=&quot;margin-top:7px;&quot;>
-            <div class=&quot;bubble in&quot;>You got it, Susan. And if a neighbor needs tree work too, send them my way and you'll each get $100 off.</div>
+        <div class=&quot;ios-thread&quot; id=&quot;thread&quot;>
+          <div class=&quot;ios-thread-inner&quot; id=&quot;threadInner&quot;>
+            <div class=&quot;ios-stamp fade-el&quot; id=&quot;stamp&quot;><b>Today</b> 10:02 AM</div>
+            <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg1&quot; style=&quot;display:none;&quot;>
+              <div class=&quot;bubble in&quot;>Hey Susan, it's Mike. We trimmed your oaks last winter. Our spring prep route hits your neighborhood next week, and past customers get 10% off. Want me to save you a spot?</div>
+            </div>
+            <div class=&quot;brow out msg-anim out-anim&quot; id=&quot;msg2&quot; style=&quot;display:none; margin-top:7px;&quot;>
+              <div class=&quot;bubble out&quot;>Yes, perfect timing. We have some trees we need taken care of as soon as possible.</div>
+            </div>
+            <div class=&quot;delivered fade-el&quot; id=&quot;dlv&quot; style=&quot;display:none;&quot;>Delivered</div>
+            <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg3&quot; style=&quot;display:none; margin-top:7px;&quot;>
+              <div class=&quot;bubble in&quot;>You got it, Susan! Pick a time that works and I'll come take a look. Or just reply with a day that works for you.</div>
+            </div>
+            <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msgcard&quot; style=&quot;display:none; margin-top:4px;&quot;>
+              <div class=&quot;linkcard&quot; id=&quot;linkcard&quot;>
+                <div class=&quot;lk-img&quot;>
+                  <svg width=&quot;58&quot; height=&quot;58&quot; viewBox=&quot;0 0 44 44&quot; aria-hidden=&quot;true&quot;>
+                    <path d=&quot;M22 40 V24&quot; stroke=&quot;#2E7D4F&quot; stroke-width=&quot;3.6&quot; stroke-linecap=&quot;round&quot; fill=&quot;none&quot;/>
+                    <path d=&quot;M22 31 L15.5 24.5 M22 27.5 L28.5 21&quot; stroke=&quot;#2E7D4F&quot; stroke-width=&quot;2.4&quot; stroke-linecap=&quot;round&quot; fill=&quot;none&quot;/>
+                    <circle cx=&quot;22&quot; cy=&quot;13.5&quot; r=&quot;9.6&quot; fill=&quot;#2E7D4F&quot;/>
+                    <circle cx=&quot;13.2&quot; cy=&quot;19.6&quot; r=&quot;6.8&quot; fill=&quot;#5BAE7A&quot;/>
+                    <circle cx=&quot;30.8&quot; cy=&quot;19.6&quot; r=&quot;6.8&quot; fill=&quot;#5BAE7A&quot;/>
+                  </svg>
+                </div>
+                <div class=&quot;lk-meta&quot;>
+                  <div class=&quot;lk-t&quot;>Book Your Free Estimate</div>
+                  <div class=&quot;lk-d&quot;>mikestreeservice.com</div>
+                </div>
+              </div>
+            </div>
+            <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg4&quot; style=&quot;display:none; margin-top:7px;&quot;>
+              <div class=&quot;bubble in&quot;>You're all set 👍 I'll be out Wednesday, April 15 at 4:30 PM to take a look. Reply here if anything changes.</div>
+            </div>
+            <div class=&quot;brow in msg-anim in-anim&quot; id=&quot;msg5&quot; style=&quot;display:none; margin-top:4px;&quot;>
+              <div class=&quot;bubble in&quot;>One more thing: if a neighbor needs tree work too, have them mention your name. When they book, you'll both get $100 off.</div>
+            </div>
+            <div class=&quot;brow in&quot; id=&quot;typingRow&quot; style=&quot;display:none;&quot;>
+              <div class=&quot;typing&quot;><i></i><i></i><i></i></div>
+            </div>
           </div>
         </div>
         <div class=&quot;ios-inputbar&quot;>
@@ -2319,6 +2464,56 @@
           </div>
         </div>
         <div class=&quot;ios-home&quot;></div>
+      </div>
+
+      <!-- BOOKING PAGE, opened from the link card -->
+      <div class=&quot;bdim&quot; id=&quot;bdim&quot;></div>
+      <div class=&quot;bsheet&quot; id=&quot;bsheet&quot;>
+        <div class=&quot;bs-grab&quot;></div>
+        <div class=&quot;bs-url&quot;>
+          <svg width=&quot;9&quot; height=&quot;11&quot; viewBox=&quot;0 0 10 12&quot; fill=&quot;none&quot; stroke=&quot;#6B7280&quot; stroke-width=&quot;1.4&quot;><rect x=&quot;0.9&quot; y=&quot;5&quot; width=&quot;8.2&quot; height=&quot;6.2&quot; rx=&quot;1.6&quot; fill=&quot;none&quot;/><path d=&quot;M3 5 V3.3 A2 2 0 0 1 7 3.3 V5&quot;/></svg>
+          mikestreeservice.com
+        </div>
+        <div class=&quot;bs-stack&quot;>
+          <div class=&quot;bs-form&quot; id=&quot;bsform&quot;>
+            <div class=&quot;bs-biz&quot;>
+              <svg width=&quot;20&quot; height=&quot;20&quot; viewBox=&quot;0 0 44 44&quot; aria-hidden=&quot;true&quot;>
+                <path d=&quot;M22 40 V24&quot; stroke=&quot;#2E7D4F&quot; stroke-width=&quot;3.6&quot; stroke-linecap=&quot;round&quot; fill=&quot;none&quot;/>
+                <path d=&quot;M22 31 L15.5 24.5 M22 27.5 L28.5 21&quot; stroke=&quot;#2E7D4F&quot; stroke-width=&quot;2.4&quot; stroke-linecap=&quot;round&quot; fill=&quot;none&quot;/>
+                <circle cx=&quot;22&quot; cy=&quot;13.5&quot; r=&quot;9.6&quot; fill=&quot;#2E7D4F&quot;/>
+                <circle cx=&quot;13.2&quot; cy=&quot;19.6&quot; r=&quot;6.8&quot; fill=&quot;#5BAE7A&quot;/>
+                <circle cx=&quot;30.8&quot; cy=&quot;19.6&quot; r=&quot;6.8&quot; fill=&quot;#5BAE7A&quot;/>
+              </svg>
+              <span>Mike's Tree Service</span>
+            </div>
+            <div class=&quot;bs-title&quot;>Book Your Free Estimate</div>
+            <div class=&quot;bs-meta&quot;>
+              <svg width=&quot;12&quot; height=&quot;12&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#6B7280&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot;><circle cx=&quot;12&quot; cy=&quot;12&quot; r=&quot;9&quot;/><path d=&quot;M12 7 v5.3 l3.4 2&quot;/></svg>
+              30 min
+            </div>
+            <div class=&quot;bs-month&quot;>April</div>
+            <div class=&quot;bs-days&quot;>
+              <div class=&quot;bs-day&quot;><div class=&quot;dn&quot;>Mon</div><div class=&quot;dd&quot;>13</div></div>
+              <div class=&quot;bs-day&quot;><div class=&quot;dn&quot;>Tue</div><div class=&quot;dd&quot;>14</div></div>
+              <div class=&quot;bs-day&quot; id=&quot;bday15&quot;><div class=&quot;dn&quot;>Wed</div><div class=&quot;dd&quot;>15</div></div>
+              <div class=&quot;bs-day&quot;><div class=&quot;dn&quot;>Thu</div><div class=&quot;dd&quot;>16</div></div>
+              <div class=&quot;bs-day&quot;><div class=&quot;dn&quot;>Fri</div><div class=&quot;dd&quot;>17</div></div>
+            </div>
+            <div class=&quot;bs-lab&quot;>Available times</div>
+            <div class=&quot;bs-times&quot;>
+              <div class=&quot;bs-time&quot;>3:30 PM</div>
+              <div class=&quot;bs-time&quot;>4:00 PM</div>
+              <div class=&quot;bs-time&quot; id=&quot;btime430&quot;>4:30 PM</div>
+              <div class=&quot;bs-time&quot;>5:00 PM</div>
+            </div>
+            <button class=&quot;bs-conf dim&quot; id=&quot;bconf&quot; type=&quot;button&quot;>Confirm</button>
+          </div>
+          <div class=&quot;bs-done&quot; id=&quot;bsdone&quot;>
+            <div class=&quot;ck&quot;><svg width=&quot;28&quot; height=&quot;28&quot; viewBox=&quot;0 0 24 24&quot;><path d=&quot;M5 12.5 L10 17.5 L19 7.5&quot;/></svg></div>
+            <b>You're booked</b>
+            <span>Wed, April 15 · 4:30 PM</span>
+          </div>
+        </div>
       </div>
 
       <!-- MIKE'S INBOX -->
@@ -2334,7 +2529,7 @@
         <div class=&quot;inb-head&quot;>
           <div class=&quot;row1&quot;>
             <h3>Conversations</h3>
-            <div class=&quot;inb-badge fade-el&quot; id=&quot;leadbadge&quot;>0 new replies</div>
+            <div class=&quot;inb-badge fade-el&quot; id=&quot;leadbadge&quot;>0 booked</div>
           </div>
           <div class=&quot;inb-search&quot;>
             <svg width=&quot;12&quot; height=&quot;12&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#9AA3AC&quot; stroke-width=&quot;2.4&quot; stroke-linecap=&quot;round&quot;><circle cx=&quot;10.5&quot; cy=&quot;10.5&quot; r=&quot;7&quot;/><path d=&quot;M20 20l-4.2-4.2&quot;/></svg>
@@ -2357,89 +2552,219 @@
             </div>
           </div>
         </div>
+
+        <!-- in-app booking toast (NOTIFY_STYLE = 'toast') -->
+        <div class=&quot;bnotif&quot; id=&quot;bnotif&quot;>
+          <div class=&quot;nic&quot;>
+            <svg width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#6FCF97&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;><rect x=&quot;3&quot; y=&quot;5&quot; width=&quot;18&quot; height=&quot;16&quot; rx=&quot;3&quot;/><path d=&quot;M8 3 v4 M16 3 v4 M3 10 h18 M8.8 15.4 l2.4 2.4 L15.6 13&quot;/></svg>
+          </div>
+          <div class=&quot;ntxt&quot;>
+            <div class=&quot;nrow&quot;><span class=&quot;nt&quot;>New appointment booked</span><span class=&quot;nw&quot;>now</span></div>
+            <div class=&quot;nb&quot;>Susan Mitchell · Wed 4:30 PM</div>
+          </div>
+        </div>
+
+        <!-- iOS text banner (NOTIFY_STYLE = 'sms') -->
+        <div class=&quot;snotif&quot; id=&quot;snotif&quot;>
+          <div class=&quot;app&quot;>
+            <svg width=&quot;19&quot; height=&quot;19&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;#fff&quot;><path d=&quot;M12 3.4c-5 0-9.1 3.3-9.1 7.4 0 2.3 1.3 4.4 3.4 5.7-.2 1.3-.9 2.5-1.8 3.4 1.8-.2 3.5-.9 4.8-2 .9.2 1.8.3 2.7.3 5 0 9.1-3.3 9.1-7.4S17 3.4 12 3.4z&quot;/></svg>
+          </div>
+          <div class=&quot;ntxt&quot;>
+            <div class=&quot;nrow&quot;><span class=&quot;nt&quot;>Booking Alerts</span><span class=&quot;nw&quot;>now</span></div>
+            <div class=&quot;nb&quot;>New appointment: Susan Mitchell, Wed 4:30 PM. Free estimate.</div>
+          </div>
+        </div>
+
         <div class=&quot;ios-home&quot;></div>
       </div>
 
     </div>
     <div class=&quot;ip-glare&quot;></div>
   </div>
+  <div class=&quot;tap&quot; id=&quot;tap&quot;></div>
 </div>
 
 <script>
 (function(){
+  // 'toast' = in-app notification (default). 'sms' = iOS text message banner.
+  const NOTIFY_STYLE = 'toast';
+
   const $ = id => document.getElementById(id);
   const stage = $('stage');
   let timers = [];
   const at = (ms, fn) => timers.push(setTimeout(fn, ms));
 
+  const MSG_IDS = ['msg1','msg2','msg3','msgcard','msg4','msg5'];
+
   const REPLIES = [
-    { init:'SM', color:'#7E57C2', name:'Susan Mitchell', tm:'10:03 AM', snip:&quot;Yes, perfect timing. We have some trees we need taken care of as soon as possible.&quot; },
-    { init:'DK', color:'#00897B', name:'Dan Kowalski', tm:'10:06 AM', snip:'Hi, Susan Mitchell passed along your number. Can you come look at two oaks?' },
-    { init:'ML', color:'#E07F0F', name:'Maria Lopez', tm:'10:09 AM', snip:'Yes please, same two trees as last year' },
-    { init:'TR', color:'#5C6BC0', name:'Tom Rodriguez', tm:'10:12 AM', snip:'How much for the pine out front?' },
-    { init:'AC', color:'#C2554F', name:'Alan Cho', tm:'10:14 AM', snip:'Put me down for the 15% off' }
+    { init:'SM', color:'#7E57C2', name:'Susan Mitchell', tm:'10:04 AM',
+      snip:&quot;Yes, perfect timing. We have some trees we need taken care of as soon as possible.&quot;,
+      pill:'Booked · Wed 4:30 PM' },
+    { init:'DK', color:'#00897B', name:'Dan Kowalski', tm:'10:07 AM',
+      snip:'Hi, Susan Mitchell passed along your number. Can you look at two oaks?',
+      pill:'Referral · Booked Thu 9:00 AM' },
+    { init:'ML', color:'#E07F0F', name:'Maria Lopez', tm:'10:10 AM',
+      snip:'Yes please, same two trees as last year',
+      pill:'Booked · Fri 8:30 AM' },
+    { init:'TR', color:'#5C6BC0', name:'Tom Rodriguez', tm:'10:12 AM',
+      snip:'Can you do Saturday morning instead?',
+      pill:null }
   ];
+
+  function notifEl() { return NOTIFY_STYLE === 'sms' ? $('snotif') : $('bnotif'); }
+
+  function tapAt(el, dx, dy) {
+    const r = el.getBoundingClientRect();
+    const s = stage.getBoundingClientRect();
+    const t = $('tap');
+    t.style.left = (r.left - s.left + r.width/2 - 17 + (dx || 0)) + 'px';
+    t.style.top = (r.top - s.top + r.height/2 - 17 + (dy || 0)) + 'px';
+    t.classList.remove('go');
+    void t.offsetWidth;
+    t.classList.add('go');
+  }
+
+  // Keep the newest content pinned just above the input bar, the way iOS does.
+  function scrollThread() {
+    const th = $('thread'), inner = $('threadInner');
+    const avail = th.clientHeight - 18; // thread padding: 12px top, 6px bottom
+    const over = Math.max(0, inner.scrollHeight - avail);
+    inner.style.transform = 'translateY(' + (-over) + 'px)';
+  }
+
+  function showMsg(id) {
+    const el = $(id);
+    el.style.display = 'flex';
+    void el.offsetWidth;
+    el.classList.add('show');
+    scrollThread();
+  }
+
+  function typing(on) {
+    const row = $('typingRow');
+    row.style.display = on ? 'flex' : 'none';
+    scrollThread();
+  }
 
   function resetState() {
     $('msgscr').classList.remove('off');
     $('inbscr').classList.remove('on');
-    $('typingRow').style.display='none'; $('typingRow2').style.display='none';
-    ['msg1','msg2','msg3'].forEach(id => $(id).classList.remove('show'));
+    typing(false);
+    MSG_IDS.forEach(id => { $(id).classList.remove('show'); $(id).style.display = 'none'; });
     ['dlv','stamp','leadbadge'].forEach(id => $(id).classList.remove('show'));
+    $('dlv').style.display = 'none';
+    $('threadInner').style.transform = 'translateY(0)';
+
+    // booking sheet back to its closed, untouched state
+    $('bsheet').classList.remove('up');
+    $('bdim').classList.remove('on');
+    $('bsform').classList.remove('gone');
+    $('bsdone').classList.remove('on');
+    $('bday15').classList.remove('sel');
+    $('btime430').classList.remove('sel');
+    $('bconf').classList.remove('press');
+    $('bconf').classList.add('dim');
+    $('tap').classList.remove('go');
+
+    // notifications
+    ['bnotif','snotif'].forEach(id => $(id).classList.remove('live','in','out'));
+    notifEl().classList.add('live');
+
     $('povlabel').classList.remove('swap');
     $('povtext').textContent = &quot;Every trade has a slow season. Our campaigns contact your past customers to fill the gaps.&quot;;
     document.querySelectorAll('#inblist .conv:not(.old)').forEach(e => e.remove());
-    $('leadbadge').textContent = '0 new replies';
+    $('leadbadge').textContent = '0 booked';
   }
 
-  function addReply(r, count) {
+  function addReply(r, booked) {
     const list = $('inblist');
     const el = document.createElement('div');
     el.className = 'conv unread';
+    const pill = r.pill
+      ? '<div class=&quot;pill&quot;><svg width=&quot;9&quot; height=&quot;9&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;#6FCF97&quot; stroke-width=&quot;3.4&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;><path d=&quot;M5 12.5 L10 17.5 L19 7.5&quot;/></svg>' + r.pill + '</div>'
+      : '';
     el.innerHTML = '<div class=&quot;av&quot; style=&quot;background:' + r.color + ';&quot;>' + r.init + '</div>' +
       '<div class=&quot;cbody&quot;><div class=&quot;cn&quot;>' + r.name + ' <span class=&quot;tm&quot;>' + r.tm + '</span></div>' +
-      '<div class=&quot;snip&quot;>' + r.snip + '</div></div><div class=&quot;dot&quot;></div>';
+      '<div class=&quot;snip&quot;>' + r.snip + '</div>' + pill + '</div><div class=&quot;dot&quot;></div>';
     list.insertBefore(el, list.firstChild);
     void el.offsetWidth;
     el.classList.add('show');
-    $('leadbadge').textContent = count + ' new ' + (count === 1 ? 'reply' : 'replies');
+    if (r.pill) {
+      at(150, () => { const p = el.querySelector('.pill'); if (p) p.classList.add('on'); });
+      $('leadbadge').textContent = booked + ' booked';
+    }
   }
 
   function run() {
     resetState();
 
-    // beat 1: customer's phone
-    at(500, () => $('stamp').classList.add('show'));
-    at(900, () => { $('typingRow').style.display='flex'; });
-    at(2200, () => { $('typingRow').style.display='none'; $('msg1').classList.add('show'); });
-    at(6200, () => $('msg2').classList.add('show'));
-    at(6950, () => $('dlv').classList.add('show'));
+    // beat 1: the campaign text lands on the customer's phone
+    at(500, () => { $('stamp').classList.add('show'); });
+    at(900, () => typing(true));
+    at(2200, () => { typing(false); showMsg('msg1'); });
+    at(5200, () => showMsg('msg2'));
+    at(5900, () => { $('dlv').style.display = 'block'; $('dlv').classList.add('show'); scrollThread(); });
 
-    // referral offer beat
-    at(7800, () => { $('typingRow2').style.display='flex'; });
-    at(9000, () => { $('typingRow2').style.display='none'; $('msg3').classList.add('show'); });
-    at(9400, () => { $('povtext').textContent = 'A referral offer turns one customer into two.'; });
+    // beat 2: she gets a booking link instead of a phone call
+    at(6600, () => typing(true));
+    at(7800, () => {
+      typing(false); showMsg('msg3');
+      $('povtext').textContent = 'When they say yes, they get a link to book themselves. No phone tag.';
+    });
+    at(8050, () => showMsg('msgcard'));
 
-    // cut to Mike's inbox
-    at(15400, () => {
+    // beat 3: she books herself
+    at(9800, () => tapAt($('linkcard')));
+    at(10300, () => { $('bdim').classList.add('on'); $('bsheet').classList.add('up'); });
+    at(10900, () => { tapAt($('bday15')); $('bday15').classList.add('sel'); });
+    at(11700, () => {
+      tapAt($('btime430'));
+      $('btime430').classList.add('sel');
+      $('bconf').classList.remove('dim');
+    });
+    at(12400, () => { tapAt($('bconf')); $('bconf').classList.add('press'); });
+    at(12620, () => $('bconf').classList.remove('press'));
+    at(12900, () => { $('bsform').classList.add('gone'); $('bsdone').classList.add('on'); });
+    at(14400, () => { $('bsheet').classList.remove('up'); $('bdim').classList.remove('on'); });
+
+    // beat 4: confirmation, then the referral offer
+    at(14900, () => typing(true));
+    at(15800, () => { typing(false); showMsg('msg4'); });
+    at(16600, () => typing(true));
+    at(17400, () => {
+      typing(false); showMsg('msg5');
+      $('povtext').textContent = 'The referral offer goes out the moment they book.';
+    });
+
+    // beat 5: cut to Mike's phone
+    at(21000, () => {
       $('msgscr').classList.add('off'); $('inbscr').classList.add('on');
       $('povlabel').classList.add('swap');
     });
-    at(15900, () => {
+    at(21500, () => {
       $('povlabel').classList.remove('swap');
-      $('povtext').textContent = &quot;You're notified in the app as the replies start rolling in.&quot;;
+      $('povtext').textContent = &quot;It lands on your calendar. You didn't lift a finger.&quot;;
+      notifEl().classList.add('in');
+    });
+
+    // the notification collapses as Susan's conversation row takes its place
+    at(23700, () => {
+      notifEl().classList.remove('in');
+      notifEl().classList.add('out');
+      addReply(REPLIES[0], 1);
+      // the badge arrives with the booking it is counting, not empty beforehand
       $('leadbadge').classList.add('show');
     });
-
-    // replies pour in
-    REPLIES.forEach((r, i) => {
-      at(16600 + i*1350, () => addReply(r, i+1));
+    at(25000, () => {
+      addReply(REPLIES[1], 2);
+      $('povtext').textContent = 'Across your whole list, the estimates book themselves.';
     });
+    at(26300, () => addReply(REPLIES[2], 3));
+    at(27600, () => addReply(REPLIES[3], 3));
 
     // hold, fade, loop
-    const total = 16600 + REPLIES.length*1350 + 3800;
-    at(total, () => stage.classList.add('resetting'));
-    at(total + 600, () => {
+    at(31000, () => stage.classList.add('resetting'));
+    at(31600, () => {
       stage.classList.remove('resetting');
       timers.forEach(clearTimeout); timers = [];
       run();
