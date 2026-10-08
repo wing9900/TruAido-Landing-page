@@ -23,6 +23,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="TruAido: one system, every lead handled.">
+<link rel="preconnect" href="https://video.truaido.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap">
 <style>
   :root { color-scheme: light only; }
@@ -102,9 +103,12 @@
 
   .video-block { border: 1px solid #E5E6E8; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 20px rgba(17,26,34,0.05); }
   .video-label { background: #10203A; color: #FFFFFF; font-stretch: 82%; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; font-size: 12px; padding: 10px 18px; }
-  .video-frame { height: 420px; background: #16273F; display: flex; align-items: center; justify-content: center; cursor: pointer; }
+  .video-frame { position: relative; aspect-ratio: 16 / 9; background: #000; }
+  .video-frame video { display: block; width: 100%; height: 100%; object-fit: contain; background: #000; }
+  .video-cover { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: transparent; border: 0; padding: 0; cursor: pointer; }
+  .video-frame.playing .video-cover { display: none; }
   .play { width: 72px; height: 72px; border-radius: 50%; background: #0E8A5F; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 26px; transition: transform 0.15s; }
-  @media (hover: hover) { .video-frame:hover .play { transform: scale(1.07); } }
+  @media (hover: hover) { .video-cover:hover .play { transform: scale(1.07); } }
   .video-note { padding: 12px 18px; font-size: 13.5px; color: #47546B; }
   details.transcript { border-top: 1px solid #E5E6E8; }
   details.transcript summary { padding: 12px 18px; font-size: 13.5px; cursor: pointer; font-weight: 600; }
@@ -296,7 +300,7 @@
     .offer-row { flex-direction: column; }
     .demo-row { flex-direction: column; max-width: none; }
     .demo-row .btn-solid { width: 100%; text-align: center; }
-    .video-frame { height: 220px; }
+    .play { width: 60px; height: 60px; font-size: 22px; }
     .plan .cta-row a, .final .cta-row a { min-width: 0; flex: 1 1 0; padding: 14px 12px; font-size: 15px; }
     .offer-block { margin-top: 32px; padding-top: 32px; }
     .offer-block .cta-row { flex-direction: row; justify-content: center; gap: 10px; }
@@ -561,7 +565,10 @@
 
 <div class="container">
   <div class="video-block">
-    <div class="video-frame" onclick="this.querySelector('.play').textContent='VSL plays here'"><div class="play">&#9654;</div></div>
+    <div class="video-frame" id="vsl-frame">
+      <video id="vsl" src="https://video.truaido.com/VSL.mp4" poster="images/vsl-poster.webp" preload="metadata" playsinline width="1920" height="1080"></video>
+      <button type="button" class="video-cover" aria-label="Play video"><span class="play" aria-hidden="true">&#9654;</span></button>
+    </div>
   </div>
 </div>
 
@@ -3064,6 +3071,11 @@
 })();
 
 (function(){try{var t=document.getElementById('povtext')||document.querySelector('.povlabel');if(!t)return;var _last='';function send(){var v=t.innerHTML;if(v===_last)return;_last=v;try{parent.postMessage({type:'truaido-cap',text:v},'*');}catch(e){}}var mo=new MutationObserver(send);mo.observe(t,{childList:true,characterData:true,subtree:true});send();}catch(e){}})();
+</script>
+
+<script>
+(function(){var f=document.getElementById('vsl-frame');if(!f)return;var v=document.getElementById('vsl');
+f.querySelector('.video-cover').addEventListener('click',function(){f.classList.add('playing');v.controls=true;var p=v.play();if(p&&p.catch)p.catch(function(){});});})();
 </script>
 
 <!-- Checkout: the Stripe payment link is set directly on every green
