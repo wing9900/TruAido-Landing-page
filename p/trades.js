@@ -110,6 +110,19 @@ window.TRADES = {
       ["Tune-ups", "Lubrication, balance checks and safety sensor tests."]
     ]
   },
+  "welding": {
+    checkin: "Getting trailers and equipment ready for the busy season? We can fix them before the rush.",
+    line: "Mobile welding and fabrication",
+    noun: "welding work",
+    services: [
+      ["Mobile welding", "Welding done on site, at your property, shop or job site."],
+      ["Trailer repair", "Cracked frames, tongues, ramps and hitches welded and reinforced."],
+      ["Gates and fences", "Broken hinges, latches and steel gates and fence panels repaired."],
+      ["Equipment repair", "Buckets, attachments and farm and construction equipment welded back into service."],
+      ["Custom fabrication", "Racks, brackets, railings and other steel parts built to fit."],
+      ["Railings and stairs", "Steel handrails and stair parts repaired or built new."]
+    ]
+  },
   "_default": {
     checkin: "It's been a while since we were out. Need anything done this season?",
     line: "Local service you can call or text",
