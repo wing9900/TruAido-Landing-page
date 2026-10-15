@@ -123,6 +123,19 @@ window.TRADES = {
       ["Railings and stairs", "Steel handrails and stair parts repaired or built new."]
     ]
   },
+  "auto-glass": {
+    checkin: "Cold weather can turn a small chip into a long crack. Want us to fix that chip before it spreads?",
+    line: "Windshield replacement and auto glass repair",
+    noun: "auto glass work",
+    services: [
+      ["Windshield replacement", "Cracked or broken windshields replaced with new glass."],
+      ["Rock chip repair", "Small chips filled before they spread into a crack."],
+      ["Crack repair", "Short cracks repaired when the glass can be saved."],
+      ["Side windows", "Broken door and side windows replaced and cleaned of loose glass."],
+      ["Back glass", "Rear windows replaced, including the defrost lines."],
+      ["Cars, trucks and SUVs", "Glass for everyday vehicles, work trucks and vans."]
+    ]
+  },
   "_default": {
     checkin: "It's been a while since we were out. Need anything done this season?",
     line: "Local service you can call or text",
