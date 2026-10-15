@@ -1,0 +1,25 @@
+{
+  "v": 1,
+  "slug": "sample-tree",
+  "company": "Mike's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Charlotte",
+  "state": "NC",
+  "phone": "+17045550101",
+  "phone_display": "(704) 555-0101",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 127,
+  "maps_url": "https://www.google.com/maps",
+  "hero": {"url": "/images/tree-service.webp", "source": "generic"},
+  "logo": {"url": "/images/mikes-tree-logo.webp", "layout": "square", "badge": null},
+  "accent": "#1E5B31",
+  "nearby_towns": ["Matthews", "Mint Hill", "Huntersville", "Concord", "Pineville", "Gastonia"],
+  "reviews": [
+    {"text": "Mike and his crew took down two huge pines next to our house without a scratch on the roof. They cleaned up better than they found it.", "author": "Sarah J.", "stars": 5, "month": "September 2026"},
+    {"text": "Showed up when they said they would, gave us a price in writing, and had the stump ground the same afternoon.", "author": "Dana O.", "stars": 5, "month": "August 2026"},
+    {"text": "A limb came down on our fence after the storm. They were out the next morning and hauled every piece away.", "author": "Marcus T.", "stars": 5, "month": "July 2026"}
+  ],
+  "gallery": []
+}
