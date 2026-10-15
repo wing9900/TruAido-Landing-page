@@ -223,9 +223,12 @@
     .head-cta .phone-link, .head-cta .btn { display: none; }
     .brand img { height: 38px; }
     .brand .name { font-size: 18px; }
-    .hero { background-position: center; }
-    .hero::before { background: linear-gradient(0deg, rgba(20,24,28,.92) 0%, rgba(20,24,28,.55) 55%, rgba(20,24,28,.2) 100%); }
-    .hero .wrap { display: block; min-height: 0; padding-top: 170px; }
+    /* Phones: the whole photo across the top, text on dark below it */
+    .hero { background-color: var(--ink); background-size: 100% auto; background-position: top center; }
+    .hero.no-photo { background-size: cover; }
+    .hero::before { background: linear-gradient(180deg, rgba(20,24,28,0) 0, rgba(20,24,28,0) calc(56vw - 64px), var(--ink) calc(56vw + 4px), var(--ink) 100%); }
+    .hero .wrap { display: block; min-height: 0; padding-top: calc(56vw - 6px); }
+    .hero.no-photo .wrap { padding-top: 120px; }
     .hero .line { font-size: 18px; }
     .hero .actions .btn { flex: 1; }
     .hero .wrap { padding-bottom: 0; }

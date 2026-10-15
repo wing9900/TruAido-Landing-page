@@ -12,7 +12,7 @@
   "rating": 4.8,
   "review_count": 127,
   "maps_url": "https://www.google.com/maps",
-  "hero": {"url": "/images/tree-service.webp", "source": "generic"},
+  "hero": {"url": "/images/stock/tree-service.webp", "source": "generic"},
   "logo": {"url": "/images/mikes-tree-logo.webp", "layout": "square", "badge": null},
   "accent": "#1E5B31",
   "nearby_towns": ["Matthews", "Mint Hill", "Huntersville", "Concord", "Pineville", "Gastonia"],
