@@ -265,7 +265,7 @@
     .system .phone { width: min(330px, 100%); }
   }
   @media (max-width: 760px) {
-    body { font-size: 16.5px; padding-bottom: 72px; }
+    body { font-size: 16.5px; padding-bottom: 96px; }
     .wrap { padding: 0 18px; }
     .tbar .wrap { min-height: 44px; gap: 10px; font-size: 13px; }
     .tbar a.video, .tbar .long { display: none; }
@@ -300,10 +300,12 @@
     .towns { columns: 1; }
     .closing .btn-light { width: 100%; }
     .plan-list li { flex-direction: column; gap: 6px; }
-    chat-widget, .lc_text-widget, #lc_text-widget, [data-widget-id] + div { --chat-widget-bottom: 84px; }
-    chat-widget { bottom: 84px !important; }
-    .mobile-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(255,255,255,.97); border-top: 1px solid var(--line); padding: 10px 14px calc(10px + env(safe-area-inset-bottom)); }
-    .mobile-bar .btn { padding: 14px 10px; }
+    /* The GHL chat bubble floats at the bottom right (about 50px round, 22px in from
+       the corner) and cannot be moved from page CSS. The bar leaves it a slot on the
+       right and is tall enough that the bubble sits inside the bar as a third control. */
+    .mobile-bar { display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: center; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(255,255,255,.97); border-top: 1px solid var(--line); min-height: 94px; padding: 12px 92px calc(12px + env(safe-area-inset-bottom)) 14px; }
+    .mobile-bar .btn { padding: 15px 14px; font-size: 15.5px; }
+    .mobile-bar .btn-outline { padding-left: 16px; padding-right: 16px; }
   }
   @media (min-width: 761px) { .quote-wrap { display: contents; } }
   @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .hero-name-in { animation: none; } }
