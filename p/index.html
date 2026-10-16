@@ -95,6 +95,7 @@
   @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
 
   /* Estimate form */
+  #estimate { scroll-margin-top: 92px; }
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
   .quote h2 { font-size: 27px; font-stretch: 85%; text-align: center; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
@@ -268,6 +269,7 @@
     .tbar a.video, .tbar .long { display: none; }
     .tbar .short { display: inline; }
     .head .wrap { min-height: 64px; }
+    #estimate { scroll-margin-top: 76px; }
     .head-cta .phone-link, .head-cta .btn { display: none; }
     .brand img { height: 38px; }
     .brand .name { font-size: 18px; }
@@ -615,6 +617,12 @@
     }
 
     function wire() {
+      if (location.hash === "#estimate") {
+        var jump = function () { var q = document.getElementById("estimate"); if (q) q.scrollIntoView({ block: "start" }); };
+        requestAnimationFrame(jump);
+        setTimeout(jump, 400);   // again once fonts, photo and the GHL iframe have settled the layout
+        setTimeout(jump, 1200);
+      }
       playThread();
       var btn = document.querySelector(".menu-btn"), navEl = document.getElementById("nav");
       if (btn) btn.addEventListener("click", function () {
