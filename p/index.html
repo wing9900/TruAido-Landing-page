@@ -465,14 +465,14 @@
     function formHtml() {
       if (GHL_FORM_ID) {
         var src = "https://api.leadconnectorhq.com/widget/form/" + GHL_FORM_ID + "?preview_slug=" + encodeURIComponent(slug);
-        return "<h2>Get an estimate</h2><p>Send a few details and " + co + " will text you back.</p>" +
+        return "<h2>Get An Estimate</h2><p>Send a few details and " + co + " will text you back.</p>" +
           '<div class="ghl-form"><iframe src="' + src + '" style="width:100%;height:100%;border:none;border-radius:8px" ' +
           'id="inline-' + GHL_FORM_ID + '" data-layout="{\'id\':\'INLINE\'}" data-trigger-type="alwaysShow" data-trigger-value="" ' +
           'data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" ' +
           'data-form-name="Preview Estimate Form" data-height="560" data-layout-iframe-id="inline-' + GHL_FORM_ID + '" ' +
           'data-form-id="' + GHL_FORM_ID + '" data-cookie-consent="false" title="Get an estimate from ' + co + '"></iframe></div>';
       }
-      return "<h2>Get an estimate</h2><p>Send a few details and " + co + " will text you back.</p>" +
+      return "<h2>Get An Estimate</h2><p>Send a few details and " + co + " will text you back.</p>" +
         '<form id="qform" novalidate>' +
         '<label>Name<input type="text" name="name" autocomplete="name" required></label>' +
         '<label>Mobile phone<input type="tel" name="phone" autocomplete="tel" inputmode="tel" required></label>' +
