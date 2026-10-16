@@ -99,7 +99,7 @@
   /* Estimate form */
   #estimate { scroll-margin-top: 92px; }
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
-  .quote h2 { font-size: 27px; font-stretch: 85%; text-align: center; }
+  .quote h2 { font-size: 31px; font-stretch: 85%; text-align: center; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
   .quote form { margin-top: 16px; display: grid; gap: 12px; }
   .quote label { font-weight: 600; font-size: 14px; display: grid; gap: 5px; }
@@ -304,7 +304,7 @@
        the corner) and cannot be moved from page CSS. The bar leaves it a slot on the
        right and is tall enough that the bubble sits inside the bar as a third control. */
     .mobile-bar { display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: center; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(255,255,255,.97); border-top: 1px solid var(--line); min-height: 94px; padding: 12px 92px calc(12px + env(safe-area-inset-bottom)) 14px; }
-    .mobile-bar .btn { padding: 15px 14px; font-size: 15.5px; }
+    .mobile-bar .btn { height: 52px; padding: 0 14px; font-size: 15.5px; }
     .mobile-bar .btn-outline { padding-left: 16px; padding-right: 16px; }
   }
   @media (min-width: 761px) { .quote-wrap { display: contents; } }
@@ -640,12 +640,16 @@
 
     function wire() {
       loadChatWidget();
+      // Drop #estimate from the address once we have scrolled there, so a refresh
+      // or a shared link opens at the top instead of jumping to the form again.
+      var clearHash = function () { try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {} };
       if (location.hash === "#estimate") {
         var jump = function () { var q = document.getElementById("estimate"); if (q) q.scrollIntoView({ block: "start" }); };
         requestAnimationFrame(jump);
         setTimeout(jump, 400);   // again once fonts, photo and the GHL iframe have settled the layout
-        setTimeout(jump, 1200);
+        setTimeout(function () { jump(); clearHash(); }, 1200);
       }
+      window.addEventListener("hashchange", function () { if (location.hash === "#estimate") setTimeout(clearHash, 800); });
       playThread();
       var btn = document.querySelector(".menu-btn"), navEl = document.getElementById("nav");
       if (btn) btn.addEventListener("click", function () {
