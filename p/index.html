@@ -242,9 +242,10 @@
     .nav { display: none; }
     .menu-btn { display: inline-flex; }
     .head .wrap { grid-template-columns: auto 1fr auto; gap: 14px; }
-    .nav.open { display: flex; flex-direction: column; gap: 0; position: absolute; left: 0; right: 0; width: 100%; justify-self: stretch; top: 100%; background: var(--white); border-bottom: 1px solid var(--line); box-shadow: 0 16px 32px rgba(10,14,18,.12); padding: 4px 24px 0; }
-    .nav.open a { padding: 14px 0; border-bottom: 1px solid var(--line); }
+    .nav.open { display: flex; flex-direction: column; gap: 0; position: absolute; left: auto; right: 18px; width: min(260px, calc(100% - 36px)); justify-self: auto; top: calc(100% + 8px); background: var(--white); border: 1px solid var(--line); border-radius: var(--radius-m); box-shadow: 0 16px 40px rgba(10,14,18,.18); padding: 6px 0; }
+    .nav.open a { padding: 13px 18px; border-bottom: 1px solid var(--line); font-size: 16px; }
     .nav.open a:last-child { border-bottom: 0; }
+    .nav.open a[aria-current="page"], .nav.open a:hover { border-bottom-color: var(--line); background: color-mix(in srgb, var(--accent) 8%, var(--white)); }
     .hero .wrap { grid-template-columns: minmax(0, 1fr) 400px; gap: 32px; }
     .services .wrap, .area .wrap, .system .wrap { grid-template-columns: 1fr; gap: 40px; }
     .services .side { position: static; }
