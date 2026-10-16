@@ -41,7 +41,10 @@
   .tbar p { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .tbar strong { color: var(--white); font-weight: 600; }
   .tbar .short { display: none; }
-  .tbar a.video { color: #C9D0D6; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+  .tbar a.video { display: inline-flex; align-items: center; gap: 8px; color: var(--white); text-decoration: none; white-space: nowrap; font-weight: 600; padding: 7px 14px 7px 10px; border-radius: 999px; box-shadow: inset 0 0 0 1.5px rgba(255,255,255,.35); }
+  .tbar a.video:hover { box-shadow: inset 0 0 0 1.5px rgba(255,255,255,.8); }
+  .tbar a.video .play { width: 22px; height: 22px; border-radius: 50%; background: var(--white); display: inline-grid; place-items: center; flex: none; }
+  .tbar a.video .play::after { content: ""; border-style: solid; border-width: 5px 0 5px 8px; border-color: transparent transparent transparent var(--ink); margin-left: 2px; }
   .tbar a.start { background: var(--truaido); color: #1C1205; font-weight: 700; text-decoration: none; padding: 7px 14px; border-radius: var(--radius-s); white-space: nowrap; }
   .tbar a.start:hover { background: #FFA43D; }
 
@@ -162,9 +165,10 @@
   .system .label { color: var(--truaido); font-weight: 700; font-size: 13.5px; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 14px; }
   .btn-truaido { background: var(--truaido); color: #1C1205; }
   .btn-truaido:hover { background: #FFA43D; }
-  .thread .bubble, .thread .stamp, .thread .delivered { opacity: 0; transform: translateY(8px); transition: opacity .35s ease, transform .35s ease; }
-  .thread.play .bubble.on, .thread.play .stamp.on, .thread.play .delivered.on { opacity: 1; transform: none; }
-  .thread.done .bubble, .thread.done .stamp, .thread.done .delivered { opacity: 1; transform: none; }
+  .thread.play > :not(.on) { display: none; }
+  .thread.play > .on { animation: pop .28s cubic-bezier(.2,.7,.2,1) both; }
+  .thread.play > .typing { animation: pop .2s ease both; }
+  @keyframes pop { from { opacity: 0; transform: translateY(10px) scale(.97); } to { opacity: 1; transform: none; } }
   .typing { display: inline-flex; gap: 4px; padding: 11px 13px; }
   .typing i { width: 7px; height: 7px; border-radius: 50%; background: #8E8E93; animation: dot 1s infinite ease-in-out; }
   .typing i:nth-child(2) { animation-delay: .15s; } .typing i:nth-child(3) { animation-delay: .3s; }
@@ -388,7 +392,7 @@
       ? "Here's the new <strong>" + co + "</strong> website, built to turn visits into texts."
       : "Here's a website for <strong>" + co + "</strong>, built by TruAido.";
     var tbar = '<div class="tbar"><div class="wrap"><p><span class="long">' + pitch + '</span><span class="short">Website preview for <strong>' + co + '</strong></span></p>' +
-      (VIDEO ? '<a class="video" href="' + VIDEO + '" target="_blank" rel="noopener">Watch the short video</a>' : "") +
+      (VIDEO ? '<a class="video" href="' + VIDEO + '" target="_blank" rel="noopener"><span class="play"></span>Watch the 2-minute video</a>' : "") +
       '<a class="start" href="' + esc(start) + '">Start my build</a></div></div>';
 
     // Header brand per logo layout
@@ -576,10 +580,11 @@
           if (i >= items.length) return;
           var el = items[i++];
           var incoming = el.className === "bubble";
-          var show = function () { el.className += " on"; thread.scrollTop = thread.scrollHeight; setTimeout(next, el.className.indexOf("stamp") > -1 ? 250 : 900); };
+          var toBottom = function () { try { thread.scrollTo({ top: thread.scrollHeight, behavior: "smooth" }); } catch (e) { thread.scrollTop = thread.scrollHeight; } };
+          var show = function () { el.className += " on"; toBottom(); setTimeout(next, el.className.indexOf("stamp") > -1 ? 250 : 1000); };
           if (incoming) {
             var t = document.createElement("div"); t.className = "bubble typing on"; t.innerHTML = "<i></i><i></i><i></i>";
-            thread.insertBefore(t, el); thread.scrollTop = thread.scrollHeight;
+            thread.insertBefore(t, el); toBottom();
             setTimeout(function () { thread.removeChild(t); show(); }, 1100);
           } else { show(); }
         }
