@@ -300,6 +300,8 @@
     .towns { columns: 1; }
     .closing .btn-light { width: 100%; }
     .plan-list li { flex-direction: column; gap: 6px; }
+    chat-widget, .lc_text-widget, #lc_text-widget, [data-widget-id] + div { --chat-widget-bottom: 84px; }
+    chat-widget { bottom: 84px !important; }
     .mobile-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(255,255,255,.97); border-top: 1px solid var(--line); padding: 10px 14px calc(10px + env(safe-area-inset-bottom)); }
     .mobile-bar .btn { padding: 14px 10px; }
   }
@@ -322,6 +324,8 @@
   // slug is passed in the URL so the hidden Preview Slug field fills itself.
   // Leave GHL_FORM_ID empty to show the built-in demo form instead.
   var GHL_FORM_ID = "wxvfR9m4cCv9EAsS1oDO";
+  // GoHighLevel SMS chat widget (bottom right). Leave empty to show no widget.
+  var GHL_CHAT_WIDGET_ID = "6ad1b8b34e3a6a8f9564a7ee";
   var FORM_ENDPOINT = "";
 
   var TABS = [
@@ -623,7 +627,17 @@
       io.observe(thread);
     }
 
+    function loadChatWidget() {
+      if (!GHL_CHAT_WIDGET_ID || document.querySelector("script[data-widget-id]")) return;
+      var cs = document.createElement("script");
+      cs.src = "https://widgets.leadconnectorhq.com/loader.js";
+      cs.setAttribute("data-resources-url", "https://widgets.leadconnectorhq.com/chat-widget/loader.js");
+      cs.setAttribute("data-widget-id", GHL_CHAT_WIDGET_ID);
+      document.body.appendChild(cs);
+    }
+
     function wire() {
+      loadChatWidget();
       if (location.hash === "#estimate") {
         var jump = function () { var q = document.getElementById("estimate"); if (q) q.scrollIntoView({ block: "start" }); };
         requestAnimationFrame(jump);
