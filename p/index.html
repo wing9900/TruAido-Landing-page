@@ -223,7 +223,7 @@
     .nav { display: none; }
     .menu-btn { display: inline-flex; }
     .head .wrap { grid-template-columns: auto 1fr auto; gap: 14px; }
-    .nav.open { display: flex; flex-direction: column; gap: 0; position: absolute; left: 0; right: 0; top: 100%; background: var(--white); border-bottom: 1px solid var(--line); padding: 8px 24px 16px; }
+    .nav.open { display: flex; flex-direction: column; gap: 0; position: absolute; left: 0; right: 0; width: 100%; justify-self: stretch; top: 100%; background: var(--white); border-bottom: 1px solid var(--line); box-shadow: 0 16px 32px rgba(10,14,18,.12); padding: 8px 24px 16px; }
     .nav.open a { padding: 14px 0; border-bottom: 1px solid var(--line); }
     .hero .wrap { grid-template-columns: minmax(0, 1fr) 380px; gap: 32px; }
     .services .wrap, .area .wrap, .system .wrap { grid-template-columns: 1fr; gap: 40px; }
@@ -408,11 +408,6 @@
         '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" +
         "</div></section>" + tbar;
 
-      var proof = '<div class="proof"><div class="wrap">' +
-        (d.rating ? "<div><b>" + esc(d.rating) + " stars</b><span>Google rating</span></div>" : "") +
-        "<div><b>" + esc(d.review_count || 0) + "</b><span>Google reviews</span></div>" +
-        "<div><b>" + esc(d.city) + "</b><span>" + (towns.length ? "and " + towns.length + " nearby towns" : "and the surrounding area") + "</span></div>" +
-        "</div></div>";
 
       var gal = gallery.length
         ? '<div class="gallery n' + gallery.length + '">' + gallery.map(function (u) { return '<img src="' + esc(u) + '" alt="Work by ' + co + '" loading="lazy">'; }).join("") + "</div>"
@@ -473,7 +468,7 @@
         (tel ? '<a class="btn btn-light" href="tel:' + tel + '">' + ICON.phone + phoneDisplay + "</a>" : '<a class="btn btn-light" href="#estimate">Get an estimate</a>') +
         "</div></section>";
 
-      return hero + proof + services + revs + system + area + closing;
+      return hero + services + revs + system + area + closing;
     }
 
     function formHtml() {
@@ -501,7 +496,7 @@
       var title = TABS.find(function (t) { return t[0] === tab; })[1];
       var intro, list = "";
       if (tab === "services") {
-        intro = "Everything " + co + " does, with a page for each service.";
+        intro = "Everything " + co + " does. Each main service gets its own page on the finished site.";
         list = '<ul class="plan-list">' + trade.services.map(function (s) {
           return "<li><div><h3>" + esc(s[0]) + "</h3><p>" + esc(s[1]) + '</p></div><span class="tag">Its own page</span></li>';
         }).join("") + "</ul>";
