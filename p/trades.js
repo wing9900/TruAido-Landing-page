@@ -4,9 +4,11 @@
   insurance, hours, prices, years in business or guarantees, because we
   don't know those for any given business.
   Keys match the trade keys written by the import script.
+  reply: the customer's text in the "No call goes unanswered" demo, a common complaint for the trade.
 */
 window.TRADES = {
   "tree-service": {
+    reply: "Tree came down in the back yard last night",
     checkin: "Storm season is coming. Want us to look at your trees before the next big wind?",
     line: "Tree removal, trimming and storm cleanup",
     noun: "tree work",
@@ -20,6 +22,7 @@ window.TRADES = {
     ]
   },
   "chimney": {
+    reply: "Fireplace is smoking into the room when we light it",
     checkin: "It's about a year since your last sweep. Want to get on the schedule before you light the first fire?",
     line: "Chimney sweeping, inspection and repair",
     noun: "chimney work",
@@ -33,6 +36,7 @@ window.TRADES = {
     ]
   },
   "septic": {
+    reply: "Drains are slow and the yard smells near the tank",
     checkin: "It's been a while since your last pumping. Want us to put you on the schedule?",
     line: "Septic pumping, inspection and repair",
     noun: "septic work",
@@ -46,6 +50,7 @@ window.TRADES = {
     ]
   },
   "hvac": {
+    reply: "AC quit this afternoon and it's 90 in the house",
     checkin: "Cold weather is on the way. Want a heating tune-up before you need it?",
     line: "Heating and air conditioning service",
     noun: "heating and cooling work",
@@ -59,6 +64,7 @@ window.TRADES = {
     ]
   },
   "generator": {
+    reply: "Power's been out twice this month, want a standby unit",
     checkin: "It's time for your generator's yearly service. Want us to set up a visit?",
     line: "Home standby generators, installed and serviced",
     noun: "generator work",
@@ -72,6 +78,7 @@ window.TRADES = {
     ]
   },
   "insulation": {
+    reply: "Upstairs is freezing and the bills keep going up",
     checkin: "Heating bills going up? We can check your attic and seal up drafts before winter.",
     line: "Spray foam and attic insulation",
     noun: "insulation work",
@@ -85,6 +92,7 @@ window.TRADES = {
     ]
   },
   "pest-control": {
+    reply: "Found mouse droppings in the garage again",
     checkin: "Mice start moving indoors this time of year. Want us to seal things up before they do?",
     line: "Pest control for homes and businesses",
     noun: "pest control",
@@ -98,6 +106,7 @@ window.TRADES = {
     ]
   },
   "garage-doors": {
+    reply: "Garage door won't close all the way",
     checkin: "Cold weather is hard on springs and openers. Want a quick tune-up?",
     line: "Garage door repair and installation",
     noun: "garage door work",
@@ -111,6 +120,7 @@ window.TRADES = {
     ]
   },
   "welding": {
+    reply: "Trailer hitch cracked, need it fixed on site",
     checkin: "Getting trailers and equipment ready for the busy season? We can fix them before the rush.",
     line: "Mobile welding and fabrication",
     noun: "welding work",
@@ -124,6 +134,7 @@ window.TRADES = {
     ]
   },
   "auto-glass": {
+    reply: "Rock chip spread into a crack across the windshield",
     checkin: "Cold weather can turn a small chip into a long crack. Want us to fix that chip before it spreads?",
     line: "Windshield replacement and auto glass repair",
     noun: "auto glass work",
@@ -137,6 +148,7 @@ window.TRADES = {
     ]
   },
   "masonry": {
+    reply: "Bricks are coming loose at the top of the chimney",
     checkin: "Winter is hard on brick and mortar. Want us to look at your chimney, steps or walls before the freeze?",
     line: "Brick, block and stone work, repair and restoration",
     noun: "masonry work",
@@ -150,6 +162,7 @@ window.TRADES = {
     ]
   },
   "concrete": {
+    reply: "Front steps are cracked and sinking on one side",
     checkin: "Cracked or sinking concrete gets worse over winter. Want an estimate before the ground freezes?",
     line: "Driveways, patios, walkways and concrete repair",
     noun: "concrete work",
@@ -163,6 +176,7 @@ window.TRADES = {
     ]
   },
   "_default": {
+    reply: "Can someone come out this week?",
     checkin: "It's been a while since we were out. Need anything done this season?",
     line: "Local service you can call or text",
     noun: "work",

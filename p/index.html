@@ -437,16 +437,12 @@
         '<div class="who"><b>' + co + "</b>Text message</div>" +
         '<div class="stamp">Today 10:42 AM</div>' +
         '<div class="bubble">Hi, this is ' + co + ". Sorry we missed your call, we're on a job right now. What do you need done?</div>" +
-        '<div class="bubble me">Tree came down in the back yard last night</div>' +
+        '<div class="bubble me">' + esc(trade.reply || "Can someone come out this week?") + "</div>" +
         '<div class="stamp">Last week</div>' +
         '<div class="bubble">Thanks for choosing ' + co + "! Would you leave us a quick Google review? It really helps.</div>" +
         '<div class="stamp">This morning</div>' +
         '<div class="bubble">Hi ' + first + ", it's " + co + ". " + esc(trade.checkin || "") + "</div>" +
         "</div></div></div></section>";
-      // The reply bubble only makes sense for tree work; swap in a generic reply for other trades.
-      if (d.trade !== "tree-service" && d.trade !== "stump-grinding") {
-        system = system.replace("Tree came down in the back yard last night", "Can someone come out this week?");
-      }
 
       var area = '<section class="block area" id="area"><div class="wrap"><div><h2 class="title">Where we work</h2>' +
         '<p class="home-city">' + esc(d.city) + (d.state ? ", " + esc(d.state) : "") + "</p></div>" +
