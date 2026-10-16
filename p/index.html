@@ -36,8 +36,8 @@
   .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
   /* TruAido bar: ours, not theirs, so it uses TruAido orange and stays slim */
-  .tbar { background: var(--ink); color: #C9D0D6; font-size: 14px; }
-  .tbar .wrap { display: flex; align-items: center; gap: 16px; min-height: 46px; }
+  .tbar { background: var(--ink); color: #C9D0D6; font-size: 15px; border-top: 3px solid var(--truaido); }
+  .tbar .wrap { display: flex; align-items: center; gap: 16px; min-height: 56px; }
   .tbar p { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .tbar strong { color: var(--white); font-weight: 600; }
   .tbar .short { display: none; }
@@ -47,19 +47,21 @@
 
   /* Business header */
   .head { position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,.96); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
-  .head .wrap { display: flex; align-items: center; gap: 28px; min-height: 76px; }
-  .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; min-width: 0; }
-  .brand img { height: 44px; width: auto; }
+  .head .wrap { display: flex; align-items: center; gap: 36px; min-height: 76px; }
+  .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; min-width: 0; flex: none; }
+  .brand img { height: 42px; width: auto; }
   .brand.wide img { height: 40px; max-width: 220px; object-fit: contain; }
   .brand .badge { border-radius: 10px; padding: 6px 8px; display: inline-flex; }
   .brand .badge img { height: 34px; }
   .brand .name { font-family: var(--display); font-weight: 700; font-size: 20px; line-height: 1.05; font-stretch: 85%; }
   .brand.text .name { color: var(--accent); font-size: 23px; }
-  .nav { display: flex; gap: 22px; margin-left: auto; }
+  .nav { display: flex; gap: 26px; margin-left: auto; }
   .nav a { text-decoration: none; font-weight: 600; font-size: 15.5px; color: var(--ink-2); padding: 6px 0; border-bottom: 2px solid transparent; }
   .nav a:hover, .nav a[aria-current="page"] { border-bottom-color: var(--accent); color: var(--ink); }
-  .head-cta { display: flex; align-items: center; gap: 14px; }
-  .phone-link { font-weight: 700; text-decoration: none; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .head-cta { display: flex; align-items: center; gap: 10px; margin-left: 8px; }
+  .phone-link { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; font-size: 16px; text-decoration: none; white-space: nowrap; font-variant-numeric: tabular-nums; padding: 13px 16px; border-radius: var(--radius-s); box-shadow: inset 0 0 0 2px var(--line); color: var(--ink); }
+  .phone-link:hover { box-shadow: inset 0 0 0 2px var(--ink); }
+  .phone-link svg { width: 17px; height: 17px; }
   .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; font: 700 16px/1 var(--body); text-decoration: none; border: 0; cursor: pointer; border-radius: var(--radius-s); padding: 14px 20px; white-space: nowrap; }
   .btn-accent { background: var(--accent); color: var(--white); }
   .btn-accent:hover { filter: brightness(1.12); }
@@ -73,7 +75,7 @@
   .hero { position: relative; background: var(--ink) center/cover no-repeat; color: var(--white); }
   .hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20,24,28,.88) 0%, rgba(20,24,28,.62) 45%, rgba(20,24,28,.15) 75%, rgba(20,24,28,.05) 100%); }
   .hero.no-photo { background-image: radial-gradient(120% 120% at 100% 0%, color-mix(in srgb, var(--accent) 55%, var(--ink)) 0%, var(--ink) 60%); }
-  .hero .wrap { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 56px; align-items: end; padding-top: 120px; padding-bottom: 64px; min-height: 620px; }
+  .hero .wrap { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 450px; gap: 48px; align-items: end; padding-top: 64px; padding-bottom: 44px; min-height: 540px; }
   .hero .where { font-weight: 600; font-size: 17px; color: #E6EAED; margin-bottom: 14px; }
   .hero h1 { font-size: clamp(48px, 7.4vw, 104px); font-stretch: 78%; font-weight: 800; line-height: .92; letter-spacing: -0.02em; text-wrap: balance; max-width: 11ch; }
   .hero .line { font-size: 20px; margin-top: 20px; color: #F1F3F5; max-width: 34ch; }
@@ -86,7 +88,7 @@
   @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
 
   /* Estimate form */
-  .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 26px 24px 22px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
+  .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
   .quote h2 { font-size: 27px; font-stretch: 85%; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; }
   .quote form { margin-top: 16px; display: grid; gap: 12px; }
@@ -98,8 +100,8 @@
   .consent input { margin: 2px 0 0; width: 17px; height: 17px; flex: none; accent-color: var(--accent); }
   .consent a { color: var(--steel); }
   .quote .btn { width: 100%; padding: 15px; font-size: 17px; }
-  .ghl-form { margin: 12px -8px 0; }
-  .ghl-form iframe { display: block; min-height: 560px; }
+  .ghl-form { margin: 8px -10px 0; }
+  .ghl-form iframe { display: block; min-height: 520px; }
   .form-msg { font-size: 14.5px; }
   .form-msg.err { color: #B0432B; }
   .form-done { padding: 18px 2px 6px; }
@@ -210,7 +212,7 @@
     .head-cta { margin-left: auto; }
     .nav.open { display: flex; flex-direction: column; gap: 0; position: absolute; left: 0; right: 0; top: 100%; background: var(--white); border-bottom: 1px solid var(--line); padding: 8px 24px 16px; }
     .nav.open a { padding: 14px 0; border-bottom: 1px solid var(--line); }
-    .hero .wrap { grid-template-columns: minmax(0, 1fr) 340px; gap: 32px; }
+    .hero .wrap { grid-template-columns: minmax(0, 1fr) 380px; gap: 32px; }
     .services .wrap, .area .wrap, .system .wrap { grid-template-columns: 1fr; gap: 40px; }
     .services .side { position: static; }
     .system .phone { max-width: 340px; }
@@ -266,7 +268,8 @@
 
   // Settings shared by every preview.
   var STRIPE = "https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00";
-  var VIDEO = "https://video.truaido.com";
+  // The short video is not published yet; the link stays hidden while this is empty.
+  var VIDEO = "";
   // The estimate form is a GoHighLevel form embedded in an iframe. The preview
   // slug is passed in the URL so the hidden Preview Slug field fills itself.
   // Leave GHL_FORM_ID empty to show the built-in demo form instead.
@@ -341,7 +344,7 @@
       ? "Here's the new <strong>" + co + "</strong> website, built to turn visits into texts."
       : "Here's a website for <strong>" + co + "</strong>, built by TruAido.";
     var tbar = '<div class="tbar"><div class="wrap"><p><span class="long">' + pitch + '</span><span class="short">Website preview for <strong>' + co + '</strong></span></p>' +
-      '<a class="video" href="' + VIDEO + '" target="_blank" rel="noopener">Watch the short video</a>' +
+      (VIDEO ? '<a class="video" href="' + VIDEO + '" target="_blank" rel="noopener">Watch the short video</a>' : "") +
       '<a class="start" href="' + esc(start) + '">Start my build</a></div></div>';
 
     // Header brand per logo layout
@@ -363,7 +366,7 @@
     var estimateHref = tab ? href("") + "#estimate" : "#estimate";
     var head = '<header class="head"><div class="wrap">' + brand +
       '<nav class="nav" id="nav" aria-label="Main">' + nav + "</nav>" +
-      '<div class="head-cta">' + (tel ? '<a class="phone-link" href="tel:' + tel + '">' + phoneDisplay + "</a>" : "") +
+      '<div class="head-cta">' + (tel ? '<a class="phone-link" href="tel:' + tel + '">' + ICON.phone + phoneDisplay + "</a>" : "") +
       '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a></div>' +
       '<button class="menu-btn" aria-label="Menu" aria-expanded="false" aria-controls="nav">' + ICON.menu + "</button>" +
       "</div></header>";
@@ -375,7 +378,7 @@
       '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a></div>';
 
     var body = tab ? placeholder() : home();
-    app.innerHTML = tbar + head + "<main>" + body + "</main>" + foot + mbar;
+    app.innerHTML = head + "<main>" + body + "</main>" + foot + mbar;
     wire();
 
     function home() {
@@ -390,7 +393,7 @@
         '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") + "</div>" +
         "</div>" +
         '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" +
-        "</div></section>";
+        "</div></section>" + tbar;
 
       var proof = '<div class="proof"><div class="wrap">' +
         (d.rating ? "<div><b>" + esc(d.rating) + " stars</b><span>Google rating</span></div>" : "") +
@@ -507,7 +510,7 @@
       }
       return '<section class="page-head"><div class="wrap"><h1>' + title + "</h1><p>" + intro + "</p>" +
         '<div class="preview-note">' + ICON.info + "<span>This is a preview. On the finished " + co + " site, this page is written for your business. Here's what goes on it.</span></div>" +
-        '</div></section><section class="block"><div class="wrap">' + list +
+        '</div></section>' + tbar + '<section class="block"><div class="wrap">' + list +
         '<div class="page-cta"><a class="btn btn-accent" href="' + href("") + '">Back to the home page</a>' +
         '<a class="btn btn-outline" href="' + esc(start) + '">Start my build</a></div></div></section>';
     }
