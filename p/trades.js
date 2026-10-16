@@ -136,6 +136,32 @@ window.TRADES = {
       ["Cars, trucks and SUVs", "Glass for everyday vehicles, work trucks and vans."]
     ]
   },
+  "masonry": {
+    checkin: "Winter is hard on brick and mortar. Want us to look at your chimney, steps or walls before the freeze?",
+    line: "Brick, block and stone work, repair and restoration",
+    noun: "masonry work",
+    services: [
+      ["Brick repair and repointing", "Loose, cracked or crumbling mortar ground out and repacked so water stays out of the wall."],
+      ["Chimney rebuilds", "Chimneys taken down to solid brick and rebuilt, with a new crown and cap."],
+      ["Stone walls and veneer", "Retaining walls, garden walls and stone facing built or repaired to match what's there."],
+      ["Steps, stoops and walkways", "Brick and stone steps and walks rebuilt so they're level and safe."],
+      ["Foundation and block repair", "Cracked block, bowed walls and spalling patched before the problem spreads."],
+      ["Stucco and parging", "New stucco, patching and parge coats over block and foundation walls."]
+    ]
+  },
+  "concrete": {
+    checkin: "Cracked or sinking concrete gets worse over winter. Want an estimate before the ground freezes?",
+    line: "Driveways, patios, walkways and concrete repair",
+    noun: "concrete work",
+    services: [
+      ["Driveways", "New driveways poured, and old ones replaced, with the base prepared so they hold up."],
+      ["Patios and walkways", "Patios, sidewalks and paths poured flat and finished broom, stamped or smooth."],
+      ["Steps and stoops", "Front steps and stoops formed, poured and finished to match the house."],
+      ["Garage and basement floors", "Slabs poured level with the right drainage for the space."],
+      ["Foundations and footings", "Footings and foundation walls for additions, garages and sheds."],
+      ["Concrete repair", "Cracks, spalling and sunken slabs repaired or replaced where patching won't hold."]
+    ]
+  },
   "_default": {
     checkin: "It's been a while since we were out. Need anything done this season?",
     line: "Local service you can call or text",
