@@ -145,8 +145,10 @@
   .q.lead { grid-row: span 2; }
   .q.lead blockquote { margin: auto 0; }
   .q.lead blockquote { font-family: var(--display); font-size: clamp(24px, 2.5vw, 32px); font-stretch: 90%; font-weight: 600; line-height: 1.22; letter-spacing: -0.01em; }
-  .q .who { color: var(--steel); font-size: 15px; }
-  .q .who b { color: var(--ink); font-weight: 600; }
+  .q .who { color: var(--steel); font-size: 15px; display: flex; align-items: center; gap: 12px; }
+  .q .who b { color: var(--ink); font-weight: 600; display: block; }
+  .q .who .av { width: 40px; height: 40px; border-radius: 50%; color: var(--white); font-weight: 600; font-size: 17px; display: grid; place-items: center; flex: none; }
+  .q .who .src { margin-left: auto; font-size: 12.5px; color: var(--steel); white-space: nowrap; border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px; }
   .quotes.n1 { grid-template-columns: 1fr; } .quotes.n1 .q.lead { grid-row: auto; }
   .quotes.n2 .q.lead { grid-row: auto; }
 
@@ -319,6 +321,13 @@
     menu: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>',
     info: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 15h-2v-6h2zm0-8h-2V7h2z"/></svg>'
   };
+  // Google-style initial avatars: a fixed color per name so the same reviewer always gets the same one.
+  var AVATAR_COLORS = ["#7B1FA2", "#1565C0", "#00838F", "#2E7D32", "#EF6C00", "#C62828", "#4527A0", "#00695C", "#AD1457", "#283593"];
+  function avatarColor(name) {
+    var h = 0, t = name || "";
+    for (var i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) % 1000003;
+    return AVATAR_COLORS[h % AVATAR_COLORS.length];
+  }
   function stars(n) {
     var out = "", full = Math.round(n || 0);
     for (var i = 0; i < 5; i++) out += i < full ? ICON.star : ICON.star.replace('fill="currentColor"', 'fill="currentColor" opacity=".3"');
@@ -426,7 +435,9 @@
           (safeUrl(d.maps_url) ? '<a href="' + esc(d.maps_url) + '" target="_blank" rel="noopener">See all ' + esc(d.review_count) + " reviews on Google</a>" : "") + "</div>" +
           '<div class="quotes n' + reviews.length + '">' + reviews.map(function (r, i) {
             return '<figure class="q' + (i === 0 ? " lead" : "") + '">' + stars(r.stars) + "<blockquote>" + esc(r.text) + "</blockquote>" +
-              '<figcaption class="who"><b>' + esc(r.author) + "</b>" + (r.month ? ", " + esc(r.month) : "") + "</figcaption></figure>";
+              '<figcaption class="who"><span class="av" style="background:' + avatarColor(r.author) + '">' + esc((r.author || "G").trim().charAt(0).toUpperCase()) + "</span>" +
+              "<span><b>" + esc(r.author) + "</b>" + (r.month ? esc(r.month) : "") + "</span>" +
+              '<span class="src">Google review</span></figcaption></figure>';
           }).join("") + "</div></div></section>";
       }
 
