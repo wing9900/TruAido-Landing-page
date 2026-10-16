@@ -76,6 +76,10 @@
   .hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20,24,28,.88) 0%, rgba(20,24,28,.62) 45%, rgba(20,24,28,.15) 75%, rgba(20,24,28,.05) 100%); }
   .hero.no-photo { background-image: radial-gradient(120% 120% at 100% 0%, color-mix(in srgb, var(--accent) 55%, var(--ink)) 0%, var(--ink) 60%); }
   .hero .wrap { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 440px; gap: 56px; align-items: center; padding-top: 48px; padding-bottom: 48px; min-height: 540px; }
+  /* On wide screens the form reaches into the right page margin, so the headline
+     keeps the same left edge as the header while the form gets more room. */
+  @media (min-width: 1320px) { .hero .quote { margin-right: -60px; } }
+  @media (min-width: 1480px) { .hero .quote { margin-right: -120px; } }
   .hero .where { font-weight: 600; font-size: 17px; color: #E6EAED; margin-bottom: 14px; }
   .hero h1 { font-size: clamp(48px, 7.4vw, 104px); font-stretch: 78%; font-weight: 800; line-height: .92; letter-spacing: -0.02em; text-wrap: balance; max-width: 11ch; }
   .hero .line { font-size: 20px; margin-top: 20px; color: #F1F3F5; max-width: 34ch; }
@@ -89,8 +93,8 @@
 
   /* Estimate form */
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
-  .quote h2 { font-size: 27px; font-stretch: 85%; }
-  .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; }
+  .quote h2 { font-size: 27px; font-stretch: 85%; text-align: center; }
+  .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
   .quote form { margin-top: 16px; display: grid; gap: 12px; }
   .quote label { font-weight: 600; font-size: 14px; display: grid; gap: 5px; }
   .quote input[type=text], .quote input[type=tel], .quote textarea { font: 400 16px/1.4 var(--body); color: var(--ink); border: 1.5px solid var(--line); border-radius: var(--radius-s); padding: 11px 12px; width: 100%; background: var(--white); }
@@ -241,7 +245,7 @@
     .nav.open { display: flex; flex-direction: column; gap: 0; position: absolute; left: 0; right: 0; width: 100%; justify-self: stretch; top: 100%; background: var(--white); border-bottom: 1px solid var(--line); box-shadow: 0 16px 32px rgba(10,14,18,.12); padding: 4px 24px 0; }
     .nav.open a { padding: 14px 0; border-bottom: 1px solid var(--line); }
     .nav.open a:last-child { border-bottom: 0; }
-    .hero .wrap { grid-template-columns: minmax(0, 1fr) 380px; gap: 32px; }
+    .hero .wrap { grid-template-columns: minmax(0, 1fr) 400px; gap: 32px; }
     .services .wrap, .area .wrap, .system .wrap { grid-template-columns: 1fr; gap: 40px; }
     .services .side { position: static; }
     .system .phone { width: min(330px, 100%); }
