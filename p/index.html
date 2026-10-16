@@ -88,7 +88,9 @@
   .hero .line { font-size: 20px; margin-top: 20px; color: #F1F3F5; max-width: 34ch; }
   .rating { display: flex; align-items: center; gap: 10px; margin-top: 22px; font-weight: 600; }
   .stars { display: inline-flex; gap: 2px; color: #F7B731; }
-  .stars svg { width: 18px; height: 18px; }
+  .stars svg { width: 18px; height: 18px; display: block; }
+  .stars .star { position: relative; display: inline-block; width: 18px; height: 18px; }
+  .stars .lit { position: absolute; left: 0; top: 0; height: 100%; overflow: hidden; }
   .hero .actions { display: flex; gap: 12px; margin-top: 30px; flex-wrap: wrap; }
   .hero .btn-light { box-shadow: none; }
   .hero-name-in { animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
@@ -359,8 +361,13 @@
     return AVATAR_COLORS[h % AVATAR_COLORS.length];
   }
   function stars(n) {
-    var out = "", full = Math.round(n || 0);
-    for (var i = 0; i < 5; i++) out += i < full ? ICON.star : ICON.star.replace('fill="currentColor"', 'fill="currentColor" opacity=".3"');
+    // Partial fill: 4.8 shows four full stars and one star 80% lit.
+    var out = "", v = Math.max(0, Math.min(5, +n || 0));
+    for (var i = 0; i < 5; i++) {
+      var f = Math.max(0, Math.min(1, v - i));
+      out += '<span class="star">' + ICON.star.replace('fill="currentColor"', 'fill="currentColor" opacity=".28"') +
+        (f > 0 ? '<span class="lit" style="width:' + Math.round(f * 100) + '%">' + ICON.star + "</span>" : "") + "</span>";
+    }
     return '<span class="stars" aria-hidden="true">' + out + "</span>";
   }
 
