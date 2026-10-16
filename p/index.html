@@ -303,7 +303,7 @@
     /* The GHL chat bubble floats at the bottom right (about 50px round, 22px in from
        the corner) and cannot be moved from page CSS. The bar leaves it a slot on the
        right and is tall enough that the bubble sits inside the bar as a third control. */
-    .mobile-bar { display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: center; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: rgba(255,255,255,.97); border-top: 1px solid var(--line); min-height: 94px; padding: 12px 92px calc(12px + env(safe-area-inset-bottom)) 14px; }
+    .mobile-bar { display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: center; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: var(--white); border-top: 1px solid var(--line); box-shadow: 0 -8px 24px rgba(10,14,18,.08); min-height: 94px; padding: 12px 92px calc(12px + env(safe-area-inset-bottom)) 14px; }
     .mobile-bar .btn { height: 52px; padding: 0 14px; font-size: 15.5px; }
     .mobile-bar .btn-outline { padding-left: 16px; padding-right: 16px; }
   }
