@@ -98,6 +98,7 @@
 
   /* Estimate form */
   #estimate { scroll-margin-top: 92px; }
+  .hero.no-form .wrap { grid-template-columns: minmax(0, 1fr); }
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
   .quote h2 { font-size: 31px; font-stretch: 85%; text-align: center; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
@@ -326,6 +327,8 @@
   // slug is passed in the URL so the hidden Preview Slug field fills itself.
   // Leave GHL_FORM_ID empty to show the built-in demo form instead.
   var GHL_FORM_ID = "wxvfR9m4cCv9EAsS1oDO";
+  // Set to false to hide the estimate form card and its buttons (nothing is removed; flip back to true to restore).
+  var SHOW_ESTIMATE_FORM = false;
   // GoHighLevel SMS chat widget (bottom right). Leave empty to show no widget.
   var GHL_CHAT_WIDGET_ID = "6ad1b8b34e3a6a8f9564a7ee";
   var FORM_ENDPOINT = "";
@@ -433,7 +436,7 @@
     var head = '<header class="head"><div class="wrap">' + brand +
       '<nav class="nav" id="nav" aria-label="Main">' + nav + "</nav>" +
       '<div class="head-cta">' + (tel ? '<a class="phone-link" href="tel:' + tel + '">' + ICON.phone + phoneDisplay + "</a>" : "") +
-      '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a></div>' +
+      (SHOW_ESTIMATE_FORM ? '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a>' : "") + "</div>" +
       '<button class="menu-btn" aria-label="Menu" aria-expanded="false" aria-controls="nav">' + ICON.menu + "</button>" +
       "</div></header>";
 
@@ -442,7 +445,7 @@
       '<nav class="links" aria-label="Footer">' + TABS.map(function (t) { return '<a href="' + href(t[0]) + '">' + t[1] + "</a>"; }).join("") + "</nav>" +
       '<div class="by">Website preview by <a href="https://truaido.com">TruAido</a>. Not yet live.</div></div></footer>';
     var mbar = '<div class="mobile-bar">' + (tel ? '<a class="btn btn-outline" href="tel:' + tel + '">' + ICON.phone + "Call</a>" : "") +
-      '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a></div>';
+      (SHOW_ESTIMATE_FORM ? '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a>' : "") + "</div>";
 
     var body = tab ? placeholder() : home();
     app.innerHTML = head + "<main>" + body + "</main>" + foot + mbar;
@@ -452,14 +455,14 @@
       var rating = d.rating
         ? '<div class="rating">' + stars(d.rating) + "<span>" + esc(d.rating) + " from " + esc(d.review_count) + " Google reviews</span></div>"
         : "";
-      var hero = '<section class="hero' + (heroUrl ? "" : " no-photo") + '"' + (heroUrl ? ' style="background-image:url(\'' + esc(heroUrl) + '\')"' : "") + '>' +
+      var hero = '<section class="hero' + (heroUrl ? "" : " no-photo") + (SHOW_ESTIMATE_FORM ? "" : " no-form") + '"' + (heroUrl ? ' style="background-image:url(\'' + esc(heroUrl) + '\')"' : "") + '>' +
         '<div class="wrap"><div>' +
         '<p class="where">' + where + "</p>" +
         '<h1 class="hero-name-in">' + co + "</h1>" +
-        '<p class="line">' + esc(trade.line) + ". Call, or send a few details and get a text back.</p>" + rating +
+        '<p class="line">' + esc(trade.line) + (SHOW_ESTIMATE_FORM ? ". Call, or send a few details and get a text back.</p>" : ". Call, and if we miss you, you'll get a text back.</p>") + rating +
         '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") + "</div>" +
         "</div>" +
-        '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" +
+        (SHOW_ESTIMATE_FORM ? '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" : "") +
         "</div></section>" + tbar;
 
 
@@ -468,7 +471,7 @@
         : "";
       var services = '<section class="block services" id="services"><div class="wrap">' +
         '<div class="side"><h2 class="title">What we do</h2><p class="kicker">' + esc(trade.line) + " across " + esc(d.city) + " and nearby.</p>" +
-        '<a class="btn btn-accent" href="#estimate">Get an estimate</a></div>' +
+        (SHOW_ESTIMATE_FORM ? '<a class="btn btn-accent" href="#estimate">Get an estimate</a>' : (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "")) + "</div>" +
         "<div>" + gal + '<ul class="svc-list">' + trade.services.map(function (s) {
           return "<li><h3>" + esc(s[0]) + "</h3><p>" + esc(s[1]) + "</p></li>";
         }).join("") + "</ul></div></div></section>";
@@ -496,7 +499,7 @@
         "<li><b>Finished jobs turn into Google reviews.</b> A friendly request goes out after the job, with a gentle reminder or two if they forget.</li>" +
         "<li><b>Past customers hear from you</b> before the busy season, so repeat work comes to you first.</li>" +
         "</ul>" +
-        '<div class="note"><a class="btn btn-truaido" href="' + esc(start) + '">Start my build</a><span>Or try the estimate form above with your own cell to see the first text.</span></div>' +
+        '<div class="note"><a class="btn btn-truaido" href="' + esc(start) + '">Start my build</a>' + (SHOW_ESTIMATE_FORM ? "<span>Or try the estimate form above with your own cell to see the first text.</span>" : "") + "</div>" +
         "</div>" +
         '<div class="phone" aria-label="Example text messages"><div class="screen">' +
         '<div class="status"><span>2:14</span><span class="island"></span><span class="icons"><i></i><em></em></span></div>' +
@@ -523,7 +526,7 @@
         "</div></section>";
 
       var closing = '<section class="closing"><div class="wrap"><h2>Need ' + esc(trade.noun) + "? Call " + co + ".</h2>" +
-        (tel ? '<a class="btn btn-light" href="tel:' + tel + '">' + ICON.phone + phoneDisplay + "</a>" : '<a class="btn btn-light" href="#estimate">Get an estimate</a>') +
+        (tel ? '<a class="btn btn-light" href="tel:' + tel + '">' + ICON.phone + phoneDisplay + "</a>" : (SHOW_ESTIMATE_FORM ? '<a class="btn btn-light" href="#estimate">Get an estimate</a>' : "")) +
         "</div></section>";
 
       return hero + services + revs + area + closing + system;
@@ -572,7 +575,7 @@
         intro = "Every way to reach " + co + ", in one place.";
         list = '<ul class="plan-list">' +
           (tel ? '<li><div><h3><a href="tel:' + tel + '">' + phoneDisplay + "</a></h3><p>Call or text. Missed calls get a text back.</p></div></li>" : "") +
-          '<li><div><h3><a href="' + href("") + '#estimate">Estimate form</a></h3><p>Starts a text conversation with your crew.</p></div></li>' +
+          (SHOW_ESTIMATE_FORM ? '<li><div><h3><a href="' + href("") + '#estimate">Estimate form</a></h3><p>Starts a text conversation with your crew.</p></div></li>' : "") +
           "<li><div><h3>Hours and directions</h3><p>Your hours and service area map go here.</p></div></li></ul>";
       }
       return '<section class="page-head"><div class="wrap"><h1>' + title + "</h1><p>" + intro + "</p>" +
