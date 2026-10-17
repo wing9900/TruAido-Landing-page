@@ -306,6 +306,7 @@
        right and is tall enough that the bubble sits inside the bar as a third control. */
     .mobile-bar { display: grid; grid-template-columns: auto 1fr; gap: 10px; align-items: center; position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; background: var(--white); border-top: 1px solid var(--line); box-shadow: 0 -8px 24px rgba(10,14,18,.08); min-height: 94px; padding: 12px 92px calc(12px + env(safe-area-inset-bottom)) 14px; }
     .mobile-bar .btn { height: 52px; padding: 0 14px; font-size: 15.5px; }
+    .mobile-bar.no-chat { padding-right: 14px; }
     .mobile-bar .btn-outline { padding-left: 16px; padding-right: 16px; }
   }
   @media (min-width: 761px) { .quote-wrap { display: contents; } }
@@ -331,6 +332,8 @@
   var SHOW_ESTIMATE_FORM = false;
   // GoHighLevel SMS chat widget (bottom right). Leave empty to show no widget.
   var GHL_CHAT_WIDGET_ID = "6ad1b8b34e3a6a8f9564a7ee";
+  // Set to false to keep the chat widget off (the ID above stays; flip back to true to restore).
+  var SHOW_CHAT_WIDGET = false;
   var FORM_ENDPOINT = "";
 
   var TABS = [
@@ -444,7 +447,7 @@
       (tel ? '<br><a href="tel:' + tel + '">' + phoneDisplay + "</a>" : "") + "</div>" +
       '<nav class="links" aria-label="Footer">' + TABS.map(function (t) { return '<a href="' + href(t[0]) + '">' + t[1] + "</a>"; }).join("") + "</nav>" +
       '<div class="by">Website preview by <a href="https://truaido.com">TruAido</a>. Not yet live.</div></div></footer>';
-    var mbar = '<div class="mobile-bar">' + (tel ? '<a class="btn btn-outline" href="tel:' + tel + '">' + ICON.phone + "Call</a>" : "") +
+    var mbar = '<div class="mobile-bar' + (SHOW_CHAT_WIDGET && GHL_CHAT_WIDGET_ID ? "" : " no-chat") + '">' + (tel ? '<a class="btn btn-outline" href="tel:' + tel + '">' + ICON.phone + "Call</a>" : "") +
       (SHOW_ESTIMATE_FORM ? '<a class="btn btn-accent" href="' + estimateHref + '">Get an estimate</a>' : "") + "</div>";
 
     var body = tab ? placeholder() : home();
@@ -633,7 +636,7 @@
     }
 
     function loadChatWidget() {
-      if (!GHL_CHAT_WIDGET_ID || document.querySelector("script[data-widget-id]")) return;
+      if (!SHOW_CHAT_WIDGET || !GHL_CHAT_WIDGET_ID || document.querySelector("script[data-widget-id]")) return;
       var cs = document.createElement("script");
       cs.src = "https://widgets.leadconnectorhq.com/loader.js";
       cs.setAttribute("data-resources-url", "https://widgets.leadconnectorhq.com/chat-widget/loader.js");
