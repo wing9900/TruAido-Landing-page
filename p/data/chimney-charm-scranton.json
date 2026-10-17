@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "chimney-charm-scranton",
+  "company": "Chimney Charm",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Scranton",
+  "state": "PA",
+  "phone": "+15703432745",
+  "phone_display": "(570) 343-2745",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chimney%20Charm&query_place_id=ChIJn28kShnfxIkRmAW1bKMbSew",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Moosic",
+    "Clarks Summit",
+    "Forty Fort",
+    "Lake Ariel",
+    "Gouldsboro",
+    "Nicholson"
+  ],
+  "reviews": [
+    {
+      "text": "Very nice to work with a company/individual who actually knows what they are doing and selling. No one else in the area seems to..",
+      "author": "Bob N.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great experience from start to finish.Kevin walked me through the process from purchase to installation. He was always available and flexible. We are using our fireplace more often with the cold weather and it works beautifully and looks great.",
+      "author": "dino S.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "I called when my gas insert started beeping. I called and Kevin walked me through it step by step so I could resolve it over the phone, saving me alot of money and time. He was so gracious and patient. Ended up being the battery pack.",
+      "author": "Annie D.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": []
+}

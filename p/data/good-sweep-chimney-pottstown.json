@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "good-sweep-chimney-pottstown",
+  "company": "A Good Sweep Chimney & Masonry Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Pottstown",
+  "state": "PA",
+  "phone": "+16104770777",
+  "phone_display": "(610) 477-0777",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 81,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A%20Good%20Sweep%20Chimney%20%26%20Masonry%20Service&query_place_id=ChIJFXUGCW2GxokRpi_tbDkCRKo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mertztown",
+    "Fleetwood",
+    "Lyons",
+    "Mohnton",
+    "Reading",
+    "Leesport"
+  ],
+  "reviews": [
+    {
+      "text": "I have been using Antrim\u2019s A Good Sweep Chimney & Masonry Service annually for many years and highly recommend. I have had my chimney cleaned and inspected every year and have also had chimney repairs done.",
+      "author": "Emily O.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Huge thanks to Nathan from A Good Sweep! We\u2019ve been using this company since 2013, and they always deliver. Nathan did an amazing job cleaning our fireplace insert and installing our new blower fans.",
+      "author": "Paul L.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I am extremely satisfied with this company. Their chimney cleaning removed significant buildup, the masonry repair restored the chimney beautifully, and the fireplace inspection was comprehensive.",
+      "author": "Gerard Y.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

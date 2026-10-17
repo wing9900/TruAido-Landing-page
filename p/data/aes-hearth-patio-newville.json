@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "aes-hearth-patio-newville",
+  "company": "AES Hearth & Patio Newville",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17174867690",
+  "phone_display": "(717) 486-7690",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 71,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=AES%20Hearth%20%26%20Patio%20Newville&query_place_id=ChIJcQ2-CTQbyYkR8g3YWujrMrY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111846/truaido-previews/aes-hearth-patio-newville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#51140F",
+  "nearby_towns": [
+    "Carlisle",
+    "Shippensburg"
+  ],
+  "reviews": [
+    {
+      "text": "AES is a great company Ian & Carlton And Steve arrived on time they were very nice told us what they were going to do for our fireplace. Did a great job cleaning up. You don\u2019t even know they were there. We will be using you every year to keep our home safe",
+      "author": "Ron R.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

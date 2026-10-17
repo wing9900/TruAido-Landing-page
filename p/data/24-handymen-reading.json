@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "24-handymen-reading",
+  "company": "24/7 Handymen",
+  "trade": "handyman",
+  "trade_label": "Handyman",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+14845256800",
+  "phone_display": "(484) 525-6800",
+  "has_website": true,
+  "rating": 3.7,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=24%2F7%20Handymen&query_place_id=ChIJ83lqkkZ3xokR9Or0qKA3yw0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/general.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leesport",
+    "Fleetwood",
+    "Mohnton",
+    "Shoemakersville",
+    "Lyons",
+    "East Earl"
+  ],
+  "reviews": [
+    {
+      "text": "As an Architect and commercial multifamily senior development and construction executive, I needed my own home renovated and remodeled. I did my due diligence to find the right local team and talent to meet my design and construction professional standards.",
+      "author": "Thomas B.",
+      "stars": 5,
+      "month": "November 2024"
+    },
+    {
+      "text": "They have done a lot of great work for my parents and extended family. I highly recommend.",
+      "author": "Alton C.",
+      "stars": 5,
+      "month": "February 2024"
+    },
+    {
+      "text": "I have used 24/7 for nearly a decade and won't call anyone else. Their work is consistently first-rate and reasonably priced. Alex is very dependable and easy to deal with. He is honest, a straight-shooter, and his crews always do first-rate work.",
+      "author": "Stuart W.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792114240/truaido-previews/24-handymen-reading/work1"
+  ]
+}

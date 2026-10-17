@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "petra-masonry-reading",
+  "company": "Petra Masonry Inc.",
+  "trade": "masonry",
+  "trade_label": "Masonry",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+16107800705",
+  "phone_display": "(610) 780-0705",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Petra%20Masonry%20Inc.&query_place_id=ChIJf7PIRLZxxokRLdNYgx_yOD0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/general.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111799/truaido-previews/petra-masonry-reading/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#AB604A",
+  "nearby_towns": [
+    "Mohnton",
+    "East Earl",
+    "Leesport",
+    "Fleetwood",
+    "Reinholds",
+    "Shoemakersville"
+  ],
+  "reviews": [
+    {
+      "text": "Terry did an excellent job performing some interior foundation concrete block and mortar crack repairs, and some exterior stucco crack repairs for me.",
+      "author": "Curt J.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "He completed everything we discussed and the job looks great. Would use him again for more work in the future",
+      "author": "Jordan M.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Terry was terrific to work with; communicates the work, when it will be done and was early to the site. I couldn't ask for a better contractor to work with and the job was done well.",
+      "author": "Christy G.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792218527/truaido-previews/petra-masonry-reading/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792218528/truaido-previews/petra-masonry-reading/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792217361/truaido-previews/petra-masonry-reading/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792111799/truaido-previews/petra-masonry-reading/work4"
+  ]
+}

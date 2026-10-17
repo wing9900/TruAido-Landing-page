@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "shorts-stoves-chimneys-reading",
+  "company": "Short's Stoves Chimneys and Fireplaces",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+16109291813",
+  "phone_display": "(610) 929-1813",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 49,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Short's%20Stoves%20Chimneys%20and%20Fireplaces&query_place_id=ChIJdy23h213xokRT2qsKuTD-vA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leesport",
+    "Fleetwood",
+    "Shoemakersville",
+    "Mohnton",
+    "Lyons",
+    "Mertztown"
+  ],
+  "reviews": [
+    {
+      "text": "They did a great job on our insert installation and continue doing great work for our annual service and cleaning. Team Members are very respectful and leave the work area very clean.",
+      "author": "Darrell W.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Devon did an outstanding job! I called and spoke to a very nice woman who scheduled a cleaning for our propane fireplace insert. Devon was friendly, professional, and polite! He was extremely knowledgeable and clearly knows this field.",
+      "author": "Chris L.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "First of all, our visit to their showroom was excellent. This business knows their way around wood stoves, etc. Ken (one of the owners) was excellent at explaining what kind of stove would fit our needs best based on quality and style.",
+      "author": "Rbmqryche I.",
+      "stars": 4,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

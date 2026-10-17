@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "chimney-sweep-carlisle",
+  "company": "Chimney Sweep Systems Inc",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17176012595",
+  "phone_display": "(717) 601-2595",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chimney%20Sweep%20Systems%20Inc&query_place_id=ChIJhWs4CgQayYkRh-yYJILJLGc",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792217442/truaido-previews/chimney-sweep-carlisle/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Shippensburg"
+  ],
+  "reviews": [
+    {
+      "text": "Contacted this company inquiring if they could install a pellet stove we purchased online. Can\u2019t say enough about John and his staff. They deliver exceptional customer service onsite and thru telephone communication.",
+      "author": "Jodee R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I am very satisfied with the chimney repair and cleaning service I received. The workers were courteous, experienced, and explained every step clearly. They cleaned out heavy creosote buildup and repaired the chimney cap perfectly.",
+      "author": "Cameron P.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "These people are wonderful. The access door to my chimney had fallen off. I was not going to be home when they were coming and they said they would just bill me. The cast was minimal and even told me the chimney did not need to be cleaned.",
+      "author": "Suzanne E.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792114374/truaido-previews/chimney-sweep-carlisle/work1"
+  ]
+}

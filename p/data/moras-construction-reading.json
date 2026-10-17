@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "moras-construction-reading",
+  "company": "Moras Construction - Roofing Specialist",
+  "trade": "roofing",
+  "trade_label": "Roofing",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+16106986768",
+  "phone_display": "(610) 698-6768",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Moras%20Construction%20-%20Roofing%20Specialist&query_place_id=ChIJG79rUS5zxokRJGFMvDxlRlU",
+  "hero": {
+    "url": "https://truaido.com/images/roofing.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792217356/truaido-previews/moras-construction-reading/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#BA451D",
+  "nearby_towns": [
+    "Leesport",
+    "Fleetwood",
+    "Shoemakersville",
+    "Mohnton",
+    "Lyons",
+    "Mertztown"
+  ],
+  "reviews": [
+    {
+      "text": "Moras has been a wonderful contractor for commercial coatings for our business. I would recommend him to anyone looking to get an Acrylabs roof coating.",
+      "author": "Joshua W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "High Quality Customer Care, Communication, & Delivery of Service! I am selling my home & needed roof repairs on a time crunch. Moras Construction Delivered Punctual Service, Picture Evidence of proposed rubber roof repairs & final product of their service!",
+      "author": "Heather A.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Excellent service! Moras Construction repaired a roof leak for us and they were so responsive. Communication was excellent and they even send a report with pictures of the repairs! Top notch service. We will definitely be using them again.",
+      "author": "April C.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792115260/truaido-previews/moras-construction-reading/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792119026/truaido-previews/moras-construction-reading/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792119028/truaido-previews/moras-construction-reading/work3"
+  ]
+}

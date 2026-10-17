@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "ordonez-masonry-reading",
+  "company": "Ordonez Masonry Contractors LLC",
+  "trade": "masonry",
+  "trade_label": "Masonry",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+14842192332",
+  "phone_display": "(484) 219-2332",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 52,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ordonez%20Masonry%20Contractors%20LLC&query_place_id=ChIJD5NPjf93xokRaEa0cpA1nac",
+  "hero": {
+    "url": "https://truaido.com/images/stock/general.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792108655/truaido-previews/ordonez-masonry-reading/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leesport",
+    "Fleetwood",
+    "Mohnton",
+    "Shoemakersville",
+    "Lyons",
+    "Mertztown"
+  ],
+  "reviews": [
+    {
+      "text": "I would never expect an honest, professional and experienced company , owner and staff, like them . The job was done on time , the stucco looks great and gave my building a new look. Highly recommended",
+      "author": "Abed S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent work at reasonable prices. Very professional and knowledgeable. We were replacing an old stone wall and some concrete steps in our back yard. Jairo understood exactly what we wanted and provided a fair price for the work.",
+      "author": "James P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I needed some stone facade repaired at my home. They did a very professional job from the free quote, the explanation of the planned work, the timely schedule and completion of the work, and the cleanup. They were very courteous and professional.",
+      "author": "Harvey R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792109840/truaido-previews/ordonez-masonry-reading/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792218489/truaido-previews/ordonez-masonry-reading/work2"
+  ]
+}

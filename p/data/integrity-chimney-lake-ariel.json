@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "integrity-chimney-lake-ariel",
+  "company": "Integrity Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lake Ariel",
+  "state": "PA",
+  "phone": "+15702158726",
+  "phone_display": "(570) 215-8726",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 728,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Integrity%20Chimney%20Service&query_place_id=ChIJ1Vjc3SvCxIkRZB7YhV1hqzo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792218573/truaido-previews/integrity-chimney-lake-ariel/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#013451",
+  "nearby_towns": [
+    "Scranton",
+    "Carbondale",
+    "Gouldsboro",
+    "Moosic",
+    "Canadensis",
+    "Factoryville"
+  ],
+  "reviews": [
+    {
+      "text": "\"Roy was professional and friendly while performing maintenance on our fireplace and stove. He provided clear instructions to ensure we are utilizing both properly. Additionally, he pointed out the issue of low pressure.",
+      "author": "Don W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Courteous, knowledgeable and prompt. Thorough, took pics of top of chimney. Was very pleased with service.",
+      "author": "Kathy S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Carlos Perez was our Integrity service provider today. He was extremely proficient in servicing our propane fireplace. To say he went above and beyond is an understatement.",
+      "author": "Joe M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

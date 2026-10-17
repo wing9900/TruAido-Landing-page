@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "hipps-chimney-sweep-mertztown",
+  "company": "Hipp's Chimney Sweep",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mertztown",
+  "state": "PA",
+  "phone": "+16106826092",
+  "phone_display": "(610) 682-6092",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hipp's%20Chimney%20Sweep&query_place_id=ChIJ--05XEErxIkRtnGrKn92z-o",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lyons",
+    "Fleetwood",
+    "Pottstown",
+    "Leesport",
+    "Shoemakersville",
+    "Reading"
+  ],
+  "reviews": [
+    {
+      "text": "We first used Bob about 23 years ago and would never use anyone else. Very professional. Great job at a great price.",
+      "author": "Michael K.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Hipps Chimney Sweep absolutely amazing. I actually don't want to give a great review because I don't want everybody to go to them haha, but absolutely amazing the craftsmanship and customer service on job amazing you can't go anybody else these guys are that...",
+      "author": "Michael F.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Bob and Noah from hipps chimney did an excellent job on my wood stove liner. They were on time , clean and thorough. Great job guys",
+      "author": "Michael S.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792217349/truaido-previews/hipps-chimney-sweep-mertztown/work1"
+  ]
+}

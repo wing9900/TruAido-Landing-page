@@ -1,0 +1,49 @@
+{
+  "v": 1,
+  "slug": "tri-county-chimney-johnstown",
+  "company": "Tri-County Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Johnstown",
+  "state": "PA",
+  "phone": "+18142665367",
+  "phone_display": "(814) 266-5367",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tri-County%20Chimney%20Service&query_place_id=ChIJ49Q7nYYRy4kRyL2PuN_a0A8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792114341/truaido-previews/tri-county-chimney-johnstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Davidsville"
+  ],
+  "reviews": [
+    {
+      "text": "They went above and beyond to get my chimney done before my new roof was put on they were very professional and did an awesome job I would highly recommend them.",
+      "author": "John W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Absolutely professional business very happy with the work that\u2019s been done would recommend to anybody looking for good lasting work.",
+      "author": "Brittany D.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Mike & his guys did a great job tuckpointing our chimney and replacing the rain cap with a new stainless model at a reasonable price, if you want the best, hire the best, highly recommended",
+      "author": "Jeffrey M.",
+      "stars": 5,
+      "month": "April 2021"
+    }
+  ],
+  "gallery": []
+}

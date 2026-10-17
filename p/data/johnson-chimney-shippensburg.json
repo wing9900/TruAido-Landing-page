@@ -1,0 +1,33 @@
+{
+  "v": 1,
+  "slug": "johnson-chimney-shippensburg",
+  "company": "Johnson Chimney Sweep Dallas",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+12232359849",
+  "phone_display": "(223) 235-9849",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Johnson%20Chimney%20Sweep%20Dallas&query_place_id=ChIJI1WdUwANyYkRu58CA45yc5o",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Carlisle",
+    "Chambersburg",
+    "Waynesboro"
+  ],
+  "reviews": [],
+  "gallery": []
+}

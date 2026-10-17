@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "piccadilly-chimney-sweep-bridgeville",
+  "company": "Piccadilly Chimney Sweep",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Bridgeville",
+  "state": "PA",
+  "phone": "+14122210196",
+  "phone_display": "(412) 221-0196",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Piccadilly%20Chimney%20Sweep&query_place_id=ChIJEyLMM6j3NIgRXaMJhS8j-wQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Coraopolis",
+    "Pittsburgh"
+  ],
+  "reviews": [
+    {
+      "text": "I am happy and completely satisfied! Guy and his team were fantastic, top-notch professional friendly service, honest, and quality work. I bought my house in October 2025 at the onset of winter.",
+      "author": "Tim T.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "They did a great job! Guy was a great. Ed's Woodshed did our gas fireplace and we also needed someone to check the chimney from the wood burner. Thanks Again",
+      "author": "Shawn W.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Excellent service! Highly recommend. Friendly, knowledgeable and helpful. Cleaned our chimney and replaced missing cap.",
+      "author": "Tricia H.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": []
+}

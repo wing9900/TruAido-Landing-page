@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tlm-chimney-fleetwood",
+  "company": "TLM Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Fleetwood",
+  "state": "PA",
+  "phone": "+16107413603",
+  "phone_display": "(610) 741-3603",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=TLM%20Chimney%20Service&query_place_id=ChIJLY1oktDVxYkRSzWER1eS7hI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111771/truaido-previews/tlm-chimney-fleetwood/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#E61E26",
+  "nearby_towns": [
+    "Lyons",
+    "Mertztown",
+    "Leesport",
+    "Reading",
+    "Shoemakersville",
+    "Pottstown"
+  ],
+  "reviews": [
+    {
+      "text": "Another excellent job by TLM installing a new air intake and cleaning my woodstove chimney. TLM takes care from start to finish to ensure the job is done right and your home is left in a better condition.",
+      "author": "Kenneth H.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "We had an issue with our chimney. They were prompt and courteous. Our issue took a lot of time and effort. They stayed late until our issue was resolved. The price was fair and I highly recommend them!",
+      "author": "Mike B.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "TLM Chimney service is very efficient, always on time, friendly and very professional. We always look forward to their annual of our chimney. We definitely recommend them for any home improvement projects.",
+      "author": "Irene S.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": []
+}

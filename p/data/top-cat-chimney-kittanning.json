@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "slug": "top-cat-chimney-kittanning",
+  "company": "Top cat chimney sweep and service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Kittanning",
+  "state": "PA",
+  "phone": "+17249035219",
+  "phone_display": "(724) 903-5219",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 191,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Top%20cat%20chimney%20sweep%20and%20service&query_place_id=ChIJ56H4gCtbM4gR-Oa1P_UYI1s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111830/truaido-previews/top-cat-chimney-kittanning/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#6A2525",
+  "nearby_towns": [],
+  "reviews": [
+    {
+      "text": "Trevor was on time and very efficient ! Explained everything very well and easily to understand.",
+      "author": "Joye D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Trevor was very knowledgeable and took time to answer all our questions. He showed us different options and talked about the solutions. I would definitely recommend Top cat chimney.",
+      "author": "Michelle K.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792111824/truaido-previews/top-cat-chimney-kittanning/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792220368/truaido-previews/top-cat-chimney-kittanning/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792220369/truaido-previews/top-cat-chimney-kittanning/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792220370/truaido-previews/top-cat-chimney-kittanning/work4"
+  ]
+}

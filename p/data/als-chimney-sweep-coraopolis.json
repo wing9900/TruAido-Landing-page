@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "als-chimney-sweep-coraopolis",
+  "company": "Al's Chimney Sweep",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Coraopolis",
+  "state": "PA",
+  "phone": "+14126708475",
+  "phone_display": "(412) 670-8475",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 41,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Al's%20Chimney%20Sweep&query_place_id=ChIJEzllJ5ReNIgRXIDU-lCbP5Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Bridgeville",
+    "Pittsburgh",
+    "Hookstown",
+    "Evans City"
+  ],
+  "reviews": [
+    {
+      "text": "I had Al's Chimney Sweep clean my wood burning fireplace chimney flu on 9/22/26 and I couldn\u2019t be more satisfied with the job he did. He is considerate, punctual and makes no mess or dust. A true professional of his craft.",
+      "author": "Grant T.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Al\u2019s chimney service did an excellent job on 7-28-26. Al was punctual, professional, personable and thorough! Very fair price! Al is a man of his word and delivered on whatever he said he would do during the initial inspection.",
+      "author": "Tom",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Called Al to ask a few questions. He gave me his honest opinion. I would go back to him if needed in the future.",
+      "author": "Haley T.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": []
+}

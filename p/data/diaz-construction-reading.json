@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "diaz-construction-reading",
+  "company": "Diaz Construction LLC",
+  "trade": "contractor",
+  "trade_label": "General Contractor",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+14842718744",
+  "phone_display": "(484) 271-8744",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Diaz%20Construction%20LLC&query_place_id=ChIJN8JrSDySY0IRX7PENBFQl0U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/general.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111791/truaido-previews/diaz-construction-reading/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#05779A",
+  "nearby_towns": [
+    "Mohnton",
+    "East Earl",
+    "Reinholds",
+    "Leesport",
+    "Fleetwood",
+    "Pottstown"
+  ],
+  "reviews": [
+    {
+      "text": "Diaz Construction tomo su tiempo explicando que estaba mal con mi casa, que ellos tiene que hacer, y tomo su tiempo arreglando mi casa sin apurarse. Adem\u00e1s ellos arregl\u00f3 mi roof y explic\u00f3 las diferencias en material y cu\u00e1nto me va a durar.",
+      "author": "Luz S.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "100% recommended they are very responsible and professional in addition to a good affordable price",
+      "author": "Mondragon G.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Great service ! They did a complete remodel, built a porch, chimney for an electric fireplace, remodeled my floors, walls and even replaced my windows. Complete remodel of one bathroom and installed vanitys. Id recommended them to anyone.",
+      "author": "Steve-0",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

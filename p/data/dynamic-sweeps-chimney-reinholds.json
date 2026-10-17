@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "dynamic-sweeps-chimney-reinholds",
+  "company": "Dynamic Sweeps Chimney Company",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+16108022901",
+  "phone_display": "(610) 802-2901",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dynamic%20Sweeps%20Chimney%20Company&query_place_id=ChIJu3a2ynptxokRPI8luN29-yY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Earl",
+    "Reading",
+    "Mohnton",
+    "Leesport",
+    "Bethel",
+    "Shoemakersville"
+  ],
+  "reviews": [
+    {
+      "text": "Very professional, kind and easy to work with!! Glad we found this company compared to the last chimney company we were working with. Highly recommend!",
+      "author": "Lana S.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Very professional, perform great work and always courteous. I highly recommend Dynamic Sweeps for any needed chimney services.",
+      "author": "Dylan S.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Was prompted on his times, fair estimate, install was done in no time, workmanship at its best highly recommend them",
+      "author": "Kenneth W.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792111741/truaido-previews/dynamic-sweeps-chimney-reinholds/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792220319/truaido-previews/dynamic-sweeps-chimney-reinholds/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792220319/truaido-previews/dynamic-sweeps-chimney-reinholds/work3"
+  ]
+}

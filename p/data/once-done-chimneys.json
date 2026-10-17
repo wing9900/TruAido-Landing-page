@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "once-done-chimneys",
+  "company": "Once and Done Chimneys",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Reading",
+  "state": "PA",
+  "phone": "+14843003868",
+  "phone_display": "(484) 300-3868",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 44,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Once%20and%20Done%20Chimneys&query_place_id=ChIJL1aIfsyb4i8R15lvRkt_IPo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792108648/truaido-previews/once-done-chimneys/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leesport",
+    "Shoemakersville",
+    "Fleetwood",
+    "Lyons",
+    "Bethel",
+    "Mohnton"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service. They were here same day and resolved my issue quickly. If I could give them 10 stars I would!!!",
+      "author": "Alex R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "They did great work for a great price. The guys were great to deal with. They didnt try to upsell me on anything crazy. It was overall a really good experience.",
+      "author": "keegan H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "There are not enough words to use to describe the outstanding work of this company. Chris, David and Gene were AMAZING! They were very respectful of your time, arrived promptly each day, always checked in to keep you updated on their progress, but above all...",
+      "author": "Sandy T.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792218488/truaido-previews/once-done-chimneys/work1"
+  ]
+}

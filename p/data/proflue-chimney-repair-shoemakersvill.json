@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "proflue-chimney-repair-shoemakersvill",
+  "company": "Proflue Chimney Repair & Masonry",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Shoemakersville",
+  "state": "PA",
+  "phone": "+14845097896",
+  "phone_display": "(484) 509-7896",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Proflue%20Chimney%20Repair%20%26%20Masonry&query_place_id=ChIJvQRC_mPAa2ARvuiEdL8vNUc",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792220325/truaido-previews/proflue-chimney-repair-shoemakersvill/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leesport",
+    "Fleetwood",
+    "Reading",
+    "Lyons",
+    "Kutztown",
+    "Mertztown"
+  ],
+  "reviews": [
+    {
+      "text": "Hired Proflue Chimney Repair & Masonry because we needed a chimney sweep and had some loose mortar on exterior. Guys came out and gave a great quote, were punctual, and awesome work.",
+      "author": "Aaron P.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "We had our chimney cleaned recently by this group! Clean, polite, and professional. Highly Recommend!",
+      "author": "Brinley G.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Proflue Chimney Repair & Masonry did an outstanding job on our chimney repairs. From initial estimate to the final walkthrough, it was all excellent! Professional, fair pricing, and great communication throughout entire process.",
+      "author": "Lilly M.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "depew-masonry-nicholson",
+  "company": "Depew Masonry Restoration, Chimney & Stove Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Nicholson",
+  "state": "PA",
+  "phone": "+15708151368",
+  "phone_display": "(570) 815-1368",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Depew%20Masonry%20Restoration%2C%20Chimney%20%26%20Stove%20Service&query_place_id=ChIJlwJxSTUqxYkRfCQS1B5ahxA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Factoryville",
+    "Kingsley",
+    "Carbondale",
+    "Clarks Summit",
+    "Scranton",
+    "Union Dale"
+  ],
+  "reviews": [
+    {
+      "text": "Eric, really knows his stuff helped me setup my ,Harmon XXV pellet stove , setup all the right pipes and advice for my chimney problems now it's working just fine.",
+      "author": "David Y.",
+      "stars": 5,
+      "month": "April 2023"
+    },
+    {
+      "text": "I had a great experience when contacting DePew masonry. Eric was extremely knowledgeable and helpful discussing my chimney requirements. He explained what type of liner I needed and assisted me during the purchase of my new stove.",
+      "author": "Jeremy R.",
+      "stars": 5,
+      "month": "February 2023"
+    },
+    {
+      "text": "Eric installed vinyl fencing on the border of our residential property. He went above and beyond to ensure the vinyl posts were reinforced with pressure treated lumber and he used plenty of concrete to ensure they would remain straight.",
+      "author": "Michael S.",
+      "stars": 5,
+      "month": "November 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792114312/truaido-previews/depew-masonry-nicholson/work1"
+  ]
+}

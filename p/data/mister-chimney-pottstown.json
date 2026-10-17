@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "mister-chimney-pottstown",
+  "company": "Mister Chimney Services",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Pottstown",
+  "state": "PA",
+  "phone": "+16103336618",
+  "phone_display": "(610) 333-6618",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 43,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mister%20Chimney%20Services&query_place_id=ChIJieETF8CHxokRN2cSqFBNAYE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mertztown",
+    "Mohnton",
+    "Fleetwood",
+    "Lyons",
+    "Reading",
+    "East Earl"
+  ],
+  "reviews": [
+    {
+      "text": "Dave and Jeff were excellent were very knowledgeable and upfront about the chimney liner\u2019s condition and gave us a great price for the work would recommend them to anyone",
+      "author": "Karen S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I needed a new liner in my chimney. Dave and his crew came to the house and did an OUTSTANDING job and were quick and efficient about it for a better than reasonable price. 10/10 will call again. Don't call the other guys. Call Mister Chimney.",
+      "author": "Jason N.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "The most professional and responsible company I have ever dealt with in the 25 years of owning my home. I would highly recommend this company! Dave is the best! Just had this company out again for other services and they still rock!! 2026! Thank you again!",
+      "author": "lydia T.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792111765/truaido-previews/mister-chimney-pottstown/work1"
+  ]
+}

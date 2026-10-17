@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "complete-chimney-factoryville",
+  "company": "Complete Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Factoryville",
+  "state": "PA",
+  "phone": "+15702829908",
+  "phone_display": "(570) 282-9908",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 60,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Complete%20Chimney%20Service&query_place_id=ChIJsYowUzcqxYkRkUMXFVPG4lo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792114329/truaido-previews/complete-chimney-factoryville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#7F151A",
+  "nearby_towns": [
+    "Nicholson",
+    "Carbondale",
+    "Kingsley",
+    "Union Dale",
+    "Scranton",
+    "Clarks Summit"
+  ],
+  "reviews": [
+    {
+      "text": "What a great experience I had with Mike from Complete Chimney. He was such a nice person, very polite and extremely tidy. My chimney needed a cleaning really bad. My pellet stove is now burning cleaner, hotter and more efficient. I would highly recommend!",
+      "author": "Audry R.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Professional, Knowledgeable, Informative & Personable are just a few words to describe Mike, owner/operator of Complete Chimney Service. Today was the first time we met and employed his services and it most certainly will not be the last.",
+      "author": "Kenny C.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "We recently had our both of our wood stoves chimney\u2019s cleaned and Mike did a great job. He was knowledgeable, helpful, prompt, personable and professional. He was very thorough in his inspection of our chimneys giving us peace of mind for the winter!",
+      "author": "Sarah W.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792220397/truaido-previews/complete-chimney-factoryville/work1"
+  ]
+}

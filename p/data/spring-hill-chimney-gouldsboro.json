@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "spring-hill-chimney-gouldsboro",
+  "company": "Spring Hill Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Gouldsboro",
+  "state": "PA",
+  "phone": "+18007317079",
+  "phone_display": "(800) 731-7079",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 49,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Spring%20Hill%20Chimney%20Service&query_place_id=ChIJTTrOKr8p9WkRZz-eB6R0Hzo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792114361/truaido-previews/spring-hill-chimney-gouldsboro/logo",
+    "layout": "wide",
+    "badge": "#010101"
+  },
+  "accent": "#81221E",
+  "nearby_towns": [
+    "Canadensis",
+    "Lake Ariel",
+    "Scranton",
+    "Moosic",
+    "Clarks Summit",
+    "Forty Fort"
+  ],
+  "reviews": [
+    {
+      "text": "Needed to get our chimney fireplace hearth area repointed. It\u2019s 45 years old and started losing the cement between the bricks. Also put a stainless steel cap on top of the chimney to prevent water intrusion.",
+      "author": "Jeffrey S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "DON'T TRUST THIS COMPANY!!!!!!!!! THEY DONT DO THE WORK RIGHT OR THEY DONT KNOW HOW TO WORK ON CHIMNEYS. MY CLIENT'S CHIMNEY IS LEAKING WORSE THAN IT WAS FROM THE BEGINNING.",
+      "author": "Donna C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Great job truly professional, excellent workmanship, and neat as a pen, chimney looks brand new on top couldn\u2019t done it better myself. Thank you for a job. Well done.",
+      "author": "Richard K.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792114360/truaido-previews/spring-hill-chimney-gouldsboro/work1"
+  ]
+}

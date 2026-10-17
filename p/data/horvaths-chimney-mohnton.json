@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "horvaths-chimney-mohnton",
+  "company": "Horvath's Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mohnton",
+  "state": "PA",
+  "phone": "+14844784920",
+  "phone_display": "(484) 478-4920",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 31,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Horvath's%20Chimney%20Service&query_place_id=ChIJZ1iEB-lvxokRIx9hQBOd5dM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111745/truaido-previews/horvaths-chimney-mohnton/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#A21C24",
+  "nearby_towns": [
+    "East Earl",
+    "Reading",
+    "Pottstown",
+    "Reinholds",
+    "Fleetwood",
+    "Leesport"
+  ],
+  "reviews": [
+    {
+      "text": "Jason did a great job with new flue tile, crown and chimney caps. Very quickly too.",
+      "author": "James S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Outstanding all around. They were punctual, friendly, clean and professional. Other than the new stucco, which looks fantastic, we can't even tell that they were here. The cost was very reasonable.",
+      "author": "David T.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Daniel was very knowledgeable , on time and polite he video scanned our chimney and we will be going with him to repair our fireplace",
+      "author": "Nidhia K.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792111742/truaido-previews/horvaths-chimney-mohnton/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792218487/truaido-previews/horvaths-chimney-mohnton/work2"
+  ]
+}

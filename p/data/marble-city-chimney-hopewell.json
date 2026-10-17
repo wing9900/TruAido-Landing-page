@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "marble-city-chimney-hopewell",
+  "company": "Marble City Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Hopewell",
+  "state": "PA",
+  "phone": "+18144943433",
+  "phone_display": "(814) 494-3433",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Marble%20City%20Chimney%20Service&query_place_id=ChIJl-z7fIK3y4kRm-mTIJKlu7M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792114348/truaido-previews/marble-city-chimney-hopewell/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#7D191D",
+  "nearby_towns": [
+    "New Enterprise",
+    "Bedford",
+    "Mcconnellsburg"
+  ],
+  "reviews": [
+    {
+      "text": "If you are looking for an honest and competent service technician that you can trust with your fireplace/wood stove safety then look no further. Greg is an outstanding individual who takes his time to ensure the job is done correctly and completely.",
+      "author": "Bob W.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Greg was amazing to deal with! Great communication and great prices! Definitely will be using him again for our chimney services.",
+      "author": "Rach K.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Greg Came out and cleaned our chimney! Very professional, super nice guy that really took his time making sure it was clean and done to the best of his ability! Very reasonably priced and cleaned up after he was finished!",
+      "author": "Kayla W.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792114347/truaido-previews/marble-city-chimney-hopewell/work1"
+  ]
+}

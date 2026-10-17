@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "a1-affordable-chimney-carbondale",
+  "company": "A1 AFFORDABLE CHIMNEY PENNSYLVANIA",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Carbondale",
+  "state": "PA",
+  "phone": "+15702822122",
+  "phone_display": "(570) 282-2122",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 69,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A1%20AFFORDABLE%20CHIMNEY%20PENNSYLVANIA&query_place_id=ChIJ_dO7O37fxIkR0YJzmCqW-gg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Union Dale",
+    "Factoryville",
+    "Lake Ariel",
+    "Scranton",
+    "Nicholson",
+    "Moosic"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent work! The team was professional, knowledgeable and neat. They explained the work and did before and after photos. I highly recommend this company to anyone in need of chimney repair Thank you for a job well done!",
+      "author": "Dawn M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Super friendly guys, on time, clean efficient work, good prices. 5/5 highly recommend!",
+      "author": "Timothy C.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Company did a great job on a chimney that had many problems. Crew works hard and answered all my questions. They relined my chimney and basically rebuilt the chimney ground up.",
+      "author": "joanne S.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792218565/truaido-previews/a1-affordable-chimney-carbondale/work1"
+  ]
+}

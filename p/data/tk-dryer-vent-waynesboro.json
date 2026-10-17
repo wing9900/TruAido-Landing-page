@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "tk-dryer-vent-waynesboro",
+  "company": "T&K Dryer Vent Cleaning & Air Duct Cleaning Services Inc.",
+  "trade": "home-services",
+  "trade_label": "Dryer vent cleaning service",
+  "city": "Waynesboro",
+  "state": "PA",
+  "phone": "+12232816717",
+  "phone_display": "(223) 281-6717",
+  "has_website": false,
+  "rating": 4.6,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=T%26K%20Dryer%20Vent%20Cleaning%20%26%20Air%20Duct%20Cleaning%20Services%20Inc.&query_place_id=ChIJSRNh6TqWyYkREP6GxGxODYg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/general.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Chambersburg",
+    "Gettysburg",
+    "Shippensburg"
+  ],
+  "reviews": [
+    {
+      "text": "I\u2019m very satisfied with the service I received from T&K Dryer Vent Cleaning & Air Duct Cleaning Services Inc.. I reached out for a dryer vent cleaning, but Camden suggested a dryer vent inspection first to make sure nothing was overlooked.",
+      "author": "Brayden V.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "I was impressed by the service from T&K Dryer Vent Cleaning & Air Duct Cleaning Services Inc. Henry performed a complete dryer vent inspection and found significant lint build up that could have become dangerous if left untreated.",
+      "author": "Shei R.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Reliable and competent! The meticulous cleaning of their dryer vent and air ducts improved the quality of the air. The roofing contractor performed a superb job, and the chimney sweep and repair were effective.",
+      "author": "Zamani J.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": []
+}

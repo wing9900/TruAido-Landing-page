@@ -1,0 +1,31 @@
+{
+  "v": 1,
+  "slug": "tms-chimney-mcconnellsburg",
+  "company": "TMS Chimney Experts Llc",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mcconnellsburg",
+  "state": "PA",
+  "phone": "+17176631384",
+  "phone_display": "(717) 663-1384",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=TMS%20Chimney%20Experts%20Llc&query_place_id=ChIJSZErm7gryokR7D9E195dM2A",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Chambersburg",
+    "Hopewell"
+  ],
+  "reviews": [],
+  "gallery": []
+}
