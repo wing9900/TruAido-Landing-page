@@ -99,19 +99,6 @@
   /* Estimate form */
   #estimate { scroll-margin-top: 92px; }
   .hero.no-form .wrap { grid-template-columns: minmax(0, 1fr); }
-  .hero.split { background: radial-gradient(90% 120% at 100% 0%, color-mix(in srgb, var(--accent) 28%, var(--ink)) 0%, var(--ink) 55%); }
-  .hero.split::before { display: none; }
-  .hero.split .wrap { grid-template-columns: minmax(0, 1fr) 420px; grid-template-areas: "intro form" "shot form"; grid-template-rows: auto 1fr; align-items: start; gap: 26px 48px; min-height: 0; padding-top: 40px; padding-bottom: 48px; }
-  .hero.split.no-form .wrap { grid-template-columns: minmax(0, 1fr); grid-template-areas: "intro" "shot"; }
-  .hero.split .intro { grid-area: intro; }
-  .hero.split h1 { font-size: clamp(40px, 4.4vw, 66px); max-width: none; }
-  .hero.split .line { font-size: 18px; margin-top: 12px; max-width: 52ch; }
-  .hero.split .rating { margin-top: 14px; }
-  .hero.split .actions { margin-top: 20px; }
-  .hero.split .shot { grid-area: shot; margin: 0; }
-  .hero.split .shot img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius-m); background: #2A3036; }
-  .hero.split .quote-wrap { grid-area: form; }
-  .hero.split .quote { margin-right: 0; grid-area: form; }
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
   .quote h2 { font-size: 31px; font-stretch: 85%; text-align: center; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
@@ -152,6 +139,14 @@
   .svc-list li { display: grid; grid-template-columns: minmax(0, 220px) minmax(0, 1fr); gap: 24px; padding: 24px 0; border-bottom: 1px solid var(--line); }
   .svc-list h3 { font-size: 24px; font-stretch: 85%; font-weight: 700; }
   .svc-list p { color: var(--ink-2); }
+  .look h2.title { max-width: none; }
+  .look .mosaic { display: grid; gap: 12px; margin-top: 28px; }
+  .mosaic img { display: block; width: 100%; height: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius-s); background: var(--concrete); }
+  .mosaic.m1 img { aspect-ratio: 16 / 9; }
+  .mosaic.m2, .mosaic.m4 { grid-template-columns: 1fr 1fr; }
+  .mosaic.m3 { grid-template-columns: 2fr 1fr; }
+  .mosaic.m5 { grid-template-columns: 2fr 1fr 1fr; }
+  .mosaic.m3 img:first-child, .mosaic.m5 img:first-child { grid-row: span 2; aspect-ratio: auto; }
   .gallery { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 36px; }
   .gallery img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius-s); background: var(--concrete); }
   .gallery.n1 { grid-template-columns: 1fr; } .gallery.n1 img { aspect-ratio: 16 / 7; }
@@ -274,7 +269,6 @@
     .nav.open a, .nav.open a:hover, .nav.open a[aria-current="page"] { border-bottom-color: var(--line); background: none; }
     .nav.open a:active { background: color-mix(in srgb, var(--accent) 10%, var(--white)); }
     .hero .wrap { grid-template-columns: minmax(0, 1fr) 400px; gap: 32px; }
-    .hero.split .wrap { grid-template-columns: minmax(0, 1fr) 380px; gap: 22px 32px; }
     .services .wrap, .area .wrap, .system .wrap { grid-template-columns: 1fr; gap: 40px; }
     .services .side { position: static; }
     .system .phone { width: min(330px, 100%); }
@@ -301,10 +295,6 @@
     .hero .wrap { padding-bottom: 0; }
     .hero .wrap > div:first-child { padding-bottom: 34px; }
     .quote-wrap { position: relative; margin: 0 -18px; padding: 22px 18px 30px; background: var(--concrete); }
-    .hero.split .wrap { display: block; padding-top: 28px; }
-    .hero.split .intro { padding-bottom: 26px; }
-    .hero.split .shot { margin: 0 -18px; }
-    .hero.split .shot img { border-radius: 0; }
     .quote { box-shadow: none; border: 1px solid var(--line); }
     .proof .wrap { grid-template-columns: 1fr; }
     .proof div { padding: 16px 0; }
@@ -312,6 +302,9 @@
     section.block { padding: 64px 0; }
     .svc-list li { grid-template-columns: 1fr; gap: 6px; }
     .gallery, .gallery.n3 { grid-template-columns: repeat(2, 1fr); }
+    .mosaic.m3, .mosaic.m5 { grid-template-columns: 1fr 1fr; gap: 8px; }
+    .mosaic.m3 img:first-child, .mosaic.m5 img:first-child { grid-row: auto; grid-column: span 2; aspect-ratio: 4 / 3; }
+    .mosaic.m2, .mosaic.m4 { gap: 8px; }
     .gallery.n1 { grid-template-columns: 1fr; }
     .gallery.n3 img:first-child { grid-column: span 2; }
     .quotes { grid-template-columns: 1fr; }
@@ -374,6 +367,11 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
+  // Ask Cloudinary for a photo at another size (same stored original, no new upload).
+  function cld(u, t) {
+    return /res\.cloudinary\.com\/[^/]+\/image\/upload\//.test(u)
+      ? u.replace(/\/image\/upload\/(?:[^/]*\/)?(?:f_auto,q_auto\/)?(v\d+\/)/, "/image/upload/" + t + "/f_auto,q_auto/$1") : u;
+  }
   function safeUrl(u) { return /^https?:\/\//i.test(u || "") || /^\//.test(u || "") ? u : ""; }
   function href(t) { return useQuery ? "?b=" + slug + (t ? "&tab=" + t : "") : "/p/" + slug + (t ? "/" + t : ""); }
 
@@ -426,8 +424,22 @@
     var where = esc(d.trade_label) + " in " + esc(d.city) + (d.state ? ", " + esc(d.state) : "");
     var towns = (d.nearby_towns || []).slice(0, 6);
     var reviews = (d.reviews || []).slice(0, 3);
-    var gallery = (d.gallery || []).filter(safeUrl).slice(0, 4);
-    var heroUrl = safeUrl(d.hero && d.hero.url);
+    // The owner's own photos: the photo the import picked for the header (if any) plus the gallery.
+    var own = d.hero && d.hero.source === "google" ? safeUrl(d.hero.url) : "";
+    var photos = (own ? [own] : []).concat((d.gallery || []).filter(safeUrl)).slice(0, 5);
+    // Header: the trade's stock photo (composed to stay clear of the form) unless Bob approved one
+    // of the owner's photos in the header review (header_photo = its index in photos).
+    // ?hdr=stock or ?hdr=<index> shows a choice for the review page without saving anything.
+    var STOCK = { "tree-service": 1, "stump-grinding": "tree-service", chimney: 1, septic: 1, hvac: 1, generator: 1,
+      insulation: 1, "pest-control": 1, "garage-doors": 1, "auto-glass": 1, welding: 1 };
+    var stockName = STOCK[d.trade] === 1 ? d.trade : (STOCK[d.trade] || "general");
+    var stockUrl = "/images/stock/" + stockName + ".webp";
+    var pick = typeof d.header_photo === "number" ? d.header_photo : -1;
+    var hdr = qs.get("hdr");
+    if (hdr === "stock") pick = -1; else if (hdr !== null && /^\d$/.test(hdr)) pick = +hdr;
+    if (!photos[pick]) pick = -1;
+    var heroUrl = pick >= 0 ? cld(photos[pick], "c_fill,g_auto,w_1600,h_900") : stockUrl;
+    var lookPhotos = photos.filter(function (_u, i) { return i !== pick; });
 
     // TruAido bar
     var pitch = d.has_website
@@ -476,22 +488,25 @@
       var rating = d.rating
         ? '<div class="rating">' + stars(d.rating) + "<span>" + esc(d.rating) + " from " + esc(d.review_count) + " Google reviews</span></div>"
         : "";
-      // The photo is shown whole, beside the form, never behind it.
-      var hero = '<section class="hero split' + (SHOW_ESTIMATE_FORM ? "" : " no-form") + '">' +
-        '<div class="wrap"><div class="intro">' +
+      var hero = '<section class="hero' + (heroUrl ? "" : " no-photo") + (SHOW_ESTIMATE_FORM ? "" : " no-form") + '"' + (heroUrl ? ' style="background-image:url(\'' + esc(heroUrl) + '\')' + (pick >= 0 ? ';background-position:center 30%' : "") + '"' : "") + '>' +
+        '<div class="wrap"><div>' +
         '<p class="where">' + where + "</p>" +
         '<h1 class="hero-name-in">' + co + "</h1>" +
         '<p class="line">' + esc(trade.line) + (SHOW_ESTIMATE_FORM ? ". Call, or send a few details and get a text back.</p>" : ". Call, and if we miss you, you'll get a text back.</p>") + rating +
         '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") + "</div>" +
         "</div>" +
-        (heroUrl ? '<figure class="shot"><img src="' + esc(heroUrl) + '" alt="' + co + ' at work" width="1600" height="900" fetchpriority="high"></figure>' : "") +
         (SHOW_ESTIMATE_FORM ? '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" : "") +
         "</div></section>" + tbar;
 
 
-      var gal = gallery.length
-        ? '<div class="gallery n' + gallery.length + '">' + gallery.map(function (u) { return '<img src="' + esc(u) + '" alt="Work by ' + co + '" loading="lazy">'; }).join("") + "</div>"
-        : "";
+      var gal = "";
+      // The owner's own photos, shown big. Neutral heading: they may be jobs, trucks or the crew.
+      var n = lookPhotos.length;
+      var look = n ? '<section class="block look"><div class="wrap"><h2 class="title">A look at ' + co + '</h2>' +
+        '<div class="mosaic m' + n + '">' + lookPhotos.map(function (u, i) {
+          var t = n === 1 ? "c_fill,g_auto,w_1600,h_900" : (i === 0 && (n === 3 || n === 5)) ? "c_fill,g_auto,w_1200,h_1000" : "c_fill,g_auto,w_900,h_675";
+          return '<img src="' + esc(cld(u, t)) + '" alt="Photo from ' + co + '" loading="lazy">';
+        }).join("") + "</div></div></section>" : "";
       var services = '<section class="block services" id="services"><div class="wrap">' +
         '<div class="side"><h2 class="title">What we do</h2><p class="kicker">' + esc(trade.line) + " across " + esc(d.city) + " and nearby.</p>" +
         (SHOW_ESTIMATE_FORM ? '<a class="btn btn-accent" href="#estimate">Get an estimate</a>' : (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "")) + "</div>" +
@@ -552,7 +567,7 @@
         (tel ? '<a class="btn btn-light" href="tel:' + tel + '">' + ICON.phone + phoneDisplay + "</a>" : (SHOW_ESTIMATE_FORM ? '<a class="btn btn-light" href="#estimate">Get an estimate</a>' : "")) +
         "</div></section>";
 
-      return hero + services + revs + area + closing + system;
+      return hero + look + services + revs + area + closing + system;
     }
 
     function formHtml() {
