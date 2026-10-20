@@ -145,13 +145,25 @@
   .svc-list h3 { font-size: 24px; font-stretch: 85%; font-weight: 700; }
   .svc-list p { color: var(--ink-2); }
   .look h2.title { max-width: none; }
-  .look .mosaic { display: grid; gap: 12px; margin-top: 28px; }
-  .mosaic img { display: block; width: 100%; height: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius-s); background: var(--concrete); }
-  .mosaic.m1 img { aspect-ratio: 16 / 9; }
-  .mosaic.m2, .mosaic.m4 { grid-template-columns: 1fr 1fr; }
-  .mosaic.m3 { grid-template-columns: 2fr 1fr; }
-  .mosaic.m5 { grid-template-columns: 2fr 1fr 1fr; }
-  .mosaic.m3 img:first-child, .mosaic.m5 img:first-child { grid-row: span 2; aspect-ratio: auto; }
+  /* Justified rows: every photo at its natural shape, never cropped; rows fill the width exactly */
+  .jg { margin-top: 28px; }
+  .jg-row { display: flex; gap: 12px; justify-content: center; }
+  .jg-row + .jg-row { margin-top: 12px; }
+  .jg-i { display: block; padding: 0; border: 0; background: var(--concrete); border-radius: var(--radius-s); overflow: hidden; cursor: zoom-in; flex: none; }
+  .jg-i img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .25s ease; }
+  .jg-i:hover img { transform: scale(1.02); }
+  .jg-i:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  /* Lightbox */
+  .lb { position: fixed; inset: 0; z-index: 100; background: rgba(12,14,16,.94); display: none; align-items: center; justify-content: center; }
+  .lb.on { display: flex; }
+  .lb img { max-width: calc(100vw - 32px); max-height: calc(100vh - 110px); object-fit: contain; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,.5); }
+  .lb button { position: absolute; border: 0; background: rgba(255,255,255,.12); color: #fff; width: 48px; height: 48px; border-radius: 50%; font-size: 26px; line-height: 48px; cursor: pointer; }
+  .lb button:hover { background: rgba(255,255,255,.24); }
+  .lb .x { top: 16px; right: 16px; }
+  .lb .pv { left: 16px; top: 50%; margin-top: -24px; }
+  .lb .nx { right: 16px; top: 50%; margin-top: -24px; }
+  .lb .ct { position: absolute; bottom: 18px; left: 0; right: 0; text-align: center; color: rgba(255,255,255,.75); font-size: 14px; }
+  .lb.one .pv, .lb.one .nx, .lb.one .ct { display: none; }
   .gallery { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 36px; }
   .gallery img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius-s); background: var(--concrete); }
   .gallery.n1 { grid-template-columns: 1fr; } .gallery.n1 img { aspect-ratio: 16 / 7; }
@@ -314,9 +326,9 @@
     section.block { padding: 64px 0; }
     .svc-list li { grid-template-columns: 1fr; gap: 6px; }
     .gallery, .gallery.n3 { grid-template-columns: repeat(2, 1fr); }
-    .mosaic.m3, .mosaic.m5 { grid-template-columns: 1fr 1fr; gap: 8px; }
-    .mosaic.m3 img:first-child, .mosaic.m5 img:first-child { grid-row: auto; grid-column: span 2; aspect-ratio: 4 / 3; }
-    .mosaic.m2, .mosaic.m4 { gap: 8px; }
+    .jg-row { gap: 8px; }
+    .jg-row + .jg-row { margin-top: 8px; }
+    .lb .pv, .lb .nx { top: auto; bottom: 10px; margin-top: 0; }
     .gallery.n1 { grid-template-columns: 1fr; }
     .gallery.n3 img:first-child { grid-column: span 2; }
     .quotes { grid-template-columns: 1fr; }
@@ -519,9 +531,9 @@
       // The owner's own photos, shown big. Neutral heading: they may be jobs, trucks or the crew.
       var n = lookPhotos.length;
       var look = n ? '<section class="block look"><div class="wrap"><h2 class="title">A look at ' + co + '</h2>' +
-        '<div class="mosaic m' + n + '">' + lookPhotos.map(function (u, i) {
-          var t = n === 1 ? "c_fill,g_auto,w_1600,h_900" : (i === 0 && (n === 3 || n === 5)) ? "c_fill,g_auto,w_1200,h_1000" : "c_fill,g_auto,w_900,h_675";
-          return '<img src="' + esc(cld(u, t)) + '" alt="Photo from ' + co + '" loading="lazy">';
+        '<div class="jg">' + lookPhotos.map(function (u, i) {
+          return '<button type="button" class="jg-i" data-i="' + i + '" data-full="' + esc(cld(u, "c_limit,w_2000,h_2000")) + '" aria-label="Enlarge photo ' + (i + 1) + '">' +
+            '<img src="' + esc(cld(u, "c_limit,w_1400,h_1400")) + '" alt="Photo from ' + co + '" loading="lazy"></button>';
         }).join("") + "</div></div></section>" : "";
       var services = '<section class="block services" id="services"><div class="wrap">' +
         '<div class="side"><h2 class="title">What we do</h2><p class="kicker">' + esc(trade.line) + " across " + esc(d.city) + " and nearby.</p>" +
@@ -719,6 +731,63 @@
       fitHead();
       if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitHead);
       window.addEventListener("resize", fitHead);
+      // "A look at": justified rows. Photos keep their own shape; each row is scaled to fill the width.
+      var jg = document.querySelector(".jg");
+      if (jg) {
+        var items = [].slice.call(jg.querySelectorAll(".jg-i"));
+        var ratio = function (el) { var im = el.querySelector("img"); return im.naturalWidth && im.naturalHeight ? im.naturalWidth / im.naturalHeight : 4 / 3; };
+        var layoutJg = function () {
+          var W = jg.clientWidth; if (!W) return;
+          var gap = window.innerWidth <= 760 ? 8 : 12;
+          var target = window.innerWidth <= 760 ? 220 : 340, maxH = window.innerWidth <= 760 ? 420 : 560;
+          var r = items.map(ratio), n = r.length, best = null;
+          // Try every way to split the photos (in order) into rows; keep the one closest to the target height.
+          for (var mask = 0; mask < (1 << (n - 1)); mask++) {
+            var rows = [], cur = [0];
+            for (var k = 1; k < n; k++) { if (mask & (1 << (k - 1))) { rows.push(cur); cur = [k]; } else cur.push(k); }
+            rows.push(cur);
+            var cost = 0, ok = true, hs = rows.map(function (row) {
+              var sum = row.reduce(function (a, k) { return a + r[k]; }, 0);
+              var h = (W - gap * (row.length - 1)) / sum;
+              if (window.innerWidth <= 760 && row.length > 2) ok = false;
+              return h;
+            });
+            if (!ok) continue;
+            hs.forEach(function (h) { var hh = Math.min(h, maxH); cost += Math.pow(Math.log(hh / target), 2) + (h > maxH ? Math.log(h / maxH) : 0); });
+            if (!best || cost < best.cost) best = { cost: cost, rows: rows, hs: hs };
+          }
+          if (!best) return;
+          jg.innerHTML = "";
+          best.rows.forEach(function (row, ri) {
+            var h = Math.min(best.hs[ri], maxH), div = document.createElement("div");
+            div.className = "jg-row";
+            row.forEach(function (k) { var el = items[k]; el.style.height = h + "px"; el.style.width = Math.floor(h * r[k]) + "px"; div.appendChild(el); });
+            jg.appendChild(div);
+          });
+        };
+        items.forEach(function (el) { var im = el.querySelector("img"); if (!im.complete) im.addEventListener("load", layoutJg); im.loading = "eager"; });
+        layoutJg();
+        window.addEventListener("resize", layoutJg);
+        // Click to enlarge
+        var lb = document.createElement("div");
+        lb.className = "lb" + (items.length < 2 ? " one" : "");
+        lb.innerHTML = '<img alt=""><button class="x" aria-label="Close">&times;</button><button class="pv" aria-label="Previous">&#8249;</button><button class="nx" aria-label="Next">&#8250;</button><div class="ct"></div>';
+        document.body.appendChild(lb);
+        var lbImg = lb.querySelector("img"), at = 0;
+        var show = function (i) { at = (i + items.length) % items.length; lbImg.src = items[at].getAttribute("data-full"); lb.querySelector(".ct").textContent = (at + 1) + " of " + items.length; };
+        var close = function () { lb.classList.remove("on"); document.body.style.overflow = ""; };
+        items.forEach(function (el) { el.addEventListener("click", function () { show(+el.getAttribute("data-i")); lb.classList.add("on"); document.body.style.overflow = "hidden"; }); });
+        lb.addEventListener("click", function (e) {
+          if (e.target.closest(".pv")) show(at - 1); else if (e.target.closest(".nx")) show(at + 1); else if (e.target !== lbImg) close();
+        });
+        document.addEventListener("keydown", function (e) {
+          if (!lb.classList.contains("on")) return;
+          if (e.key === "Escape") close(); else if (e.key === "ArrowLeft") show(at - 1); else if (e.key === "ArrowRight") show(at + 1);
+        });
+        var tx = null;
+        lb.addEventListener("touchstart", function (e) { tx = e.touches[0].clientX; }, { passive: true });
+        lb.addEventListener("touchend", function (e) { if (tx === null) return; var dx = e.changedTouches[0].clientX - tx; tx = null; if (Math.abs(dx) > 50) show(at + (dx < 0 ? 1 : -1)); });
+      }
       var btn = document.querySelector(".menu-btn"), navEl = document.getElementById("nav");
       if (btn) btn.addEventListener("click", function () {
         var open = navEl.classList.toggle("open");
