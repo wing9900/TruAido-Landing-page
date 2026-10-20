@@ -124,6 +124,10 @@
   function load() {
     var slug = visible()[idx].s;
     main.querySelectorAll(".frame iframe").forEach(function (f) {
+      f.onload = function () {
+        // Keep each preview on the first screen, as a visitor sees it on arrival.
+        var n = 0, t = setInterval(function () { try { f.contentWindow.scrollTo(0, 0); } catch (e) {} if (++n > 24) clearInterval(t); }, 250);
+      };
       f.src = "/p/index.html?b=" + encodeURIComponent(slug) + "&hdr=" + (choice < 0 ? "stock" : choice);
     });
   }
