@@ -7,7 +7,7 @@
 <title>Website preview</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
     --ink: #1C2126;
@@ -20,7 +20,7 @@
     --truaido: #F5901E;
     --radius-s: 6px;
     --radius-m: 12px;
-    --display: "Bricolage Grotesque", "Arial Narrow", sans-serif;
+    --display: "Archivo", "Arial Narrow", sans-serif;
     --body: "Hanken Grotesk", system-ui, sans-serif;
     --wrap: 1180px;
   }
@@ -84,7 +84,7 @@
   @media (min-width: 1320px) { .hero .quote { margin-right: -60px; } }
   @media (min-width: 1480px) { .hero .quote { margin-right: -120px; } }
   .hero .where { font-weight: 600; font-size: 17px; color: #E6EAED; margin-bottom: 14px; }
-  .hero h1 { font-size: clamp(48px, 7.4vw, 104px); font-stretch: 78%; font-weight: 800; line-height: .92; letter-spacing: -0.02em; text-wrap: balance; max-width: 11ch; }
+  .hero h1 { font-size: clamp(46px, 6.8vw, 96px); font-stretch: 82%; font-weight: 800; line-height: .95; letter-spacing: -0.02em; text-wrap: balance; max-width: 11ch; }
   .hero .line { font-size: 20px; margin-top: 20px; color: #F1F3F5; max-width: 34ch; }
   .rating { display: flex; align-items: center; gap: 10px; margin-top: 22px; font-weight: 600; }
   .stars { display: inline-flex; gap: 2px; color: #F7B731; }
@@ -99,6 +99,14 @@
   /* Estimate form */
   #estimate { scroll-margin-top: 92px; }
   .hero.no-form .wrap { grid-template-columns: minmax(0, 1fr); }
+  .estimate-band { background: var(--concrete); padding: 72px 0; }
+  .estimate-band .wrap { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 660px); gap: 56px; align-items: start; }
+  .estimate-band .lede { color: var(--steel); font-size: 19px; margin-top: 16px; max-width: 30ch; }
+  .estimate-band .or-call { margin-top: 22px; font-weight: 600; }
+  .estimate-band .or-call a { color: var(--accent); text-underline-offset: 3px; }
+  .estimate-band .quote { box-shadow: 0 1px 2px rgba(20,24,28,.06); border: 1px solid var(--line); }
+  .estimate-band .quote > h2, .estimate-band .quote > p { display: none; }
+  @media (max-width: 1040px) { .estimate-band { padding: 48px 0; } .estimate-band .wrap { grid-template-columns: minmax(0, 1fr); gap: 22px; } }
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
   .quote h2 { font-size: 31px; font-stretch: 85%; text-align: center; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
@@ -458,15 +466,21 @@
       var rating = d.rating
         ? '<div class="rating">' + stars(d.rating) + "<span>" + esc(d.rating) + " from " + esc(d.review_count) + " Google reviews</span></div>"
         : "";
-      var hero = '<section class="hero' + (heroUrl ? "" : " no-photo") + (SHOW_ESTIMATE_FORM ? "" : " no-form") + '"' + (heroUrl ? ' style="background-image:url(\'' + esc(heroUrl) + '\')"' : "") + '>' +
+      var hero = '<section class="hero no-form' + (heroUrl ? "" : " no-photo") + '"' + (heroUrl ? ' style="background-image:url(\'' + esc(heroUrl) + '\')"' : "") + '>' +
         '<div class="wrap"><div>' +
         '<p class="where">' + where + "</p>" +
         '<h1 class="hero-name-in">' + co + "</h1>" +
         '<p class="line">' + esc(trade.line) + (SHOW_ESTIMATE_FORM ? ". Call, or send a few details and get a text back.</p>" : ". Call, and if we miss you, you'll get a text back.</p>") + rating +
-        '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") + "</div>" +
+        '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") +
+        (SHOW_ESTIMATE_FORM ? '<a class="btn btn-light" href="#estimate">Get an estimate</a>' : "") + "</div>" +
         "</div>" +
-        (SHOW_ESTIMATE_FORM ? '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" : "") +
-        "</div></section>" + tbar;
+        "</div></section>" +
+        // The estimate form sits in its own band under the photo, so it never covers the picture.
+        (SHOW_ESTIMATE_FORM ? '<section class="estimate-band"><div class="wrap">' +
+          '<div><h2 class="title">Get an estimate</h2><p class="lede">Send a few details and ' + co + ' will text you back in seconds.</p>' +
+          (tel ? '<p class="or-call">Rather talk? <a href="tel:' + tel + '">Call ' + phoneDisplay + "</a></p>" : "") + "</div>" +
+          '<div class="quote" id="estimate">' + formHtml() + "</div></div></section>" : "") +
+        tbar;
 
 
       var gal = gallery.length
