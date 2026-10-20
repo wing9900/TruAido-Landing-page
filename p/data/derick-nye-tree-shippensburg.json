@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "derick-nye-tree-shippensburg",
+  "company": "Derick Nye the Tree Guy",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17172547050",
+  "phone_display": "(717) 254-7050",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 29,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Derick%20Nye%20the%20Tree%20Guy&query_place_id=ChIJi0P9zLxHaKMRDyoC1nvbZ6g",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "A tree needed to be removed for our new septic line that initially was not mentioned causing for urgency. My husband wasn't confident enough so we hired Derek Nye the Tree Guy to take down the tree.",
+      "author": "Christina H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Reliable, Fair Pricing, & Great Communication! I found Derick\u2019s company from a Google search. After a short text conversation about what needed to be done he was quick to schedule an in-person appointment to our property so we could show him our problem...",
+      "author": "Kiersten M.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "First-rate service -Professional Reasonable. Overwhelmingly pleased.",
+      "author": "K B.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407788/truaido-previews/derick-nye-tree-shippensburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407789/truaido-previews/derick-nye-tree-shippensburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407790/truaido-previews/derick-nye-tree-shippensburg/work3"
+  ]
+}

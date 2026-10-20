@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "sears-appliance-repair-camp-hill",
+  "company": "Sears Appliance Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17172684970",
+  "phone_display": "(717) 268-4970",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 139,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sears%20Appliance%20Repair&query_place_id=ChIJLT1svFfDyIkRTy7yKAU6yzE",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408177/truaido-previews/sears-appliance-repair-camp-hill/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "I liked my repairman. He was straight-forward and honest. Very competent. Keep him (Travis).",
+      "author": "Pearl T.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "The technician JEB is really a great employee. He is organized and clean while he is taking care of fixing the broken glass of our BOSCh Oven.",
+      "author": "Amin S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Travis was very knowledgeable about appliance in general. He was sharing a lot of information about my dishwasher. He provided very professional service",
+      "author": "Dareena A.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408178/truaido-previews/sears-appliance-repair-camp-hill/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408179/truaido-previews/sears-appliance-repair-camp-hill/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408180/truaido-previews/sears-appliance-repair-camp-hill/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408180/truaido-previews/sears-appliance-repair-camp-hill/work4"
+  ]
+}

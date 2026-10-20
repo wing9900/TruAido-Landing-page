@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "lanco-tree-lancaster",
+  "company": "Lanco Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178593888",
+  "phone_display": "(717) 859-3888",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lanco%20Tree%20Services&query_place_id=ChIJGy1n785DIigRYqIyc1N81cY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405892/truaido-previews/lanco-tree-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#367A2E",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

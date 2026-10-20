@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "county-line-pest-lancaster",
+  "company": "County Line Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172777466",
+  "phone_display": "(717) 277-7466",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 44,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=County%20Line%20Pest%20Control&query_place_id=ChIJ2SELkkMRxokR1WNt8Wvy0t4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406258/truaido-previews/county-line-pest-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#408133",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "Ephrata",
+    "Reinholds",
+    "Adamstown",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "County Line was quick and professional and got the job done right. I had a yellow jacket problem and that is what they took care of. No long contract for all kinds of servicesI didn\u2019t need. Loved that the most! Thank you County Line.",
+      "author": "Debra M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Excellent service! I have not seen a single creepy crawly since they have been in. Booking and paying was fast and easy. They have a new forever client!",
+      "author": "Haily V.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Justin was knowledgeable, friendly, punctual, and very helpful in helping me navigate a rodent problem in my apartment. Justin went above and beyond and helped fix a leaking kitchen sink while he was at my residence. Would recommend use County Line again.",
+      "author": "Kayla",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

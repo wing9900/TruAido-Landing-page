@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "chamberlins-pest-newburg",
+  "company": "Chamberlin's Pest Control LLC",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Newburg",
+  "state": "PA",
+  "phone": "+17175301962",
+  "phone_display": "(717) 530-1962",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chamberlin's%20Pest%20Control%20LLC&query_place_id=ChIJKZadQrESyYkRwn4b8GAQsTk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shippensburg",
+    "Newville",
+    "Walnut Bottom",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Donald was very prompt and professional. Took care of the invading Yellow Jackets in a very timely manner. Highly recommend!",
+      "author": "RaptorRacer45",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had yellow jackets in two ground holes and a cellar window frame. Don had done an excellent job with yellow jackets for me last year, and I called him again. He called back in a couple hours and came to take care of all of this the next morning.",
+      "author": "Nancy W.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "I called Chamberlin\u2019s to deal with aggressive yellow jackets living around our back door. Donald called me back in under an hour and was at my house about an hour after that to deal with the nasty little things.",
+      "author": "Courtney",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

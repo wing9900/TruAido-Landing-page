@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "sencon-heating-lancaster",
+  "company": "Sencon Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178728190",
+  "phone_display": "(717) 872-8190",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sencon%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJvakZu7glxokRblYMKsFDfu8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "Washington Boro",
+    "Conestoga",
+    "Willow Street",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "I was very pleased with the service I received from Sencon. I called, left a message and was called back within 15 minutes. My AC was up and running within 2 hours. Very nice gentleman and great prices. I definitely will use this company again. Virginia Cain",
+      "author": "Blessed H.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "My furnace quit during a cold snap right before Christmas week when I was expecting a houseful of guests. The owner, Chuck responded instantly and sent Dave, an HVAC tech within the hour.",
+      "author": "Jim H.",
+      "stars": 5,
+      "month": "January 2023"
+    },
+    {
+      "text": "I love these guys!! Dependable, honest, and trustworthy. Prices are not thru the roof",
+      "author": "Kathy P.",
+      "stars": 5,
+      "month": "June 2021"
+    }
+  ],
+  "gallery": []
+}

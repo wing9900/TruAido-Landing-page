@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "hl-bowman-plumbing-harrisburg",
+  "company": "HL Bowman Inc Plumbing Heating & AC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174550532",
+  "phone_display": "(717) 455-0532",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 5064,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HL%20Bowman%20Inc%20Plumbing%20Heating%20%26%20AC&query_place_id=ChIJwRKexJLAyIkRQyKcMuDY3y8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407028/truaido-previews/hl-bowman-plumbing-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#D41C14",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "East Pennsboro Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "Nathan was very knowledgable, thorough and professional. He did a good job of explaining everything in understandable detail.",
+      "author": "Grandma M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Josh was very thorough in his examination of my air conditioning/heat equipment. He was very helpful in my decision making. He seemed very knowledgeable about the problem and how to solve it. He spent a more than adequate time with me.",
+      "author": "Hessie G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Frank was punctual, very informative of what the problem was, and promptly made repairs. he was very personable and polite. Could not have asked for a better response and repair person.",
+      "author": "turkey C.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407026/truaido-previews/hl-bowman-plumbing-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407027/truaido-previews/hl-bowman-plumbing-harrisburg/work2"
+  ]
+}

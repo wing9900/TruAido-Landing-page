@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "costellos-proservices-harrisburg",
+  "company": "Costello's ProServices",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172654548",
+  "phone_display": "(717) 265-4548",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Costello's%20ProServices&query_place_id=ChIJKX0I3665TwARyOjPw3u6nSA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407421/truaido-previews/costellos-proservices-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#2442BC",
+  "nearby_towns": [
+    "Steelton",
+    "Lower Paxton Township",
+    "New Cumberland",
+    "Highspire",
+    "Lemoyne",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "I highly recommend Costello\u2019s ProServices! Al did an amazing job cutting down the overwhelming amount of weeds that had taken over the front of my yard.",
+      "author": "Kayla Y.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Our Church, First Zion Baptist Church of Edgemont, obtained several estimates to address a chimney concern. The chimney needed masonry work and a chimney cover to keep critters out.",
+      "author": "sonya W.",
+      "stars": 5,
+      "month": "May 2024"
+    },
+    {
+      "text": "They came to the house and did a free estimate! The men were professional and friendly. I had a tenant who left a mess in my rented apartment and they came and cleared out the mess this person left in my home. They removed everything!!",
+      "author": "Rebecca B.",
+      "stars": 5,
+      "month": "May 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407421/truaido-previews/costellos-proservices-harrisburg/work1"
+  ]
+}

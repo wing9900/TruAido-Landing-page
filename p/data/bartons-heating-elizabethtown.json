@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "bartons-heating-elizabethtown",
+  "company": "Barton's Heating Air & Plumbing",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173679750",
+  "phone_display": "(717) 367-9750",
+  "has_website": false,
+  "rating": 4.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Barton's%20Heating%20Air%20%26%20Plumbing&query_place_id=ChIJx5ATWSGZyIkRXvKoxKa9ePU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "He's been my go to plumber for about 2 years now, usually shows up in a reasonable amount of time for the trade reasonable price.",
+      "author": "Donald C.",
+      "stars": 4,
+      "month": "July 2023"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "constant-comfort-manheim",
+  "company": "Constant Comfort Solutions LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17177239274",
+  "phone_display": "(717) 723-9274",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 397,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Constant%20Comfort%20Solutions%20LLC&query_place_id=ChIJOwVbsu-hyIkR5SkswFBAqeE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Akron",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are the best! Highly recommend them. Efficient, thorough, give great explanations and offer options. Alway happy to see them here to service the house knowing it will be done well.",
+      "author": "deianna J.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Hunter and Bobby were courteous, efficient and a pleasure to work with.",
+      "author": "smita D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Hunter did a great job and explained matters well!",
+      "author": "Randy H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

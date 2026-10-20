@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "ch-heating-new-providence",
+  "company": "C & H Heating and Cooling LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "New Providence",
+  "state": "PA",
+  "phone": "+17173275919",
+  "phone_display": "(717) 327-5919",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%20%26%20H%20Heating%20and%20Cooling%20LLC&query_place_id=ChIJizdJBYExxokR358joX9muyE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406430/truaido-previews/ch-heating-new-providence/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1E7AB5",
+  "nearby_towns": [
+    "Quarryville",
+    "Holtwood",
+    "Pequea",
+    "Willow Street",
+    "Strasburg",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Wow. They are just amazing I have been with them since the beginning and can\u2019t say enough about their professionalism their timeliness and knowledge they have. This is just an overall wonderful company that I would recommend",
+      "author": "Anita M.",
+      "stars": 5,
+      "month": "March 2025"
+    },
+    {
+      "text": "Easy to work with and great job servicing our HVAC system and putting a new HVAC system in our addition space and barn game room. Great team.",
+      "author": "Justin R.",
+      "stars": 5,
+      "month": "January 2025"
+    }
+  ],
+  "gallery": []
+}

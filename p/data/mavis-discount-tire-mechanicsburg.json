@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "mavis-discount-tire-mechanicsburg",
+  "company": "Mavis Discount Tire",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+12237581077",
+  "phone_display": "(223) 758-1077",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 261,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mavis%20Discount%20Tire&query_place_id=ChIJW-8vBPjdyIkRISh1D28ouTQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Enola",
+    "East Pennsboro Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Just had 4 new tires installed. Rich & Michelle at the front desk were awesome! No hidden fees, no mark ups- it's a pleasure doing business here. Place was clean, food truck available for lunch. Riding high with new treads!",
+      "author": "Nancy T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Michelle was friendly and helped me choose the right tires they had me in for the replacement and out the same day no problems thank you",
+      "author": "Justin K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service the lady behind the counter was extremely helpful",
+      "author": "Ty L.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

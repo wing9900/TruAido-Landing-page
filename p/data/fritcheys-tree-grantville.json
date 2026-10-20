@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "fritcheys-tree-grantville",
+  "company": "Fritchey's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Grantville",
+  "state": "PA",
+  "phone": "+17175743202",
+  "phone_display": "(717) 574-3202",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fritchey's%20Tree%20Service&query_place_id=ChIJD59ppqI2648RNUe4muynW24",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407299/truaido-previews/fritcheys-tree-grantville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#39570C",
+  "nearby_towns": [
+    "Hummelstown",
+    "Hershey",
+    "Lower Paxton Township",
+    "Harrisburg",
+    "Elizabethtown",
+    "Middletown"
+  ],
+  "reviews": [
+    {
+      "text": "Super quick to respond and showed up the next day. We had major storm damage, I can't believe how within hours our backyard was back to normal. He was so thorough in the clean up as well! Highly recommend.",
+      "author": "Heather G.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Derick was so accommodating and came out to take a look at what I was thinking we needed accomplished. After our initial meeting he sent quote right away and we scheduled the service for the next week which was great.",
+      "author": "Tammy B.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Derick and his team have removed 3 trees from our property on 2 different occasions and they\u2019ve done a great job! They\u2019re super efficient and affordable and lovely to work with.",
+      "author": "Jessica K.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407297/truaido-previews/fritcheys-tree-grantville/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407298/truaido-previews/fritcheys-tree-grantville/work2"
+  ]
+}

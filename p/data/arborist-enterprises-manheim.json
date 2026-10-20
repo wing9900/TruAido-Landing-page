@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "arborist-enterprises-manheim",
+  "company": "Arborist Enterprises, Inc.",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17172563169",
+  "phone_display": "(717) 256-3169",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 44,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Arborist%20Enterprises%2C%20Inc.&query_place_id=ChIJ4yfN-YUgxokReA2jrQqU-5o",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406410/truaido-previews/arborist-enterprises-manheim/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#523628",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy",
+    "East Petersburg",
+    "Mountville",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "I was extremely pleased with the work I had done! Luis and Dez did a very good job and were very respectful to myself and my property. I would highly recommend Arborist Enterprise and will have them return for future projects. Thank you, MLG",
+      "author": "mary G.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "The crew did an amazing job! I greatly appreciated their respect for my landscaping, and how carefully they worked in such a densely-planted environment.",
+      "author": "Rick T.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Very pleased. He gave us the best price and completed all service request",
+      "author": "Patricia P.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406408/truaido-previews/arborist-enterprises-manheim/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406408/truaido-previews/arborist-enterprises-manheim/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406409/truaido-previews/arborist-enterprises-manheim/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406410/truaido-previews/arborist-enterprises-manheim/work4"
+  ]
+}

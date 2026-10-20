@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "all-season-tree-lititz",
+  "company": "All Season Tree and Bucket Truck Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176721216",
+  "phone_display": "(717) 672-1216",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 29,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=All%20Season%20Tree%20and%20Bucket%20Truck%20Service&query_place_id=ChIJhfnC9gcixokRG1tyYbK3EXM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Lancaster",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "If you need a tree service these guys are the ones. Clean and professional work. Had 2 downed trees removed. Had multiple quotes and Amos and his crew gave a great price. You will be happy with these folks!",
+      "author": "Ben N.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Amos gave us a quote and though it did take a while to get them cut down due to weather, he and his crew were able to cut down two trees that were not easy to get to from our driveway. They were fast and efficient and didn't leave any debris behind.",
+      "author": "Jean",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Our largest tree came down in that awful wind last weekend...someone recommended All Season Tree to us, Amos came out the day I called to assess the damage, gave us an extremely reasonable estimate right on the spot...we signed the agreement on Wednesday, and...",
+      "author": "Dragon K.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406068/truaido-previews/all-season-tree-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406069/truaido-previews/all-season-tree-lititz/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406070/truaido-previews/all-season-tree-lititz/work3"
+  ]
+}

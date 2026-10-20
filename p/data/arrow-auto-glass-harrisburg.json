@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "arrow-auto-glass-harrisburg",
+  "company": "Arrow Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179447400",
+  "phone_display": "(717) 944-7400",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 42,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Arrow%20Auto%20Glass&query_place_id=ChIJr1bNrf29yIkRSw36ao6nWXM",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407259/truaido-previews/arrow-auto-glass-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407260/truaido-previews/arrow-auto-glass-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#B15C03",
+  "nearby_towns": [
+    "Steelton",
+    "Lower Paxton Township",
+    "New Cumberland",
+    "Highspire",
+    "Lemoyne",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407260/truaido-previews/arrow-auto-glass-harrisburg/work1"
+  ]
+}

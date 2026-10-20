@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "aim-garage-doors-harrisburg",
+  "company": "Aim Garage Doors, Inc.",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177320925",
+  "phone_display": "(717) 732-0925",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 75,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Aim%20Garage%20Doors%2C%20Inc.&query_place_id=ChIJMYeBfZHDyIkRFWMfmglorEg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408224/truaido-previews/aim-garage-doors-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408227/truaido-previews/aim-garage-doors-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#087E0B",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Enola",
+    "Lemoyne",
+    "Camp Hill",
+    "Shiremanstown",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "We had a great experience with this local, family-owned garage door company! From start to finish, everything was handled professionally. Derek and Ron did an excellent job\u2014they were friendly, quick, clean, and clearly took pride in their work.",
+      "author": "Rob C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Update 10/2/2026: Once again, simply the best work and customer service. The best! Great work; great prices; and above all, great customer service!",
+      "author": "David K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "AIM replaced 2 springs and had us back up and running within the hour. Not our first time using their services and will definitely again. Highly recommend this skilled, local, family-owned business. Thanks!!",
+      "author": "Amber P.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408224/truaido-previews/aim-garage-doors-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408225/truaido-previews/aim-garage-doors-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408226/truaido-previews/aim-garage-doors-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408226/truaido-previews/aim-garage-doors-harrisburg/work4"
+  ]
+}

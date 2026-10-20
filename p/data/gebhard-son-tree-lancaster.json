@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "gebhard-son-tree-lancaster",
+  "company": "Gebhard & Son Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176643764",
+  "phone_display": "(717) 664-3764",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gebhard%20%26%20Son%20Tree%20Service&query_place_id=ChIJvYMg-e4exokRM_6lJWmyITU",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406297/truaido-previews/gebhard-son-tree-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406300/truaido-previews/gebhard-son-tree-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#285145",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are the BEST!! The whole team of 5 or 6 guys work so well together...they each know exactly what to do & work together. They are all about pleasing their customer. They work so hard & keep at it till the job is done.",
+      "author": "carol B.",
+      "stars": 5,
+      "month": "September 2024"
+    },
+    {
+      "text": "Loved working with Gebhard! Mike and his crew were punctual, courteous and thorough. They quickly and seamlessly took down and ground down 4 trees in my very cramped (city neighborhood) backyard.",
+      "author": "Kelly B.",
+      "stars": 5,
+      "month": "February 2024"
+    },
+    {
+      "text": "Came out to my house within a week, found the trees causing the problems. Very professional and customer oriented. Thank you! Bob, Lebanon",
+      "author": "Robert M.",
+      "stars": 5,
+      "month": "November 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406298/truaido-previews/gebhard-son-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406298/truaido-previews/gebhard-son-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406299/truaido-previews/gebhard-son-tree-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406300/truaido-previews/gebhard-son-tree-lancaster/work4"
+  ]
+}

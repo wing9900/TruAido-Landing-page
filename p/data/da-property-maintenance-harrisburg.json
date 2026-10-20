@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "da-property-maintenance-harrisburg",
+  "company": "D & A Property Maintenance",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175106629",
+  "phone_display": "(717) 510-6629",
+  "has_website": false,
+  "rating": 1.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=D%20%26%20A%20Property%20Maintenance&query_place_id=ChIJE42CfD-4yIkROk9b0mvBaLg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Summerdale",
+    "Dauphin",
+    "Grantville",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

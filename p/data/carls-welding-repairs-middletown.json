@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "carls-welding-repairs-middletown",
+  "company": "Carl's Welding & Repairs",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17174135687",
+  "phone_display": "(717) 413-5687",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Carl's%20Welding%20%26%20Repairs&query_place_id=ChIJnRzqBrSXyIkRH4I9U7GHTG8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Highspire",
+    "Steelton",
+    "Hummelstown",
+    "Hershey",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "CARL IS A VERY VERY SMART MAN AND HARD WORKER HE WILL FIX YOUR STUFF !!",
+      "author": "n A.",
+      "stars": 5,
+      "month": "August 2023"
+    },
+    {
+      "text": "Hes pretty cool....doing work on my ford f 150",
+      "author": "Pascual N.",
+      "stars": 5,
+      "month": "December 2021"
+    }
+  ],
+  "gallery": []
+}

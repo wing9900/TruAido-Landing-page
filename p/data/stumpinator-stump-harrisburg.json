@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "stumpinator-stump-harrisburg",
+  "company": "Stumpinator Stump Grinding",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175004123",
+  "phone_display": "(717) 500-4123",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stumpinator%20Stump%20Grinding&query_place_id=ChIJs-TeDTBDxokR4Odv3VrYd6I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407586/truaido-previews/stumpinator-stump-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#A06802",
+  "nearby_towns": [
+    "Hershey",
+    "Hummelstown",
+    "Elizabethtown",
+    "Middletown",
+    "Highspire",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "Great experience. Two stumps. One close to a foundation. Both gone with no trace of existence.",
+      "author": "Adam K.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Sal did an excellent job from start to finish. He was professional, responsive, and easy to work with throughout the entire process. He showed up on time, got the job done quickly, and left the area clean when he was finished.",
+      "author": "Justin S.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Great service removing three huge tree stumps from my front yard. I highly recommend!",
+      "author": "Tina M.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407579/truaido-previews/stumpinator-stump-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407582/truaido-previews/stumpinator-stump-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407583/truaido-previews/stumpinator-stump-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407585/truaido-previews/stumpinator-stump-harrisburg/work4"
+  ]
+}

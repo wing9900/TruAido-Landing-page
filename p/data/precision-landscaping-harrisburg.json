@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "precision-landscaping-harrisburg",
+  "company": "Precision Landscaping and Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172108817",
+  "phone_display": "(717) 210-8817",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Precision%20Landscaping%20and%20Tree%20Service&query_place_id=ChIJOxIj3bAvBa8RRf0WVSMH4dM",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408078/truaido-previews/precision-landscaping-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Dillsburg",
+    "Boiling Springs",
+    "Hampden Township",
+    "Shiremanstown",
+    "Carlisle"
+  ],
+  "reviews": [
+    {
+      "text": "We had an outstanding experience with Precision Landscaping and Tree Service from start to finish. Communication was excellent throughout the entire process. The owner was professional and knowledgeable.",
+      "author": "JeNelle F.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Austin & his crew were great to work with. He did everything we asked for & more!! He was fair & very efficient & the job was done in a timely manner. Now we have a backyard we can enjoy & low maintenance which is perfect for our busy schedules.",
+      "author": "Shannon V.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "We can not say enough good things about Austin and his crew. We recently hired them to do some landscaping along with yard clean up and removal. We expected our yard to look better when they were finished, but it definitely exceeded our expectations.",
+      "author": "Debra D.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408079/truaido-previews/precision-landscaping-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408080/truaido-previews/precision-landscaping-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408081/truaido-previews/precision-landscaping-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408083/truaido-previews/precision-landscaping-harrisburg/work4"
+  ]
+}

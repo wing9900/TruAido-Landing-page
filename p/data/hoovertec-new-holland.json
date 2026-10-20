@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "hoovertec-new-holland",
+  "company": "HooverTec",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17173543322",
+  "phone_display": "(717) 354-3322",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 42,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HooverTec&query_place_id=ChIJ12ebRrw_xokRmnJKRuQDq9w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405848/truaido-previews/hoovertec-new-holland/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#CC312A",
+  "nearby_towns": [
+    "Gordonville",
+    "Leola",
+    "Brownstown",
+    "Akron",
+    "East Earl",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "This place has great customer service called them early in the morning with a big huge problem that I had for my Excavator cause I couldn\u2019t find a part for it. They had them in stock cheaper than anybody else. I drove right up there and grabbed it.",
+      "author": "Jason T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Called Hoovertech for some advice on troubleshooting a electrical problem on a newer genset. The gentleman I spoke to on the phone knew his stuff and took the time to help me out. 5 stars all the way.",
+      "author": "Virginia W.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "The best help over the phone I have ever had. They took the time to help me out with a 20-year-old motor. Richard Ryan Excavation Inc When I went to their shop the first time they were nothing but helpful. I would recommend them 100%",
+      "author": "Debra R.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405845/truaido-previews/hoovertec-new-holland/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405845/truaido-previews/hoovertec-new-holland/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405846/truaido-previews/hoovertec-new-holland/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405847/truaido-previews/hoovertec-new-holland/work4"
+  ]
+}

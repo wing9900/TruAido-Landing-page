@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "nathans-tree-halifax",
+  "company": "Nathan's Tree Service LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17179036328",
+  "phone_display": "(717) 903-6328",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 61,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nathan's%20Tree%20Service%20LLC&query_place_id=ChIJbX303Aq1yIkRcYzAYni9b0c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethville",
+    "Lykens",
+    "Millersburg",
+    "Dauphin",
+    "Grantville",
+    "Gratz"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service, price and knowledge. Our go to tree guy!",
+      "author": "Heather R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Nathan and his wife did a tremendous job cutting down our trees. With respectable pricing and always great in communication, I wouldn\u2019t trust anyone else. Nathan is a man of the people and very understanding.",
+      "author": "Ryan W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great service, very happy with the results, fair pricing, would highly recommend.",
+      "author": "Steven R.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407274/truaido-previews/nathans-tree-halifax/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407276/truaido-previews/nathans-tree-halifax/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407276/truaido-previews/nathans-tree-halifax/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407277/truaido-previews/nathans-tree-halifax/work4"
+  ]
+}

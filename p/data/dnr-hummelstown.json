@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dnr-hummelstown",
+  "company": "DNR Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17177460081",
+  "phone_display": "(717) 746-0081",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=DNR%20Services&query_place_id=ChIJW_IOJh-5yIkR1g6QPtsb_IQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Middletown",
+    "Elizabethtown",
+    "Hershey",
+    "Highspire",
+    "Lower Paxton Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "100%! Great price. Replaced our Geo ground loop heat pump and well pump in short order. Left everything clean and working as it should. From first visit to job completion, delightful experience all the way around. Highly recommend.",
+      "author": "Darin",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Courteous, clean & professional, and their pricing was competitive as well. They hauled out my ancient gas boiler and hot water heater, and installed a new high efficiency combi-boiler for me.",
+      "author": "Nichole L.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "We have used DNR a few times for HVAC related repairs and each time they were great! Very friendly and knowledgeable technicians. Would highly recommend",
+      "author": "Andrey R.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": []
+}

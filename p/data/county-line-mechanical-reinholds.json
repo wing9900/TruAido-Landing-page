@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "county-line-mechanical-reinholds",
+  "company": "County Line Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17173360185",
+  "phone_display": "(717) 336-0185",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=County%20Line%20Mechanical&query_place_id=ChIJ-VSt3ZESxokRmPrzI54dq2M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405764/truaido-previews/county-line-mechanical-reinholds/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#B82663",
+  "nearby_towns": [
+    "Denver",
+    "Robesonia",
+    "Adamstown",
+    "Stevens",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "John from CLM has been absolutely amazing every time we've had work done by him. His professionalism and quality of work are exceptional. I'll continue to use County Line Mechanical for all of my HVAC and plumbing repairs going forward",
+      "author": "-",
+      "stars": 5,
+      "month": "March 2024"
+    },
+    {
+      "text": "I had to replace my water heater, furnace and air conditioner all at once. County Line was very competitive in their pricing and Steve provided numerous options for me to consider in switching from oil and was very responsive and patient in answering all my...",
+      "author": "Dave H.",
+      "stars": 5,
+      "month": "September 2023"
+    },
+    {
+      "text": "Country Line Mechanical was able to quickly source and install a top-quality heat pump system in a very short time when my 20 year old system failed. Steven was very knowledgeable and thorough in his recommendations.",
+      "author": "Geoff Y.",
+      "stars": 5,
+      "month": "August 2023"
+    }
+  ],
+  "gallery": []
+}

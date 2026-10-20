@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "henrys-welding-reinholds",
+  "company": "Henry\u2019s Welding Co.",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17174842238",
+  "phone_display": "(717) 484-2238",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Henry%E2%80%99s%20Welding%20Co.&query_place_id=ChIJQxLkCaASxokRszG8548wu7E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Robesonia",
+    "Denver",
+    "Adamstown",
+    "Stevens",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Had to get my lawn tractor deck repaired - Henry did good work and at a very reasonable price!",
+      "author": "dlgoss85",
+      "stars": 5,
+      "month": "September 2023"
+    }
+  ],
+  "gallery": []
+}

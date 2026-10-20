@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "spayds-industrial-elizabethtown",
+  "company": "Spayd's Industrial LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173045376",
+  "phone_display": "(717) 304-5376",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Spayd's%20Industrial%20LLC&query_place_id=ChIJ6SD1q6ieyIkRjDcSLExxvSY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406375/truaido-previews/spayds-industrial-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#D13E25",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "The working style here is excellent, and the level of dedication and work ethic truly stands out. Every task is approached with care, precision, and a strong sense of responsibility, which clearly shows in the final results.",
+      "author": "Maddy",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "I have been using Spayd's for a few year now and their workmanship is the best around. I have never taken them a job that they couldn't perform or weren't willing to do like some other fab shops. Friendly ownership and staff! Highly recommend.",
+      "author": "John S.",
+      "stars": 5,
+      "month": "December 2022"
+    }
+  ],
+  "gallery": []
+}

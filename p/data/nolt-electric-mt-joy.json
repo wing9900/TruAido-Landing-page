@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "nolt-electric-mt-joy",
+  "company": "Nolt Electric Inc.",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176532331",
+  "phone_display": "(717) 653-2331",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 27,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nolt%20Electric%20Inc.&query_place_id=ChIJq03_TZmeyIkRQv5virxAFlk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477817/truaido-previews/nolt-electric-mt-joy/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#066EB9",
+  "nearby_towns": [
+    "Marietta",
+    "Columbia",
+    "Mount Joy Township",
+    "Salunga",
+    "Landisville",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "I just love these guys! They are straight forward, arrive on time and get the job done. Extremely honest and knowledgeable. Thank you!",
+      "author": "Kendra F.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "We can\u2019t thank Nolt Electric Inc. enough for their incredible service and quick response during a very stressful time for our family.",
+      "author": "Patrick E.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

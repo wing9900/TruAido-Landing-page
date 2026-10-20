@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "mark-overly-hvac-lititz",
+  "company": "MARK OVERLY HVAC LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17173414318",
+  "phone_display": "(717) 341-4318",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MARK%20OVERLY%20HVAC%20LLC&query_place_id=ChIJk6xSn4oZxokR1-_RfXlsWTs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Ephrata",
+    "Akron",
+    "Manheim",
+    "Brownstown",
+    "Stevens",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Mark Overly HVAC offers exceptional service! Mark is always upbeat, an outstanding technician, and has never once over 20+ years let us down when we needed emergency service. Thanks again Mark!!!",
+      "author": "Bill M.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "I\u2019ve had Mark come out to work on my heat pump over the years and he\u2019s done a great job diagnosing and rectifying the issues. I believe his prices are very fair. Not to mention, he came out today on short notice to help me get my heat back on. Thanks Mark!",
+      "author": "Steve B.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "KINDEST, most honest HVAC owner, company. Another small local company told me I needed a new boiler. Mark Overly came in and assured me I did NOT need one. He fixed it for a very fair price. He\u2019s honest and very knowledgeable. Any HVAC you should use him!",
+      "author": "Mandy R.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

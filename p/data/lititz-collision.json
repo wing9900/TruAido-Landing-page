@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lititz-collision",
+  "company": "Lititz Collision",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176273603",
+  "phone_display": "(717) 627-3603",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 232,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lititz%20Collision&query_place_id=ChIJF63iUZQZxokRINUEADIM4Q8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Ephrata",
+    "Manheim",
+    "Brownstown",
+    "East Petersburg",
+    "Stevens"
+  ],
+  "reviews": [
+    {
+      "text": "Very professional, trust worthy business. Great customer service A+satifaction .",
+      "author": "Leonora G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Fantastic job! Friendly office staff. Superb color match on my bumper repair by Technician Noel. Highly recommended facility.",
+      "author": "dalt W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Fantastic experience with this shop! They were quick, thorough with their work, and Jordan went above and beyond to be helpful. Highly recommend them to anyone needing repairs!",
+      "author": "Ashleigh C.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "sauder-fuel-adamstown",
+  "company": "Sauder Fuel",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Adamstown",
+  "state": "PA",
+  "phone": "+17177219560",
+  "phone_display": "(717) 721-9560",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 1039,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sauder%20Fuel&query_place_id=ChIJRdZZog5txokR9X6vWS1WpLE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405680/truaido-previews/sauder-fuel-adamstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#832930",
+  "nearby_towns": [
+    "Reinholds",
+    "Denver",
+    "Stevens",
+    "Narvon",
+    "Robesonia",
+    "East Earl"
+  ],
+  "reviews": [
+    {
+      "text": "Pleasant man, very pleased with his demeanor!",
+      "author": "Raymond G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Frank did a great job in doing the pressure test on a new tank and finding a small leak.",
+      "author": "Tim W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Gret experience. Pleasant to work with, does a great job",
+      "author": "Richard H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405678/truaido-previews/sauder-fuel-adamstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405678/truaido-previews/sauder-fuel-adamstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405679/truaido-previews/sauder-fuel-adamstown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405680/truaido-previews/sauder-fuel-adamstown/work4"
+  ]
+}

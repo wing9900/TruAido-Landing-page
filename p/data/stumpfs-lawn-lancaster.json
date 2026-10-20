@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "stumpfs-lawn-lancaster",
+  "company": "Stumpf's Lawn Care",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173802727",
+  "phone_display": "(717) 380-2727",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 94,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stumpf's%20Lawn%20Care&query_place_id=ChIJh3Pw0yw7xokRpEmkti7fFTM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Company does great work. They have a fantastic mowing service, and great landscaping crew!!!",
+      "author": "Joshua D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The most professional and best care for a customer",
+      "author": "Troy S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "We gathered quotes/designs from several local companies but Roxanne\u2019s ideas were exactly what we asked for and very thoughtfully presented. Roxanne took additional time to answer all our questions and set us up for success.",
+      "author": "Carly K.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

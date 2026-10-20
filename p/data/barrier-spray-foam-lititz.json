@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "barrier-spray-foam-lititz",
+  "company": "Barrier Spray Foam, Llc",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17177258579",
+  "phone_display": "(717) 725-8579",
+  "has_website": true,
+  "rating": 3.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Barrier%20Spray%20Foam%2C%20Llc&query_place_id=ChIJq6o-bdsXxokRspjHbgkjO9k",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Ephrata",
+    "Leola",
+    "East Petersburg",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "The guys were professional they did what I wanted and did a great job no time wasted I would recommend them very highly.",
+      "author": "Donnie M.",
+      "stars": 5,
+      "month": "May 2024"
+    },
+    {
+      "text": "I cannot recommend barrier spray foam enough. We had been looking for a company that I felt comfortable doing our spray foam insulation in the completely un-insulated attic space for a few weeks before I found Robert Keeney from barrier spray foam and I am...",
+      "author": "Jenny W.",
+      "stars": 5,
+      "month": "January 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405829/truaido-previews/barrier-spray-foam-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405830/truaido-previews/barrier-spray-foam-lititz/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405832/truaido-previews/barrier-spray-foam-lititz/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405833/truaido-previews/barrier-spray-foam-lititz/work4"
+  ]
+}

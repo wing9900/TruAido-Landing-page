@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "lanco-heating-lititz",
+  "company": "Lanco Heating & AC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176270443",
+  "phone_display": "(717) 627-0443",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lanco%20Heating%20%26%20AC&query_place_id=ChIJdcqWhz8YxokRgGjIQ_w81ow",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405663/truaido-previews/lanco-heating-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1C53BA",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Manheim",
+    "East Petersburg",
+    "Ephrata",
+    "Lancaster"
+  ],
+  "reviews": [],
+  "gallery": []
+}

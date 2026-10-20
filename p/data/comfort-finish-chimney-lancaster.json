@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "comfort-finish-chimney-lancaster",
+  "company": "Comfort Finish Chimney Sweeps Lancaster",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232714936",
+  "phone_display": "(223) 271-4936",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Finish%20Chimney%20Sweeps%20Lancaster&query_place_id=ChIJJxMgYgAlxokRj474sy6FerY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Willow Street",
+    "Leola",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "I appreciated Roman\u2019s professionalism during our fireplace maintenance visit. He checked the chimney throat and removed loose deposits that had collected inside.",
+      "author": "Luke B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The experience of the chimney service was excellent. The technician was competent, courteous, and on time. He left the place nice and orderly after properly cleaning everything and explaining the process.",
+      "author": "Kyro P.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Got my new fireplace installed the other day by this company. Leo just did it a couple hours and he set up everything right. Love how clean it looks now. Didn\u2019t have to wait long for them to come out. Thank you so much!",
+      "author": "Madalynn L.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405988/truaido-previews/comfort-finish-chimney-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405988/truaido-previews/comfort-finish-chimney-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405989/truaido-previews/comfort-finish-chimney-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405989/truaido-previews/comfort-finish-chimney-lancaster/work4"
+  ]
+}

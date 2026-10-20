@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "rsc-heating-lancaster",
+  "company": "RSC Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172993914",
+  "phone_display": "(717) 299-3914",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 280,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=RSC%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJzZ5ABdMnxokReQLlT-qcwBM",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406819/truaido-previews/rsc-heating-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406823/truaido-previews/rsc-heating-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#AE4F0A",
+  "nearby_towns": [
+    "Washington Boro",
+    "Mountville",
+    "Millersville",
+    "Columbia",
+    "Conestoga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Wonderful, responsive, honest company to deal with. The service is top notch! Would highly recommend this company!",
+      "author": "Sharon M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Isaiah was very professional, clear and responsive during our preventive service call. He thoroughly explained what he completed. Highly recommend!",
+      "author": "Nelson L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Wonderful experience with RSC. They did a complete HVAC install, replacing our older unit. From the consultation about options through to the final instructions on the new thermostat operation, everyone was authentic, transparent, friendly, and helpful.",
+      "author": "Naomi P.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406821/truaido-previews/rsc-heating-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406822/truaido-previews/rsc-heating-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406823/truaido-previews/rsc-heating-lancaster/work3"
+  ]
+}

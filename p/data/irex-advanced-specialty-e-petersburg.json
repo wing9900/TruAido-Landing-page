@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "irex-advanced-specialty-e-petersburg",
+  "company": "Irex Advanced Specialty",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "East Petersburg",
+  "state": "PA",
+  "phone": "+17173995117",
+  "phone_display": "(717) 399-5117",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Irex%20Advanced%20Specialty&query_place_id=ChIJIT1ZMegjxokRyok0UvaKSOM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lancaster",
+    "Landisville",
+    "Salunga",
+    "Mountville",
+    "Millersville",
+    "Lititz"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406683/truaido-previews/irex-advanced-specialty-e-petersburg/work1"
+  ]
+}

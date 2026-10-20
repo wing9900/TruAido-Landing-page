@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "gkm-electric-denver",
+  "company": "GKM Electric LLC",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17178164582",
+  "phone_display": "(717) 816-4582",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=GKM%20Electric%20LLC&query_place_id=ChIJo27_NRzYx08Ry-KaS2XhD3E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477758/truaido-previews/gkm-electric-denver/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#E3272E",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Adamstown",
+    "Ephrata",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Keith was great. From start to finish. Loving my 2 ceiling fans and my electrical panel upgrade. Definitely will recommend.",
+      "author": "Laura L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Keith provided fast reliable service. They did a great job and accomplish the task at hand. Will be using them again.",
+      "author": "Crossfire M.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Very professional, great communication, great pricing! I highly recommend!",
+      "author": "Travis R.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477757/truaido-previews/gkm-electric-denver/work1"
+  ]
+}

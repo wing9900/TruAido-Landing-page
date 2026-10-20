@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "akai-mechanical-servies-harrisburg",
+  "company": "Akai Mechanical Servies (Air Conditioning and Refrigeration)",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174612075",
+  "phone_display": "(717) 461-2075",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 78,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Akai%20Mechanical%20Servies%20(Air%20Conditioning%20and%20Refrigeration)&query_place_id=ChIJSzkBfauAKg0RJIu6OuNSHIQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Enola",
+    "Lemoyne",
+    "Summerdale",
+    "Camp Hill",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Very professional honest and friendly... Ameer fixed my furnace at time..... explained everything ....i kept his number and referred to many friends...",
+      "author": "Brahim",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Absolutely amazing!!! Very fast and super friendly",
+      "author": "Bradley B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Amir helped me with my HVAC issue, he was pretty quick in identifying the issue and fixed it in no time. Thank you!!",
+      "author": "Praveen V.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

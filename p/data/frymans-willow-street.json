@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "frymans-willow-street",
+  "company": "Fryman's Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17174640141",
+  "phone_display": "(717) 464-0141",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fryman's%20Services&query_place_id=ChIJsc3ThMIxxokRILXR4ZX1_l0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Pequea",
+    "New Providence",
+    "Conestoga",
+    "Strasburg",
+    "Millersville",
+    "Quarryville"
+  ],
+  "reviews": [
+    {
+      "text": "John is a stand-up guy and an honest businessman. My first and only choice for all things HVAC at the house!",
+      "author": "Jim D.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I've been using John's service for many years. I highly recommend him.",
+      "author": "Robert K.",
+      "stars": 5,
+      "month": "July 2022"
+    }
+  ],
+  "gallery": []
+}

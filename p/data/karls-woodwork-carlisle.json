@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "karls-woodwork-carlisle",
+  "company": "Karl's Woodwork",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17175839967",
+  "phone_display": "(717) 583-9967",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Karl's%20Woodwork&query_place_id=ChIJb70hctXhyIkReax9obVy4Jk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Hampden Township",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "The issue was an outdated AC unit that could no longer efficiently cool the condo, and after coordinating with building management for access, the technician installed a new unit in about four hours, ensuring everything was up to code.",
+      "author": "FRANCISCO L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Efficiently installed my ductless system.",
+      "author": "Amy I.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Thermostat works perfectly, quick install.",
+      "author": "SAMUEL C.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407968/truaido-previews/karls-woodwork-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407969/truaido-previews/karls-woodwork-carlisle/work2"
+  ]
+}

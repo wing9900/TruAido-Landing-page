@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "moma-tree-lancaster",
+  "company": "Moma Tree & Lawn Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174644100",
+  "phone_display": "(717) 464-4100",
+  "has_website": true,
+  "rating": 3.8,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Moma%20Tree%20%26%20Lawn%20Care&query_place_id=ChIJaQmx9HAlxokR1XFxw2fqk9Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "Conestoga",
+    "Pequea",
+    "Washington Boro",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Our lawn has never looked better . I definitely recommend . They have an organic and chemical option for lawn care . My husband is very particular with his grass and he is very pleased . We keep the grass longer to build a strong root system",
+      "author": "Christy Q.",
+      "stars": 5,
+      "month": "July 2020"
+    },
+    {
+      "text": "I highly recommend Moma Tree and Lawn Care. I've been dealing with this company for several years and it's always been a good experience.",
+      "author": "Dennis D.",
+      "stars": 5,
+      "month": "June 2019"
+    },
+    {
+      "text": "Like most of us I enjoy having a well maintained yard. Unfortunately I have not had the best of luck choosing my trees and shrubs and where they should be placed. This is where Moma, specifically Seth, the general manager, has come to the rescue.",
+      "author": "JoAnn F.",
+      "stars": 5,
+      "month": "June 2019"
+    }
+  ],
+  "gallery": []
+}

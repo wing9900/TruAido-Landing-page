@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "complete-door-access-lititz",
+  "company": "Complete Door & Access",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176251777",
+  "phone_display": "(717) 625-1777",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Complete%20Door%20%26%20Access&query_place_id=ChIJX37peJ0WxokRNsLFexyJX8o",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406130/truaido-previews/complete-door-access-lititz/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406131/truaido-previews/complete-door-access-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#C92444",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Manheim",
+    "East Petersburg",
+    "Ephrata",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Complete Door & Access has very prompt response to any service inquiries or questions. I scheduled a service call for my garage opener and their Technician Chris was wonderful!",
+      "author": "Katie S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Chris was prompt and professional. Very satisfied with the end result and the price is right too!",
+      "author": "Chris C.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "We have relied on this company's services several times over the years and they always do a fantastic job at reasonable prices. Last evening our garage door's tension spring broke; I called this morning and they were able to come and replace it same day, as...",
+      "author": "Tiffany B.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406131/truaido-previews/complete-door-access-lititz/work1"
+  ]
+}

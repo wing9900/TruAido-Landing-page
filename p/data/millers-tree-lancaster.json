@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "millers-tree-lancaster",
+  "company": "Miller's Tree Service LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173440325",
+  "phone_display": "(717) 344-0325",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Miller's%20Tree%20Service%20LLC&query_place_id=ChIJuQWApjEsVKARqODtOFC5-7w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406497/truaido-previews/millers-tree-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#7A7813",
+  "nearby_towns": [
+    "Willow Street",
+    "Strasburg",
+    "Leola",
+    "Millersville",
+    "Ronks",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Miller\u2019s Tree Service did a great job of taking out a tree on our property. They arrived on time and were safety conscious and professional. They removed all of the debris and raked up the area and cleaned off our roof.",
+      "author": "Jerome S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Omar from Miller\u2019s Tree Service came out to prune my Cooper Beech, a maple, and trim up the arborvitae. He did a great job\u2014professional, efficient, and left everything looking clean and well-shaped. Really easy to work with from start to finish.",
+      "author": "Nate M.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406494/truaido-previews/millers-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406495/truaido-previews/millers-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406495/truaido-previews/millers-tree-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406497/truaido-previews/millers-tree-lancaster/work4"
+  ]
+}

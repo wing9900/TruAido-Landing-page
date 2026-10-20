@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "stump-stompers-new-providence",
+  "company": "Stump Stompers",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "New Providence",
+  "state": "PA",
+  "phone": "+17179402533",
+  "phone_display": "(717) 940-2533",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stump%20Stompers&query_place_id=ChIJ0cCbjjS1RWwRFglhaMCBLto",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Quarryville",
+    "Strasburg",
+    "Willow Street",
+    "Ronks",
+    "Pequea",
+    "Paradise"
+  ],
+  "reviews": [],
+  "gallery": []
+}

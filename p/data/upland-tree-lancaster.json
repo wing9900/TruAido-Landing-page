@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "upland-tree-lancaster",
+  "company": "Upland Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179302170",
+  "phone_display": "(717) 930-2170",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 80,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Upland%20Tree%20Service&query_place_id=ChIJby1r-kE1xokRpQEmNgK1ww8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "Conestoga",
+    "Washington Boro",
+    "Mountville",
+    "Pequea"
+  ],
+  "reviews": [
+    {
+      "text": "Yanchuleff - Wanted to give a shout out to Amos and his crew on how great of a job they did on removing our storm tree damages. They were very quick to respond and got the job done within 24 hours.",
+      "author": "Kate C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Amos and his crew are great! Very efficient, professional, considerate and fair. I had several large poplars around the house removed with the aid of a crane. I will be using Upland Tree Service again when I have need of tree removal.",
+      "author": "Dave B.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Dakota and the other gentleman that came out to clean up a tree that came down in a storm, were super nice, fast and efficient. Wonderful communication as well. If I need tree work done in the future, I will definitely be calling them to come back.",
+      "author": "Mary D.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

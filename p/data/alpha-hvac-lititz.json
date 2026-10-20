@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "alpha-hvac-lititz",
+  "company": "Alpha HVAC Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176756762",
+  "phone_display": "(717) 675-6762",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Alpha%20HVAC%20Repair&query_place_id=ChIJh8R78icjxokRpnl6qLIoUZ0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Lancaster",
+    "Brownstown",
+    "Manheim",
+    "Akron",
+    "Landisville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

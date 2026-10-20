@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "groffs-septic-newville",
+  "company": "Groff's Septic Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177767402",
+  "phone_display": "(717) 776-7402",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Groff's%20Septic%20Services&query_place_id=ChIJPSkbpgIUyYkR6N6qG8V3sUY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Shippensburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Mr Burkholder goes over and beyond. He takes care of his customers.",
+      "author": "Ronnie B.",
+      "stars": 5,
+      "month": "January 2025"
+    },
+    {
+      "text": "Highly recommend, will definitely continue to use.Very friendly and knowledgeable.",
+      "author": "Jennie P.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Very polite and efficient over the years",
+      "author": "james H.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "rabe-septic-lancaster",
+  "company": "Rabe Septic Services, LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179400505",
+  "phone_display": "(717) 940-0505",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rabe%20Septic%20Services%2C%20LLC&query_place_id=ChIJpbL38ry_FiER-H-7tBFEIBY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Manheim",
+    "East Petersburg",
+    "Akron",
+    "Landisville",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Tim is a dream to work with. He did our septic system inspection during our home purchase and took the time to explain our system to us along with giving us really helpful documentation.",
+      "author": "Jewel G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Tim is great to work with. He is so efficient and explains everything with pictures. I recommend his service to everyone.",
+      "author": "Linda H.",
+      "stars": 5,
+      "month": "October 2024"
+    },
+    {
+      "text": "I have used Rabe Home Services several times. Tim has always been very prompt and thorough.",
+      "author": "Bryan H.",
+      "stars": 5,
+      "month": "April 2023"
+    }
+  ],
+  "gallery": []
+}

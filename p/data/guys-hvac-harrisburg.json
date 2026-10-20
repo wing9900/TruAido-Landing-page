@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "guys-hvac-harrisburg",
+  "company": "Guy\u2019s HVAC Co.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172169926",
+  "phone_display": "(717) 216-9926",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Guy%E2%80%99s%20HVAC%20Co.&query_place_id=ChIJF7x34rI8LgURRcY0V-TKOM8",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407853/truaido-previews/guys-hvac-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Carlisle",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Same day response when my AC went out. Baseline costs were clearly communicated upfront ($150 for an evaluation). Systematically evaluated the entire HVAC system to identify the problem. When I needed a new part, he was back within an hour later for install.",
+      "author": "Dana R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Guy was great! He showed up exactly when he said he would and fixed my central air unit quickly. He was friendly, courteous, and knowledgeable. He is my new HVAC company as long as he will have me!",
+      "author": "Pamela M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Outstanding service and reasonable price. Guy is very kind and professional. My AC went out a couple days before the temp was to be in the high 90\u2019s. He diagnosed the issue and ordered the parts.",
+      "author": "John G.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407855/truaido-previews/guys-hvac-harrisburg/work1"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "topline-heating-lancaster",
+  "company": "Topline Heating & Air",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172878952",
+  "phone_display": "(717) 287-8952",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 2414,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Topline%20Heating%20%26%20Air&query_place_id=ChIJKUUU_50lxokRScn7z7FK2Mo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Mountville",
+    "Willow Street",
+    "Conestoga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Worked with Rich Cohan, he worked extremely hard to get the perfect finance rate and approval. Really nice guy to work with. Prices we great even offered discounts. The had the job done in one day. Extremely happy with topline heating and air",
+      "author": "Mark M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Soooo apparently it's very difficult to get in touch with a live person....I have been trying for two days \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f\ud83e\udd2c I'm editing my review because a manager reached out to me but wasn't able to complete the tasks I needed.....let me say this, George the...",
+      "author": "Philly_Female_Trucke",
+      "stars": 4,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

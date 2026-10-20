@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "longs-stump-millersburg",
+  "company": "Longs Stump Grinding Services, L.L.C.",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+17172153320",
+  "phone_display": "(717) 215-3320",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 31,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Longs%20Stump%20Grinding%20Services%2C%20L.L.C.&query_place_id=ChIJh6bCBtMq0q8RONcv7zz70R0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "We had 5 tree stumps and roots removed today in Lykens. Longs provided excellent service! Was efficient, knowledgeable and an all-around really nice guy to work with. Highly recommend his services for stump removal. Thank you",
+      "author": "Tracy P.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Mr Long removed two tree stumps this morning from our back yard. In addition to removing the stumps he also removed the roots. He arrived early and worked until the job was done. He was very knowledgeable and I was in awe watching him do the job.",
+      "author": "AnnaMarie L.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Russ Long does a great job removing those stumps left over after tree removal...he has all the right equipment and cleans up after using it...100% satisfied customer!",
+      "author": "James F.",
+      "stars": 5,
+      "month": "April 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407288/truaido-previews/longs-stump-millersburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407289/truaido-previews/longs-stump-millersburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407290/truaido-previews/longs-stump-millersburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407291/truaido-previews/longs-stump-millersburg/work4"
+  ]
+}

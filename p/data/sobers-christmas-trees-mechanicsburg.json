@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "sobers-christmas-trees-mechanicsburg",
+  "company": "Sober's Christmas Trees",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17178773319",
+  "phone_display": "(717) 877-3319",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 33,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sober's%20Christmas%20Trees&query_place_id=ChIJRdDhuZznyIkRVWCjESNXnEQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Boiling Springs",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "We got a big beautiful tree here & are very pleased with it!",
+      "author": "S",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "One of the best trees we've ever purchased!",
+      "author": "John S.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "4th year in a row getting a tree from them. Beautiful trees at a great price. They have a huge selection in both size and variety.",
+      "author": "Kyle A.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": []
+}

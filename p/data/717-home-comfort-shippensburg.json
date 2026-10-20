@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "717-home-comfort-shippensburg",
+  "company": "717 Home Comfort",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17172510816",
+  "phone_display": "(717) 251-0816",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 54,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=717%20Home%20Comfort&query_place_id=ChIJ0VUyVlPivUoRJij323KAj08",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407854/truaido-previews/717-home-comfort-shippensburg/logo",
+    "layout": "square",
+    "badge": "#0F2729"
+  },
+  "accent": "#1E3E3F",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newville",
+    "Newburg",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Derek took my call and showed up inside of 2 hours on one of the hottest days of the year. He knew exactly what the problem was and fixed it quickly. Overall great experience!",
+      "author": "Tim S.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "My HVAC system stopped working on a very hot day, and Derek was at my house within about an hour. He explained everything he was doing and had it fixed quickly. He was professional, friendly, and knowledgeable. I highly recommend Derek and 717 Home Comfort!",
+      "author": "Jen R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Very professional, friendly and honest. Came out and fixed my problem in 20 minutes! Would recommend in a heart beat!",
+      "author": "Jimm R.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407851/truaido-previews/717-home-comfort-shippensburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407853/truaido-previews/717-home-comfort-shippensburg/work2"
+  ]
+}

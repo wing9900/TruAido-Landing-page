@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ressler-mateer-brownstown",
+  "company": "Ressler & Mateer",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Brownstown",
+  "state": "PA",
+  "phone": "+17178592025",
+  "phone_display": "(717) 859-2025",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 672,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ressler%20%26%20Mateer&query_place_id=ChIJJYjVlHuOyIkRZCnLuPwP4ao",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Leola",
+    "Ephrata",
+    "Lititz",
+    "New Holland",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "I have worked with R&M on two residential projects in the past 6 months. The first was for a complete heat pump system replacement. The second was for gas conversion with a heat pump and gas furnace. Both were Carrier systems.",
+      "author": "John W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Middle of August our AC quit working. Had service guys look at it $2000 to repair. Decided to get new gas furnace and new AC. Went with Ressler and Mater for new system everyone we delt with was top notch and very professional and polite and courteous...",
+      "author": "John H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Thanks to Chris and the installation team - Jim S, Alex P. Brandon and James D - for sweating it out to get our geothermal system replaced and up and running during this summer heat! Everyone was great to work with.",
+      "author": "Carolyn R.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "weaver-fireplace-leola",
+  "company": "Weaver Fireplace Cleaning And Contractor of Leola, Co",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Leola",
+  "state": "PA",
+  "phone": "+12237478806",
+  "phone_display": "(223) 747-8806",
+  "has_website": false,
+  "rating": 3.9,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Weaver%20Fireplace%20Cleaning%20And%20Contractor%20of%20Leola%2C%20Co&query_place_id=ChIJTWuuqX4-xokR2VKVCyws5T4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "New Holland",
+    "Gordonville",
+    "Akron",
+    "Ephrata",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "We required a trustworthy chimney business and decided on Leola, PA because we live in Weaver Fireplace Cleaning And Contractor. Anthony performed everything with accuracy, and their chimney cleaning service was excellent.",
+      "author": "Jesse O.",
+      "stars": 4,
+      "month": "October 2025"
+    },
+    {
+      "text": "Weaver Fireplace Cleaning And Contractor transformed our fireplace and checked all the safety aspects of our chimney here in Pennsylvania. The service was smooth and stress-free.",
+      "author": "Sara M.",
+      "stars": 4,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": []
+}

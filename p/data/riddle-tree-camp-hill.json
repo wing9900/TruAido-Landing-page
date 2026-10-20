@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "riddle-tree-camp-hill",
+  "company": "Riddle Tree Experts",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17174613441",
+  "phone_display": "(717) 461-3441",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 142,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Riddle%20Tree%20Experts&query_place_id=ChIJ7QTE4v_ByIkRcDIt2YnMgcg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407919/truaido-previews/riddle-tree-camp-hill/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "Shiremanstown",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Great team of professionals. They removed a tree from our yard that fell during a recent storm. It wasn't an easy removal. It was a large tree over a structure and in a fenced yard.",
+      "author": "Ann W.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Great service. Professional. Came in got the tree out. Couldn't say enough good things with them. Somewhat difficult to contact on the phone but, texted and promptly set up appointment.",
+      "author": "Ben M.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Lee and his guys are the real deal! Contacted them for a quote and they came over for an estimate within a few days! They were able to come and took down two big pine trees within a week! Pricing is pretty competitive.",
+      "author": "Nam P.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407921/truaido-previews/riddle-tree-camp-hill/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407922/truaido-previews/riddle-tree-camp-hill/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407925/truaido-previews/riddle-tree-camp-hill/work3"
+  ]
+}

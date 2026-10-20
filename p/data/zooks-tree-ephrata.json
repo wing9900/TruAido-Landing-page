@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "zooks-tree-ephrata",
+  "company": "Zook's Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177333952",
+  "phone_display": "(717) 733-3952",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zook's%20Tree%20Services&query_place_id=ChIJ-yKGraUVxokRkuqpPcTcxhQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Robesonia"
+  ],
+  "reviews": [
+    {
+      "text": "Zook\u2019s did a fantastic job with removing a big oak that was close to the house! Professional, on time, fair price!",
+      "author": "Shawn S.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "We got Zook's to cut down a few trees at a rental property of ours. Even though the trees were hard to access the job was well done and the pricing was excellent.",
+      "author": "Sylvia W.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "Did an excellent job at the most reasonable price in Lancaster County!! Used a crane and totally cleaned up after done! Great job!",
+      "author": "Tracy J.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406058/truaido-previews/zooks-tree-ephrata/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406059/truaido-previews/zooks-tree-ephrata/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406060/truaido-previews/zooks-tree-ephrata/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406062/truaido-previews/zooks-tree-ephrata/work4"
+  ]
+}

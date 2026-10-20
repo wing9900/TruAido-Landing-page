@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "westpro-hvac-new-cumberland",
+  "company": "WestPro HVAC Experts",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+12272868603",
+  "phone_display": "(227) 286-8603",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=WestPro%20HVAC%20Experts&query_place_id=ChIJj6UmKADByIkRL3WIoJ2jEwM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Highspire",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

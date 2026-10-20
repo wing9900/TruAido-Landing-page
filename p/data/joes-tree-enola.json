@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "joes-tree-enola",
+  "company": "Joe's Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17172008111",
+  "phone_display": "(717) 200-8111",
+  "has_website": false,
+  "rating": 3.4,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Tree%20Services&query_place_id=ChIJx-VUFPHDyIkR5cr_oqPkLFc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Harrisburg",
+    "Lemoyne",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Absolutely wonderful. Service excellent. Very personal and willing to please. Would recommend to everyone who needs their service.",
+      "author": "Joan K.",
+      "stars": 5,
+      "month": "April 2021"
+    },
+    {
+      "text": "I had a dead tree on the corner of my property that needed to be taken care of. If not done properly it could have damaged any one of my neighbors properties. I called Joe's Tree Service. And they did a great job. I'd highly recommend.",
+      "author": "Scott K.",
+      "stars": 5,
+      "month": "November 2017"
+    },
+    {
+      "text": "Arranged to have these guys top, lift and thin, an out-of-control Oak tree. Joe came out personally to give me an estimate. A 2-man crew showed up on the day Joe said they would. It was hot but they worked through the heat and did a great job!",
+      "author": "Randy P.",
+      "stars": 5,
+      "month": "September 2014"
+    }
+  ],
+  "gallery": []
+}

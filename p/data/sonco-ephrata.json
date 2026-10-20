@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "sonco-ephrata",
+  "company": "Sonco, LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177381917",
+  "phone_display": "(717) 738-1917",
+  "has_website": true,
+  "rating": 3.6,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sonco%2C%20LLC&query_place_id=ChIJX37peJ0WxokRemTwqRNESWI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405654/truaido-previews/sonco-ephrata/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#912C15",
+  "nearby_towns": [
+    "Akron",
+    "Lititz",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Hired this company when my septic alarm was going off. Came out right away and diagnosed the pump float had malfunctioned replaced the float and everything works great again. The pricing was very fair. Fast, knowledgeable and super friendly",
+      "author": "Connor W.",
+      "stars": 5,
+      "month": "January 2024"
+    }
+  ],
+  "gallery": []
+}

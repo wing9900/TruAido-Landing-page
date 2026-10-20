@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tm-heating-narvon",
+  "company": "TM Heating and Cooling, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Narvon",
+  "state": "PA",
+  "phone": "+17174456272",
+  "phone_display": "(717) 445-6272",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 29,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=TM%20Heating%20and%20Cooling%2C%20LLC&query_place_id=ChIJEXgVvqJrxokRI23zfVhaai4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405775/truaido-previews/tm-heating-narvon/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#9E021C",
+  "nearby_towns": [
+    "East Earl",
+    "Adamstown",
+    "Denver",
+    "New Holland",
+    "Stevens",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Conrad was great to work on a new mini split, will be back for future havac needs! Shout out to Titus for unwavering commitment to keep our solar hot water system up and running smoothly for us!!!!",
+      "author": "Kevin",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Great company, good problem solvers, good pricing!",
+      "author": "Jason K.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "The quality of work and the customer care was great",
+      "author": "Luke M.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

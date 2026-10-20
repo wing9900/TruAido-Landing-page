@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "hb-mcclure-hb-harrisburg",
+  "company": "HB McClure/HB Home Service Team",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172044569",
+  "phone_display": "(717) 204-4569",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 3355,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HB%20McClure%2FHB%20Home%20Service%20Team&query_place_id=ChIJieFHrPrAyIkRmxCc8C7ikIs",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407030/truaido-previews/hb-mcclure-hb-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407031/truaido-previews/hb-mcclure-hb-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#8E6800",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Lower Paxton Township",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Very reasonable and reputable company to deal with, Chris our technician was an awesome communicator and did an excellent job cleaning our furnace.",
+      "author": "Jodi V.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Fantastic service, Trevor and his team did a fantastic job.",
+      "author": "Pamela C.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

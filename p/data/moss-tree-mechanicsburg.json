@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "moss-tree-mechanicsburg",
+  "company": "Moss Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17173880105",
+  "phone_display": "(717) 388-0105",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 34,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Moss%20Tree%20Services&query_place_id=ChIJ6-6GTp3pyIkRcq8hD8erE0E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407779/truaido-previews/moss-tree-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#27462B",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Dillsburg",
+    "Camp Hill",
+    "Lemoyne",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Very thorough! Downed several hedge trees and ground stumps. Thank you for the great work and awesome clean up!",
+      "author": "D M.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Very professional crew. Quick, efficient and neat.",
+      "author": "Glenn D.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Getting an estimate and the project scheduled was easy with great communication throughout. The team arrived on the scheduled day, worked efficiently and got the job done quickly. Very pleased with the results and highly recommend!",
+      "author": "Erik W.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

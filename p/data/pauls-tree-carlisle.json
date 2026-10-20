@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "pauls-tree-carlisle",
+  "company": "Paul's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17174865005",
+  "phone_display": "(717) 486-5005",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Paul's%20Tree%20Service&query_place_id=ChIJm5ebv1AbyYkR0gWDDPAQZ9s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gardners",
+    "Walnut Bottom",
+    "Boiling Springs",
+    "Newville",
+    "Shippensburg",
+    "Dillsburg"
+  ],
+  "reviews": [
+    {
+      "text": "Paul's tree service in mt. Holly springs did an a fantastic job on trimming my two large trees in my front yard, very reasonable price, I would recommend for your tree service needs.",
+      "author": "Shane R.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Hired Paul's to remove a huge dying willow tree, far bigger than I could tackle..they came and did a very professional job, cleaned up all the remnants after and the price was reasonable.Glad I hired them",
+      "author": "Jeffrey D.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "Contacted Ben a month and a half ago about two fairly simple trees that needed removed - and one that was extremely challenging. The price was more than competitive so awarded them the job. Ben communicated clearly how they would do the project.",
+      "author": "D.B. F.",
+      "stars": 5,
+      "month": "July 2022"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "weather-tech-solutions-lancaster",
+  "company": "weather tech solutions (hvac)",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177199322",
+  "phone_display": "(717) 719-9322",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=weather%20tech%20solutions%20(hvac)&query_place_id=ChIJZzCvWUDQLA8RMoiUYNqpj3Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406546/truaido-previews/weather-tech-solutions-lancaster/logo",
+    "layout": "wide",
+    "badge": "#000000"
+  },
+  "accent": "#0077A3",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Los recomiendo al 100% muy amable y saben hacer su trabajo",
+      "author": "Rivera C.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Encantada con el servicio y con el trato realmente, quede mas que complacida con la instalaci\u00f3n en mi casa ya van 2 a\u00f1os y nunca he tenido ningun tipo de queja o falla y cualquier inquietud que he tenido siempre esta el mejor servicio al cliente respondiendo...",
+      "author": "Maria P.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": []
+}

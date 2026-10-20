@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "pooper-trooper-harrisburg",
+  "company": "The Pooper Trooper",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176093464",
+  "phone_display": "(717) 609-3464",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Pooper%20Trooper&query_place_id=ChIJlaCoGMLIBEkRV2znUxkwStk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Grantville",
+    "Hershey",
+    "Lower Paxton Township",
+    "Middletown",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "Best service ever! Showed up on time clean appearance and thoroughly complete the task! Exceeded my expectations.",
+      "author": "Richard D.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "davis-william-sons-new-providence",
+  "company": "Davis, William & Sons Septic Cleaning",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "New Providence",
+  "state": "PA",
+  "phone": "+17172843688",
+  "phone_display": "(717) 284-3688",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Davis%2C%20William%20%26%20Sons%20Septic%20Cleaning&query_place_id=ChIJX_4jTI0xxokRZOLuP2SxYYQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406309/truaido-previews/davis-william-sons-new-providence/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#033F1E",
+  "nearby_towns": [
+    "Pequea",
+    "Quarryville",
+    "Holtwood",
+    "Willow Street",
+    "Conestoga",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Bill is the best in the business and his pricing is VERY fair. I have always relied on Bill for almost 10 years now and will continue to for the long foreseeable future.",
+      "author": "Bill O.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "EXTREMELY FAST. COURTEOUS AND VERY THOROUGH. I'D RECOMMEND THEM TO ANY AND EVERY IN NEED OF OF SEPTIC SERVICING",
+      "author": "Billie W.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Nice people ! They were wonderful from start to finish ! Able to get me scheduled and finish the job in 3 days !! I will only be using them from now on !",
+      "author": "Kenn S.",
+      "stars": 5,
+      "month": "November 2022"
+    }
+  ],
+  "gallery": []
+}

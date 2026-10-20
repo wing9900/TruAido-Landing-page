@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "industrial-engines-e-earl",
+  "company": "Industrial Engines, Llc",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "East Earl",
+  "state": "PA",
+  "phone": "+17174450343",
+  "phone_display": "(717) 445-0343",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Industrial%20Engines%2C%20Llc&query_place_id=ChIJxw0d0MtrxokRnspM4pneexU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Narvon",
+    "New Holland",
+    "Adamstown",
+    "Denver",
+    "Stevens",
+    "Gap"
+  ],
+  "reviews": [
+    {
+      "text": "Fairly quick unload very nice Mennonite people Truly living no social media or anything just hard work ethic and restoring generators and farm life.",
+      "author": "Maksim B.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Ask for Elvin or Addison. Worked with industrial engines LLC for more than 10 years; they are consistently solving any power problem I send to them!",
+      "author": "Joe G.",
+      "stars": 5,
+      "month": "June 2024"
+    }
+  ],
+  "gallery": []
+}

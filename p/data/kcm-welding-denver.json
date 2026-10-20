@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "kcm-welding-denver",
+  "company": "KCM Welding LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17173360130",
+  "phone_display": "(717) 336-0130",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=KCM%20Welding%20LLC&query_place_id=ChIJ1UpzcYI9xokR6p8JDsc68Gg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Adamstown",
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Narvon",
+    "East Earl"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are top-notch! Excellent customer service and fast turnaround times.",
+      "author": "Jonathan S.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Needed a small weld on my bike frame. I was told it could be done while I waited. When the man returned with my frame, I asked how much. He said, nothing. Just pass along our name. A rare find these days.",
+      "author": "David M.",
+      "stars": 5,
+      "month": "November 2022"
+    },
+    {
+      "text": "Great service and very knowledgeable. I was recommended Carvell welding when I needed a crack in an aluminum subframe on my dirtbike fixed. Took the part in and they fixed it right up in no time!",
+      "author": "JesseBoom700",
+      "stars": 5,
+      "month": "October 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405962/truaido-previews/kcm-welding-denver/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405963/truaido-previews/kcm-welding-denver/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405964/truaido-previews/kcm-welding-denver/work3"
+  ]
+}

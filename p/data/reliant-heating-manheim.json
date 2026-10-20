@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "reliant-heating-manheim",
+  "company": "Reliant Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17174300900",
+  "phone_display": "(717) 430-0900",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 33,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Reliant%20Heating%20%26%20Cooling&query_place_id=ChIJVVV5zUEfxokRMpuArejI314",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "So satisfying with my service. It was a weekend visit and my tech was very helpful and pleasant. Thank you Dustin.",
+      "author": "Rita R.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "It\u2019s 11:45 p.m. , the night before a national holiday. You\u2019re two days into a heatwave - and it\u2019s not ending anytime soon. Suddenly, your air conditioner bites the dust.",
+      "author": "Ben W.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I recently moved into a house that was a little over twenty years old that needed a little tune-up. Reliant was highly recommended by a good friend. Ladd was able to schedule me in right away.",
+      "author": "Dana G.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

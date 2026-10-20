@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "living-stone-lancaster",
+  "company": "Living Stone Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174905836",
+  "phone_display": "(717) 490-5836",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Living%20Stone%20Heating%20and%20Cooling&query_place_id=ChIJKXR5nVckxokRiq2ZzpFHxDk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406539/truaido-previews/living-stone-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#00336E",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Mountville",
+    "Millersville",
+    "Salunga",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "Ken replaced the water heater at my mom\u2019s condo and did a great job. Honest, professional, and easy to work with. He made sure everything was done right and gave us great peace of mind. Highly recommend to anyone needing HVAC or Plumbing services.",
+      "author": "Vladimir V.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent Service!! Ken took care of all of our HVAC needs at our Condo. Will be using him at our primary residence as well\u2026. Gary C.",
+      "author": "Gary C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Ken has been doing hvac and heats for years, great guy, dependable, does great work for a good price.",
+      "author": "Kathy M.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406538/truaido-previews/living-stone-lancaster/work1"
+  ]
+}

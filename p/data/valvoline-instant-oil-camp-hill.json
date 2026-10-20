@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "valvoline-instant-oil-camp-hill",
+  "company": "Valvoline Instant Oil Change",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177373335",
+  "phone_display": "(717) 737-3335",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 707,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Valvoline%20Instant%20Oil%20Change&query_place_id=ChIJ-yqt_Y7ByIkRpW85rwpAS3c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408318/truaido-previews/valvoline-instant-oil-camp-hill/logo",
+    "layout": "wide",
+    "badge": "#D0D2D2"
+  },
+  "accent": "#E51B23",
+  "nearby_towns": [
+    "Lemoyne",
+    "Shiremanstown",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Manager Brandon is awesome!! Told him that I had an upcoming roadtrip, and he made sure that I was good to go. I\u2019ve been to this location for most of my oil changes, and the staff have been excellent, kind, and knowledgeable EVERY visit. Thanks guys!!",
+      "author": "Lexi E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Quick service and Tim recognized quickly that I was not interested in too many add-ons. He was very sociable and pleasant to chat with while I was waiting for service to be completed.",
+      "author": "Gregory L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Fast sevice friendly people. This is why I always go back.",
+      "author": "Chris G.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408317/truaido-previews/valvoline-instant-oil-camp-hill/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408317/truaido-previews/valvoline-instant-oil-camp-hill/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408318/truaido-previews/valvoline-instant-oil-camp-hill/work3"
+  ]
+}

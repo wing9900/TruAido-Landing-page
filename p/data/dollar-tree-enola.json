@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dollar-tree-enola",
+  "company": "Dollar Tree",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17175470730",
+  "phone_display": "(717) 547-0730",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 162,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dollar%20Tree&query_place_id=ChIJ-x0dNgbEyIkRHPnAOU9RwYw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Harrisburg",
+    "Camp Hill",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "Go in for 2bthings 80 dollars later I don't know how I got here",
+      "author": "Lauren W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very clean store friendly people And found everything I was looking for",
+      "author": "Tammy S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "The stuff at the store, very friendly and helpful. You never know what cool stuff you\u2019ll find here.",
+      "author": "Joni O.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

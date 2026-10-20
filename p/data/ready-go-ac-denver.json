@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ready-go-ac-denver",
+  "company": "Ready-Go AC Repair Pros",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+12232109409",
+  "phone_display": "(223) 210-9409",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ready-Go%20AC%20Repair%20Pros&query_place_id=ChIJN3YpJhsTxokRT8rJIYRYesE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Adamstown",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service and great attention to customer needs. The technician was friendly, professional, and thorough. I am happy with the results and would recommend this service.",
+      "author": "Gideon G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very happy with the HVAC service. The technician was professional, friendly, and knowledgeable, communicated clearly, worked efficiently, and made sure the system was operating properly.",
+      "author": "Codey S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Ready-Go AC Repair Pros provided honest advice and dependable repair service. Great experience.",
+      "author": "Domain I.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dan-white-plumbing-mechanicsburg",
+  "company": "Dan White Plumbing Heating & AC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176975060",
+  "phone_display": "(717) 697-5060",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 38,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dan%20White%20Plumbing%20Heating%20%26%20AC&query_place_id=ChIJd_H_hljdyIkRzjkM_g9nA4I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Dillsburg",
+    "Enola",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Can't sing their praises enough! Twice Dan White Plumbing has fixed a leak for me and twice the solution was quick, seamless, professional and well done! These folks are TOP TIER.",
+      "author": "Bianca Z.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Wanted to take the opportunity to highly recommend Dan White Plumbing and Heating. If I could leave more than 5 stars I would in a heartbeat. In addition to providing excellent service Dan is super customer oriented. Something that is in short supply anymore.",
+      "author": "Mark R.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "He found the leak. Shared details about the material and fixed it",
+      "author": "Brandon P.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

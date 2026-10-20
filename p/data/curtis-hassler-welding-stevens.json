@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "curtis-hassler-welding-stevens",
+  "company": "Curtis Hassler Welding LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Stevens",
+  "state": "PA",
+  "phone": "+17175174283",
+  "phone_display": "(717) 517-4283",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Curtis%20Hassler%20Welding%20LLC&query_place_id=ChIJYb4ikZ0UxokRdnMdwdwjU-M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Ephrata",
+    "Reinholds",
+    "Adamstown",
+    "Akron",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "Great work! I needed some new deck plate done on a trailer and Curtis did a great job. Will be using him again",
+      "author": "Bryan W.",
+      "stars": 5,
+      "month": "March 2019"
+    },
+    {
+      "text": "Excellect service and work! Works toward safety and also customer satisfaction. Highly recommended. This railing turned out better than we ever expected.",
+      "author": "Jody R.",
+      "stars": 5,
+      "month": "March 2019"
+    },
+    {
+      "text": "I used Curtis Hassler Welding for a welding job I had. Curtis has a flow of knowledge and skill that allowed him to complete a lot of welding in very little time.",
+      "author": "Jesse Z.",
+      "stars": 5,
+      "month": "March 2019"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406094/truaido-previews/curtis-hassler-welding-stevens/work1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "imhofs-plumbing-millersburg",
+  "company": "Imhofs Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+17176925631",
+  "phone_display": "(717) 692-5631",
+  "has_website": false,
+  "rating": 4.0,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Imhofs%20Plumbing%20%26%20Heating&query_place_id=ChIJVXXihNTMyIkRvG9cflr2Mfc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Five stars for this team. They did all the new plumbing in my house\u2026 three years later and everything continues to work properly. No call backs either. No leaks, I moved right in without any issues.",
+      "author": "Elaine N.",
+      "stars": 5,
+      "month": "August 2022"
+    }
+  ],
+  "gallery": []
+}

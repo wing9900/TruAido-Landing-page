@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "sweetwater-supplies-narvon",
+  "company": "Sweetwater Supplies LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Narvon",
+  "state": "PA",
+  "phone": "+17173548266",
+  "phone_display": "(717) 354-8266",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 39,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sweetwater%20Supplies%20LLC&query_place_id=ChIJ8TV4u3xCxokRtDr_18YnUuw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406068/truaido-previews/sweetwater-supplies-narvon/logo",
+    "layout": "wide",
+    "badge": "#010101"
+  },
+  "accent": "#B45B1C",
+  "nearby_towns": [
+    "East Earl",
+    "Gap",
+    "New Holland",
+    "Gordonville",
+    "Adamstown",
+    "Denver"
+  ],
+  "reviews": [
+    {
+      "text": "Great people and pricing i recommend everyone from isaacs auto reapair!",
+      "author": "isaac V.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "Great people to work with and beast prices around for welding gas",
+      "author": "eric M.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Lowest cost 20lb refill around and pleasant. Just filled my tank for $14. The tank before this one was swapped for \u201c$26.",
+      "author": "Peter",
+      "stars": 5,
+      "month": "October 2024"
+    }
+  ],
+  "gallery": []
+}

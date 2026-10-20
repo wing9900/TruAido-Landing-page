@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "717-mechanical-marietta",
+  "company": "717 Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Marietta",
+  "state": "PA",
+  "phone": "+17179317317",
+  "phone_display": "(717) 931-7317",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 229,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=717%20Mechanical%20LLC&query_place_id=ChIJx3eoT8l4fwoRkS9AQg70ACM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406792/truaido-previews/717-mechanical-marietta/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#D90106",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Bainbridge",
+    "Mount Joy",
+    "Mount Joy Township",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "William walked me through his process step by step. He's polite and very professional. I definitely want to use this business for my yearly boiler maintenance. He even reprogrammed my thermostat for me because it was programmed wrong the first time.",
+      "author": "Starving A.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406791/truaido-previews/717-mechanical-marietta/work1"
+  ]
+}

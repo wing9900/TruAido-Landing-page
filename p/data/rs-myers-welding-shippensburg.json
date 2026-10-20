@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "rs-myers-welding-shippensburg",
+  "company": "R S Myers' Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17175324714",
+  "phone_display": "(717) 532-4714",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=R%20S%20Myers'%20Welding&query_place_id=ChIJwduVVmMMyYkRZwwCKMpHl0c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "They are excellent welding guys and always made me happy and satisfied. Great job, guys. They have communicated very well since I am deaf. Gave them big thumb up.",
+      "author": "David D.",
+      "stars": 5,
+      "month": "February 2024"
+    },
+    {
+      "text": "They had exactly what I needed very very sweet fellas",
+      "author": "Deena M.",
+      "stars": 5,
+      "month": "December 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407867/truaido-previews/rs-myers-welding-shippensburg/work1"
+  ]
+}

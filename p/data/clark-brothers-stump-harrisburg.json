@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "clark-brothers-stump-harrisburg",
+  "company": "Clark Brothers Stump Removal",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174092001",
+  "phone_display": "(717) 409-2001",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 103,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Clark%20Brothers%20Stump%20Removal&query_place_id=ChIJ2YihgYtc1oERdjv6HjJ3fOM",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408098/truaido-previews/clark-brothers-stump-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408103/truaido-previews/clark-brothers-stump-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#ED080C",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "We used Clark Brothers for a tree that had fallen after a storm and they did amazing. They were very thorough explaining everything and cleaning up all their work. If I could give them more than 5 stars I would!",
+      "author": "Alyssa M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We had a great experience with this tree cutting service! They communicated well throughout the entire process, showed up when they said they would, and worked incredibly hard. The crew was reliable, professional, and did a great job from start to finish.",
+      "author": "Kevin C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Clark Brothers Tree and Stump Removal did an excellent job. They were professional from start to finish, completed the work in a timely manner, and did a great job cleaning up afterward.",
+      "author": "Jamie G.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408100/truaido-previews/clark-brothers-stump-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408101/truaido-previews/clark-brothers-stump-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408103/truaido-previews/clark-brothers-stump-harrisburg/work3"
+  ]
+}

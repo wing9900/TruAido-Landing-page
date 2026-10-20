@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "590-chimney-harrisburg",
+  "company": "590 Chimney Cleaning & Chimney Repairs Serv",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173239352",
+  "phone_display": "(717) 323-9352",
+  "has_website": false,
+  "rating": 3.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=590%20Chimney%20Cleaning%20%26%20Chimney%20Repairs%20Serv&query_place_id=ChIJwcrVoCq_yIkRVOajrOG27fQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Middletown",
+    "Steelton",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "590 Chimney Cleaning & Chimney Repairs Serv team and Kristoph are skillful and professional, they fully cared for their clients. Many thankss and I really like their service. I'll definitely recommend to my friends.",
+      "author": "wilde K.",
+      "stars": 5,
+      "month": "September 2024"
+    }
+  ],
+  "gallery": []
+}

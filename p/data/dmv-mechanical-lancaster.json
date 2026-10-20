@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "dmv-mechanical-lancaster",
+  "company": "DMV Mechanical Company",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172084447",
+  "phone_display": "(717) 208-4447",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 39,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=DMV%20Mechanical%20Company&query_place_id=ChIJZ8y3nJokxokRKXI9hg0BvYI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "DMV Mechanical Company recently installed a new HVAC system for me and I am extremely satisfied with their service. They went above and beyond in their communication, ensuring that I was kept informed throughout the process.",
+      "author": "Bradley W.",
+      "stars": 5,
+      "month": "July 2024"
+    },
+    {
+      "text": "Returned our call and got back to us promptly. A service appointment was scheduled in a reasonable amount of time. The problem and service options were clearly explained.",
+      "author": "Sam S.",
+      "stars": 5,
+      "month": "October 2023"
+    },
+    {
+      "text": "Duan was incredibly responsive, saved me from having to shut down my business when my AC stopped working during one of the hottest months of the year, and he was thorough in all of his work! Highly recommend!!",
+      "author": "Megan M.",
+      "stars": 5,
+      "month": "June 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406602/truaido-previews/dmv-mechanical-lancaster/work1"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "pks-leaves-harrisburg",
+  "company": "Pk\u2019s Leaves",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173442014",
+  "phone_display": "(717) 344-2014",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pk%E2%80%99s%20Leaves&query_place_id=ChIJgwdlXKfz-ogR4ty03feRj94",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Enola",
+    "Summerdale",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Amazing professionalism! Quickly saw a different issue leaning on house from a storm, and removed tree, then addressed other matter. And both for a fantastic price. Pat is your tree service person! Don't choose anyone else.",
+      "author": "Thunder B.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Patrick did an amazing job with this tree by shaping up and trimming I was wanting to take it down but his suggestion on keeping it and just making it look good was the correct way to go. A great professional and pleasant even in 100 degree weather.",
+      "author": "Diane S.",
+      "stars": 5,
+      "month": "July 2024"
+    },
+    {
+      "text": "We highly recommend PK Leaves & Patrick for your tree trimming, storm clean up and small/mid size tree removal needs. He is a very hard worker and truly cares about the job he does. His pricing is fair and reasonable.",
+      "author": "Lindsey C.",
+      "stars": 5,
+      "month": "July 2024"
+    }
+  ],
+  "gallery": []
+}

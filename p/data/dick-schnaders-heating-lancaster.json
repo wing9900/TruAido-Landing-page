@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dick-schnaders-heating-lancaster",
+  "company": "Dick Schnader's Heating & Cool",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173924338",
+  "phone_display": "(717) 392-4338",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dick%20Schnader's%20Heating%20%26%20Cool&query_place_id=ChIJwQ1KljM7xokRlKWw4YQyzVE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Willow Street",
+    "Millersville",
+    "Leola",
+    "Strasburg",
+    "East Petersburg",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Very happy with my HVAC system, price and service. Dick Schnader is a straight-up guy who has very, very fair pricing. Highly recommend.",
+      "author": "Kevin P.",
+      "stars": 5,
+      "month": "January 2019"
+    },
+    {
+      "text": "Called and told him what was going on, tech was at the house in 5 minutes, repaired the problem in 10 minutes. Fairly priced, nicely done!!!",
+      "author": "christopher T.",
+      "stars": 5,
+      "month": "July 2018"
+    },
+    {
+      "text": "I want to thank 'Junie' for helping me out with an air conditioning malfunction. I have a disability that makes it difficult to manage my pain and function in heat and humidity.",
+      "author": "Rona T.",
+      "stars": 5,
+      "month": "July 2018"
+    }
+  ],
+  "gallery": []
+}

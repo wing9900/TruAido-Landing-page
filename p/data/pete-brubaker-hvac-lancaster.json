@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "pete-brubaker-hvac-lancaster",
+  "company": "Pete Brubaker HVAC LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173819933",
+  "phone_display": "(717) 381-9933",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pete%20Brubaker%20HVAC%20LLC&query_place_id=ChIJU5HOqku9yIkRft_VOVsidSM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Peter was very helpful when my hvac went down. He even offered me an ac unit till my unit got fixed. Definitely recommend him!",
+      "author": "Edwin B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Working along side of Pete the owner has been a great experience. His quality of work is amazing. He will work within your budget and communicate very clearly the steps he will take to fix the issue. A true professional. God bless you Pete.",
+      "author": "Superheat R.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "Quickly resolved our AC issue and was professional and friendly.",
+      "author": "Nikki P.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

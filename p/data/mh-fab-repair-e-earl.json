@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "mh-fab-repair-e-earl",
+  "company": "MH Fab&Repair LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "East Earl",
+  "state": "PA",
+  "phone": "+17177998743",
+  "phone_display": "(717) 799-8743",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MH%20Fab%26Repair%20LLC&query_place_id=ChIJaXi24jTDjmcRpM1lULXkjcc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Narvon",
+    "Gap",
+    "New Holland",
+    "Gordonville",
+    "Adamstown",
+    "Denver"
+  ],
+  "reviews": [
+    {
+      "text": "Needed maintenance done on my mower so decided to bring it here. He was able to do it same day and prices are fair and he does quality work too. Definitely going to come back and highly recommend.",
+      "author": "Jonathan H.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "He has always been diligent and trustworthy in his business dealings, doing things to the best of his abilities.",
+      "author": "Neil H.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406113/truaido-previews/mh-fab-repair-e-earl/work1"
+  ]
+}

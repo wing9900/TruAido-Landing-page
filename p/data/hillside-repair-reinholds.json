@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hillside-repair-reinholds",
+  "company": "Hillside Repair Services",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17173364355",
+  "phone_display": "(717) 336-4355",
+  "has_website": false,
+  "rating": 4.3,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hillside%20Repair%20Services&query_place_id=ChIJhymxU-oSxokRxYewbGWBAdo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Adamstown",
+    "Stevens",
+    "Robesonia",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Not the tidiest place in town, but he does good work at a very fair price. Would recommend for any of your small projects.",
+      "author": "Dave B.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Great service and great value. Galen did a great job repairing the frame on our truck. Thank you so much for your expertise and skills.",
+      "author": "Jeff G.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "I've used Lamar's welding and repair services for many years, where replacement is not an option \u2014 mostly little stuff like repairing broken piano pedals, but also a few big jobs like the I-beams on my truck bed.",
+      "author": "Michael S.",
+      "stars": 5,
+      "month": "January 2025"
+    }
+  ],
+  "gallery": []
+}

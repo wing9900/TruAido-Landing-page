@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "03hvac-harrisburg",
+  "company": "03HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176023044",
+  "phone_display": "(717) 602-3044",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=03HVAC&query_place_id=ChIJI6o5Hum3yIkRcYd7R8ye3os",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Hershey",
+    "Dauphin",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Bill and Jason are excellent! Years of experience and very professional. Only HVAC Co I will call and trust with our heating and air-conditioning needs!",
+      "author": "Matthew M.",
+      "stars": 5,
+      "month": "August 2023"
+    },
+    {
+      "text": "This is the best company I've every met, excellent service and communication. Years of experience shows, as he was able to save me over 90% of costs with a repair, compared to \"the other guys\" who didn't know what they were doing.",
+      "author": "Emily Z.",
+      "stars": 5,
+      "month": "October 2022"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "north-country-landscapes-mechanicsburg",
+  "company": "North Country Landscapes & Lenk Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176974439",
+  "phone_display": "(717) 697-4439",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 107,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=North%20Country%20Landscapes%20%26%20Lenk%20Tree%20Service&query_place_id=ChIJ7eHkJHrpyIkRl0qBDEIc6ik",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "The crew did a great job in taking down a big old hickory \ud83c\udf33 that was situated between the house and two power lines and leaning towards both, as well as, topping off a smaller cedar\ud83c\udf32 to eliminate future issues \ud83d\udc4d In addition, the office staff were able to...",
+      "author": "T C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Had Lenk Tree Service come and trim back a large maple tree and a smaller apple tree. Decent price and good communication with the crew. Did a nice job and good clean up afterwards.",
+      "author": "Thomas K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Quote was lowest of 3 received. Easy to work with. They completed our sewage hookup, on site system abatement, and lawn restoration in a few hours! They also coordinate and included payment for SEO inspection!",
+      "author": "Jeffrey P.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

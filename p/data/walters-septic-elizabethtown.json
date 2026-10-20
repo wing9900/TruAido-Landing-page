@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "walters-septic-elizabethtown",
+  "company": "Walters Septic Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173677050",
+  "phone_display": "(717) 367-7050",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Walters%20Septic%20Services&query_place_id=ChIJHcfGdlyYyIkRxdss1Fz5WWY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406165/truaido-previews/walters-septic-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0D679C",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Scott Z was here today to pump our septic. He was professional and congenial.",
+      "author": "Laurie P.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I was extremely happy with the service that was provided from this company, from start to finish! From the moment that I first called, everyone was so very nice and helpful, and they got me scheduled right away.",
+      "author": "Courtney B.",
+      "stars": 5,
+      "month": "November 2023"
+    },
+    {
+      "text": "I had a fantastic experience with this company! They went above and beyond for my wife and me, and I plan on using them for any and all of my septic needs!",
+      "author": "Jake K.",
+      "stars": 5,
+      "month": "September 2021"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "rowe-pest-lancaster",
+  "company": "Rowe Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17175383541",
+  "phone_display": "(717) 538-3541",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rowe%20Pest%20Control&query_place_id=ChIJqf9dQt0nxokRIWxlRkFaQLE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy",
+    "Mount Joy Township",
+    "Salunga",
+    "Elizabethtown",
+    "Landisville",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "Is knowledgeable about all different pest problems and if you are willing to do what he needs you to do on your part you will have success! Rowes prices are affordable and honest no sugar coating!Thank you rowe and god bless you!",
+      "author": "Heather L.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "George was very professional and fair in the price. He was very honest in evaluating what needed to be done.i felt he was on my side on moving forward with the job, He's my go to guy now. Highly recommend!!",
+      "author": "Ted L.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "I submitted a request on Angie's list for a yellow jacket nest and received a phone call right away! Not only did George take his time to chat through my problem, we brainstormed the best path forward together!",
+      "author": "Conor M.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406613/truaido-previews/rowe-pest-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406614/truaido-previews/rowe-pest-lancaster/work2"
+  ]
+}

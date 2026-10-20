@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "north-ridge-mechanical-carlisle",
+  "company": "North Ridge Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172415994",
+  "phone_display": "(717) 241-5994",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=North%20Ridge%20Mechanical%20LLC&query_place_id=ChIJuYmnSK3fyIkR5tSTO7k9dmw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407658/truaido-previews/north-ridge-mechanical-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#AB1D23",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Hampden Township",
+    "Boiling Springs",
+    "Dillsburg",
+    "Enola",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Northridge is always prompt, efficient and does great work",
+      "author": "allison T.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Northridge installed our furnace and mini-splits when our home was built. The fact they do yearly maintenance is awesome. The techs are friendly and professional. Highly recommend them!",
+      "author": "April T.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Good service. Very friendly and competent staff!",
+      "author": "Nancy D.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "precision-heating-harrisburg",
+  "company": "Precision Heating & Air of Harrisburg",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179372402",
+  "phone_display": "(717) 937-2402",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Precision%20Heating%20%26%20Air%20of%20Harrisburg&query_place_id=ChIJJQUVOwDByIkRhnwtSzZ0G2U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Steelton",
+    "Camp Hill",
+    "Enola"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "penn-pest-harrisburg",
+  "company": "Penn Pest",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175405554",
+  "phone_display": "(717) 540-5554",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 69,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Penn%20Pest&query_place_id=ChIJ6Svu70e4yIkR0wOB83JyoiQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407225/truaido-previews/penn-pest-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#202A75",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Summerdale",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Enola",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "I'm so sorry to hear about the owner passing. Your company was always the best. My home was always taken care of any time I had an issue. I'm very sorry for your loss.",
+      "author": "Jessica",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

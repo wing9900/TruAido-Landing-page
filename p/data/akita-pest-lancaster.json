@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "akita-pest-lancaster",
+  "company": "Akita Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177757378",
+  "phone_display": "(717) 775-7378",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 1332,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Akita%20Pest%20Control&query_place_id=ChIJ8-w09YUkxokRA8DX14eb4qs",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405719/truaido-previews/akita-pest-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405722/truaido-previews/akita-pest-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#587821",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Leola",
+    "Willow Street",
+    "Brownstown",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "FINALLY, someone who hates bugs as much as I do",
+      "author": "kyle C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Every one was great Treatment was scheduled promptly. We love supporting local businesses.",
+      "author": "Paula F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Good experience with Akita for wasps nesting inside a wall of our home. When there was still a little bit of activity left over after the first treatment, they came back out and re-treated for free. No sign of the wasps since.",
+      "author": "Adam S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405719/truaido-previews/akita-pest-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405720/truaido-previews/akita-pest-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405720/truaido-previews/akita-pest-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405722/truaido-previews/akita-pest-lancaster/work4"
+  ]
+}

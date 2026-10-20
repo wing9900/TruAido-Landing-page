@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "quality-construction-mechanicsburg",
+  "company": "Quality Construction and Custom Design",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17174970574",
+  "phone_display": "(717) 497-0574",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Quality%20Construction%20and%20Custom%20Design&query_place_id=ChIJpTnqJNLpyIkRmxQlZKJZ0Oc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Camp Hill",
+    "Dillsburg",
+    "Lemoyne",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "I reached out to Quality Contruction to install bathroom exhaust fans, complete air sealing, as well as install attic insulation. Greg is very communicative, punctual, and professional.",
+      "author": "Brandon W.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Greg showed me where I was losing heat from uninsulated ducts. Was able to save me money on my heating-a/c cost!",
+      "author": "Kevin C.",
+      "stars": 5,
+      "month": "January 2023"
+    },
+    {
+      "text": "Very professional, reliable and responsive.",
+      "author": "bradley B.",
+      "stars": 5,
+      "month": "January 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408023/truaido-previews/quality-construction-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408024/truaido-previews/quality-construction-mechanicsburg/work2"
+  ]
+}

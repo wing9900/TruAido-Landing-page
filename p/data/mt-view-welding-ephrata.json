@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "mt-view-welding-ephrata",
+  "company": "Mt View Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17173510092",
+  "phone_display": "(717) 351-0092",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mt%20View%20Welding&query_place_id=ChIJi9igz5cVxokRj-dcvSm3nvs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "New Holland",
+    "Brownstown",
+    "Leola",
+    "Stevens",
+    "Denver"
+  ],
+  "reviews": [
+    {
+      "text": "I would definitely buy from them again. Excellent heavy duty attachments. I love how the tooth bucket fits right into the smooth bucket on my skidloader for easier transportation",
+      "author": "Amos",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I purchased a mini skid loader grapple bucket from these folks . Super good quality. Lower price than other ones!! I ordered it to be shipped right to me and the shipping $ was very reasonable. They were very responsive with my calls and emails .",
+      "author": "Carlos R.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "I recently purchased a root grapple attachment from Mt. View Welding and Fabrication, and I couldn\u2019t be happier with my experience. The product is outstanding\u2014well-built and incredibly effective for my needs.",
+      "author": "Jared E.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": []
+}

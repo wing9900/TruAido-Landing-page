@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "fosters-welding-carlisle",
+  "company": "Foster's Welding LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17177769657",
+  "phone_display": "(717) 776-9657",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Foster's%20Welding%20LLC&query_place_id=ChIJ36ql71UayYkRuEvWq0TCrUk",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407765/truaido-previews/fosters-welding-carlisle/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Walnut Bottom",
+    "Gardners",
+    "Shippensburg",
+    "Boiling Springs",
+    "Newburg"
+  ],
+  "reviews": [
+    {
+      "text": "Foster did a great job fixing my heavyhaul trailer. The cracks which they fixed were not that bad but they needed fixing in order to pass a DOT inspection. Foster's worked me in really helped mevout well. Job well done.",
+      "author": "Adriaan V.",
+      "stars": 5,
+      "month": "March 2022"
+    },
+    {
+      "text": "TL;DR: These guys will go above and beyond to do the job right. Highly recommended. Long Version: I was southbound on I-81 when the bumper of my travel trailer basically fell off.",
+      "author": "J R.",
+      "stars": 5,
+      "month": "July 2021"
+    },
+    {
+      "text": "Whatever your application is, these guys can weld it for a fair price.",
+      "author": "Mena D.",
+      "stars": 5,
+      "month": "April 2021"
+    }
+  ],
+  "gallery": []
+}

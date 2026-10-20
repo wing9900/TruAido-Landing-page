@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "ferguson-mechanical-lancaster",
+  "company": "Ferguson Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174550237",
+  "phone_display": "(717) 455-0237",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ferguson%20Mechanical%2C%20LLC&query_place_id=ChIJKdT0N3_Jmw0RNJGVA8OgbAE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Christiana",
+    "Paradise",
+    "Kirkwood",
+    "Ronks",
+    "Quarryville",
+    "New Providence"
+  ],
+  "reviews": [
+    {
+      "text": "My AC wasn\u2019t working and Kyler came out to take a look at it. He found that the capacitor was bad, replaced it, and got everything running again without delay. Fair, honest, and easy to deal with. Definitely recommend Ferguson Mechanical for reliable service.",
+      "author": "Brandon L.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Exceptional work from start to finish. Professional, reliable, and extremely knowledgeable. The quality of workmanship was outstanding, and everything was completed efficiently and with great attention to detail.",
+      "author": "Nicole D.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

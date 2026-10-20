@@ -1,0 +1,39 @@
+{
+  "v": 1,
+  "slug": "hoagys-tree-grantville",
+  "company": "Hoagy's Tree Farm",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Grantville",
+  "state": "PA",
+  "phone": "+17177735463",
+  "phone_display": "(717) 773-5463",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hoagy's%20Tree%20Farm&query_place_id=ChIJoRUuHraxyIkRhTPEe7EtT7g",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Hershey",
+    "Lower Paxton Township",
+    "Harrisburg",
+    "Elizabethtown",
+    "Steelton"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407568/truaido-previews/hoagys-tree-grantville/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407569/truaido-previews/hoagys-tree-grantville/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407570/truaido-previews/hoagys-tree-grantville/work3"
+  ]
+}

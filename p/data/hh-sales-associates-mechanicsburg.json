@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hh-sales-associates-mechanicsburg",
+  "company": "H&H Sales Associates, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177962401",
+  "phone_display": "(717) 796-2401",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=H%26H%20Sales%20Associates%2C%20Inc.&query_place_id=ChIJGx-8hi0bxYkRD8-tFbqC3xc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408139/truaido-previews/hh-sales-associates-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#10164B",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "New Cumberland",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

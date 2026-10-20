@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "hershey-termite-harrisburg",
+  "company": "Hershey Termite & Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175987777",
+  "phone_display": "(717) 598-7777",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hershey%20Termite%20%26%20Pest%20Control&query_place_id=ChIJtdW7yGO7yIkRG-S9PiwdNd0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407553/truaido-previews/hershey-termite-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#B06105",
+  "nearby_towns": [
+    "Hershey",
+    "Hummelstown",
+    "Elizabethtown",
+    "Middletown",
+    "Grantville",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "I ended up going with Hershey Termite and Pest Control from a Facebook post where several people advised them. Sean has been working through an ongoing mice issue for me and it has been a great experience! He was SO thorough for the first inspection!",
+      "author": "Angela M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I can\u2019t say enough about how wonderful my experience was with Hershey Termite and Pest Control. Damon, the exterminator was an exceptional and very likable guy.",
+      "author": "Helen B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Showed up on time. Was professional and courteous. Highly recommend!",
+      "author": "Julie T.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407552/truaido-previews/hershey-termite-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407553/truaido-previews/hershey-termite-harrisburg/work2"
+  ]
+}

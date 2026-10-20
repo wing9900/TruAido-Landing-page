@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "west-wind-pest-millersburg",
+  "company": "West Wind Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+17177141392",
+  "phone_display": "(717) 714-1392",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 35,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=West%20Wind%20Pest%20Control&query_place_id=ChIJRWjJeyL4X6QR747rihwOwPI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Jarrett started helping my employer with pest issues years ago when the bigger companies wouldn\u2019t return a call. Although he has grown Westwind to a larger operation, Jarrett remains the neighbor next door who is always willing to lend a hand.",
+      "author": "K G.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I have to say that west wind pest control Is great !! Kelsey definitely communicate with her customers. They had to reschedule me for next week to spray my backyard. She reached out and let me know.",
+      "author": "The L.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Really knows his stuff when it comes to bugs and other pests. Recommending Westwind pest control to all my friends and family.",
+      "author": "semir I.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

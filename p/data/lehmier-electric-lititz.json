@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lehmier-electric-lititz",
+  "company": "Lehmier Electric-Scale Ban",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176271001",
+  "phone_display": "(717) 627-1001",
+  "has_website": true,
+  "rating": 3.9,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lehmier%20Electric-Scale%20Ban&query_place_id=ChIJ6bHIzWoYxokR2HrsF6MEPWs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "East Petersburg",
+    "Manheim",
+    "Ephrata",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Ted & Tim are good guys who do great work.",
+      "author": "Mary E.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "We got our Scale Ban installed just a few days ago. Our water is already softer and my skin doesn\u2019t itch after I take a shower anymore. Hallelujah!",
+      "author": "Rachel P.",
+      "stars": 5,
+      "month": "November 2021"
+    },
+    {
+      "text": "I just had a scale ban installed today. Noticed the difference in water quality immediately!! Am very happy with this product. And Ted was extremely friendly and professional. I will gladly recommend this company and product!",
+      "author": "catherine S.",
+      "stars": 5,
+      "month": "May 2020"
+    }
+  ],
+  "gallery": []
+}

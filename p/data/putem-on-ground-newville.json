@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "putem-on-ground-newville",
+  "company": "Put'em On the Ground, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17173868618",
+  "phone_display": "(717) 386-8618",
+  "has_website": false,
+  "rating": 4.3,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Put'em%20On%20the%20Ground%2C%20LLC&query_place_id=ChIJKYfPKQYXyYkRdqPgBmgWlCI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Carlisle",
+    "Shippensburg",
+    "Boiling Springs",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "We used their tree trimming service and were very pleased with pricing, how quickly they fit us in as well as the job they did and the clean up afterwards. Our neighbor was so impressed they booked them as well as a friend from work.",
+      "author": "Traci F.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Have used a few times. Always fast and professional. Will be calling again as needed!",
+      "author": "Benjamin B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Absolute pros. Fair pricing, and they went above and beyond. My parents had them do some work for them and they were very pleased, so they were my first and only call. My yard was spotless when they were done. Nice work, gents.",
+      "author": "Curtis M.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407877/truaido-previews/putem-on-ground-newville/work1"
+  ]
+}

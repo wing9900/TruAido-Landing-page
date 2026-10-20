@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "groffs-home-comfort-willow-street",
+  "company": "Groff's Home Comfort Team",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17174649446",
+  "phone_display": "(717) 464-9446",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 731,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Groff's%20Home%20Comfort%20Team&query_place_id=ChIJHYxy7eIvxokRgACU4LU4nL4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406780/truaido-previews/groffs-home-comfort-willow-street/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#037AC3",
+  "nearby_towns": [
+    "Conestoga",
+    "Pequea",
+    "Strasburg",
+    "New Providence",
+    "Millersville",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Justin fixed my drain, it did not drain at all before now it drains like new, very professional and knowledgeable, great service",
+      "author": "brandon M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very professional. Arrived on time. Very knowledgeable.",
+      "author": "Kirks",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Cameron visited my home today in Steelton. He was very personable and knowledgeable. He was in and out and communicated very well. Thank you Cameron!!",
+      "author": "Tanishia H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406779/truaido-previews/groffs-home-comfort-willow-street/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406779/truaido-previews/groffs-home-comfort-willow-street/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406780/truaido-previews/groffs-home-comfort-willow-street/work3"
+  ]
+}

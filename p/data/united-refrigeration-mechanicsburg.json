@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "united-refrigeration-mechanicsburg",
+  "company": "United Refrigeration Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176914100",
+  "phone_display": "(717) 691-4100",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=United%20Refrigeration%20Inc&query_place_id=ChIJvw1tCnjnyIkRcXuSPp6O0wo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407984/truaido-previews/united-refrigeration-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1D5BA4",
+  "nearby_towns": [
+    "Hampden Township",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill",
+    "Boiling Springs",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Troy is the shiznits. Have what we need nice and quick. Always help you out.",
+      "author": "_ _.",
+      "stars": 5,
+      "month": "July 2020"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "cha-pole-barns-quarryville",
+  "company": "CHA Pole Barns",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17176876673",
+  "phone_display": "(717) 687-6673",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CHA%20Pole%20Barns&query_place_id=ChIJVScQdLQ5xokR3V6ZPYgy4g0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Providence",
+    "Holtwood",
+    "Pequea",
+    "Willow Street",
+    "Conestoga",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "I am so pleased with how my pole barn turned out. First class job! It is absolutely beautiful and have gotten so many compliments already.",
+      "author": "Storke F.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

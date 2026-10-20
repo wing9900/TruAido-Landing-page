@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hvac-solutions-heating-hershey",
+  "company": "HVAC Solutions Heating And AC Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+18778310591",
+  "phone_display": "(877) 831-0591",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HVAC%20Solutions%20Heating%20And%20AC%20Repair&query_place_id=ChIJPdQibQ27yIkRjGsSK5ZTRZc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Grantville",
+    "Elizabethtown",
+    "Middletown",
+    "Lower Paxton Township",
+    "Highspire"
+  ],
+  "reviews": [],
+  "gallery": []
+}

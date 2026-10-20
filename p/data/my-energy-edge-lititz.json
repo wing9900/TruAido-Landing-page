@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "my-energy-edge-lititz",
+  "company": "My Energy Edge, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+18887493343",
+  "phone_display": "(888) 749-3343",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=My%20Energy%20Edge%2C%20LLC&query_place_id=ChIJD52m3hUYxokRMX_0J0TremI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Ephrata",
+    "East Petersburg",
+    "Manheim",
+    "Lancaster"
+  ],
+  "reviews": [],
+  "gallery": []
+}

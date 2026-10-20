@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "smart-air-heating-lancaster",
+  "company": "Smart Air Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232212589",
+  "phone_display": "(223) 221-2589",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 113,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Smart%20Air%20Heating%20%26%20Cooling&query_place_id=ChIJ2fqCtDWYgG8RIfhcNUbve20",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406780/truaido-previews/smart-air-heating-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#B94E00",
+  "nearby_towns": [
+    "East Petersburg",
+    "Mountville",
+    "Landisville",
+    "Salunga",
+    "Millersville",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Dave and his team did a great job servicing my heater and AC unit. They did a great job explaining what needed to be done and completed the work every efficiently! Highly recommend Smart Air Heating and Cooling!!!",
+      "author": "Patricia L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Highly recommend, professional, prompt HVAC maintenance provided. The gentlemen who performed service were knowledgeable and courteous.",
+      "author": "Frank M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "2026 and still highly recommend SmartAir....fast, professional, communicative and great service.",
+      "author": "Ruth C.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

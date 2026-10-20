@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "john-weidman-sons-ephrata",
+  "company": "John Weidman & Sons Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177334161",
+  "phone_display": "(717) 733-4161",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 100,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=John%20Weidman%20%26%20Sons%20Inc&query_place_id=ChIJRU7RsS4UxokRsaeAFJl5Xfs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Leola",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "Friendly staff very helpful. Great prices for fuel oil in local Ephrata.",
+      "author": "Chris M.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Our maintenance man was Bruce and he is a wonderful, knowledgeable, patient, and friendly person. He answered all of my questions and showed me how to operate anything I didn't know how to use. I highly recommend him and the man deserves a raise.",
+      "author": "Sandra S.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Our family is a long time customer of John Weidman & Sons and will definitely continue to be a customer. On Saturday morning, we had no heat in the house and the outside temperature was well below freezing.",
+      "author": "Jodee L.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

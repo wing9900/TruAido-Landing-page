@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "apple-auto-glass-harrisburg",
+  "company": "Apple Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178137100",
+  "phone_display": "(717) 813-7100",
+  "has_website": false,
+  "rating": 4.5,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Apple%20Auto%20Glass&query_place_id=ChIJtZK9DPPByIkRSvbSkw6N6vI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "Lower Paxton Township",
+    "New Cumberland",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Thanks to Leo very responsive and his team came did my windshield In the driveway it looks perfect and better than OEM. Very easy to work with don\u2019t look anywhere else",
+      "author": "Yamin M.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Thanks to Apple Auto Glass, very quick and efficient. Didn\u2019t have to wait for my new windshield on my Camry. Same day service thanks to Leo the dispatcher and his team for helping me today.",
+      "author": "A S.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Leo gave me the best possible service, the best price I got & the fastest service! Fully recommend to anyone that needs it done! Best service for the best price!",
+      "author": "Kenny M.",
+      "stars": 5,
+      "month": "January 2024"
+    }
+  ],
+  "gallery": []
+}

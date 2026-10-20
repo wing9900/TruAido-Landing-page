@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "stark-contrast-hvac-mechanicsburg",
+  "company": "Stark Contrast LLC HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+12233618118",
+  "phone_display": "(223) 361-8118",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stark%20Contrast%20LLC%20HVAC&query_place_id=ChIJOzAmxluYzKwRv9MmuZXD1nQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407662/truaido-previews/stark-contrast-hvac-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#AE5407",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Gardners",
+    "Dillsburg",
+    "Newville",
+    "Walnut Bottom"
+  ],
+  "reviews": [
+    {
+      "text": "Stark Contrast HVAC is a perfect example of how businesses used to operate\u2014and I\u2019m glad to see that tradition is still alive! From my initial contact, I received a call back within 5 minutes.",
+      "author": "Steve L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They came out quickly and repair was also done quickly",
+      "author": "Gerry B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Always professional, prompt, and great service!",
+      "author": "Carlisle M.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

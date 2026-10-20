@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "accurate-insulation-harrisburg",
+  "company": "Accurate Insulation",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175610430",
+  "phone_display": "(717) 561-0430",
+  "has_website": true,
+  "rating": 3.9,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Accurate%20Insulation&query_place_id=ChIJsTIq-iG_yIkRDwMVTx6HhB4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407166/truaido-previews/accurate-insulation-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#B55712",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "Highspire",
+    "New Cumberland",
+    "Hummelstown",
+    "Middletown"
+  ],
+  "reviews": [
+    {
+      "text": "The did a great job. Looks professional. Way better than I could have done it. I thought the price made it a no brainer. Thank you Accurate Insulation",
+      "author": "Gene M.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407166/truaido-previews/accurate-insulation-harrisburg/work1"
+  ]
+}

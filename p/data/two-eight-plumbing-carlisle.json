@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "two-eight-plumbing-carlisle",
+  "company": "Two Eight Plumbing, Heating, and Cooling, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17174405328",
+  "phone_display": "(717) 440-5328",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Two%20Eight%20Plumbing%2C%20Heating%2C%20and%20Cooling%2C%20LLC&query_place_id=ChIJQb4OYZQfyYkRZBG6Nkuj1XM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407945/truaido-previews/two-eight-plumbing-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#43769B",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Newville",
+    "Hampden Township"
+  ],
+  "reviews": [
+    {
+      "text": "Great all around service and pricing from Austin on an issue with our central AC system.",
+      "author": "Said S.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Great service. Arrived on time for appointment. Friendly and professional. Job completed. Various payment options. I will use them again.",
+      "author": "Tracey S.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "We have had great experiences working with Austin and Two Eight Plumbing. He's very responsive, professional, and detailed.",
+      "author": "Carlisle M.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": []
+}

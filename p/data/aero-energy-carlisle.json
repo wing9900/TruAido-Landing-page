@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "aero-energy-carlisle",
+  "company": "Aero Energy",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+18009984311",
+  "phone_display": "(800) 998-4311",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 295,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Aero%20Energy&query_place_id=ChIJhWHQ0jUeyYkRAoEr7KdtpQE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Newville",
+    "Hampden Township"
+  ],
+  "reviews": [
+    {
+      "text": "Mr Gaither was professional and courteous. Provided exceptional communication. Thanks",
+      "author": "Ellen S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I have always been pleased with AeroEnergy! Professional and friendly!",
+      "author": "Jen L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Curt and his co-worker showed exceptional knowledge about our system and explained in depth what would need to be done to fix our problem. He answered all our questions. Thoroughly cleaned the furnace and outside heat pump.",
+      "author": "DavidC",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408001/truaido-previews/aero-energy-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408002/truaido-previews/aero-energy-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408003/truaido-previews/aero-energy-carlisle/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408004/truaido-previews/aero-energy-carlisle/work4"
+  ]
+}

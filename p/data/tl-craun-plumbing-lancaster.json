@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "tl-craun-plumbing-lancaster",
+  "company": "T.L. Craun Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172746747",
+  "phone_display": "(717) 274-6747",
+  "has_website": true,
+  "rating": 2.7,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=T.L.%20Craun%20Plumbing%20%26%20Heating&query_place_id=ChIJmWWu1CkdxokRN9RcPGQ5dc4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "Mount Joy Township",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "I had an excellent experience with this plumbing and heating company. They answered my first call right away, scheduled an estimate for the very next day, and installed our new water heater the following day.",
+      "author": "Daniel S.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "Had my barbq grill hooked up to natural gas did a great job I'll definitely call him if needed again thanks T.L. Craun",
+      "author": "jeff J.",
+      "stars": 5,
+      "month": "May 2024"
+    }
+  ],
+  "gallery": []
+}

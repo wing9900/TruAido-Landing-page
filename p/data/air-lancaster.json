@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "air-lancaster",
+  "company": "Air Pros",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+16105961700",
+  "phone_display": "(610) 596-1700",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20Pros&query_place_id=ChIJv6Cv1SIlxokRCDb72LXv348",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Millersville",
+    "East Petersburg",
+    "Landisville",
+    "Washington Boro",
+    "Salunga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

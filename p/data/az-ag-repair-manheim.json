@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "az-ag-repair-manheim",
+  "company": "A-Z AG REPAIR LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17172780696",
+  "phone_display": "(717) 278-0696",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A-Z%20AG%20REPAIR%20LLC&query_place_id=ChIJbf5TAksZxokRtA1WXDa6fnM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Akron",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Nate is the master of all things mechanical. His level of skill is honestly hard to describe\u2014I\u2019d consider his gifting to be one-of-a-kind, bordering on mythical.",
+      "author": "Judah C.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405882/truaido-previews/az-ag-repair-manheim/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405883/truaido-previews/az-ag-repair-manheim/work2"
+  ]
+}

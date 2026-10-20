@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "smith-family-sawmill-harrisburg",
+  "company": "Smith Family Sawmill and Tree Works",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173291965",
+  "phone_display": "(717) 329-1965",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Smith%20Family%20Sawmill%20and%20Tree%20Works&query_place_id=ChIJwQ7kOKm3yIkREw0g16_LONs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Dauphin",
+    "Summerdale",
+    "Halifax",
+    "Grantville",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Unbelievable work and by far the fairest price compared to any other company we had give estimates. What would\u2019ve taken weeks to do Mr. Smith did in 1 and half days.",
+      "author": "Frank M.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "We have had AJ remove several leaning or dead trees. Great communication and rates. A pleasure to work with.",
+      "author": "Kelly M.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "I cannot say enough good things about this business. The price was very reasonable. They were so professional along with great customer service. They went an extra mile by finding the area my daughter carved her initials when she was little.",
+      "author": "Kimberly L.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407284/truaido-previews/smith-family-sawmill-harrisburg/work1"
+  ]
+}

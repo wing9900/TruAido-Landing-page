@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "arbor-tree-harrisburg",
+  "company": "Arbor Tree Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177451516",
+  "phone_display": "(717) 745-1516",
+  "has_website": true,
+  "rating": 1.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Arbor%20Tree%20Care&query_place_id=ChIJM_7ja5rAyIkREl7ljjtlWFA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lower Paxton Township",
+    "Lemoyne",
+    "Highspire",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

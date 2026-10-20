@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "kevins-electrical-carlisle",
+  "company": "Kevin's Electrical Service LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172437904",
+  "phone_display": "(717) 243-7904",
+  "has_website": true,
+  "rating": 1.8,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kevin's%20Electrical%20Service%20LLC&query_place_id=ChIJA0pBkkjeyIkRr8lz2zDxI4M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Hampden Township",
+    "Boiling Springs",
+    "Dillsburg",
+    "Shiremanstown",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Great hometown service! All the representatives are very knowledgeable and professional. I highly recommend Kevin's Electrical Service to anyone in the local area.",
+      "author": "Kevin W.",
+      "stars": 5,
+      "month": "May 2022"
+    }
+  ],
+  "gallery": []
+}

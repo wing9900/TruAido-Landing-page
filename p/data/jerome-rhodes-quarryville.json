@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "jerome-rhodes-quarryville",
+  "company": "Jerome H Rhodes Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17177863369",
+  "phone_display": "(717) 786-3369",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jerome%20H%20Rhodes%20Inc&query_place_id=ChIJ8Y05Ob42xokRnMDlKAPyJrE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Providence",
+    "Paradise",
+    "Ronks",
+    "Strasburg",
+    "Kirkwood",
+    "Holtwood"
+  ],
+  "reviews": [],
+  "gallery": []
+}

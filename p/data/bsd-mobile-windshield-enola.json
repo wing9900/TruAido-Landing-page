@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bsd-mobile-windshield-enola",
+  "company": "BSD Mobile Windshield Repair of Enola",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17173358574",
+  "phone_display": "(717) 335-8574",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=BSD%20Mobile%20Windshield%20Repair%20of%20Enola&query_place_id=ChIJyaFQMdLDyIkRIx5-d65sjEw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Harrisburg",
+    "Camp Hill",
+    "Shiremanstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

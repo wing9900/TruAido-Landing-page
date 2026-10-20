@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ricks-chimneyclean-mechanicsburg",
+  "company": "Rick's ChimneyClean Systems",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+12232017319",
+  "phone_display": "(223) 201-7319",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rick's%20ChimneyClean%20Systems&query_place_id=ChIJHwCN-gfoyIkRuFM87OgyCNw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Dillsburg",
+    "Lemoyne",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Rick is not just a professional Rick is an artist. Highest recommendation for quality service and hes such a nice human",
+      "author": "Jonathan B.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Rick did my 2019 Chevy Silverado the truck looks brand now he did a great job I would recommend anybody take your car to him he will do wonders to your car and his prices are very reasonable",
+      "author": "Chester P.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Rick is the best detail business in the area. Very professional in his work. He has been detailing my vehicles for the last 20 years",
+      "author": "Dennis B.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": []
+}

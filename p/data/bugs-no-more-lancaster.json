@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "bugs-no-more-lancaster",
+  "company": "Bugs No More Exterminating Company",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178237492",
+  "phone_display": "(717) 823-7492",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bugs%20No%20More%20Exterminating%20Company&query_place_id=ChIJn9QkHg85_U8RC3QH8IoKShI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406677/truaido-previews/bugs-no-more-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#E30000",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "Washington Boro",
+    "Conestoga",
+    "East Petersburg",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "I highly vouch for Don's dependability and expertise as a business owner. If you seek quality work accomplished efficiently on the initial attempt, Don is your ideal choice. I eagerly anticipate continued business relations with him.",
+      "author": "R S.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "The best pest control I ever had!! Don is very reasonable and HONEST!! The price was better than any other company and he accommodated my schedule. Always had great results and now I use them for a quarterly service.",
+      "author": "AMY E.",
+      "stars": 5,
+      "month": "July 2023"
+    },
+    {
+      "text": "Don Has been providing services to our business for over 20 years. Professional, personal, and excellent services. Don keep our business bugs free for more than 20 years. Thank you!!!",
+      "author": "Steve Q.",
+      "stars": 5,
+      "month": "June 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406675/truaido-previews/bugs-no-more-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406676/truaido-previews/bugs-no-more-lancaster/work2"
+  ]
+}

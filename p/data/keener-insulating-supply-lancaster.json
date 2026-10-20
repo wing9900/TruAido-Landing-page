@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "keener-insulating-supply-lancaster",
+  "company": "Keener Insulating & Supply Inc",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17175736682",
+  "phone_display": "(717) 573-6682",
+  "has_website": true,
+  "rating": 3.6,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Keener%20Insulating%20%26%20Supply%20Inc&query_place_id=ChIJy21BVks7xokRwJ8UmFj8RIg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406678/truaido-previews/keener-insulating-supply-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#DF0405",
+  "nearby_towns": [
+    "Leola",
+    "East Petersburg",
+    "Millersville",
+    "Willow Street",
+    "Strasburg",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Scheduled us with in a week due to a cancellation. Insulated the attic floor, basement ceiling and two crawl spaces in one day. I thought the price was very fair also. Installers were pet friendly and cleaned up well when they were done.",
+      "author": "Shane M.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Hired these people to add insulation to my attic to bring it up to code. They did a superb job. Very even blown in insulation. They provided paperwork for rebates and credits. Very friendly and communicative. Cleaned up and put things back in place.",
+      "author": "Elmer H.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Great Experience, well worth getting new insulation in attic! We have had all kinds of issues keeping our warm. We have been through exterior roof repair (fixing poor build design on a roof above patio door that had NO insulation), overpaid on a patio door...",
+      "author": "Matthew M.",
+      "stars": 5,
+      "month": "January 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406677/truaido-previews/keener-insulating-supply-lancaster/work1"
+  ]
+}

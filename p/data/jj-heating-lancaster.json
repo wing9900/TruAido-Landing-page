@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "jj-heating-lancaster",
+  "company": "J & J Heating and Cooling, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172915555",
+  "phone_display": "(717) 291-5555",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 63,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20J%20Heating%20and%20Cooling%2C%20Inc.&query_place_id=ChIJvXMkQIQkxokRBzOOyavYBMA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Leola",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Roland has been super helpful with my recent HVAC issues. Super knowledgeable and timely! The folks in the office are also very friendly and helpful.",
+      "author": "mslugano56",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Can\u2019t say enough about this company. We\u2019ve been using them for years. Travis came out tonight and fixed our AC in less than an hour! He was very courteous and professional. Thank you Travis!",
+      "author": "Jake L.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Referred to me by my neighbor for a clog. Alex was the technician who arrived on time and behaved in a very professional manner explaining all steps being taken and products being used.",
+      "author": "Candi W.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

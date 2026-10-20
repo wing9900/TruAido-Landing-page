@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "zeiset-electric-manheim",
+  "company": "Zeiset Electric",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17178752799",
+  "phone_display": "(717) 875-2799",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zeiset%20Electric&query_place_id=ChIJs1Lp7dihyIkRIy3l0jI7F60",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477793/truaido-previews/zeiset-electric-manheim/logo",
+    "layout": "square",
+    "badge": "#01143F"
+  },
+  "accent": "#CC2E10",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Elizabethtown",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service. Great employees, very responsive. I would recommend them if you need electrical services. Thank you!",
+      "author": "Mary M.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "great staff, great parts, great overall! I communicated what I wanted, they listened, offered great advice and they executed flawlessly. great job!",
+      "author": "Jon S.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "They were a great team to work with . . . they know their business and are very customer friendly",
+      "author": "Greg F.",
+      "stars": 5,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477792/truaido-previews/zeiset-electric-manheim/work1"
+  ]
+}

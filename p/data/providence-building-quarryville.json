@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "providence-building-quarryville",
+  "company": "Providence Building Supply & Hardware",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17172875880",
+  "phone_display": "(717) 287-5880",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 71,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Providence%20Building%20Supply%20%26%20Hardware&query_place_id=ChIJ0a0WaSYyxokRuj0hfP3nTDI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406558/truaido-previews/providence-building-quarryville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#A41C3D",
+  "nearby_towns": [
+    "New Providence",
+    "Holtwood",
+    "Pequea",
+    "Willow Street",
+    "Conestoga",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Good location, good prices & helpful friendly staff",
+      "author": "Richstacy",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "They had everything I wanted today and a good selection of everything saved me a trip to willow street. Glad there's a good hardware and building supply in the southern end",
+      "author": "James H.",
+      "stars": 4,
+      "month": "September 2026"
+    },
+    {
+      "text": "I appreciate that they have a complete selection of nuts and bolts. Evening hours would be helpful.",
+      "author": "Derrick K.",
+      "stars": 4,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

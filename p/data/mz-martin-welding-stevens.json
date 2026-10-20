@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "mz-martin-welding-stevens",
+  "company": "M Z Martin Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Stevens",
+  "state": "PA",
+  "phone": "+17174458546",
+  "phone_display": "(717) 445-8546",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=M%20Z%20Martin%20Welding&query_place_id=ChIJVVVVVWERxokRm61cHX_ByRM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Adamstown",
+    "New Holland",
+    "East Earl",
+    "Reinholds",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "Melvin and harlen will always do their best to get any odd job done. Great guys . Thank you",
+      "author": "David M.",
+      "stars": 5,
+      "month": "August 2023"
+    }
+  ],
+  "gallery": []
+}

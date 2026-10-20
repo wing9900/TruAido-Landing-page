@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "gb-metal-fabrication-harrisburg",
+  "company": "GB Metal Fabrication LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177986101",
+  "phone_display": "(717) 798-6101",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=GB%20Metal%20Fabrication%20LLC&query_place_id=ChIJbUXOlGbHyIkRJ1mM6gcc3oQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407347/truaido-previews/gb-metal-fabrication-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "I had a small job that needed to be done (broken office chair), called Garrett on the phone, explained what I needed done. He told me to either send him a photo or come by and he would take care of it right away.",
+      "author": "Ade O.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Knowledgeable in metal work. A true craftsman.",
+      "author": "Drew L.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "My husband and I had railing installed around our side patio and we are very pleased with the quality and look.",
+      "author": "Michelle S.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407345/truaido-previews/gb-metal-fabrication-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407347/truaido-previews/gb-metal-fabrication-harrisburg/work2"
+  ]
+}

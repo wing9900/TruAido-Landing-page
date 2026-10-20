@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bsm-handyman-mechanicsburg",
+  "company": "BSM Handyman Services LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17175022996",
+  "phone_display": "(717) 502-2996",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=BSM%20Handyman%20Services%20LLC&query_place_id=ChIJ8aBX1TEMfCsRkYsS_-vImAA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gardners",
+    "Boiling Springs",
+    "Carlisle",
+    "Dillsburg",
+    "Walnut Bottom",
+    "Newville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

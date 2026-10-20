@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "faulkner-collision-mechanicsburg",
+  "company": "Faulkner Collision Center of Mechanicsburg",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17175905020",
+  "phone_display": "(717) 590-5020",
+  "has_website": true,
+  "rating": 3.5,
+  "review_count": 81,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Faulkner%20Collision%20Center%20of%20Mechanicsburg&query_place_id=ChIJlRkrtqvdyIkRsQD6BakvMwg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Dillsburg",
+    "Enola",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "I had a great experience getting my Mazda CX-9 fixed after being rear ended. The team was friendly and accommodating, going above and beyond to help coordinate a pickup date that worked best for me.",
+      "author": "Ashley B.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "guardian-mosquito-tick-carlisle",
+  "company": "Guardian Mosquito - Tick & Turf Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17174776967",
+  "phone_display": "(717) 477-6967",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Guardian%20Mosquito%20-%20Tick%20%26%20Turf%20Control&query_place_id=ChIJ4XeKva8MyYkRG0YZSy5tSDU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gardners",
+    "Walnut Bottom",
+    "Boiling Springs",
+    "Shippensburg",
+    "Newville",
+    "Dillsburg"
+  ],
+  "reviews": [
+    {
+      "text": "Timely and professional. Since we started using their services, we have not had a problem with mosquitoes. 10/10 recommend.",
+      "author": "Brady M.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I just wanted to say how much I appreciated the beautiful American flags your company placed around the neighborhood for Memorial Day. It really brought a sense of pride, respect, and community to the area. Such a thoughtful touch that makes a big difference.",
+      "author": "Michelle A.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "This company is amazing! They explained their product and process thoroughly and within a week of reaching out to them, our first treatment was applied. I can\u2019t wait to enjoy the full summer without battling mosquitoes.",
+      "author": "Michelle R.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "cmj-welding-harrisburg",
+  "company": "CMJ Welding LLC.",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+15708569353",
+  "phone_display": "(570) 856-9353",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CMJ%20Welding%20LLC.&query_place_id=ChIJMYL3AjGFxIkRf_H1aI9HSp0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407222/truaido-previews/cmj-welding-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#E20202",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Grantville",
+    "Steelton",
+    "Hershey",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Caleb was easy to contact for mobile services needed for rewelding an RV spring hanger when we were out of town on vacation. Thank you, thank you!",
+      "author": "Judith N.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Caleb is great to work with! We highly recommend using him for any of your welding projects, you won\u2019t be disappointed!",
+      "author": "Erin O.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Caleb is awesome. We highly recommend using him for any of your welding projects.",
+      "author": "Ryan O.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407220/truaido-previews/cmj-welding-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407221/truaido-previews/cmj-welding-harrisburg/work2"
+  ]
+}

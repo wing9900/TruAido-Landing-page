@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "signal-control-ephrata",
+  "company": "Signal Control Inc.",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177337570",
+  "phone_display": "(717) 733-7570",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 53,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Signal%20Control%20Inc.&query_place_id=ChIJVZ4QWrUQxokRPumMX28LP_8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406121/truaido-previews/signal-control-ephrata/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#8C3C4C",
+  "nearby_towns": [
+    "Lititz",
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Very responsive, excellent service and excellent repair work on my garage door. I recommend them",
+      "author": "Lane D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Jeremy repaired an automatic driveway gate at my home. It is a complicated system that he was able to figure out in no time and with a great attitude.",
+      "author": "Pamela S.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Jamie was very courteous and knowledgeable and repaired our Genie garage door opener within half an hour.",
+      "author": "Bruce S.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406117/truaido-previews/signal-control-ephrata/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406119/truaido-previews/signal-control-ephrata/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406119/truaido-previews/signal-control-ephrata/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406120/truaido-previews/signal-control-ephrata/work4"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "cc-insulation-bainbridge",
+  "company": "C&C Insulation, Inc.",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Bainbridge",
+  "state": "PA",
+  "phone": "+17174263009",
+  "phone_display": "(717) 426-3009",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%26C%20Insulation%2C%20Inc.&query_place_id=ChIJtWh0jcaQyIkR2QDvCK3wkFg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406155/truaido-previews/cc-insulation-bainbridge/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#AA4444",
+  "nearby_towns": [
+    "Marietta",
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Mount Joy",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Best in the business great quality work great prices",
+      "author": "Doug S.",
+      "stars": 5,
+      "month": "October 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406153/truaido-previews/cc-insulation-bainbridge/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406154/truaido-previews/cc-insulation-bainbridge/work2"
+  ]
+}

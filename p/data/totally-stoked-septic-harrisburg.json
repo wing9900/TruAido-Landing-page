@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "totally-stoked-septic-harrisburg",
+  "company": "Totally Stoked Septic & Plumbing Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173231548",
+  "phone_display": "(717) 323-1548",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Totally%20Stoked%20Septic%20%26%20Plumbing%20Services&query_place_id=ChIJhxyKptmvpgwRkpGTAL0C7xE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Enola",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Very reliable and affordable. I use shawn as my personal plumber and hire him for commercial projects as a contractor.",
+      "author": "Michael A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Big thanks to Sean for fixing our grinder pump and saving the day. Fast, professional service and no more sewage headaches. Highly recommend. Thanks for dealing with the world's crappiest problems!",
+      "author": "Steve's I.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Shaun is the best. Highly recommend this company and Shaun. He is a Plumbing, Drain and Sewer/Septic expert. Shaun inspected and repaired our septic tank system when we purchased our home.",
+      "author": "Sarah L.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

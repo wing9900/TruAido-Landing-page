@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "amerifoam-insulators-shippensburg",
+  "company": "AmeriFoam Insulators, Llc",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17176586396",
+  "phone_display": "(717) 658-6396",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=AmeriFoam%20Insulators%2C%20Llc&query_place_id=ChIJRY3_CE8PyYkR6Ui63xyQW2E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407709/truaido-previews/amerifoam-insulators-shippensburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#E22D04",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "I am thoroughly impressed by the professionalism and workmanship demonstrated by Greg, Brandon, and their team. From our initial interaction to project completion, they exceeded every expectation.",
+      "author": "Sean C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Thank you AmeriFoam. Great crew. Very knowledgeable. I had my pole barn done. My temperature went from 115 to 75 degrees just because of the insulation. Greg (the owner) said the ground temperatures get trapped inside the pole barn.",
+      "author": "Cassandra R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I had my attic insulated with 3 inches of closed cell foam. Absolutely the best thing I've ever done in terms of remodeling. I'm saving lots of money. My electric bill has dropped $75 per month.",
+      "author": "Caleb R.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407707/truaido-previews/amerifoam-insulators-shippensburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407707/truaido-previews/amerifoam-insulators-shippensburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407708/truaido-previews/amerifoam-insulators-shippensburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407709/truaido-previews/amerifoam-insulators-shippensburg/work4"
+  ]
+}

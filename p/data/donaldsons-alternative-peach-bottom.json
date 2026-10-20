@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "donaldsons-alternative-peach-bottom",
+  "company": "Donaldson's Alternative Energy, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Peach Bottom",
+  "state": "PA",
+  "phone": "+17175482628",
+  "phone_display": "(717) 548-2628",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 30,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Donaldson's%20Alternative%20Energy%2C%20LLC&query_place_id=ChIJOSWURyYyewURbJwP1VMWUhY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Nottingham",
+    "Holtwood",
+    "Kirkwood",
+    "Quarryville",
+    "New Providence",
+    "Christiana"
+  ],
+  "reviews": [
+    {
+      "text": "I've been with Donaldson for a long time They never surprise with their service. Always quick and on time",
+      "author": "Edward D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Care was taken in my home. Guy was very respectful of my property and explained exactly what he was going to do while replacing a hot water heater. He also pointed out some other small but important issues that need handled.",
+      "author": "arthur C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Very pleased with this company. They fit me into their schedule in less than 24 hours. They were very professional , answered all my questions and concerns. They were very knowledgeable and friendly.",
+      "author": "joanne S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

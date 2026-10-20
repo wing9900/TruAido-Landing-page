@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "all-in-insulation-harrisburg",
+  "company": "All-In Insulation LLC",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177985970",
+  "phone_display": "(717) 798-5970",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=All-In%20Insulation%20LLC&query_place_id=ChIJ81Mr4TS4yIkRF_dX38tHY8w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Customer service is above and beyond any other business I know. Our home inspector recommended Heather and her company to us, and he was right. We had insulation installed, and I had a couple of small issues with the primary insulation.",
+      "author": "Dudjay 1.",
+      "stars": 5,
+      "month": "May 2020"
+    },
+    {
+      "text": "Highly recommended, they did a great job. Irv is great to work with. Thanks",
+      "author": "Brian D.",
+      "stars": 5,
+      "month": "January 2020"
+    },
+    {
+      "text": "Getting All-In Insulation to come to my home and insulate my attic has not only saved my dated HVAC unit, but has maintained my electric bill at $250 a month. Over a $400 a month saving.",
+      "author": "Renee T.",
+      "stars": 5,
+      "month": "July 2019"
+    }
+  ],
+  "gallery": []
+}

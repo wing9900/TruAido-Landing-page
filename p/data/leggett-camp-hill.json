@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "leggett-camp-hill",
+  "company": "Leggett Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177374562",
+  "phone_display": "(717) 737-4562",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 57,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Leggett%20Inc.&query_place_id=ChIJq7z8q4zByIkRvmHHHSBCl34",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "Shiremanstown",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "We've worked with Leggett for home (and work) for many years. The staff are always friendly, efficient, and professional. I trust their advice and the work they do, recommend 100%.",
+      "author": "Erika",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Always Great service, timely and thorough. The techs that show up and especially Keith, are amazing. I would not call any one else for your HVAC, electrical or plumbing. These guys do it all.",
+      "author": "edward L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Highly recommend Leggett Inc for all of your HVAC needs. From Jeff getting us set up with our new carrier unit to Andy and Keith installing it. Could not have asked for a better crew!",
+      "author": "Phil P.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

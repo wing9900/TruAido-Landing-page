@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "vertex-mechanical-stevens",
+  "company": "Vertex Mechanical Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Stevens",
+  "state": "PA",
+  "phone": "+17173352633",
+  "phone_display": "(717) 335-2633",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 1260,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Vertex%20Mechanical%20Inc&query_place_id=ChIJfwUwqJITxokRWygKlT6a9cs",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405813/truaido-previews/vertex-mechanical-stevens/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Ephrata",
+    "Reinholds",
+    "Akron",
+    "Adamstown",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Alex was very knowledgeable, personable and patient. He helped me understand the problem and what repairs were needed.",
+      "author": "Margot S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "VERTEX is great they always do great work. We really appreciate them! KUDOS to Vertex!!",
+      "author": "Kim B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I contacted Vertex in mid-November to do two small things. I got a proposal on December 6 for the cost of the work. I immediately signed the proposal. I called in three different times in January to check on the status with no return phone calls.",
+      "author": "Robert I.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405814/truaido-previews/vertex-mechanical-stevens/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405814/truaido-previews/vertex-mechanical-stevens/work2"
+  ]
+}

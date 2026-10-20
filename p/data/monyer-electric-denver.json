@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "monyer-electric-denver",
+  "company": "Monyer Electric",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+16106786653",
+  "phone_display": "(610) 678-6653",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 101,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Monyer%20Electric&query_place_id=ChIJpWRzdKZzxokRbVnYgPNWSU8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405869/truaido-previews/monyer-electric-denver/logo",
+    "layout": "wide",
+    "badge": "#000000"
+  },
+  "accent": "#6C0203",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Adamstown",
+    "Ephrata",
+    "Akron",
+    "Robesonia"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405867/truaido-previews/monyer-electric-denver/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405868/truaido-previews/monyer-electric-denver/work2"
+  ]
+}

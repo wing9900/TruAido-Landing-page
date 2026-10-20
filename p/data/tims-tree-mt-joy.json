@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "tims-tree-mt-joy",
+  "company": "Tim's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176538543",
+  "phone_display": "(717) 653-8543",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tim's%20Tree%20Service&query_place_id=ChIJI92vxvSeyIkRDAlMXJ4kjKY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Mount Joy Township",
+    "Landisville",
+    "Marietta",
+    "Columbia",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "Great employees, very respectful, and did a fantastic job.",
+      "author": "brynn H.",
+      "stars": 5,
+      "month": "February 2024"
+    },
+    {
+      "text": "Called that day and got an appointment for a estimate will be getting it this week. Very satisfied with speed of service",
+      "author": "James S.",
+      "stars": 5,
+      "month": "March 2021"
+    }
+  ],
+  "gallery": []
+}

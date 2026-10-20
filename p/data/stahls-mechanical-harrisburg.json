@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "stahls-mechanical-harrisburg",
+  "company": "Stahl's Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172208183",
+  "phone_display": "(717) 220-8183",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stahl's%20Mechanical%2C%20LLC&query_place_id=ChIJ0_aWwQMVTGoRBjaCaJzSIPI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Millersburg",
+    "Dauphin",
+    "Elizabethville",
+    "Summerdale",
+    "Lykens"
+  ],
+  "reviews": [
+    {
+      "text": "We had a great experience with Will and Stahl\u2019s Mechanical from start to finish! Will was knowledgeable, responsive, and straightforward throughout the entire process of purchasing and installing our new 4-ton Amana system.",
+      "author": "Dan D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Will and his crew are amazing! If I could put 10 stars I would!",
+      "author": "Molly S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "If you are looking to replace your heating or air conditioning please contact Will Stahl. Stahl's Mechanical. Our ac compressor went out recently and after 5 quotes, Will had the best price.",
+      "author": "Nila B.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407543/truaido-previews/stahls-mechanical-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407544/truaido-previews/stahls-mechanical-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407545/truaido-previews/stahls-mechanical-harrisburg/work3"
+  ]
+}

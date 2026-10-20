@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "bretz-mechanical-heating-harrisburg",
+  "company": "Bretz Mechanical Heating And Cooling, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173689264",
+  "phone_display": "(717) 368-9264",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bretz%20Mechanical%20Heating%20And%20Cooling%2C%20LLC&query_place_id=ChIJ1xvG8y2vbokRGfnyw6Lpka8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Highspire",
+    "Steelton",
+    "New Cumberland",
+    "Lower Paxton Township",
+    "Middletown",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Experienced, very friendly & affordable!",
+      "author": "Ashley W.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "He is the best and most affordable. Installs airtemp reliable never had a issue with ours with his professional install highly recommended.",
+      "author": "Jacob H.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "Came home from work to 85 degrees in our house. Thanks to Tony our AC was back up and running in no time at all. We would have literally paid anything for our comfort and sanity. Bretz Mechanical is affordable, prompt, and friendly.",
+      "author": "Rebecca B.",
+      "stars": 5,
+      "month": "June 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407168/truaido-previews/bretz-mechanical-heating-harrisburg/work1"
+  ]
+}

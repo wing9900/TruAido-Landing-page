@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "haase-home-comfort-harrisburg",
+  "company": "Haase Home Comfort LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176088870",
+  "phone_display": "(717) 608-8870",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Haase%20Home%20Comfort%20LLC&query_place_id=ChIJ1ZNRsfonVUIRlIp41cYI5BM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408199/truaido-previews/haase-home-comfort-harrisburg/logo",
+    "layout": "square",
+    "badge": "#2F2F32"
+  },
+  "accent": "#806A3D",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Enola",
+    "Summerdale",
+    "Lemoyne",
+    "Camp Hill",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Christian is very professional and very knowledgeable I have known Christian a very long time and was very impressed\u2026",
+      "author": "Michele W.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Christian was reliable, easy to work with, and did a great job. He was responsive, and made the whole process simple from start to finish. I really appreciated how straightforward and professional he was.",
+      "author": "Alexis C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I recently had the pleasure of Christian come service my central air unit. He was so pleasant and professional. He has an excellent work ethic and went above and beyond to fix my unit. Would absolutely recommend him and his company for any future needs.",
+      "author": "Janet S.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

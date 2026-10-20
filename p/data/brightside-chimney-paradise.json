@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "brightside-chimney-paradise",
+  "company": "Brightside Chimney",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Paradise",
+  "state": "PA",
+  "phone": "+17179257272",
+  "phone_display": "(717) 925-7272",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Brightside%20Chimney&query_place_id=ChIJMQcqSsVJxokRCxhIfickl4Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406502/truaido-previews/brightside-chimney-paradise/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#DC1119",
+  "nearby_towns": [
+    "Ronks",
+    "Christiana",
+    "Strasburg",
+    "Kirkwood",
+    "Quarryville",
+    "New Providence"
+  ],
+  "reviews": [
+    {
+      "text": "Words cannot desceibe how helpful John was with purchasing a chimney liner kit! Thank you very much great company.",
+      "author": "Brad D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Highly recommend John & the Brightside crew. They installed our chimney & woodstove. Did a great job. Helpful from start to finish. Affordable too. Just had them in to do our chimney sweep & the stove sparkles!",
+      "author": "Shelly K.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406501/truaido-previews/brightside-chimney-paradise/work1"
+  ]
+}

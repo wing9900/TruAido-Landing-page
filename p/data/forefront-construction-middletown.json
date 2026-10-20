@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "forefront-construction-middletown",
+  "company": "Forefront Construction",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17179393983",
+  "phone_display": "(717) 939-3983",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Forefront%20Construction&query_place_id=ChIJt00RGkS-yIkRwcCIANZ4QJg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Highspire",
+    "Steelton",
+    "New Cumberland",
+    "Hummelstown",
+    "Lower Paxton Township",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

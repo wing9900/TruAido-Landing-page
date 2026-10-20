@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "cutting-edge-tree-harrisburg",
+  "company": "Cutting Edge Tree Professionals",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177432752",
+  "phone_display": "(717) 743-2752",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cutting%20Edge%20Tree%20Professionals&query_place_id=ChIJpyt6SIGg4QgRsreoU-gRHYs",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407359/truaido-previews/cutting-edge-tree-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407363/truaido-previews/cutting-edge-tree-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Highspire",
+    "Steelton",
+    "Middletown",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "They went above and beyond my expectations to provide the services I requested/needed. Service was excellent.",
+      "author": "Fay P.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "The tree was between two decks of a duplex. With a fence up against it, other tree companies wouldn't do it. Meet Cutting Edge at Harrisburg garden show. They didn't hesitate to do the job. They did an amazing job.",
+      "author": "Sandra Y.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "My front yard looks so much brighter. Everyone was professional and friendly. Thanks. \ud83d\ude0a",
+      "author": "Sunshine F.",
+      "stars": 5,
+      "month": "May 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407360/truaido-previews/cutting-edge-tree-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407361/truaido-previews/cutting-edge-tree-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407361/truaido-previews/cutting-edge-tree-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407362/truaido-previews/cutting-edge-tree-harrisburg/work4"
+  ]
+}

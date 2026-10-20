@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "haven-mechanicals-ephrata",
+  "company": "Haven Mechanicals",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+14845005360",
+  "phone_display": "(484) 500-5360",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Haven%20Mechanicals&query_place_id=ChIJQYrKyGsTxokRGWMCG0d5gps",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405750/truaido-previews/haven-mechanicals-ephrata/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#857027",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Lititz",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "Darin and his crew were awesome! We had time constraints and they were able to fit us in to complete the work needed. Communication was always good between Darin and his crew! I would recommend them to anyone who is looking to get any HVAC work done!",
+      "author": "Michael T.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "If you\u2019re looking for the best mechanical service around, I highly recommend Haven Mechanicals. Our AC went out, and Darin came out late in the evening and got it fixed quickly. Darin and his team are super professional, and easy to work with.",
+      "author": "Jaden M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Would definitely recommend this HVAC company. Replaced old A/C system. Knowledgeable, fair-priced, and very respectful of property. Good work and a good company.",
+      "author": "Wendy",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405748/truaido-previews/haven-mechanicals-ephrata/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405749/truaido-previews/haven-mechanicals-ephrata/work2"
+  ]
+}

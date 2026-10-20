@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "helvoris-hvac-denver",
+  "company": "Helvoris HVAC Expert",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17173364723",
+  "phone_display": "(717) 336-4723",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Helvoris%20HVAC%20Expert&query_place_id=ChIJkR_hMAATxokRCvLMOuDJnDc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Adamstown",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [],
+  "gallery": []
+}

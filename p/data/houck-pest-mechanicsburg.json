@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "houck-pest-mechanicsburg",
+  "company": "Houck Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17174258666",
+  "phone_display": "(717) 425-8666",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 70,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Houck%20Pest%20Control&query_place_id=ChIJy65Gsu_pyIkRI89VIgamryc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "I highly recommend Houck Pest Control for anyone who needs a pest inspection or pest control service. Houck completed the wood destroying insect (WDI) inspection required for my VA cash-out refinance today, and the entire experience was excellent from start...",
+      "author": "Kris Q.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Dave and Trevor have worked on mice infestation, ground hog removal, ant control, and removal of a giant wasp nest on my property. Both men are very professional, knowledgeable, thorough, and good at explaining things. Fees are very reasonable.",
+      "author": "Google U.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Houck pest control did an amazing job! They found and got rid of 10 nests of all sizes.",
+      "author": "Steven A.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407730/truaido-previews/houck-pest-mechanicsburg/work1"
+  ]
+}

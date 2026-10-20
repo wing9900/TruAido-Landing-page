@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "rose-brothers-plumbing-lancaster",
+  "company": "Rose Brothers Plumbing and Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173933429",
+  "phone_display": "(717) 393-3429",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rose%20Brothers%20Plumbing%20and%20Heating&query_place_id=ChIJi6umDIskxokRCBR7kjg-Sa4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Willow Street",
+    "Landisville",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "We had recently moved to Lancaster and found several plumbing issues in our new appartment. We had the good fortune to be advised to contact Rose Brothers for help.",
+      "author": "Egan W.",
+      "stars": 5,
+      "month": "July 2023"
+    },
+    {
+      "text": "My mom called me frantic that her house was flooded. I ran over to assess and called Rose Brothers. They were at the house within 15 mins. Just the sweetest person, job done quickly and super reasonable. I cannot thank them enough.",
+      "author": "Hayley T.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "We are so happy we found them. They always do such a great job.",
+      "author": "Ryan F.",
+      "stars": 5,
+      "month": "January 2023"
+    }
+  ],
+  "gallery": []
+}

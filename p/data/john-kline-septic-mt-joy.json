@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "john-kline-septic-mt-joy",
+  "company": "John Kline Septic Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17178982333",
+  "phone_display": "(717) 898-2333",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 61,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=John%20Kline%20Septic%20Services&query_place_id=ChIJhdFZjZAgxokRFWyEomrzIbU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mountville",
+    "Manheim",
+    "East Petersburg",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Had an issue with our septic line and Kline was referred to us by our plumber. They came out on a Saturday and quickly found out there was a major issue. Megan was really helpful communicating what the steps were and what to expect.",
+      "author": "Jaime E.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Such great service. John, who helped us this morning, was kind, prompt, professional, and very informative. He took great care of the space and left everything clean and in excellent condition.",
+      "author": "Angela L.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

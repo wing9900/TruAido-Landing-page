@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "ramer-mechanical-newville",
+  "company": "Ramer Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177292547",
+  "phone_display": "(717) 729-2547",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ramer%20Mechanical%2C%20LLC&query_place_id=ChIJh50CZOUWyYkROucONjme7Lg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Carlisle",
+    "Shippensburg",
+    "Boiling Springs",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "I just completed my new home build as an owner-builder. Harvey Ramer put in my heat pump system and did a fantastic job. The system is high quality and his workmanship is top quality. I highly recommend Ramer.",
+      "author": "Kevin S.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Extremely professional and takes pride in his work. Highly recommend!!",
+      "author": "Bio B.",
+      "stars": 5,
+      "month": "June 2023"
+    },
+    {
+      "text": "Harvey Ramer has handled all of our home's heat pump, electrical, and plumbing work for several years. We really appreciate his exceptional quality, responsiveness, expertise, and absolute reliability.",
+      "author": "Craig C.",
+      "stars": 5,
+      "month": "April 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408021/truaido-previews/ramer-mechanical-newville/work1"
+  ]
+}

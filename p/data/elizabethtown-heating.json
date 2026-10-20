@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "elizabethtown-heating",
+  "company": "Elizabethtown Heating & Cooling, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173678112",
+  "phone_display": "(717) 367-8112",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 58,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Elizabethtown%20Heating%20%26%20Cooling%2C%20Inc.&query_place_id=ChIJ45TqSVuYyIkRNyXVfxBhFbM",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406200/truaido-previews/elizabethtown-heating/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Andy and the guys were great thanks alot for being clean and respectful while at my house that really goes along ways in this world today",
+      "author": "Eric P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We recently moved and enrolled with the semi annual service plan. Andrea explained their plans and helped us select what would work best with what we were looking for, and our budget. We were called promptly to get scheduled.",
+      "author": "Samantha S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Very professional, thorough and helpful Thank you Andy Shank / owner Etown Heating & Cooling \ud83d\udc4d",
+      "author": "carl K.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406201/truaido-previews/elizabethtown-heating/work1"
+  ]
+}

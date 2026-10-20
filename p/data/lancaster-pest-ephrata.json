@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "lancaster-pest-ephrata",
+  "company": "Lancaster Pest Management - Ephrata PA",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17179175114",
+  "phone_display": "(717) 917-5114",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 43,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Pest%20Management%20-%20Ephrata%20PA&query_place_id=ChIJh6_LB9YVxokRDSVOnYqmWo0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405763/truaido-previews/lancaster-pest-ephrata/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#D0430F",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Lititz",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "This company is Excellent. We called regarding wasps that had moved in the corner right at our front door, underneath the siding He was here the next day.",
+      "author": "peg M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I had an ant infestation in my smoke detector of all places. It was an emergency so I called Lancaster Pest Management. The Technician, Chris was outstanding. He immediately called back after my initial call.",
+      "author": "David T.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Affordable pricing as well as prompt service and communication!",
+      "author": "Jaydin B.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405763/truaido-previews/lancaster-pest-ephrata/work1"
+  ]
+}

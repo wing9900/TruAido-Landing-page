@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "heritage-home-lancaster",
+  "company": "Heritage Home Services, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177236083",
+  "phone_display": "(717) 723-6083",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Home%20Services%2C%20LLC&query_place_id=ChIJ1chVLVk8W6kRWtErQDa2nEM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Ryan is very reliable and fair, he know his stuff.",
+      "author": "Margie R.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "It is extremely hard to find someone with such integrity and passion in their work. We are over the moon with satisfaction with the electricity work done today at our home.",
+      "author": "Donna Z.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Ryan is extremely professional, knowledgeable, and is out there to genuinely help you. She replaced our A/C quickly, at a very reasonable price. 100% recommend him over any of the big HVAC companies.",
+      "author": "Connor",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406485/truaido-previews/heritage-home-lancaster/work1"
+  ]
+}

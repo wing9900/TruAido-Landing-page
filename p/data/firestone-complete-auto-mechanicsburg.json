@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "firestone-complete-auto-mechanicsburg",
+  "company": "Firestone Complete Auto Care",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177989660",
+  "phone_display": "(717) 798-9660",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 493,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Firestone%20Complete%20Auto%20Care&query_place_id=ChIJbevn4IrCyIkR7FwlNgZlZ2c",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408270/truaido-previews/firestone-complete-auto-mechanicsburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Camp Hill",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Friendly fast service. They had a great price on the tires I bought that was much lower than competitors in the area. They also did my safety inspection on the same day of my tire installation.",
+      "author": "Terry B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Dependable, reliable, and great customer service! We definitely always recommend Firestone to family and friends!",
+      "author": "Anthony A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I came in with a serious problem and your team treated me with a positive attitude. Assuring me they could handle it. Needing my vehicle in less than 2 days for a fishing trip to Canada, they got me going that same day.",
+      "author": "Robert R.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408270/truaido-previews/firestone-complete-auto-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408271/truaido-previews/firestone-complete-auto-mechanicsburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408272/truaido-previews/firestone-complete-auto-mechanicsburg/work3"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "southern-end-hvac-lancaster",
+  "company": "Southern End HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173040556",
+  "phone_display": "(717) 304-0556",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 29,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Southern%20End%20HVAC&query_place_id=ChIJp_8mSiaHEigR45IetL1nTXs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Columbia",
+    "Mountville",
+    "Washington Boro",
+    "Salunga",
+    "Landisville",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "We've had Art to our home two years in a row now for servicing of our home heating system and just had him complete an install of a mini-split system for our new detached garage. I could not recommend him enough.",
+      "author": "Nicholas Z.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "My wife and I just bought our first house! Art came out to fix a leaking gas valve as well as preform maintenance on our systems. As you know getting a home can be stressful but Art made this process for us so much easier.",
+      "author": "Taylor B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We were to happy find Art in the midst of the July heatwave. Our air was slowly dying. Art came on a Sunday morning July fourth weekend and repaired the issue quickly and at a reasonable price. Art is a cool, professional, honest HVAC expert. Highly recommend.",
+      "author": "Michele H.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406581/truaido-previews/southern-end-hvac-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406582/truaido-previews/southern-end-hvac-lancaster/work2"
+  ]
+}

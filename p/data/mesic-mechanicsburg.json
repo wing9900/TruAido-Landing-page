@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "mesic-mechanicsburg",
+  "company": "Mesic Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176016854",
+  "phone_display": "(717) 601-6854",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mesic%20Services&query_place_id=ChIJzUNcRFyPqoIRfhwtFoir4vU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407949/truaido-previews/mesic-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#E41D1D",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Gardners",
+    "Newville",
+    "Walnut Bottom",
+    "Dillsburg"
+  ],
+  "reviews": [
+    {
+      "text": "Gret staff, very affordable for the amazing quick and very high quality work they do.",
+      "author": "Adisa G.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

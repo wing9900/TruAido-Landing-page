@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "keystone-pest-mt-joy",
+  "company": "Keystone Pest Solutions, LLC",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176531068",
+  "phone_display": "(717) 653-1068",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 177,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Keystone%20Pest%20Solutions%2C%20LLC&query_place_id=ChIJL_dTvAufyIkRMU2UFwWqyMA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Manheim",
+    "Mount Joy Township",
+    "Columbia",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Happy to leave this review for Keystone Pest Solutions. I noticed an active yellowjacket nest just above my front door and was concerned because someone in my household is severely allergic to these buzzy monsters.",
+      "author": "Janet M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "This place was very helpful. From the first call till they got here was excellent. I would tether to anyone.",
+      "author": "bambi B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They eliminated the wasp population instantly, and even came back to double check their work after I called back to give them access to the inside of my garage to hit the other side of the wasp nest on the inside of the garage.",
+      "author": "Jason H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

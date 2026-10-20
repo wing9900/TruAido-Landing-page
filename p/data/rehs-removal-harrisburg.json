@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "rehs-removal-harrisburg",
+  "company": "Reh's Removal LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174092866",
+  "phone_display": "(717) 409-2866",
+  "has_website": false,
+  "rating": 3.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Reh's%20Removal%20LLC&query_place_id=ChIJLWaIWAy_Qm0RJa4S8kQykCk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Carlisle",
+    "Hampden Township",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "Reh's trimmed some very hard to reach trees with ease. Good communication and professional tree care advice. Area was cleaned up very well. Thank you.",
+      "author": "Rose",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "We had 1 tree dropped and a second tree trimmed. It was done fast. There was some extra work done that was not discussed. It is something I missed, but it was taken care of. Most places would have renegotiated price. I am thankful I chose Rehs.",
+      "author": "Steven",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ja-manufacturing-elizabethtown",
+  "company": "J & A Manufacturing LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173664369",
+  "phone_display": "(717) 366-4369",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20A%20Manufacturing%20LLC&query_place_id=ChIJEXcmPyKYyIkRPqgxicb5PuE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Bainbridge",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Very happy with the end result of my front bumper that they baked and power coated. Reasonably priced and excellent turnaround. Dealt with Brian. He was great to deal with and he kept me in the loop throughout the process!",
+      "author": "Scott D.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "This is one of the only family owned machining, powder coating, and sand blasting shops in the area that can take care of your job from conception to completion. This shop has excellent customer service.",
+      "author": "Jonathan H.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "Very friendly! Great price and quick turn around! Impressed with the quality of work done thanks! Highly recommend!",
+      "author": "Ryan R.",
+      "stars": 5,
+      "month": "April 2017"
+    }
+  ],
+  "gallery": []
+}

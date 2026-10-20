@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "neffsville-plumbing-lancaster",
+  "company": "Neffsville Plumbing, Heating & Cooling Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172889700",
+  "phone_display": "(717) 288-9700",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 4911,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Neffsville%20Plumbing%2C%20Heating%20%26%20Cooling%20Services&query_place_id=ChIJA7uwNBcjxokR33fiMaqtk3I",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406765/truaido-previews/neffsville-plumbing-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406766/truaido-previews/neffsville-plumbing-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#063959",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Salunga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "We had a new water heater installed by Neffsville after my wife and I noticed water leaking from our old water heater for a few weeks and Landen, the plumber that was sent out to our residence, did a fantastic job.",
+      "author": "Matthew A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Originally, we had Neffsville plumbing come out to look at our old broken toilets and the tech was on time and did a thorough walk through and assessment of our needs and discussed all of the options really well.",
+      "author": "Mark A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Diagnosed and fixed our heater very quickly.",
+      "author": "K S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "fish-buch-heating-lititz",
+  "company": "Fish & Buch Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17174278450",
+  "phone_display": "(717) 427-8450",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fish%20%26%20Buch%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJz98e5GUYxokRn4WxYdYdBAo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405689/truaido-previews/fish-buch-heating-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#DB2837",
+  "nearby_towns": [
+    "East Petersburg",
+    "Brownstown",
+    "Manheim",
+    "Akron",
+    "Lancaster",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "I have been using Fish & Buch for 10+ years. They have installed a mini split in my bedroom, replaced a propane hot water heater and installed a new HVAC system in my home. They are dependable and provide excellent communication. Thank you Frank!",
+      "author": "Cheryl G.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Frank and his crew have serviced my commercial and residential properties for the past 15 years. They have recommended many repairs and replacements that have always been successful and cost effective.",
+      "author": "Richard S.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "Great work, friendly workers, cleaned up like they were never here, great system and prices, worked with my time schedule for install...",
+      "author": "William L.",
+      "stars": 5,
+      "month": "October 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405687/truaido-previews/fish-buch-heating-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405688/truaido-previews/fish-buch-heating-lititz/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405688/truaido-previews/fish-buch-heating-lititz/work3"
+  ]
+}

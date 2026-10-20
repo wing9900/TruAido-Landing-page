@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "nics-affordable-fix-lykens",
+  "company": "Nic's Affordable Fix",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lykens",
+  "state": "PA",
+  "phone": "+15705168690",
+  "phone_display": "(570) 516-8690",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nic's%20Affordable%20Fix&query_place_id=ChIJJw8rhpdNz4kRt75pWPtKLd4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gratz",
+    "Williamstown",
+    "Elizabethville",
+    "Millersburg",
+    "Halifax",
+    "Grantville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

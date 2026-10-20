@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "mt-building-harrisburg",
+  "company": "MT Building Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175259665",
+  "phone_display": "(717) 525-9665",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 45,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MT%20Building%20Services&query_place_id=ChIJ58Gx553AyIkR5iRt1jRB3Ck",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Summerdale",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Enola",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "They did an excellent job with everything. Would definitely recommend. Kelvin and his team were awesome",
+      "author": "Michael R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Anthony did an awesome job... professional, on time and explained everything very well.",
+      "author": "syed A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "These gentlemen were on time and very courteous. They took time to explain everything in detail and gave helpful suggestions. I would recommend them if you want it done right the first time within a timely limit. Great company!",
+      "author": "Baron F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407391/truaido-previews/mt-building-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407391/truaido-previews/mt-building-harrisburg/work2"
+  ]
+}

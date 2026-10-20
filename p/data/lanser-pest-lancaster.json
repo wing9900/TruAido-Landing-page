@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "lanser-pest-lancaster",
+  "company": "Lanser Pest Solutions",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177582800",
+  "phone_display": "(717) 758-2800",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lanser%20Pest%20Solutions&query_place_id=ChIJ_ccQtFXNnW0Rx97aE50RxUM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406274/truaido-previews/lanser-pest-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#24225A",
+  "nearby_towns": [
+    "Ephrata",
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "Dave and Tanya are the best at what they do! 9pm tonight, a bat flew into my house when my daughter came home from work. Found Lanser 24 hr pet solution on a google search. Called them immediately, Tanya answered and they were here in less than an hour.",
+      "author": "Colleen F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Lanser Pest Solutions came to our home and performed a thorough inspection. They are privately owned and the quality and value of Dave Lanser\u2019s expertise is unmatched: he truly knows the field and is licensed in treatments.",
+      "author": "Georgia S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Called Dave on a Friday at 7pm with a major yellow jacket issue. They had eaten through my sealing and began coming into my home. Dave was there within an hour and took care of the nest that had been built by the jackets in my wall.",
+      "author": "Daniel P.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406273/truaido-previews/lanser-pest-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406273/truaido-previews/lanser-pest-lancaster/work2"
+  ]
+}

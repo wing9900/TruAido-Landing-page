@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "martin-electric-ephrata",
+  "company": "Martin Electric Plants",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177337968",
+  "phone_display": "(717) 733-7968",
+  "has_website": true,
+  "rating": 3.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Electric%20Plants&query_place_id=ChIJv_ANDLcVxokRRLoZ3eSIrE4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477772/truaido-previews/martin-electric-ephrata/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#0173DE",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "New Holland",
+    "Leola",
+    "Denver"
+  ],
+  "reviews": [],
+  "gallery": []
+}

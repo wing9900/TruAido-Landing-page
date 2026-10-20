@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "thompsons-property-harrisburg",
+  "company": "Thompson's Property Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176488939",
+  "phone_display": "(717) 648-8939",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thompson's%20Property%20Services&query_place_id=ChIJv4QoiiKkiI4R15qtPnNPprc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407469/truaido-previews/thompsons-property-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#E32002",
+  "nearby_towns": [
+    "Middletown",
+    "Highspire",
+    "Hummelstown",
+    "Steelton",
+    "Elizabethtown",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "10/10 recommend Thompson\u2019s Property Services. We had made an after ours service call. Kris responded very promptly and addressed our issue with our furnace very quickly.",
+      "author": "Kylin",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Kris is our go to guy. Always fast, efficient and reasonably priced.",
+      "author": "Wpb 2.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "I ordered 4 new kitchen appliances with installation and haul away, upon arrival the Contractor was unable to install either my gas range or my dishwasher.",
+      "author": "Kimberly F.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407467/truaido-previews/thompsons-property-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407468/truaido-previews/thompsons-property-harrisburg/work2"
+  ]
+}

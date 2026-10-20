@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hoovers-plumbing-newville",
+  "company": "Hoover's Plumbing & Heating, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177763053",
+  "phone_display": "(717) 776-3053",
+  "has_website": false,
+  "rating": 4.1,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hoover's%20Plumbing%20%26%20Heating%2C%20Inc.&query_place_id=ChIJI1ww6iARyYkRUsQWygzuA-M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Shippensburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Hoover\u2019s has taken fantastic care of us when we\u2019ve needed them a couple times in the last few years. Quick response time, knowledgeable technicians, really reasonable prices, and great customer service.",
+      "author": "Erica M.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Very happy with service. Had me fixed up in a few hours. Thank you",
+      "author": "Darlene R.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "I have no complaints. I call they come at a reasonable price.",
+      "author": "Fred S.",
+      "stars": 4,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

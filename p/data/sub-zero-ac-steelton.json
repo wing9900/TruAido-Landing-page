@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "sub-zero-ac-steelton",
+  "company": "Sub-Zero AC Repair Pros",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Steelton",
+  "state": "PA",
+  "phone": "+17174275565",
+  "phone_display": "(717) 427-5565",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sub-Zero%20AC%20Repair%20Pros&query_place_id=ChIJ0yceQqrByIkRKLZDDMqtiZ8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Cumberland",
+    "Lemoyne",
+    "Highspire",
+    "Harrisburg",
+    "Lower Paxton Township",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "The AC repair took a couple of hours, which seemed appropriate for the work needed. Coordinating with building management before starting was straightforward and smoothly integrated into the process.",
+      "author": "TREVION M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Vents cleaned thoroughly, noticeable air improvement.",
+      "author": "PARIS P.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

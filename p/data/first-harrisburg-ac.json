@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "first-harrisburg-ac",
+  "company": "First Harrisburg AC Repair LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12233698739",
+  "phone_display": "(223) 369-8739",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=First%20Harrisburg%20AC%20Repair%20LLC&query_place_id=ChIJiXiSpdq5yIkRZF64-ANV1Qs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "I appreciate the way AIR BY US handled my situation yesterday .All the reviews posted hold true and all Weston, FL residents should consider this company for their genuine service.",
+      "author": "Ari B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Highly professional and reliable AC service. From scheduling the appointment to completing the repair, everything was handled very well. The technician was knowledgeable and provided clear information about the work that was needed.",
+      "author": "Leon B.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

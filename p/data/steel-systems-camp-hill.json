@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "steel-systems-camp-hill",
+  "company": "Steel Systems Installation",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177311920",
+  "phone_display": "(717) 731-1920",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Steel%20Systems%20Installation&query_place_id=ChIJn8_aocHByIkRPtjNcJ75vLo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "New Cumberland",
+    "Steelton",
+    "Shiremanstown",
+    "East Pennsboro Township",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

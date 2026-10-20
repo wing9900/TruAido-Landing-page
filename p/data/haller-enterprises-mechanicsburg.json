@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "haller-enterprises-mechanicsburg",
+  "company": "Haller Enterprises Inc.",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176251500",
+  "phone_display": "(717) 625-1500",
+  "has_website": true,
+  "rating": 3.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Haller%20Enterprises%20Inc.&query_place_id=ChIJtVvr3qznyIkR5wAMAZT8SeA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill",
+    "Boiling Springs",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Recently added a Mini-Split HVAC to our sunroom which we rated 5 Stars previously. Included was a \u201cTotal Home Comfort Plan as it implies and we just completed our entire home HVAC & Mini-Split inspections & related services.",
+      "author": "Steve N.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "A HUGE shout out to technician Chad who just left our home. After our furnace broke late at nite and no heat, I called Haller in the morning and was greeted by Deb who was so kind and understanding of the situation, she was able to schedule an appointment to...",
+      "author": "Patty B.",
+      "stars": 5,
+      "month": "December 2022"
+    }
+  ],
+  "gallery": []
+}

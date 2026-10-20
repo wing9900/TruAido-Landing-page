@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "conrads-tree-lancaster",
+  "company": "Conrads Tree and Landscape Maintenance inc",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178724907",
+  "phone_display": "(717) 872-4907",
+  "has_website": true,
+  "rating": 3.3,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Conrads%20Tree%20and%20Landscape%20Maintenance%20inc&query_place_id=ChIJnU7De1EvxokRDJt0xUbCDwY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy",
+    "Mount Joy Township",
+    "Salunga",
+    "Elizabethtown",
+    "Landisville",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "I\u2019m a Community Manager and have worked with Conrad\u2019s Tree & Landscape for nearly a decade across multiple associations. Their service is consistently excellent, reliable emergency response, competitive pricing, and great expertise in helping us prioritize...",
+      "author": "Kimberly G.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "They are consistently reliable, timely, and efficient. The team always ensures the area is clean after their work, and their pricing is very reasonable. We appreciate their dedication and highly recommend their services!",
+      "author": "Olivia F.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": []
+}

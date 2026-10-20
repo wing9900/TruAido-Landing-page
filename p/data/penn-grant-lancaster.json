@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "penn-grant-lancaster",
+  "company": "Penn Grant Services Inc",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174718852",
+  "phone_display": "(717) 471-8852",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Penn%20Grant%20Services%20Inc&query_place_id=ChIJP2sXCH06xokRwASI_fWNcqM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Strasburg",
+    "Willow Street",
+    "Ronks",
+    "New Providence",
+    "Pequea",
+    "Conestoga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

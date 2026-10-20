@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "pureflow-climate-harrisburg",
+  "company": "PureFlow Climate Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173666083",
+  "phone_display": "(717) 366-6083",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PureFlow%20Climate%20Conditioning&query_place_id=ChIJOyWUUNq4yIkRP_iOBABwWnY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "Hummelstown",
+    "Highspire",
+    "New Cumberland",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "I was initially concerned about the complexity of the thermostat issue, but the technician clearly explained the problem and fixed it efficiently. The system has been working well since the repair.",
+      "author": "JAILENE M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The maintenance visit took about an hour, which seemed reasonable for the thorough inspection and cleaning of my A/C unit. The technician found a clogged filter that was impacting efficiency, and after replacing it, the system is now running smoothly.\ud83d\udc4d",
+      "author": "Cory P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The HVAC technician was courteous and respectful of our home. He worked carefully and cleaned up the area afterward.",
+      "author": "\u0e0a\u0e32\u0e04\u0e23 \u0e14.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407389/truaido-previews/pureflow-climate-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407389/truaido-previews/pureflow-climate-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407390/truaido-previews/pureflow-climate-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407390/truaido-previews/pureflow-climate-harrisburg/work4"
+  ]
+}

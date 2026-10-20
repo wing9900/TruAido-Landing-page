@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "snyder-tree-harrisburg",
+  "company": "Snyder Tree Service LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175805474",
+  "phone_display": "(717) 580-5474",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 30,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Snyder%20Tree%20Service%20LLC&query_place_id=ChIJlQJAO4-3yIkRk8_UtyFUWGI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407297/truaido-previews/snyder-tree-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#B0580D",
+  "nearby_towns": [
+    "Grantville",
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Hershey",
+    "Dauphin",
+    "Halifax"
+  ],
+  "reviews": [
+    {
+      "text": "Fast, easy, reasonable, good communication, job well done. I would recommend!",
+      "author": "Joe",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great job. Friendly service. Raked up any leaves and branches on the ground when done.",
+      "author": "Emily F.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Graham Snyder and his staff are very friendly and helpful. They definitely know there way around trees. From storm damage to removal of problem trees they are the one to call.",
+      "author": "Kenneth K.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407292/truaido-previews/snyder-tree-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407293/truaido-previews/snyder-tree-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407295/truaido-previews/snyder-tree-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407296/truaido-previews/snyder-tree-harrisburg/work4"
+  ]
+}

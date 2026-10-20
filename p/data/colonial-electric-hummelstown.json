@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "colonial-electric-hummelstown",
+  "company": "Colonial Electric Service Inc",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175334719",
+  "phone_display": "(717) 533-4719",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 36,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Colonial%20Electric%20Service%20Inc&query_place_id=ChIJjYpMLPa6yIkR4SUlbn0Yu8w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407401/truaido-previews/colonial-electric-hummelstown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#014819",
+  "nearby_towns": [
+    "Hershey",
+    "Grantville",
+    "Lower Paxton Township",
+    "Elizabethtown",
+    "Middletown",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "I was looking to get 3 lights installed over our garage bays. Called Colonial Electric. They sent someone out who took a look at everything and gave me a solid quote. I called them back and got put on the calendar.",
+      "author": "Mark",
+      "stars": 5,
+      "month": "May 2024"
+    },
+    {
+      "text": "Called for an arcing sound from the breakerbox and flashing lights in the house and they sent a technician out within an hour & had it fixed within two!",
+      "author": "Timothy R.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": []
+}

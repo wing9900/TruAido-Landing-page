@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "lnp-tree-lancaster",
+  "company": "LNP Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17175725657",
+  "phone_display": "(717) 572-5657",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 58,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=LNP%20Tree%20Service&query_place_id=ChIJZx5BxIUlxokROhclkDNLVMA",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406383/truaido-previews/lnp-tree-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406387/truaido-previews/lnp-tree-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#62351E",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "Washington Boro",
+    "East Petersburg",
+    "Conestoga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "We had a great experience!! LNP Tree Service was extremely professional and took great care of our property while trimming our trees. Highly recommend!!",
+      "author": "Randy Y.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "My overall experience with LNP was fantastic. Communication was prompt, Nick is very knowledgeable and friendly, service was quick, and pricing was very reasonable! I had three trees in front of my home trimmed and they look fantastic.",
+      "author": "Sara B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had Nick come out a few weeks ago to take a look at three trees that had fallen and were hung up in another large poplar tree \u2014 which, thanks to its shape, has officially become known at our house as the \u201cKitty Cat Tree.\u201d \ud83d\ude02 I had gotten another quote...",
+      "author": "Logan H.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406383/truaido-previews/lnp-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406385/truaido-previews/lnp-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406387/truaido-previews/lnp-tree-lancaster/work3"
+  ]
+}

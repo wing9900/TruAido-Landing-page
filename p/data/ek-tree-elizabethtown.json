@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "ek-tree-elizabethtown",
+  "company": "EK Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17177798270",
+  "phone_display": "(717) 779-8270",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=EK%20Tree%20Service&query_place_id=ChIJ-3abiZ2XyIkRwfpwFCBFYUk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Bainbridge",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "EK was referred to us and we are so happy with the service and quality of work. My elderly mother needed tree work done, they came out to give us a quote and he ended up doing the job right then and there. Can not express how happy we we're. Highly recommend!",
+      "author": "Heather B.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Eric and his crew will come in and get the job done right the first time at a great price. Not your typical fly by night operation. They have the right equipment to get it done fast and the experience to do it safely. Cleanup is great as well.",
+      "author": "Kyle L.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Had one of those experiences today that just deserves to be shared. We had some stumps in the yard that needed to be taken care of so the family can actually enjoy some gardening this spring and summer. I reached out to EK Tree Service to come take a look.",
+      "author": "Ryan H.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406031/truaido-previews/ek-tree-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406031/truaido-previews/ek-tree-elizabethtown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406032/truaido-previews/ek-tree-elizabethtown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406033/truaido-previews/ek-tree-elizabethtown/work4"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "jeffrey-wilbur-plumbing-mechanicsburg",
+  "company": "Jeffrey A. Wilbur Plumbing, Heating & Air Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176787546",
+  "phone_display": "(717) 678-7546",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 829,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jeffrey%20A.%20Wilbur%20Plumbing%2C%20Heating%20%26%20Air%20Inc.&query_place_id=ChIJf1rRkgLoyIkRpjLbKhE03mc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408131/truaido-previews/jeffrey-wilbur-plumbing-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#032A54",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "Enola",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Today (10-15-26) we had the annual Heating system service completed. The technician (Tony) was thorough and professional while completing the inspection. I highly recommend Wilbur Plumbing for your Plumbing and HVAC needs.",
+      "author": "Blaine S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Joe was prompt and on time. Got right to work doing Furnace service and completed in a timely manner. Joe went over his service check list and explained testing results.",
+      "author": "Steve B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "On time; checked thoroughly, showed me the warned parts that need replaced. Very polite and communicative. Reviewed results--all good.",
+      "author": "Ellwyn A.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408131/truaido-previews/jeffrey-wilbur-plumbing-mechanicsburg/work1"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "jons-air-care-lancaster",
+  "company": "Jon's Air Care",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173142856",
+  "phone_display": "(717) 314-2856",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jon's%20Air%20Care&query_place_id=ChIJUS33N3pyU0QRwr1x-gnck8w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406451/truaido-previews/jons-air-care-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#021A3E",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "Ephrata",
+    "Akron",
+    "Adamstown",
+    "Reinholds"
+  ],
+  "reviews": [],
+  "gallery": []
+}

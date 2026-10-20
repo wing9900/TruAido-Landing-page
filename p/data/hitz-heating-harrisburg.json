@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hitz-heating-harrisburg",
+  "company": "Hitz Heating Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179212837",
+  "phone_display": "(717) 921-2837",
+  "has_website": false,
+  "rating": 4.2,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hitz%20Heating%20Inc.&query_place_id=ChIJj4tpImPGyIkRgw0R2-qju4U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "Dauphin",
+    "Enola",
+    "East Pennsboro Township",
+    "Lower Paxton Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "What a great company. Josh is always on top of helping his customers. He helped me a few times with my furnace. Always has a great attitude and informative. We have used his service for a few years now and will continue too.",
+      "author": "Makenzie G.",
+      "stars": 5,
+      "month": "February 2024"
+    },
+    {
+      "text": "We have been with Hitz for years and I could never think of going with anyone else. Josh helped us when our old tank leaked oil everywhere.",
+      "author": "Patricia A.",
+      "stars": 5,
+      "month": "February 2022"
+    },
+    {
+      "text": "Very friendly and efficient always was flexible and willing to help me",
+      "author": "Jamie A.",
+      "stars": 5,
+      "month": "February 2022"
+    }
+  ],
+  "gallery": []
+}

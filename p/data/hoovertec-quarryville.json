@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "hoovertec-quarryville",
+  "company": "HooverTec",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17177868839",
+  "phone_display": "(717) 786-8839",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HooverTec&query_place_id=ChIJryvMKro1xokR2UBHjEhS90o",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406836/truaido-previews/hoovertec-quarryville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#CA3029",
+  "nearby_towns": [
+    "Kirkwood",
+    "New Providence",
+    "Peach Bottom",
+    "Paradise",
+    "Christiana",
+    "Nottingham"
+  ],
+  "reviews": [
+    {
+      "text": "This is thier field service location. The main location is located at 114 S Shirk Road New Holland PA. If you order parts you can pick them up here if you chose. They do power generation and such.",
+      "author": "Bradley H.",
+      "stars": 5,
+      "month": "August 2020"
+    }
+  ],
+  "gallery": []
+}

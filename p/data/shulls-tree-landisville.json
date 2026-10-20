@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "shulls-tree-landisville",
+  "company": "Shull's Tree Service - Son, Inc.",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Landisville",
+  "state": "PA",
+  "phone": "+17173678043",
+  "phone_display": "(717) 367-8043",
+  "has_website": true,
+  "rating": 2.7,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Shull's%20Tree%20Service%20-%20Son%2C%20Inc.&query_place_id=ChIJjTIsaNMgxokRSmZDoGEoKRc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "East Petersburg",
+    "Mountville",
+    "Mount Joy",
+    "Lancaster",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "My aunt and uncle had tree work done by this company a couple months ago, very respectful owner and employees. Did a wonderful job.",
+      "author": "Grace",
+      "stars": 5,
+      "month": "October 2020"
+    }
+  ],
+  "gallery": []
+}

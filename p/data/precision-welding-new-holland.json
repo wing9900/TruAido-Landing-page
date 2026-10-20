@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "precision-welding-new-holland",
+  "company": "Precision Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17173542362",
+  "phone_display": "(717) 354-2362",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Precision%20Welding&query_place_id=ChIJ4c6siWsVxokRCBgq4S5jYh0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Ephrata",
+    "Stevens",
+    "Leola",
+    "Brownstown",
+    "Gordonville"
+  ],
+  "reviews": [
+    {
+      "text": "I called all over Lancaster County trying to find a short piece of pipe to use for extra leverage on a large wrench. I decided to try this place because I was running other errands in New Holland.",
+      "author": "David B.",
+      "stars": 5,
+      "month": "June 2023"
+    },
+    {
+      "text": "Was very pleased with my experience at Precision Welding. Brandon did an excellent job,and worked extra hard to get our project finished even after the shop had closed. Definitely recommend this company!",
+      "author": "Josh H.",
+      "stars": 5,
+      "month": "June 2022"
+    }
+  ],
+  "gallery": []
+}

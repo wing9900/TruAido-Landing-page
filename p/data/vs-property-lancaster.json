@@ -1,0 +1,40 @@
+{
+  "v": 1,
+  "slug": "vs-property-lancaster",
+  "company": "VS property services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172248973",
+  "phone_display": "(717) 224-8973",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=VS%20property%20services&query_place_id=ChIJAxLf6v1xZQwRuxDS5CYJkOg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406225/truaido-previews/vs-property-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Columbia",
+    "Mount Joy",
+    "Mountville",
+    "Marietta",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406226/truaido-previews/vs-property-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406227/truaido-previews/vs-property-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406227/truaido-previews/vs-property-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406229/truaido-previews/vs-property-lancaster/work4"
+  ]
+}

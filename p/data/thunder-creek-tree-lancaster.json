@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "thunder-creek-tree-lancaster",
+  "company": "Thunder Creek Tree LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173905894",
+  "phone_display": "(717) 390-5894",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thunder%20Creek%20Tree%20LLC&query_place_id=ChIJEVUuuAklxokRcfZgLcLa0ww",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "East Petersburg",
+    "Washington Boro",
+    "Landisville",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Andrew came, gave us a verbal estimate and as soon as the weather allowed it he and his crew removed a spruce covered with vines close to our house. He also carefully trimmed a red maple with branches over our roof.",
+      "author": "William R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "This was a great experience from start to finish. Great communication, professional, and excellent work. We had a blue spruce that started out \"midget\" and grew over the years. Andrew was great is cleaning it up and shaping it.",
+      "author": "Ruth C.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Fantastic experience with this tree company! They were quick to come out and provide a quote, and their pricing was fair. On the day of the job, they arrived right on time, removed a tree, trimmed our arborvitaes beautifully, and cleaned up everything before...",
+      "author": "Tiffany S.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406223/truaido-previews/thunder-creek-tree-lancaster/work1"
+  ]
+}

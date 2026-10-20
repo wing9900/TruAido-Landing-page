@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bw-hummelstown",
+  "company": "B & W Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175664022",
+  "phone_display": "(717) 566-4022",
+  "has_website": true,
+  "rating": 4.1,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%20%26%20W%20Inc&query_place_id=ChIJG5nkdbC-yIkRNZJXbN5BkQw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407080/truaido-previews/bw-hummelstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#032483",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Highspire",
+    "Middletown",
+    "Hershey",
+    "Steelton",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

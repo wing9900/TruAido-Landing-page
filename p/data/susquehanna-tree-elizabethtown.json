@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "susquehanna-tree-elizabethtown",
+  "company": "Susquehanna tree & stump",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17176884688",
+  "phone_display": "(717) 688-4688",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20tree%20%26%20stump&query_place_id=ChIJl4ROFEbq76ARd-wo5vYruPo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Bainbridge",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "I will use this company again!! They were professional, had great prices, cleaned up and respectful of my property!! Also, I have dogs and they made sure the gate was shut.",
+      "author": "Lisa H.",
+      "stars": 5,
+      "month": "March 2022"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "lancco-tree-lancaster",
+  "company": "Lancco Tree Service Llc",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173322103",
+  "phone_display": "(717) 332-2103",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancco%20Tree%20Service%20Llc&query_place_id=ChIJLQ9vT_SRl0kRji5bcpr2YVE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "We give the team at Lancco five stars. We had a silver maple that was quite damaged next to our house that needed to be removed as well as an ornamental cherry tree that needed pruning.",
+      "author": "Beth M.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "If I could give them 6 stars I would. Very responsive, very reasonably priced. Came out same day, cut a good sized tree down for me fast and efficiently. Will definitely be using him in the future and referring him to people I know.",
+      "author": "Travis J.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405948/truaido-previews/lancco-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405949/truaido-previews/lancco-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405950/truaido-previews/lancco-tree-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405951/truaido-previews/lancco-tree-lancaster/work4"
+  ]
+}

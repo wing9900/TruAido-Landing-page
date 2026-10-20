@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "jk-stump-christiana",
+  "company": "JK Stump Grinding & Landscaping",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Christiana",
+  "state": "PA",
+  "phone": "+17172836672",
+  "phone_display": "(717) 283-6672",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JK%20Stump%20Grinding%20%26%20Landscaping&query_place_id=ChIJU1j6Ayf7jgQR-ZmHluh91cY",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406634/truaido-previews/jk-stump-christiana/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406637/truaido-previews/jk-stump-christiana/logo",
+    "layout": "square",
+    "badge": "#EBE9E4"
+  },
+  "accent": "#714B35",
+  "nearby_towns": [
+    "Kirkwood",
+    "Paradise",
+    "Ronks",
+    "Quarryville",
+    "New Providence",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Had JK out to grind a stump, they were prompt and did excellent work. I would not hesitate to call JK again.",
+      "author": "Ron C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Had Joe out to grind some stump after Belle Ridge removed the trees. Joe did an amazing job. Not only did he grind my stumps but he brought in topsoil for the holes. Seeded and put straw on everything!",
+      "author": "J G.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406635/truaido-previews/jk-stump-christiana/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406637/truaido-previews/jk-stump-christiana/work2"
+  ]
+}

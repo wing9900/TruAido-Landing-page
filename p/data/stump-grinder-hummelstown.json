@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "stump-grinder-hummelstown",
+  "company": "The Stump Grinder",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175335035",
+  "phone_display": "(717) 533-5035",
+  "has_website": false,
+  "rating": 4.3,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Stump%20Grinder&query_place_id=ChIJG67J3oi6yIkRN_49AYHfRtA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Hershey",
+    "Lower Paxton Township",
+    "Elizabethtown",
+    "Harrisburg",
+    "Middletown"
+  ],
+  "reviews": [
+    {
+      "text": "We have wrkd with The Stump Grinder for over 12 yrs. Stan is consistently amazing. Wouldn't use anyone else.",
+      "author": "David H.",
+      "stars": 5,
+      "month": "March 2023"
+    },
+    {
+      "text": "Came in and removed a stump for us rather quickly. Seemed like a nice guy. Would recommend",
+      "author": "Drew E.",
+      "stars": 5,
+      "month": "May 2021"
+    },
+    {
+      "text": "4 stumps removed fast and did great work. Very happy",
+      "author": "Rob",
+      "stars": 5,
+      "month": "March 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407005/truaido-previews/stump-grinder-hummelstown/work1"
+  ]
+}

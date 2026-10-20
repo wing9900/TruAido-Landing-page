@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "gr8-r8-hvac-middletown",
+  "company": "Gr8 R8 Hvac Llc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17178312009",
+  "phone_display": "(717) 831-2009",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gr8%20R8%20Hvac%20Llc&query_place_id=ChIJqX8aWXW-yIkRuJVHegTc-Rw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Highspire",
+    "Elizabethtown",
+    "Hummelstown",
+    "Steelton",
+    "Hershey",
+    "Lower Paxton Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

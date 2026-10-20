@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "gater-mechanical-mechanicsburg",
+  "company": "Gater Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177139958",
+  "phone_display": "(717) 713-9958",
+  "has_website": false,
+  "rating": 3.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gater%20Mechanical%2C%20LLC&query_place_id=ChIJsSuam4AXyYkRC54acVgihlc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Carlisle",
+    "Boiling Springs",
+    "Walnut Bottom",
+    "Newburg",
+    "Gardners"
+  ],
+  "reviews": [],
+  "gallery": []
+}

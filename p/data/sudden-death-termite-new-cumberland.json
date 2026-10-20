@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "sudden-death-termite-new-cumberland",
+  "company": "Sudden Death Termite & Pest Control, LLC",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+17177702249",
+  "phone_display": "(717) 770-2249",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 159,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sudden%20Death%20Termite%20%26%20Pest%20Control%2C%20LLC&query_place_id=ChIJOQHkzTfAyIkR1yZVvWQSwRo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Highspire",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Came quickly. Knew what he needed to do. Got it done. Nice guy.",
+      "author": "Randall S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Nicole came to my home For an insect issue, I was having and she quickly identified the problem. She gave me good suggestions on the process forward didn\u2019t try to hard sell me on services. I didn\u2019t need.",
+      "author": "Darryl H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "UPDATE! Sudden Death to the rescue again! My house seems to be a magnet for unwanted visitors... now paper wasps trying to declare residency in my chimney. Billy came out with a spray treatment. Pricing is great. These guys are the best.",
+      "author": "Kathleen R.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

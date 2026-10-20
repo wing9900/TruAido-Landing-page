@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "mahoney-plumbing-willow-street",
+  "company": "Mahoney Plumbing & Heating Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17177861733",
+  "phone_display": "(717) 786-1733",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mahoney%20Plumbing%20%26%20Heating%20Inc&query_place_id=ChIJEbt-P0MwxokR2ajmZ6ueP-c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406457/truaido-previews/mahoney-plumbing-willow-street/logo",
+    "layout": "square",
+    "badge": "#CC2C35"
+  },
+  "accent": "#1B7D42",
+  "nearby_towns": [
+    "New Providence",
+    "Strasburg",
+    "Pequea",
+    "Conestoga",
+    "Quarryville",
+    "Ronks"
+  ],
+  "reviews": [
+    {
+      "text": "Dennis is a fantastic problem solver an takes the time to think about the best way to approach the job. He is on time, efficient, and the work area clean afterwards. I am very happy with the work completed and would recommend Mahoney Plumbing.",
+      "author": "W N.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "reasonable, professional, clean, highest quality workmanship!",
+      "author": "Michael Z.",
+      "stars": 5,
+      "month": "November 2023"
+    },
+    {
+      "text": "Had to have a hot water heater installed. Dennis did a great job, prompt, quality work.",
+      "author": "Linda S.",
+      "stars": 5,
+      "month": "July 2023"
+    }
+  ],
+  "gallery": []
+}

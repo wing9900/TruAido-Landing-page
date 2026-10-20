@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "trim-rite-tree-newville",
+  "company": "Trim-Rite Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17172438811",
+  "phone_display": "(717) 243-8811",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Trim-Rite%20Tree%20Services&query_place_id=ChIJ2USxeyoeyYkRzfy8TkxUt1k",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Shippensburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Gave a reasonable price and went above and beyond what I expected.",
+      "author": "Christopher C.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Trim-rite does great work. The only company who we hire to cut down trees. Our property is surrounded by trees so we have used trim rite multiple different times. They know what they are doing and will get the job done. I'd recommend them to anyone !",
+      "author": "Cassidy K.",
+      "stars": 5,
+      "month": "July 2021"
+    },
+    {
+      "text": "Trim Rite Tree Service did an exceptional job at my house taking down trees, trimming trees, grinding stumps and cleaning everything up. I would definitely use them again.",
+      "author": "Nancy D.",
+      "stars": 5,
+      "month": "June 2021"
+    }
+  ],
+  "gallery": []
+}

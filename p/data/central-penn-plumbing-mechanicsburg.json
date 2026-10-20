@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "central-penn-plumbing-mechanicsburg",
+  "company": "Central Penn Plumbing Service Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17175911344",
+  "phone_display": "(717) 591-1344",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 525,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Central%20Penn%20Plumbing%20Service%20Inc&query_place_id=ChIJIbtF0YzoyIkRA27Av_BYYVQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408113/truaido-previews/central-penn-plumbing-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#03883D",
+  "nearby_towns": [
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Technician was friendly, competent and efficient!",
+      "author": "Chris K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Ben was courteous, knowledgeable and professional. He wore booties and cleaned up thoroughly after he was done working. Ben is welcome in our home.",
+      "author": "Steve W.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "cumberland-county-office-carlisle",
+  "company": "Cumberland County Office",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172389676",
+  "phone_display": "(717) 238-9676",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cumberland%20County%20Office&query_place_id=ChIJR2rEbtThyIkRty-9obFQkWc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Hampden Township",
+    "Newville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

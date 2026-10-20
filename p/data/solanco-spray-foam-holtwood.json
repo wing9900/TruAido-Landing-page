@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "solanco-spray-foam-holtwood",
+  "company": "Solanco Spray Foam",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Holtwood",
+  "state": "PA",
+  "phone": "+17172845635",
+  "phone_display": "(717) 284-5635",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Solanco%20Spray%20Foam&query_place_id=ChIJTzNxl_IyxokR00Z4ysfhOkY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Quarryville",
+    "New Providence",
+    "Pequea",
+    "Peach Bottom",
+    "Willow Street",
+    "Conestoga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

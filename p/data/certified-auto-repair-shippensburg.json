@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "certified-auto-repair-shippensburg",
+  "company": "Certified Auto Repair & Service by H&H Chevrolet and Cadillac",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17175322121",
+  "phone_display": "(717) 532-2121",
+  "has_website": false,
+  "rating": 3.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Certified%20Auto%20Repair%20%26%20Service%20by%20H%26H%20Chevrolet%20and%20Cadillac&query_place_id=ChIJuYyPJbMNyYkRSjw5ppM3pZk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408076/truaido-previews/certified-auto-repair-shippensburg/work1"
+  ]
+}

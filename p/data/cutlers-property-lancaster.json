@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "cutlers-property-lancaster",
+  "company": "Cutler's Property Management",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174682062",
+  "phone_display": "(717) 468-2062",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cutler's%20Property%20Management&query_place_id=ChIJwy-o23AUWCURDCC5ss6kjMo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

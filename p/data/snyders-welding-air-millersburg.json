@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "snyders-welding-air-millersburg",
+  "company": "Snyder's Welding & Air Boat",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+17176924294",
+  "phone_display": "(717) 692-4294",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Snyder's%20Welding%20%26%20Air%20Boat&query_place_id=ChIJibBTB87MyIkRhHe5_Ev8wuU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Tom is a great welder and fabricator. His boats are works of art and are truly the best in class. He has repaired my Tracker Grizzly many times over the years, and has also upgraded the transom, added a tunnel hull, and applied UMHW plastic armor to the...",
+      "author": "Mark D.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": []
+}

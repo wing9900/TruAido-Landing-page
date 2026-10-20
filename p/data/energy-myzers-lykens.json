@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "energy-myzers-lykens",
+  "company": "Energy Myzers",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lykens",
+  "state": "PA",
+  "phone": "+17174539600",
+  "phone_display": "(717) 453-9600",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Energy%20Myzers&query_place_id=ChIJGWZbUUJMz4kRSkCvbAQmbLc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407301/truaido-previews/energy-myzers-lykens/logo",
+    "layout": "square",
+    "badge": "#000000"
+  },
+  "accent": "#786A41",
+  "nearby_towns": [
+    "Gratz",
+    "Williamstown",
+    "Elizabethville",
+    "Halifax",
+    "Millersburg",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "Being new to the area we don\u2019t know many people. This is our first house, and we didn\u2019t want to mess anything up, so that is why we called the professionals. Thank you, Peach, for getting back to me in a timely manner.",
+      "author": "Teddie E.",
+      "stars": 5,
+      "month": "December 2023"
+    },
+    {
+      "text": "The gentleman called me back the next day. Was very professional and kind! I'll never call another company for electrical work. I highly recommend this company to anyone who needs any of these services done",
+      "author": "K D.",
+      "stars": 5,
+      "month": "July 2021"
+    }
+  ],
+  "gallery": []
+}

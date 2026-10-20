@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "morgan-heating-mt-joy",
+  "company": "Morgan Heating & Cooling LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17174490315",
+  "phone_display": "(717) 449-0315",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Morgan%20Heating%20%26%20Cooling%20LLC&query_place_id=ChIJK1n7Xn7SEUkRmG7M0XfqsYo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406745/truaido-previews/morgan-heating-mt-joy/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1E5483",
+  "nearby_towns": [
+    "Columbia",
+    "Salunga",
+    "Landisville",
+    "Mountville",
+    "Washington Boro",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "We used Peter to inspect our old HVAC unit and for our new HVAC unit installation. Extremely professional, quick and easy to communicate with, very thorough in his inspection and with the new installation, seemless process from beginning to end.",
+      "author": "Michael P.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Professional, on time, reliable, low price, high-quality, 100% satisfied.",
+      "author": "Ryan H.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Excellent experience with Morgan Heating and Cooling! They replaced our air conditioning unit and were knowledgeable, efficient, and respectful of our property.",
+      "author": "Katherine Y.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406741/truaido-previews/morgan-heating-mt-joy/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406743/truaido-previews/morgan-heating-mt-joy/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406744/truaido-previews/morgan-heating-mt-joy/work3"
+  ]
+}

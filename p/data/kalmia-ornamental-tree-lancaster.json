@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "kalmia-ornamental-tree-lancaster",
+  "company": "Kalmia Ornamental Tree and Shrub Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174877848",
+  "phone_display": "(717) 487-7848",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kalmia%20Ornamental%20Tree%20and%20Shrub%20Care&query_place_id=ChIJc9N9IfjzTA0RWYOo4V_QMGQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406331/truaido-previews/kalmia-ornamental-tree-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#637616",
+  "nearby_towns": [
+    "Columbia",
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Marietta",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "We received Mosquito Treatments this summer in York, PA. Our yard has completely transformed thanks to this service! We can finally enjoy summer evenings outside without constantly swatting away bugs!",
+      "author": "Kalie S.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Really great service and affordable pricing! Erik came out and gave us a free quote upon request for tree and shrub removal and pruning. He is very knowledgeable and explains his work in an educational way.",
+      "author": "Abigail H.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Erik was so accommodating and honest. I asked him to advise me on how to transport an ornamental orange tree. He made the effort to come to my home and meet with us. He advised us on what to do, which did not involve using his services.",
+      "author": "Sharon L.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406328/truaido-previews/kalmia-ornamental-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406329/truaido-previews/kalmia-ornamental-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406330/truaido-previews/kalmia-ornamental-tree-lancaster/work3"
+  ]
+}

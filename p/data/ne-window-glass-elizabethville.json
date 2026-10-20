@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "ne-window-glass-elizabethville",
+  "company": "N E Window & Glass Services Inc",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Elizabethville",
+  "state": "PA",
+  "phone": "+17177730330",
+  "phone_display": "(717) 773-0330",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=N%20E%20Window%20%26%20Glass%20Services%20Inc&query_place_id=ChIJDarF4JFKz4kRHQFqL36MjuU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lykens",
+    "Gratz",
+    "Millersburg",
+    "Halifax",
+    "Williamstown",
+    "Dauphin"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "tri-valley-spray-lancaster",
+  "company": "Tri-Valley Spray Foam Insulation LLC",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179024243",
+  "phone_display": "(717) 902-4243",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tri-Valley%20Spray%20Foam%20Insulation%20LLC&query_place_id=ChIJZ2XaHt0mxokR_t48DioLvcI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Millersville",
+    "Columbia"
+  ],
+  "reviews": [],
+  "gallery": []
+}

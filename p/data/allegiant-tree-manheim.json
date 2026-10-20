@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "allegiant-tree-manheim",
+  "company": "Allegiant Tree Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17178446774",
+  "phone_display": "(717) 844-6774",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 33,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Allegiant%20Tree%20Care&query_place_id=ChIJ__vYKUE8O60RXruZWaYRVyM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405871/truaido-previews/allegiant-tree-manheim/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#405A25",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Lancaster",
+    "Lititz",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Great experience. I almost never hire people to do things because I'm usually disappointed. Everything here went perfectly. Great work, reasonable price.",
+      "author": "Tom A.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "It was a pleasure watching the guys take down the tree. Their expertise and their knowledge on what they were doing was tremendous. I don't think I ever seen three guys work together as good as they did taking down that big tree.",
+      "author": "Linda S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Lee came out on a Saturday to provide a quote and was here that Monday to remove it due to concerns about the tree falling and possible thunderstorms. We appreciate his concerns and the timely removal.",
+      "author": "Amy",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405869/truaido-previews/allegiant-tree-manheim/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405869/truaido-previews/allegiant-tree-manheim/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405870/truaido-previews/allegiant-tree-manheim/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405870/truaido-previews/allegiant-tree-manheim/work4"
+  ]
+}

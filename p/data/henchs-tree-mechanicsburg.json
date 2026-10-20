@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "henchs-tree-mechanicsburg",
+  "company": "Hench's Tree Service LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17172547494",
+  "phone_display": "(717) 254-7494",
+  "has_website": false,
+  "rating": 4.5,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hench's%20Tree%20Service%20LLC&query_place_id=ChIJfVZ78QsfyYkRmmklCVKeFOI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Dillsburg",
+    "Gardners",
+    "Newville",
+    "Hampden Township"
+  ],
+  "reviews": [
+    {
+      "text": "Great work, excellent clean up, and great prices! There was a mix up with the height of the stump, which was mostly my fault. Travis went out of his way to try to make the situation as right as possible.",
+      "author": "Marissa S.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "Highly recommend. Travis expertly handled damage wrought by the June 30, 2025, which was spread across 3 different properties in the Carlisle Historic District - successfully navigating between multiple fences, power lines, and other obstacles without causing...",
+      "author": "GC J.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Travis came out for a free estimate and gave me multiple options to take care of a massive tree that was dangerously close to my house. We came to an agreement and price that I think was very fair. They took it down and cleaned up in one day.",
+      "author": "Garrett L.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407928/truaido-previews/henchs-tree-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407929/truaido-previews/henchs-tree-mechanicsburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407930/truaido-previews/henchs-tree-mechanicsburg/work3"
+  ]
+}

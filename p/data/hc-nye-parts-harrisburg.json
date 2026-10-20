@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hc-nye-parts-harrisburg",
+  "company": "H.C. Nye Parts and Service",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175611121",
+  "phone_display": "(717) 561-1121",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=H.C.%20Nye%20Parts%20and%20Service&query_place_id=ChIJ5_C6hOW5yIkRQgxXGy5mJCw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Grantville",
+    "Steelton",
+    "Hershey",
+    "Highspire"
+  ],
+  "reviews": [],
+  "gallery": []
+}

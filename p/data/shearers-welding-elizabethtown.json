@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "shearers-welding-elizabethtown",
+  "company": "Shearer's Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173619196",
+  "phone_display": "(717) 361-9196",
+  "has_website": false,
+  "rating": 4.4,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Shearer's%20Welding&query_place_id=ChIJW6lKqhyZyIkRd0d0gXWGLWQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Barry is a great guy. Had a little job, he was willing to do it and did a great job... Thanks Barry.",
+      "author": "Roger G.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Shearers fashioned a custom powder coated railing for both sides of a new concrete ramp by new patio. It is GORGEOUS!!!! His work is stunning! (Concrete work by SM Johns & Son, 2021)",
+      "author": "Kathleen L.",
+      "stars": 5,
+      "month": "July 2024"
+    }
+  ],
+  "gallery": []
+}

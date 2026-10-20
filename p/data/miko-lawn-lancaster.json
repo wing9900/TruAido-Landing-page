@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "miko-lawn-lancaster",
+  "company": "Miko Lawn & Landscape",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174644110",
+  "phone_display": "(717) 464-4110",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 38,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Miko%20Lawn%20%26%20Landscape&query_place_id=ChIJeRhYtR46xokRhOeUjlvWs9Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "Conestoga",
+    "Pequea",
+    "Washington Boro",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Very happy with the lawn service which Miko has been doing for us since 2017. We Recently added bush trimming & mulching & are very pleased at the results!!!",
+      "author": "Dotty R.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "They have done a great job on my lawn would highly recommend them to anyone looking for lawn care",
+      "author": "Katherine B.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "I contracted with Miko Lawn & Landscaping to remove a tree and replace it with a holly bush. I have been contracting with this company for many years and am impressed with their professionalism and their pricing is very reasonable.",
+      "author": "April B.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "square-plumb-harrisburg",
+  "company": "Square and Plumb Property Care, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174099316",
+  "phone_display": "(717) 409-9316",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Square%20and%20Plumb%20Property%20Care%2C%20LLC&query_place_id=ChIJQ81OarvByIkRgN2Pj4T1J3Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Enola",
+    "Summerdale",
+    "Hampden Township",
+    "East Pennsboro Township",
+    "Shiremanstown",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "We hired Square and Plumb for regular lawn maintenance, mowing, edging, and tree health consultation and we couldn't be more pleased with their service! Professional, friendly, and outstanding work. Highly recommend them!",
+      "author": "Margaret B.",
+      "stars": 5,
+      "month": "June 2018"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408228/truaido-previews/square-plumb-harrisburg/work1"
+  ]
+}

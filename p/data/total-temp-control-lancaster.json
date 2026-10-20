@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "total-temp-control-lancaster",
+  "company": "Total Temp Control LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176817294",
+  "phone_display": "(717) 681-7294",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Total%20Temp%20Control%20LLC&query_place_id=ChIJgUBzpe-u1ywRq0mqqDBSQzU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405856/truaido-previews/total-temp-control-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#03294A",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "I had a great experience with Total Temperature Control of Eohrata, PA. Joe returned my email on a Sunday night and came to my house to repair the HVAC on Monday am, as this was not an emergency. He accurately diagnosed and fixed my problem.",
+      "author": "Susan G.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "You can't go wrong with Joe and the team from Total Temp Control. They installed a mini-split system in our church that is working out very well!",
+      "author": "Brandon S.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405855/truaido-previews/total-temp-control-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405856/truaido-previews/total-temp-control-lancaster/work2"
+  ]
+}

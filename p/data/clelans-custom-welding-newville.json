@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "clelans-custom-welding-newville",
+  "company": "Clelan's Custom Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177760083",
+  "phone_display": "(717) 776-0083",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Clelan's%20Custom%20Welding&query_place_id=ChIJs56B0e4ayYkRyhuBSCvIRoE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Carlisle",
+    "Shippensburg",
+    "Gardners",
+    "Boiling Springs",
+    "Newburg"
+  ],
+  "reviews": [
+    {
+      "text": "They are absolutely awesome to deal with! If I ever need more welding work I'm definitely going to them!!",
+      "author": "Christine I.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Mike, Everett and Clelan\u2019s team are master craftsman!",
+      "author": "Richard P.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "I was going to tell you a welding jokes but all of the good ones ARGON...HAHAHAHAA!!!",
+      "author": "Nate B.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

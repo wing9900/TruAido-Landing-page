@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "lancaster-superior",
+  "company": "Lancaster Superior Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172995221",
+  "phone_display": "(717) 299-5221",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Superior%20Heating%20and%20Cooling&query_place_id=ChIJ7Sl3olUlxokRNmw8kreE9Bc",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406702/truaido-previews/lancaster-superior/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406704/truaido-previews/lancaster-superior/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#C24900",
+  "nearby_towns": [
+    "East Petersburg",
+    "Leola",
+    "Millersville",
+    "Willow Street",
+    "Strasburg",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Lancaster Superior was one of the companies that provided a quote to replace my heating and cooling system. From start to finish, Bob answered all my questions, educated me on the process of converting from a heat pump to natural gas and suggested other...",
+      "author": "Sean T.",
+      "stars": 5,
+      "month": "October 2023"
+    },
+    {
+      "text": "Great reliable service. Heather is always pleasant and professional and Bob is a very efficient, trustworthy and knowledgeable technician . I'm very happy with their services and would recommend them without hesitate!",
+      "author": "Gail S.",
+      "stars": 5,
+      "month": "October 2023"
+    },
+    {
+      "text": "Excellent work on several technically chalenging projects. Highly recommended",
+      "author": "Joe R.",
+      "stars": 5,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406703/truaido-previews/lancaster-superior/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406703/truaido-previews/lancaster-superior/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406704/truaido-previews/lancaster-superior/work3"
+  ]
+}

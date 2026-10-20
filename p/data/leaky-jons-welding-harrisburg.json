@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "leaky-jons-welding-harrisburg",
+  "company": "Leaky Jon\u2019s welding services llc",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173794237",
+  "phone_display": "(717) 379-4237",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Leaky%20Jon%E2%80%99s%20welding%20services%20llc&query_place_id=ChIJNZdLxsc3LkwR2_O8WzYbPME",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407240/truaido-previews/leaky-jons-welding-harrisburg/logo",
+    "layout": "square",
+    "badge": "#ECE5D6"
+  },
+  "accent": "#7E6A3E",
+  "nearby_towns": [
+    "Middletown",
+    "Highspire",
+    "Elizabethtown",
+    "Hummelstown",
+    "Steelton",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "Hunter was very professional and prompt with his communication regarding the welding job I needed completed. He was very fair and reasonable with the pricing quote he gave me. The welding job completed was GREAT and fully met my expectations. -Jason H",
+      "author": "Jason H.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "old-glory-metal-reinholds",
+  "company": "Old Glory Metal Working",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17175981058",
+  "phone_display": "(717) 598-1058",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Old%20Glory%20Metal%20Working&query_place_id=ChIJtSMTOtZsxokR8O7-QqJ6uGs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405901/truaido-previews/old-glory-metal-reinholds/logo",
+    "layout": "wide",
+    "badge": "#010101"
+  },
+  "accent": "#CC4549",
+  "nearby_towns": [
+    "Adamstown",
+    "Denver",
+    "Stevens",
+    "Ephrata",
+    "Robesonia",
+    "Narvon"
+  ],
+  "reviews": [
+    {
+      "text": "I grew up in that house, met you last February. Everything looks amazing :)",
+      "author": "Mandi W.",
+      "stars": 5,
+      "month": "September 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405900/truaido-previews/old-glory-metal-reinholds/work1"
+  ]
+}

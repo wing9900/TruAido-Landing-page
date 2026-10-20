@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "heritage-hearth-chimney-lancaster",
+  "company": "Heritage Hearth Chimney Services",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173442790",
+  "phone_display": "(717) 344-2790",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Hearth%20Chimney%20Services&query_place_id=ChIJ_fV9e7lWNCwRv8C8pXXpGyU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406472/truaido-previews/heritage-hearth-chimney-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1C3B20",
+  "nearby_towns": [
+    "Mount Joy",
+    "Columbia",
+    "Salunga",
+    "Landisville",
+    "Mountville",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "Nathaniel is a class act and is not out to scheme or get over on the everyday person who often finds themselves needing major work on their old houses. Time and time again he talked me through my options, costs and his recommendations.",
+      "author": "Clifton K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Nathaniel was very responsive and helpful with a leaking chimney issue we had. He came right out to take a look and was very honest and upfront with us about our problem and different options for repair.",
+      "author": "Elise B.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Nathaniel is a diligent, conscious worker. He diagnosed the multiple problems with our basement fireplace safe and usable again. We highly recommend!",
+      "author": "Johnny W.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406471/truaido-previews/heritage-hearth-chimney-lancaster/work1"
+  ]
+}

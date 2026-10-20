@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "nevco-fuel-lititz",
+  "company": "Nevco Fuel Service LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176272303",
+  "phone_display": "(717) 627-2303",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 50,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nevco%20Fuel%20Service%20LLC&query_place_id=ChIJw2VSUtYZxokRO3ss7x_ehMg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405639/truaido-previews/nevco-fuel-lititz/logo",
+    "layout": "wide",
+    "badge": "#233772"
+  },
+  "accent": "#223671",
+  "nearby_towns": [
+    "Manheim",
+    "East Petersburg",
+    "Lancaster",
+    "Landisville",
+    "Brownstown",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Very fast, easy delivery. Fair pricing on propane. Promised delivery within a week, was out the next day.",
+      "author": "Connor K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "We had wonderful experiences with Nevco . They go above and beyond for their customers . Great customer service , thank you Nevco thank you The O\u2019Dell\u2019s",
+      "author": "Frank",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Best fuel company hands down , fit me into the schedule before the snow storm ! Much appreciated to the company and driver today . Thank you!",
+      "author": "Destiny T.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405635/truaido-previews/nevco-fuel-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405636/truaido-previews/nevco-fuel-lititz/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405636/truaido-previews/nevco-fuel-lititz/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405637/truaido-previews/nevco-fuel-lititz/work4"
+  ]
+}

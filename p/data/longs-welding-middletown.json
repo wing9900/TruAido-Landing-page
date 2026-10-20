@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "slug": "longs-welding-middletown",
+  "company": "Long\u2019s Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17179445150",
+  "phone_display": "(717) 944-5150",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Long%E2%80%99s%20Welding&query_place_id=ChIJj2Ud7vWeyIkRAX3wWTBJI-E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407262/truaido-previews/longs-welding-middletown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#CB4103",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Highspire",
+    "Hershey",
+    "Hummelstown",
+    "Steelton",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "busy and typical of small fabrication shop",
+      "author": "Michael W.",
+      "stars": 4,
+      "month": "December 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407261/truaido-previews/longs-welding-middletown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407261/truaido-previews/longs-welding-middletown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407262/truaido-previews/longs-welding-middletown/work3"
+  ]
+}

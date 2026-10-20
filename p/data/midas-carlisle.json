@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "midas-carlisle",
+  "company": "Midas",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17176094613",
+  "phone_display": "(717) 609-4613",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 599,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Midas&query_place_id=ChIJ56sM_8rhyIkRB6BpLV9684I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "This is the only place I trust to take my car. Not only are they very reasonably priced, but they\u2019re always very honest about the work that needs to be done.",
+      "author": "Alexis L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Service was friendly and great sells of service recommend to anyone that lives in Carlisle or even just visiting the area stop by if you need work done to you vehicle.",
+      "author": "Alexander H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

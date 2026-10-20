@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "mechanical-insulation-middletown",
+  "company": "Mechanical Insulation Services",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+15706957584",
+  "phone_display": "(570) 695-7584",
+  "has_website": false,
+  "rating": 1.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mechanical%20Insulation%20Services&query_place_id=ChIJwy2exx6WyIkRW4wu7bMFUL8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Highspire",
+    "Hummelstown",
+    "Hershey",
+    "Steelton",
+    "New Cumberland"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tt-millersburg",
+  "company": "T & T Services Inc",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+17176920656",
+  "phone_display": "(717) 692-0656",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=T%20%26%20T%20Services%20Inc&query_place_id=ChIJYYaVTtXMyIkRA4W7JsFMuMg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Elizabethville",
+    "Lykens",
+    "Gratz",
+    "Dauphin",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Had a sewer backup and they came right to help. I would highly reccomend them for any septic needs!",
+      "author": "Colby L.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Did everything as promised. Fair prices. Professional service.",
+      "author": "D L.",
+      "stars": 5,
+      "month": "July 2022"
+    },
+    {
+      "text": "Been using T&T for 6 years now. Always prompt and take the time to answer questions and make recommendations as applicable.",
+      "author": "Jared M.",
+      "stars": 5,
+      "month": "June 2022"
+    }
+  ],
+  "gallery": []
+}

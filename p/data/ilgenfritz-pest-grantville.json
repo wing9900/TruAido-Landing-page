@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "ilgenfritz-pest-grantville",
+  "company": "Ilgenfritz pest control and painting",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Grantville",
+  "state": "PA",
+  "phone": "+17176394225",
+  "phone_display": "(717) 639-4225",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ilgenfritz%20pest%20control%20and%20painting&query_place_id=ChIJrVbsqUZY30YRZQ77sj5Vo_4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Hershey",
+    "Lower Paxton Township",
+    "Lykens",
+    "Elizabethville",
+    "Williamstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

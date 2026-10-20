@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "earthwise-landscape-tree-lancaster",
+  "company": "Earthwise landscape and tree care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176262541",
+  "phone_display": "(717) 626-2541",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Earthwise%20landscape%20and%20tree%20care&query_place_id=ChIJ_X-1PaNbbUsRzn7TtScfa9U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

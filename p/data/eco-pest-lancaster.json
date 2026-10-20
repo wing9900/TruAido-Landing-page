@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "eco-pest-lancaster",
+  "company": "Eco Pest Control of Lancaster",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174707456",
+  "phone_display": "(717) 470-7456",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Eco%20Pest%20Control%20of%20Lancaster&query_place_id=ChIJr3mBUfglxokRkTZmFUIK8nA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "We heard scratching in the attic and needed expert aid quickly. This business tackled the problem with a great rodent control strategy. They caught the mice and shut our roof's entryways. Their service was excellent throughout.",
+      "author": "Edna J.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Great pest control business. They effectively addressed a mouse problem in the garage and provided excellent guidance to ensure it doesn't occur again.",
+      "author": "Diane A.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

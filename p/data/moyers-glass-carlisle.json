@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "moyers-glass-carlisle",
+  "company": "Moyer's Glass Services",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173854738",
+  "phone_display": "(717) 385-4738",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Moyer's%20Glass%20Services&query_place_id=ChIJFc1-jtcfyYkRS0lcRAi21ys",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "Earl went above and beyond! Great service to fix our windows.",
+      "author": "Jennifer S.",
+      "stars": 5,
+      "month": "June 2021"
+    },
+    {
+      "text": "Excellent service. Quick and brilliant results!",
+      "author": "Jonathan M.",
+      "stars": 5,
+      "month": "August 2019"
+    }
+  ],
+  "gallery": []
+}

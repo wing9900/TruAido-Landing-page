@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "homestead-christiana",
+  "company": "Homestead Services LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Christiana",
+  "state": "PA",
+  "phone": "+14846438524",
+  "phone_display": "(484) 643-8524",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Homestead%20Services%20LLC&query_place_id=ChIJDRnTRcVIxokRnhg6mUsvHZQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Paradise",
+    "Kirkwood",
+    "Ronks",
+    "Gap",
+    "Quarryville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "I have had Matt from homestead Svc do a lot of work on my lawn! Matt does amazing work and always with a smile! I was so impressed by his work and he always finished the day doing the job right and made sure it looked good to his and my satisfaction!",
+      "author": "teresa S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "quickly, accurately, and efficiently.. I am very pleased with their work",
+      "author": "stiven K.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Highly recommended for all of your tree work needs. Elmer and crew did an awesome job cleaning up all of the storm damage at my house in Holtwood. Very professional and Great price as well. This is my second time using them.",
+      "author": "andy M.",
+      "stars": 5,
+      "month": "September 2023"
+    }
+  ],
+  "gallery": []
+}

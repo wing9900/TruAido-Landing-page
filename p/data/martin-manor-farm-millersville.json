@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "martin-manor-farm-millersville",
+  "company": "Martin Manor Farm",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Millersville",
+  "state": "PA",
+  "phone": "+17178420509",
+  "phone_display": "(717) 842-0509",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 27,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Manor%20Farm&query_place_id=ChIJS-5YebgoxokRHhxXpY816oA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Washington Boro",
+    "Conestoga",
+    "Mountville",
+    "Pequea",
+    "Willow Street",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Great small tree farm! We always find our perfect tree \u2665\ufe0f Free hot chocolate, small shop with crafts and old fashioned candy. Very helpful and friendly! Suggestion - go early and tag a tree!!",
+      "author": "Deborah M.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406306/truaido-previews/martin-manor-farm-millersville/work1"
+  ]
+}

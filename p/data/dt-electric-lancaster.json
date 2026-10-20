@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "dt-electric-lancaster",
+  "company": "D&T Electric LLC",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173403000",
+  "phone_display": "(717) 340-3000",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=D%26T%20Electric%20LLC&query_place_id=ChIJV7l6-Bk6xokRPY3rHbZHieY",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792477823/truaido-previews/dt-electric-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Leola",
+    "Mountville",
+    "Willow Street",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Great Company! I may be partial since one of the owners Darrian and I both worked for my father a couple decades ago. I've hired his team for commercial and residential work and they always do a great job and exceed my expectations.",
+      "author": "P3T3",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Darain and Troy are excellent. Fair pricing and exceptional service work. I highly recommend calling them for all of your electrical needs!!",
+      "author": "William C.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "Great service! Electricians are polite and efficient.",
+      "author": "Pam F.",
+      "stars": 5,
+      "month": "November 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477824/truaido-previews/dt-electric-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477824/truaido-previews/dt-electric-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477825/truaido-previews/dt-electric-lancaster/work3"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "hv-mechanical-camp-hill",
+  "company": "HV Mechanical Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177612000",
+  "phone_display": "(717) 761-2000",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 60,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HV%20Mechanical%20Services&query_place_id=ChIJTyHCN5rDyIkRAHuroI5CHxg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408127/truaido-previews/hv-mechanical-camp-hill/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#018801",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "We have an old house so we've used HV for a bunch of things: plumbing, HVAC, electric. Just had Josh here doing some electrical work and he did a great job. He came across an unexpected issue but figured it out and still left with everything working.",
+      "author": "Ben L.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Our historic railroad tower building needed extensive plumbing repairs and upgrades after nearly 100 years of service. When our last functional bathroom failed, we faced the prospect of delaying our public opening indefinitely.",
+      "author": "Robert K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Excellent exp\u00e9rience today - responsive, thorough, good communication. The tech was respectful of my home and explained the situation well. No upsales.",
+      "author": "Heather D.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408127/truaido-previews/hv-mechanical-camp-hill/work1"
+  ]
+}

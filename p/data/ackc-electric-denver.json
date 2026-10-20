@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ackc-electric-denver",
+  "company": "ACKC Electric",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17174660404",
+  "phone_display": "(717) 466-0404",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ACKC%20Electric&query_place_id=ChIJjZBLE89kkygRCr_t2424ZuY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Adamstown",
+    "Narvon",
+    "East Earl",
+    "Reinholds",
+    "Stevens",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "This is a wonderful company to work with! I would definitely recommend them. They usually come out pretty quick. May the Lord bless them.\ud83d\ude4f",
+      "author": "Jr.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Tony and his crew are amazing! Punctual. Professional. Excellent electricians who take pride in doing things with perfection. Highly recommend!",
+      "author": "Kimberley S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "We couldn\u2019t be more pleased with the exceptional skill and professionalism of Tony and Alexis, from ACKC Electric. After a number of power outages in our area, we decided to have a solar powered generator and transfer switch box installed.",
+      "author": "Doug P.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

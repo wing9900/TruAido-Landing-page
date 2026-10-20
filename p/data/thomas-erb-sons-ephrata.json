@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "thomas-erb-sons-ephrata",
+  "company": "Thomas H Erb & Sons",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177334371",
+  "phone_display": "(717) 733-4371",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thomas%20H%20Erb%20%26%20Sons&query_place_id=ChIJX37peJ0WxokRJBvM6NQYkoM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Lititz",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Called them after I recently bought a house with a septic tank not knowing anything about them. They were super helpful and got me scheduled earlier than expected!",
+      "author": "Mike G.",
+      "stars": 5,
+      "month": "December 2023"
+    },
+    {
+      "text": "I have used erb & sons for the last 13 years....septic issues are very stressful and Lynn was so sweet keeping me calm..Joel and Kevin are amazing skilled workers..they are always upbeat and friendly and helpful...they fixed my alarm box and troubleshot my...",
+      "author": "Haygrrl",
+      "stars": 5,
+      "month": "September 2021"
+    },
+    {
+      "text": "I used Thomas Erb & Son to service my septic system last week and I was extremely happy with the professional knowledge that the workers had of my system. I was also very pleased with the price of the service. It was a very fair amount for the work performed.",
+      "author": "Adam R.",
+      "stars": 5,
+      "month": "October 2017"
+    }
+  ],
+  "gallery": []
+}

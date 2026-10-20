@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "just-in-case-lititz",
+  "company": "Just In Case Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17175688616",
+  "phone_display": "(717) 568-8616",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 175,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Just%20In%20Case%20Mechanical%2C%20LLC&query_place_id=ChIJexb4-8IjxokRqSZB7H1Mo9o",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Brownstown",
+    "Lancaster",
+    "Akron",
+    "Manheim",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "I was very pleased with the excellent customer service from Just In Case. My appointment was scheduled right away and the technician (Justin) was punctual and efficient . Great experience if you have to call a plumber, call Just In Case.",
+      "author": "Ken G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We had two emergency that Justin and his staff did a great job in a short period of time. The job was completed with no rework. I would recommend Just In Case Plumbing & Electrical to family and friends.",
+      "author": "Lewis B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I am very pleased with the service we received from Just In Case! We had 2 tankless hot water systems installed. The owner and crew provided good communication about the job and time frame. They arrived in a timely manner, which we appreciate.",
+      "author": "Rosemarie C.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

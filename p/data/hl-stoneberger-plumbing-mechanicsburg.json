@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "hl-stoneberger-plumbing-mechanicsburg",
+  "company": "H.L. Stoneberger Plumbing & heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177969882",
+  "phone_display": "(717) 796-9882",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=H.L.%20Stoneberger%20Plumbing%20%26%20heating&query_place_id=ChIJ4ZPTQIfnyIkRaxhW1QCXLVs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408140/truaido-previews/hl-stoneberger-plumbing-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#C53D00",
+  "nearby_towns": [
+    "Hampden Township",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill",
+    "Boiling Springs",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Lost water pressure and had a leak from the pressure switch of our well, Jesse came out to diagnose the issue first thing the next day and the guys got us fixed up quickly, honestly and at a reasonable price. We will be a returning customer. Highly recommend.",
+      "author": "Rebecca F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The team at H.L. Stoneberger Plumbing & heating are the best of the best! Those guys are knowledgeable trades men. The hardest working group of guys. Whether its my AC or furnace or a plumbing issue they always do an outstanding job!",
+      "author": "Josh M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

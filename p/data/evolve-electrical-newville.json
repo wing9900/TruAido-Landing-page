@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "evolve-electrical-newville",
+  "company": "Evolve Electrical & HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17173860792",
+  "phone_display": "(717) 386-0792",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Evolve%20Electrical%20%26%20HVAC&query_place_id=ChIJA6HUOuEZyYkR899fyQpye28",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Carlisle",
+    "Walnut Bottom",
+    "Newburg",
+    "Boiling Springs",
+    "Shippensburg",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "Highly recommend for any electrical or HVAC needs. On time for his job. Very professional, personable and neat! Will definitely call for any other needs.",
+      "author": "SIERRA",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Highly recommended, was very neat and quick. Does great work and very friendly!",
+      "author": "Devin D.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Ben and his partner just left - we'll absolutely be calling for all of our future electric and HVAC needs. They were on time, explained everything clearly, and cleaned up after their work was done.",
+      "author": "Brian D.",
+      "stars": 5,
+      "month": "June 2024"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "one-call-group-lancaster",
+  "company": "One Call Service Group",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174593877",
+  "phone_display": "(717) 459-3877",
+  "has_website": false,
+  "rating": 3.8,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=One%20Call%20Service%20Group&query_place_id=ChIJ4WAUX6smxokR0nQwOD6L6yg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Manheim",
+    "Akron",
+    "East Petersburg",
+    "Brownstown",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "One Call is my \u201cgo-to\u201d for any projects around my home. They\u2019ve done a great job with multiple projects in my home, from kitchen renovations to exterior work and several electrical/plumbing fixes. Jim and Ben are also really easy to work with.",
+      "author": "Hannah M.",
+      "stars": 5,
+      "month": "June 2019"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406478/truaido-previews/one-call-group-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406479/truaido-previews/one-call-group-lancaster/work2"
+  ]
+}

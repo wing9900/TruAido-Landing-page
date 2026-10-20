@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "billows-tree-halifax",
+  "company": "Billow\u2019s Tree & Landscape, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17177435871",
+  "phone_display": "(717) 743-5871",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 36,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Billow%E2%80%99s%20Tree%20%26%20Landscape%2C%20LLC&query_place_id=ChIJIQxup2LJyIkR4UGJ_9tsL3M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethville",
+    "Millersburg",
+    "Dauphin",
+    "Lykens",
+    "Summerdale",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Great work! They were honest and fair with pricing and got the job done fast. They really out did themselves and went above and beyond my expectations.",
+      "author": "Peter M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We couldn't be more pleased with the exceptional job these guys did..from giving an estimate to cleaning up. They were constantly working. Highly recommend Evan and his team..thank you...",
+      "author": "Joette D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Evan and his team were professional and easy to work with. From the day I called to inquire about a quote to the day the work was completed was less than one week. The cost for the work was reasonable. The quality of work was exceptional!",
+      "author": "Rachael W.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407270/truaido-previews/billows-tree-halifax/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407271/truaido-previews/billows-tree-halifax/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407272/truaido-previews/billows-tree-halifax/work3"
+  ]
+}

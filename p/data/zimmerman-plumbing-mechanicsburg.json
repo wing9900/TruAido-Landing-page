@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "zimmerman-plumbing-mechanicsburg",
+  "company": "Zimmerman Plumbing, Heating & Air Conditioning, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176961776",
+  "phone_display": "(717) 696-1776",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 1584,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zimmerman%20Plumbing%2C%20Heating%20%26%20Air%20Conditioning%2C%20Inc.&query_place_id=ChIJoRRePQboyIkRBTkq1qrGIyQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Dillsburg",
+    "Lemoyne",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "We would highly recomend Zimmerman Plumbing and Heating to anyone needing a plumber, electrician or HVAC. Their personnel are very professional and customer service oriented. Their employees are well versed on the latest standards and trainings out there.",
+      "author": "Justin B.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Paul did a fantastic job investigating and finding the source of a slow water leak showing up on our basement ceiling. He was able locate the leak, determine the best approach to repairing the leak with the least amount of material and time.",
+      "author": "Michael G.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407682/truaido-previews/zimmerman-plumbing-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407683/truaido-previews/zimmerman-plumbing-mechanicsburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407683/truaido-previews/zimmerman-plumbing-mechanicsburg/work3"
+  ]
+}

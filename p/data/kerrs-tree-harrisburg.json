@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "kerrs-tree-harrisburg",
+  "company": "Kerr's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179619475",
+  "phone_display": "(717) 961-9475",
+  "has_website": false,
+  "rating": 4.6,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kerr's%20Tree%20Service&query_place_id=ChIJ2bEgQdsZyYkRmemmDErAG24",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408318/truaido-previews/kerrs-tree-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408320/truaido-previews/kerrs-tree-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#58803C",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Carlisle",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "If you are looking for any of the services this company offers, definitely choose them! I cannot say enough about them! Zachery goes above and beyond. There are not many businessmen left in the world like this. Let\u2019s keep him in business.",
+      "author": "Tammy R.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Zachary is very prompt, courteous, and professional! Great pricing and great service!!",
+      "author": "Keith K.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "After a very upsetting experience with another company I was recommended to call Kerr\u2019s. From the very beginning I was treated with respect and courtesy. As a first time homeowner and a widow, I can\u2019t say how much I appreciate the kindness and patience.",
+      "author": "Krystyn M.",
+      "stars": 5,
+      "month": "January 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408319/truaido-previews/kerrs-tree-harrisburg/work1"
+  ]
+}

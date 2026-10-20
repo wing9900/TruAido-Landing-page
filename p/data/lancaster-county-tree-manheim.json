@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "lancaster-county-tree-manheim",
+  "company": "Lancaster County Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17174619888",
+  "phone_display": "(717) 461-9888",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20County%20Tree%20Service&query_place_id=ChIJEXwx-SjAqygRAIFaV2GBJa4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406043/truaido-previews/lancaster-county-tree-manheim/logo",
+    "layout": "square",
+    "badge": "#111827"
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "Lititz",
+    "East Petersburg",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "They weren't the first company we called. We didn't even know they existed. Other companies ghosted us, didn't return phone calls, kept us waiting for weeks with no communication.",
+      "author": "Jack P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service! They were great to communicate with and did a great job clearing out the tree that fell in my backyard. Definitely would recommend them.",
+      "author": "Ash R.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406041/truaido-previews/lancaster-county-tree-manheim/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406042/truaido-previews/lancaster-county-tree-manheim/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406043/truaido-previews/lancaster-county-tree-manheim/work3"
+  ]
+}

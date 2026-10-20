@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "yordys-home-harrisburg",
+  "company": "Yordy's Home Services LLC.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176149133",
+  "phone_display": "(717) 614-9133",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Yordy's%20Home%20Services%20LLC.&query_place_id=ChIJI5u0xwG5yIkRkLJz77IjKtE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407417/truaido-previews/yordys-home-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1476A5",
+  "nearby_towns": [
+    "Grantville",
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Dauphin",
+    "Halifax",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "Yordy's is mom and pops care with quality of service wrapped into one. They explained the technical details of my problem, offered a solution, and got my AC back up and running during this latest heat wave.",
+      "author": "Z J.",
+      "stars": 5,
+      "month": "September 2023"
+    },
+    {
+      "text": "Awesome dude! Came to the rescue when I needed it most! We\u2019ll be sure to recommend to everyone I know!!",
+      "author": "Dipan P.",
+      "stars": 5,
+      "month": "July 2023"
+    },
+    {
+      "text": "I can\u2019t thank Donny enough for installing our new system. He was extremely professional by explaining the process and working nonstop on the installation.",
+      "author": "nick S.",
+      "stars": 5,
+      "month": "April 2023"
+    }
+  ],
+  "gallery": []
+}

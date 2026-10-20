@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "nuisance-wildlife-summerdale",
+  "company": "Nuisance Wildlife",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Summerdale",
+  "state": "PA",
+  "phone": "+17177328099",
+  "phone_display": "(717) 732-8099",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 31,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nuisance%20Wildlife&query_place_id=ChIJq6qqqmq3yIkRvkO8WtC6DVM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408223/truaido-previews/nuisance-wildlife-summerdale/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#007135",
+  "nearby_towns": [
+    "Enola",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Harrisburg",
+    "Lemoyne",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "I had a groundhog under my porch and finally caught him in a live trap. I called Nuisance Wildlife at 11:00 and George was here by 1:00 to take it away. He gave me some advice on keeping critters and him away down the road.",
+      "author": "Brian G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "We\u2019ve had bat problems in our old house for the past four years. We found a live bat under our piano. George came out quick, was very knowledgeable, and finished the job quickly for us. I definitely recommend his services!",
+      "author": "Brielle S.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "This guy is a no nonsense wildlife nuisance removal service. Excellent communication on phone and always careful to maintain safety and respect to the animal. He removed a possum for me that was living under a building.",
+      "author": "Mike C.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408221/truaido-previews/nuisance-wildlife-summerdale/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408221/truaido-previews/nuisance-wildlife-summerdale/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408223/truaido-previews/nuisance-wildlife-summerdale/work3"
+  ]
+}

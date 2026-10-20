@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "suburban-ac-repair-harrisburg",
+  "company": "Suburban AC Repair Pros",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174275564",
+  "phone_display": "(717) 427-5564",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Suburban%20AC%20Repair%20Pros&query_place_id=ChIJLwRnf8XHyIkRH5AKANNYVzA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Enola",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "I was hoping for thorough A/C maintenance to avoid future issues, and fortunately, the technician seemed detailed in his work and explained everything clearly.",
+      "author": "JOHNSON B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "The preventive maintenance visit revealed that our A/C unit needed a minor adjustment to ensure optimal performance. Coordinating with building management was straightforward, and the technician handled everything professionally.",
+      "author": "GRACIELA D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "After a previous disappointing experience with a contractor, I was hesitant but needed to address my ductless heating and A/C issues. The technicians were punctual and clearly explained each step of the service process, which helped ease my concerns.",
+      "author": "BOBBIE H.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

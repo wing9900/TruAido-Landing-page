@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "stumpbustersllc-stump-elizabethtown",
+  "company": "StumpBustersLLC - Stump Grinding",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17174681978",
+  "phone_display": "(717) 468-1978",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=StumpBustersLLC%20-%20Stump%20Grinding&query_place_id=ChIJiYaPmXaZyIkRiGNVNZb8NKA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406035/truaido-previews/stumpbustersllc-stump-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#DD1319",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "I had a tree stump removed from my backyard by StumpBusters LLC, and I couldn\u2019t be happier with the service. They arrived on time, were very friendly and professional, and did an excellent job grinding the stump.",
+      "author": "Ernesto R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "We had two uprooted trees from the heavy snow this winter. We cut down the trees and had StumpBusters out to get everything ground down. He went above and beyond, and our yard looks great! If we had more to do, we\u2019d hire them in a heartbeat!",
+      "author": "Jenna P.",
+      "stars": 5,
+      "month": "April 2024"
+    },
+    {
+      "text": "It was for a tree stump grinding. Affordable and efficient. On time. Clean up afterwards. Before and after photos attached",
+      "author": "Anthony M.",
+      "stars": 5,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406034/truaido-previews/stumpbustersllc-stump-elizabethtown/work1"
+  ]
+}

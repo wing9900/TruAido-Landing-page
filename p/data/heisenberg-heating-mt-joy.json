@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "heisenberg-heating-mt-joy",
+  "company": "Heisenberg Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17179283302",
+  "phone_display": "(717) 928-3302",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 25,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Heisenberg%20Heating%20and%20Cooling&query_place_id=ChIJjUJQzsyfyIkRNdnRC5uqFzk",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406736/truaido-previews/heisenberg-heating-mt-joy/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406737/truaido-previews/heisenberg-heating-mt-joy/logo",
+    "layout": "square",
+    "badge": "#000000"
+  },
+  "accent": "#0B7498",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy Township",
+    "Manheim",
+    "Columbia",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Quick and affordable service - got our A/C back up and running on a hot day.",
+      "author": "Alex K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "A great company to use they came out and helped my family with there ac the same day we called. The service was great",
+      "author": "Das F.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Excellent and ethical service! Michael responded to my request quickly and was ready to provide next day service. I explained what was going on with my hvac and I could tell from the conversation that he was the right person for the job.",
+      "author": "Dawn K.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406737/truaido-previews/heisenberg-heating-mt-joy/work1"
+  ]
+}

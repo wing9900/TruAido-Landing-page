@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "thunder-creek-tree-lancaster-2",
+  "company": "Thunder Creek Tree and Property",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173305003",
+  "phone_display": "(717) 330-5003",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thunder%20Creek%20Tree%20and%20Property&query_place_id=ChIJ79YX8aIXxokRazJR3sqAttg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leola",
+    "Brownstown",
+    "East Petersburg",
+    "Lititz",
+    "Akron",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "These guys went above and beyond. Very personable and professional. I saw their number on the back of a truck (homemade advertising so I knew it was a small business and I like to support small businesses) I called (it was on a Saturday) and they went to my...",
+      "author": "DoReMi F.",
+      "stars": 5,
+      "month": "November 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406225/truaido-previews/thunder-creek-tree-lancaster-2/work1"
+  ]
+}

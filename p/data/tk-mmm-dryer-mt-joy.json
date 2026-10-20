@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tk-mmm-dryer-mt-joy",
+  "company": "T&K MMM Dryer Vent & Air Duct Cleaning And Chimney Inspection Services Of PA,",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+12232826437",
+  "phone_display": "(223) 282-6437",
+  "has_website": false,
+  "rating": 4.5,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=T%26K%20MMM%20Dryer%20Vent%20%26%20Air%20Duct%20Cleaning%20And%20Chimney%20Inspection%20Services%20Of%20PA%2C&query_place_id=ChIJn5iWhaueyIkRPG38bXv_LEM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Marietta",
+    "Mount Joy Township",
+    "Elizabethtown",
+    "Columbia",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "They exceeded expectations with their mold removal services. Mold remediation services were handled carefully, and Dominic ensured the mold removal solved the issue completely. The mold cleaning was excellent.",
+      "author": "hallen D.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "I recently hired T&K MMM Dryer Vent & Air Duct Cleaning And Chimney Inspection Services Of PA for dryer vent maintenance, and I was very pleased with the service. Richard carried out a detailed dryer vent inspection service and found a large lint build up.",
+      "author": "Sandeep B.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "The service provided by T&K MMM Dryer Vent & Air Duct Cleaning Service in Mount Joy has left me ecstatic. Zachary managed everything effectively and professionally. Cleaning the dryer vent was our first task, but we soon realized we needed more assistance.",
+      "author": "Milon D.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

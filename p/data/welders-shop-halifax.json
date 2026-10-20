@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "welders-shop-halifax",
+  "company": "Welders Shop",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17178968114",
+  "phone_display": "(717) 896-8114",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Welders%20Shop&query_place_id=ChIJ8VSn3cbOyIkR6HV7nrR58QY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dauphin",
+    "Millersburg",
+    "Summerdale",
+    "Enola",
+    "Elizabethville",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

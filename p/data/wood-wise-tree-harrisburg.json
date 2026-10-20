@@ -1,0 +1,39 @@
+{
+  "v": 1,
+  "slug": "wood-wise-tree-harrisburg",
+  "company": "Wood Wise Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173294460",
+  "phone_display": "(717) 329-4460",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Wood%20Wise%20Tree%20Service&query_place_id=ChIJrT3WzmPESCYRmPV_1EdVhXA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lykens",
+    "Gratz",
+    "Elizabethville",
+    "Williamstown",
+    "Halifax",
+    "Grantville"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407292/truaido-previews/wood-wise-tree-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407293/truaido-previews/wood-wise-tree-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407294/truaido-previews/wood-wise-tree-harrisburg/work3"
+  ]
+}

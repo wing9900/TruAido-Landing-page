@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "mahoneys-plumbing-carlisle",
+  "company": "Mahoney's Plumbing Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17174972511",
+  "phone_display": "(717) 497-2511",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mahoney's%20Plumbing%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJH0VoSIB82kYR2Xy6FdAGx_I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Walnut Bottom",
+    "Newburg",
+    "Shippensburg",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [],
+  "gallery": []
+}

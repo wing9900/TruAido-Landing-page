@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "no-sweat-hvac-lancaster",
+  "company": "No Sweat HVAC LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174783940",
+  "phone_display": "(717) 478-3940",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=No%20Sweat%20HVAC%20LLC&query_place_id=ChIJbQfQuUAYz0gRCLwFnTlQduI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406552/truaido-previews/no-sweat-hvac-lancaster/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#A35B05",
+  "nearby_towns": [
+    "East Petersburg",
+    "Mountville",
+    "Landisville",
+    "Millersville",
+    "Salunga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "No Sweat HVAC really lives up to the name! My A/C went out the night before, and I was able to get in touch with Gabe the next morning. He was at my house shortly after lunch.",
+      "author": "Kurt R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I highly recommend No Sweat HVAC LLC! My refrigerator had been out of service for a long time, and they took the time to properly diagnose and fix the problem.",
+      "author": "Sahara R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Called the advertised number and spoke to the person who came to the house to fix my unit, not some random office with people making appointments with subcontractors.",
+      "author": "Mazen M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

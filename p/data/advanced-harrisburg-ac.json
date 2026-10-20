@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "advanced-harrisburg-ac",
+  "company": "Advanced Harrisburg AC Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175516121",
+  "phone_display": "(717) 551-6121",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Advanced%20Harrisburg%20AC%20Repair&query_place_id=ChIJIWlXz9DByIkRGZiv8qyWzKc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407020/truaido-previews/advanced-harrisburg-ac/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#4A70D6",
+  "nearby_towns": [
+    "Lemoyne",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Steelton",
+    "Camp Hill",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Compared to my last experience with vent cleaning, this visit was satisfactory overall, although I wish they had communicated the expected time of arrival more clearly.",
+      "author": "JAN B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The coordination with building management for this A/C system maintenance visit was more efficient than my previous experience, and the technician was thorough in explaining what was done.",
+      "author": "LUC M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Thorough maintenance, the system runs great.",
+      "author": "Dorothy G.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

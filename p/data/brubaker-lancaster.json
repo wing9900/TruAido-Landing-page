@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "brubaker-lancaster",
+  "company": "Brubaker Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172995641",
+  "phone_display": "(717) 299-5641",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 1357,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Brubaker%20Inc.&query_place_id=ChIJvTHwUv8jxokRht-xgi_Xkc0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Mountville",
+    "Salunga",
+    "Millersville",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service. Professional and polite.",
+      "author": "Kim S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Dylan was great. He was friendly and did his job well.",
+      "author": "Eve W.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406789/truaido-previews/brubaker-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406790/truaido-previews/brubaker-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406791/truaido-previews/brubaker-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406792/truaido-previews/brubaker-lancaster/work4"
+  ]
+}

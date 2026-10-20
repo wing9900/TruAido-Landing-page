@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "green-tree-harrisburg-2",
+  "company": "Green Tree Property Care & Maintenance",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173957691",
+  "phone_display": "(717) 395-7691",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Green%20Tree%20Property%20Care%20%26%20Maintenance&query_place_id=ChIJt--iG1K5yIkR-1owoK_WAf4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407380/truaido-previews/green-tree-harrisburg-2/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#06673F",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Enola",
+    "Summerdale",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Max did an excellent job in our backyard. He worked very professionally and communicated clearly throughout the process. His pricing was reasonable, and I would highly recommend hiring him for tree cutting. Thank you for your service.",
+      "author": "Deepak T.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Did a great job for a reasonable price. I'll be contacting them again!",
+      "author": "Jack D.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Max was great in the middle of the past polar vortex came out and took out 2 dead trees and trimmed a 3rd. Awesome and cleaned up. Good Job",
+      "author": "Kim J.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407376/truaido-previews/green-tree-harrisburg-2/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407377/truaido-previews/green-tree-harrisburg-2/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407378/truaido-previews/green-tree-harrisburg-2/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407379/truaido-previews/green-tree-harrisburg-2/work4"
+  ]
+}

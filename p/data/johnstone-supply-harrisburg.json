@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "johnstone-supply-harrisburg",
+  "company": "Johnstone Supply",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172337593",
+  "phone_display": "(717) 233-7593",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Johnstone%20Supply&query_place_id=ChIJu-fPKo3AyIkR3liHTvbIMQ8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407072/truaido-previews/johnstone-supply-harrisburg/logo",
+    "layout": "square",
+    "badge": "#004890"
+  },
+  "accent": "#DC121D",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "East Pennsboro Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "I've used Johnston Supply in NJ and NY and also helpful place.",
+      "author": "Gregory B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I have always used Johnstone Supply in NY and PA. They worked with me to help grow my company to over 400k in my first year utilizing their liberty program. if you are a new HVAC company, I encourage you to call Matt Snyder and set up an account.",
+      "author": "steven M.",
+      "stars": 5,
+      "month": "January 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407071/truaido-previews/johnstone-supply-harrisburg/work1"
+  ]
+}

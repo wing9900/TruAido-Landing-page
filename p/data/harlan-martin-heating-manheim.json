@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "harlan-martin-heating-manheim",
+  "company": "Harlan O. Martin Heating & Plumbing, LLC.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17174683405",
+  "phone_display": "(717) 468-3405",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Harlan%20O.%20Martin%20Heating%20%26%20Plumbing%2C%20LLC.&query_place_id=ChIJdd9J_6IexokRPovnZ9Oz3DE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405679/truaido-previews/harlan-martin-heating-manheim/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#0555A3",
+  "nearby_towns": [
+    "Lititz",
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Akron",
+    "Ephrata"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "chimney-pro-lancaster",
+  "company": "Chimney Pro",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12233650770",
+  "phone_display": "(223) 365-0770",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chimney%20Pro&query_place_id=ChIJT4MPSvMkxokRrWPd2kUbUVI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Willow Street",
+    "Leola",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Chimney pro, did a great job with my fireplace. With other places, I had to wait for months. They are polite and service oriented. They left my fireplace clean and spotless. I felt confident that my fireplace was safe to use.",
+      "author": "Lopez A.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Energy Saver Solutions installed a heat pump system at our house. I would give them 6 stars if I could, because 1) they offered me a same-day quote ; 2) their price was the most competitive; 3) they offered scheduling two weeks out; 4) they showed up on time...",
+      "author": "levi S.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405964/truaido-previews/chimney-pro-lancaster/work1"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "rick-sons-tree-boiling",
+  "company": "Rick & Sons Tree & Stump Removal",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Boiling Springs",
+  "state": "PA",
+  "phone": "+17174488594",
+  "phone_display": "(717) 448-8594",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rick%20%26%20Sons%20Tree%20%26%20Stump%20Removal&query_place_id=ChIJ1z0xql7jyIkRDRnwsFotv0M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Carlisle",
+    "Gardners",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

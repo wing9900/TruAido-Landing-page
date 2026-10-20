@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "pure-air-heaing-lancaster",
+  "company": "Pure Air Heaing and Cooling, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179458861",
+  "phone_display": "(717) 945-8861",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pure%20Air%20Heaing%20and%20Cooling%2C%20LLC&query_place_id=ChIJW_9oVRovxokRqIhcmLUQX8Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406463/truaido-previews/pure-air-heaing-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1A757F",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Lititz",
+    "Leola",
+    "Ephrata",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Chad and his team were wonderful to work with! They were professional and efficient. He replaced our furnace and cleaned out our duct work. 10/10 recommend!!",
+      "author": "Kelly H.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Chad replaced the heating system and hot water heater in my house. When it was time to replace the entire HVAC system in my Mom's house I suggested Pure Air Heating and Cooling. They did a great job at a very reasonable price.",
+      "author": "Patrick C.",
+      "stars": 5,
+      "month": "August 2022"
+    },
+    {
+      "text": "Chad and his team were professional when installing our new hot water heater. They were thorough and made it a point to leave our home cleaner than when they arrived. We will definitely use them again! - Max and Emma S.",
+      "author": "Emma S.",
+      "stars": 5,
+      "month": "October 2021"
+    }
+  ],
+  "gallery": []
+}

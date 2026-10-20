@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "quick-response-heating-lancaster",
+  "company": "Quick Response Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179237704",
+  "phone_display": "(717) 923-7704",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Quick%20Response%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJMwzS8vgjxokRq-ki-b2f7vQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Leola",
+    "Brownstown",
+    "Lititz",
+    "Millersville",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Blown away by this HVAC service! When the crew showed up right on the dot, their warm welcome instantly put me at ease. As they tackled my AC installation, they broke down each step in plain English, making sure I was in the loop.",
+      "author": "Chase B.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dew-septic-mechanicsburg",
+  "company": "DEW Septic, LLC (Formerly DEW & Sons Septic Services)",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17172263633",
+  "phone_display": "(717) 226-3633",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=DEW%20Septic%2C%20LLC%20(Formerly%20DEW%20%26%20Sons%20Septic%20Services)&query_place_id=ChIJP03qh-0CjkwRmlUE2BudTHY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gardners",
+    "Boiling Springs",
+    "Carlisle",
+    "Walnut Bottom",
+    "Dillsburg",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "Dustin is the best. We had some issues with septic. He figured it out and fixed it. He accesses the problem and finds a solution without breaking the bank. He's reliable, reasonable price and smart. He does great work as well. Very friendly.",
+      "author": "Gmhammel@comcast.net P.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Highly recommend you use DEW septic. They will give you honest advice and won't try to sell you on things you don't need.",
+      "author": "matthew P.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "I had an excellent experience with Dustin at DEW Septic, LLC, and couldn\u2019t be happier. Nobody wants to face septic issues two days before the holidays, but that\u2019s when emergencies happen!",
+      "author": "Robert S.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": []
+}

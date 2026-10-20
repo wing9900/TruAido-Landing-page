@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "five-star-property-lancaster",
+  "company": "Five Star Property Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172781030",
+  "phone_display": "(717) 278-1030",
+  "has_website": false,
+  "rating": 3.5,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Five%20Star%20Property%20Service&query_place_id=ChIJaa5lW3whxokRMHfh7Mt7qME",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Our neighbors in Lancaster City hired 5 Star to remove a tree mostly in their yard. A large section of trunk was on my side of the fence, which is my responsibility. 5 Star cut up the trunk on my side also, took away and didn't charge me a dime.",
+      "author": "Cory M.",
+      "stars": 5,
+      "month": "January 2021"
+    }
+  ],
+  "gallery": []
+}

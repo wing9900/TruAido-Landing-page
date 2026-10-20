@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "pronto-plumbing-camp-hill",
+  "company": "Pronto Plumbing Heating Air Drains",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177373700",
+  "phone_display": "(717) 737-3700",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 2816,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pronto%20Plumbing%20Heating%20Air%20Drains&query_place_id=ChIJK46aFQvCyIkRuYsmNfat5Pc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Quincey provided the definition of an extraordinary customer experience. Listed to all my concerns. Fixed my problem quickly and for a reasonable price and even gave me tips on ways to prevent future issues.",
+      "author": "Karen C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Chris Shockley was efficient and professional and answered all my questions.",
+      "author": "Bill N.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I honestly can\u2019t say enough good things about Quincey! We were dealing with a stressful plumbing issue at our house, and it was such a relief to have him come out, take the time to figure out what was going on, and get the problem fixed.",
+      "author": "Nicole S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

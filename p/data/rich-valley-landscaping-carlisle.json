@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "rich-valley-landscaping-carlisle",
+  "company": "Rich Valley Landscaping LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17177435879",
+  "phone_display": "(717) 743-5879",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 40,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rich%20Valley%20Landscaping%20LLC&query_place_id=ChIJX85QjWMXMw4RcmLu1jNtxv4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407927/truaido-previews/rich-valley-landscaping-carlisle/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#BF4A09",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Hampden Township",
+    "Enola",
+    "Shiremanstown",
+    "Camp Hill",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Brandon was amazing at designing our new landscape for a 1990\u2019s house that needed updating. Rodney and the entire crew were so polite and courteous and worked so hard!",
+      "author": "Jessica N.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Many thanks to Rich Valley Landscaping LLC for refreshing several areas of our landscaping plus weeding and mulching our yard. We had planned to add low-voltage lighting, but Brandon suggested we use solar lights instead. That saved us a lot of money!",
+      "author": "Dave G.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Excellent work done at my home in Mechanicsburg. Great team. Extremely knowledgable and they work together well. Relined my flowerbeds, mulched, put drains in and replanted landscaping. Was very happy with the completed job. Would use them again.",
+      "author": "Sandy",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407921/truaido-previews/rich-valley-landscaping-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407922/truaido-previews/rich-valley-landscaping-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407925/truaido-previews/rich-valley-landscaping-carlisle/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407926/truaido-previews/rich-valley-landscaping-carlisle/work4"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "mikes-chimney-harrisburg",
+  "company": "Mikes Chimney Sweep",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175452141",
+  "phone_display": "(717) 545-2141",
+  "has_website": false,
+  "rating": 4.4,
+  "review_count": 83,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mikes%20Chimney%20Sweep&query_place_id=ChIJrZvAKEjHyIkRV8ulLCi06is",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Lemoyne",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Jake and team were great. They treated our house with respect and got the job done in an efficient manner. We\u2019ve used Mike\u2019s for years and will continue to do so to keep our stoves in clean working order.",
+      "author": "Derek H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I've used Mike's Chimney Sweep for the last 5 years and am always impressed by their service. I highly recommend!",
+      "author": "Chelsea C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I always call Mikes Chimney Sweep to clean our flue liners, before the burning season. They are reliable, professional and their pricing is always fair. Jake, who normaly comes out is very knowledgeable. He's a pro at what he does.",
+      "author": "Josh M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

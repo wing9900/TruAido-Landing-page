@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "dons-performance-corner-harrisburg",
+  "company": "Don's Performance Corner, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175647004",
+  "phone_display": "(717) 564-7004",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 180,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Don's%20Performance%20Corner%2C%20Inc.&query_place_id=ChIJP8kL_bi-yIkRT6l1zgoaSF0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407650/truaido-previews/dons-performance-corner-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0E5483",
+  "nearby_towns": [
+    "Hummelstown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Middletown",
+    "Steelton",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are very nice and explained a lot of things.",
+      "author": "Oliver C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service! Asked them to do a patch on a tire, they had it done in no time without any notice. Will be going back for more things when I have car issues.",
+      "author": "Matthew Z.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407647/truaido-previews/dons-performance-corner-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407648/truaido-previews/dons-performance-corner-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407649/truaido-previews/dons-performance-corner-harrisburg/work3"
+  ]
+}

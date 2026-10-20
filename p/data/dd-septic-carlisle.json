@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "dd-septic-carlisle",
+  "company": "D & D Septic",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172491082",
+  "phone_display": "(717) 249-1082",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=D%20%26%20D%20Septic&query_place_id=ChIJG8PKTCvgyIkRNxDfkuPK1l8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "Stanley was on time. Professional and gave good advice. He is busy so it takes 3 days to get a call returned, but that\u2019s ok.",
+      "author": "James R.",
+      "stars": 5,
+      "month": "May 2024"
+    }
+  ],
+  "gallery": []
+}

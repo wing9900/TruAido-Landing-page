@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "bakers-septic-elizabethtown",
+  "company": "Baker's Septic Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173677271",
+  "phone_display": "(717) 367-7271",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Baker's%20Septic%20Services&query_place_id=ChIJc11tb-OYyIkR9pRWklSBmms",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Mount Joy",
+    "Marietta",
+    "Bainbridge",
+    "Salunga",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "I hardly ever review unless warning others about dishonest service. However, I am extremely happy with Baker's. Very fast, professional, competitive pricing, family owned. Absolutely give them a call and leave a message, you will be glad you did",
+      "author": "Daniel M.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Mr. Baker was a pleasure to deal with. Given my circumstances Baker Septic Service was able to get the job done on time! Cannot thank Mr. Baker enough for all he did for us!! Would highly recommend Baker Septic Service for all your septic needs.",
+      "author": "Ron M.",
+      "stars": 5,
+      "month": "July 2020"
+    }
+  ],
+  "gallery": []
+}

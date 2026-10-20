@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "garden-spot-mechanical-manheim",
+  "company": "Garden Spot Mechanical Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176650270",
+  "phone_display": "(717) 665-0270",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Garden%20Spot%20Mechanical%20Inc&query_place_id=ChIJweP_XkMfxokR0WVQxO9D2D8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405728/truaido-previews/garden-spot-mechanical-manheim/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#145B35",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "Lititz",
+    "East Petersburg",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Bob and Jerry did a fantastic job taking care of our annual PM. They were here on time and went right to work. They explained what adjustments were made, and asked if I had any questions. They were both very professional and courteous.",
+      "author": "Neil J.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Recently had a kitchen sink issue. They were able to get to me within a couple days to fix me up. Easy to work with and simple payment process. Will be back!",
+      "author": "Chris S.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Our water heater died, I called GSM, and Bob and Trystan were at the house in 30 minutes. They explained our options, priced a new model, and three hours later it was installed and working! Great, efficient service by friendly, knowledgeable professionals!",
+      "author": "Chip P.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": []
+}

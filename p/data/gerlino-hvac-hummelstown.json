@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "gerlino-hvac-hummelstown",
+  "company": "Gerlino HVAC Repair Hummelstown",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+12233302398",
+  "phone_display": "(223) 330-2398",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gerlino%20HVAC%20Repair%20Hummelstown&query_place_id=ChIJ_UxOfQC9yIkR7F3l2cuQiHY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Middletown",
+    "Elizabethtown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "The HVAC crew worked efficiently during our new system installation. They tested the controls, explained the equipment's basic functions, and made sure we knew how to operate it.",
+      "author": "Elias M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service from a knowledgeable HVAC contractor. They were punctual, professional, honest, and efficient, making the entire repair process simple and stress-free.",
+      "author": "Ronald L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Gerlino HVAC Repair Hummelstown came out for an unusual clicking noise from our AC. The technician carefully inspected the unit and found the source. He completed the repair efficiently and tested the system afterward.",
+      "author": "Paxton W.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

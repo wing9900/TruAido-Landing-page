@@ -1,0 +1,47 @@
+{
+  "v": 1,
+  "slug": "freys-greenhouse-lancaster",
+  "company": "Frey's Greenhouse",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173974424",
+  "phone_display": "(717) 397-4424",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 152,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Frey's%20Greenhouse&query_place_id=ChIJFVX2VTgkxokR4YrgqHv6QKc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406279/truaido-previews/freys-greenhouse-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#692C91",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Mountville",
+    "Washington Boro",
+    "Landisville",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "What a gorgeous selections of plants and materials for gardening \ud83d\ude0d",
+      "author": "Melissa L.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406275/truaido-previews/freys-greenhouse-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406276/truaido-previews/freys-greenhouse-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406277/truaido-previews/freys-greenhouse-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406278/truaido-previews/freys-greenhouse-lancaster/work4"
+  ]
+}

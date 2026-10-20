@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "klv-heating-mechanicsburg",
+  "company": "KLV Heating Air Conditioning & Plumbing",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17173773487",
+  "phone_display": "(717) 377-3487",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=KLV%20Heating%20Air%20Conditioning%20%26%20Plumbing&query_place_id=ChIJ1cayhNsWyYkRgud6tV4ENZw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Carlisle",
+    "Boiling Springs",
+    "Walnut Bottom",
+    "Newburg",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "We needed to replace our water heater, add an expansion tank and have substantial corrections made to the plumbing in the basement of our 70-year-old house.",
+      "author": "Peg P.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "We had several guys look at the shower in our upstairs bathroom. KLV got the job done and it didn't break the bank. We're very happy with the outcome! Thanks Kris, I know it was a challenge but we're so happy we can use it!",
+      "author": "Nate B.",
+      "stars": 5,
+      "month": "July 2024"
+    },
+    {
+      "text": "I have used Kris numerous times for both HVAC and plumbing needs in my home. He is very responsive, does quality work and has reasonable rates. I recommend him to all my real estate clients as well. You\u2019re in good hands with Kris!",
+      "author": "Maggie L.",
+      "stars": 5,
+      "month": "January 2022"
+    }
+  ],
+  "gallery": []
+}

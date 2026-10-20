@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "camachos-stump-lancaster",
+  "company": "Camacho's Stump Grinding, LLC",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177996247",
+  "phone_display": "(717) 799-6247",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Camacho's%20Stump%20Grinding%2C%20LLC&query_place_id=ChIJq8TsbFNkTiQR-BSVEDUmQPM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Columbia",
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Marietta",
+    "Salunga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

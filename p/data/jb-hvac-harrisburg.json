@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "jb-hvac-harrisburg",
+  "company": "J&B Hvac",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174146649",
+  "phone_display": "(717) 414-6649",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=J%26B%20Hvac&query_place_id=ChIJL_9UZyGjHS8Rvd8hbYdxCFM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "Hampden Township",
+    "East Pennsboro Township",
+    "New Cumberland"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "precision-garage-door-harrisburg",
+  "company": "Precision Garage Door Service of Harrisburg",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175371646",
+  "phone_display": "(717) 537-1646",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 1949,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Precision%20Garage%20Door%20Service%20of%20Harrisburg&query_place_id=ChIJxT-z39_DyIkRONm9tw1dlBI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "Highspire",
+    "New Cumberland",
+    "Middletown",
+    "Hummelstown"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent work! Initially, there was confusion on some of the project details but a phone call and I was transferred to Ed Hesling (manager).",
+      "author": "Edward R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "These guys came out really fast and quickly fixed the problem. Excellent work!!",
+      "author": "Tony C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Tyler was friendly, courteous, and knowledgeable, and he took great care of our garage. He left no mess and made a great impression with his customer service. We really appreciate having Tyler come to take care of us. It was a pleasure connecting with him.",
+      "author": "Roshaye J.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

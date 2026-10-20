@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "kindermans-auto-repair-harrisburg",
+  "company": "Kindermans Auto Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172328292",
+  "phone_display": "(717) 232-8292",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 552,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kindermans%20Auto%20Repair&query_place_id=ChIJ5XYBQsjAyIkRkmAS3cXA1GU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Lemoyne",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Got an inspection and it didn\u2019t take long, and the customer service was great.",
+      "author": "Kayla R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service. Local shop that you can trust! Highly recommend this local shop.",
+      "author": "Matt G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They are very knowledgeable. They helped me get an exemption for my emissions.",
+      "author": "Carl F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

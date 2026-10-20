@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "century-garage-door-harrisburg",
+  "company": "Century Garage Door Repair Service",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176170384",
+  "phone_display": "(717) 617-0384",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 115,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Century%20Garage%20Door%20Repair%20Service&query_place_id=ChIJW_Fz12DAyIkRUS0owG6nBFk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "Highspire",
+    "Lower Paxton Township",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Barak did a great service , we purchased a new lift master opener thanks for the service",
+      "author": "Joel F.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Bryan was awesome! Very professional and informative. One of our springs had to be replaced and he got the job done very quickly and smoothly!",
+      "author": "Brittany M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Would like to review & commend Bryan S From Century Garage Doors for his professional way good work ethic & experience. We are pleased with the new overhead garage system he installed today tnx Bryan",
+      "author": "David R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

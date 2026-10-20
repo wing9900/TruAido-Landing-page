@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "ugi-heating-harrisburg",
+  "company": "UGI Heating, Cooling & Plumbing",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+18339803496",
+  "phone_display": "(833) 980-3496",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 213,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=UGI%20Heating%2C%20Cooling%20%26%20Plumbing&query_place_id=ChIJV9uQKo3AyIkRahmlLmVCe_I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "East Pennsboro Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "Trevor was fantastic! Courteous, professional, Left our home as clean as he found it and gave me a very high degree of confidence in his skills and professionalism!",
+      "author": "James H.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Showed up on time as scheduled for A/C maintenance check. Friendly, respectful service technician. Will definitely use this service for my future HVAC needs.",
+      "author": "paula G.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407023/truaido-previews/ugi-heating-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407023/truaido-previews/ugi-heating-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407024/truaido-previews/ugi-heating-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407025/truaido-previews/ugi-heating-harrisburg/work4"
+  ]
+}

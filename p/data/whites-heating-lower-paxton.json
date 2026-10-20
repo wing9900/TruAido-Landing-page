@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "whites-heating-lower-paxton",
+  "company": "Whites Heating & Cooling Mechanical Contractors LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lower Paxton Township",
+  "state": "PA",
+  "phone": "+17177365236",
+  "phone_display": "(717) 736-5236",
+  "has_website": false,
+  "rating": 3.3,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Whites%20Heating%20%26%20Cooling%20Mechanical%20Contractors%20LLC&query_place_id=ChIJO-043dq4yIkRu4VU0BafSMw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Harrisburg",
+    "Steelton",
+    "Hummelstown",
+    "Highspire",
+    "New Cumberland",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "I have worked with Dennis on several projects. His responsiveness to all of my questions and concerns is why I will continue to choose White's Heating & Cooling for all of my properties' needs. Whenever I have an issue, he is available to assist.",
+      "author": "Taylor K.",
+      "stars": 5,
+      "month": "November 2019"
+    },
+    {
+      "text": "We have done a lot of jobs with this contractor. They have installed many heating and ac units for our company. They have also done many service calls for us thru out the years.",
+      "author": "greg B.",
+      "stars": 5,
+      "month": "September 2018"
+    }
+  ],
+  "gallery": []
+}

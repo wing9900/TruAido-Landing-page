@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "inert-hvac-harrisburg",
+  "company": "Inert HVAC Repair Harrisburg",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12233698020",
+  "phone_display": "(223) 369-8020",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Inert%20HVAC%20Repair%20Harrisburg&query_place_id=ChIJrzOMKQDByIkRH4pviNJcZ98",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton",
+    "Camp Hill",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Our AC thermostat displayed an error and wouldn't start the system. The technician quickly identified the problem and restored operation. He also tested the system before leaving.",
+      "author": "Malcolm C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I\u2019m very satisfied with Inert HVAC Repair Harrisburg. The technician was punctual, knowledgeable, and friendly. He completed the HVAC service efficiently and explained the work thoroughly.",
+      "author": "Maxwell F.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Fantastic HVAC contractor! They responded quickly, diagnosed the problem accurately, and completed the necessary work efficiently. Excellent customer service throughout.",
+      "author": "Divana I.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407028/truaido-previews/inert-hvac-harrisburg/work1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "weaver-septic-lancaster",
+  "company": "Weaver Septic Services LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177332339",
+  "phone_display": "(717) 733-2339",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 31,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Weaver%20Septic%20Services%20LLC&query_place_id=ChIJX-RnxnMXxokROy8ysJmmDlM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405642/truaido-previews/weaver-septic-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#484C9F",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Top-notch expertise and fair pricing! As a local plumber, Weaver Septic is my go-to recommendation for northern Lancaster County clients. They know drain fields, sand mounds, and septic pumping inside and out. Great local service.",
+      "author": "Duane Z.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Cleaned out my tank in a pinch (no pun intended :))",
+      "author": "Carrie D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great company! Came out on time and worked to quickly pump and inspect my septic tanks. I didn't even know where the tank lid was but within minutes they were able to find it. Will recommend them to everyone I know!",
+      "author": "Steven G.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405639/truaido-previews/weaver-septic-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405640/truaido-previews/weaver-septic-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405641/truaido-previews/weaver-septic-lancaster/work3"
+  ]
+}

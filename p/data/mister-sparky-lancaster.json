@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "mister-sparky-lancaster",
+  "company": "Mister Sparky of Lancaster",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176946062",
+  "phone_display": "(717) 694-6062",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 2389,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mister%20Sparky%20of%20Lancaster&query_place_id=ChIJWRLHDb0mxokRAWw-SoHb94M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477836/truaido-previews/mister-sparky-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#7A6B00",
+  "nearby_towns": [
+    "Mountville",
+    "East Petersburg",
+    "Millersville",
+    "Landisville",
+    "Salunga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Matt is amazing! He speaks in terms understandable to the client, works efficiently and treats you like a person not just a business transaction which is so rare. The electrical problem was resolved and we were so happy with the work that we're having Mr.",
+      "author": "Susan S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Noah and his apprentice Zak did electrical work for me yesterday. Noah had done work here before. He is a very nice young man and very efficient in his work. He has a good work ethic and was a good example for Zak.",
+      "author": "Allison C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had a wonderful experience today. The quote was reasonable. The work was scheduled quickly and performed efficiently. I would definitely use them again.",
+      "author": "Scott R.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477835/truaido-previews/mister-sparky-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477835/truaido-previews/mister-sparky-lancaster/work2"
+  ]
+}

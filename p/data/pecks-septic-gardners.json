@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "pecks-septic-gardners",
+  "company": "Peck's Septic Service LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Gardners",
+  "state": "PA",
+  "phone": "+17174865548",
+  "phone_display": "(717) 486-5548",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Peck's%20Septic%20Service%20LLC&query_place_id=ChIJOc9enFv9yIkR6pYZeBYn5Xc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407657/truaido-previews/pecks-septic-gardners/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#736C39",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Carlisle",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Walnut Bottom",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "Wow!! They move fast! As a new homeowner, I had some questions. They were very polite, and they answered my questions well. I wish I got the gentleman's name that I worked with, but I am definitely sticking with Peck's for my septic needs. Thank you, Peck's!",
+      "author": "Savanna S.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Professional, fast and friendly service. Located my septic tank and pumped it within about 30 minutes. Would highly recommend their service to anyone.",
+      "author": "Mike J.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "We had to be put on a wait list for service but it was well worth it. Staff was friendly and helpful. Pricing was reasonable.",
+      "author": "Jenn B.",
+      "stars": 5,
+      "month": "November 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407656/truaido-previews/pecks-septic-gardners/work1"
+  ]
+}

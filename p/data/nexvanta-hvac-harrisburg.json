@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "nexvanta-hvac-harrisburg",
+  "company": "Nexvanta HVAC Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172321856",
+  "phone_display": "(717) 232-1856",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nexvanta%20HVAC%20Services&query_place_id=ChIJVQkYagDByIkRQpUMAzl88CY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton",
+    "Camp Hill",
+    "Enola"
+  ],
+  "reviews": [],
+  "gallery": []
+}

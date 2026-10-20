@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "diamond-mechanical-lancaster",
+  "company": "4 Diamond Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172716541",
+  "phone_display": "(717) 271-6541",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 60,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=4%20Diamond%20Mechanical%2C%20LLC&query_place_id=ChIJAQBkN6IWxokRvNKVrpZyazs",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405668/truaido-previews/diamond-mechanical-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Manheim",
+    "Akron",
+    "East Petersburg",
+    "Brownstown",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "Great service. Very personable, professional, and reliable.",
+      "author": "Mreedy",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "Steve is very knowledgeable in Plumbing, Heating, and electrical. He comes in and gets a job done, very efficient. I would highly recommend 4 Diamond Mechanical.",
+      "author": "Wanda S.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "Always gets to my house quickly and trusted to make appropriate suggestions for repair work",
+      "author": "Grant F.",
+      "stars": 5,
+      "month": "December 2024"
+    }
+  ],
+  "gallery": []
+}

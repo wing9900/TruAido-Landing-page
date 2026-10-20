@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "firestone-complete-auto-harrisburg",
+  "company": "Firestone Complete Auto Care",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174618227",
+  "phone_display": "(717) 461-8227",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 333,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Firestone%20Complete%20Auto%20Care&query_place_id=ChIJbcDyeRHByIkRb90O9E5ylXQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Steelton",
+    "Camp Hill",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "I agree with the reviews saying quick, reliable service at this Firestone location. I needed the 20,000-mile service for an oil change and tire rotation. I called ahead to schedule an appointment and inquire if Firestone handled my vehicle type.",
+      "author": "Eugenia H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Nic, Doug, and Morgan, along with the rest of the team, are fantastic. Friendly, easy going, and will do everything they can to take care of you and your vehicle. Some of the best prices around, as well.",
+      "author": "Joshua M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Always very satisfied with the service I receive at Firestone. I have been taking my cars there for at least 25 years and have never been disappointed. Doug, Morgan, and the rest of the staff are terrific guys. Thanks Again.",
+      "author": "R. C.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407625/truaido-previews/firestone-complete-auto-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407626/truaido-previews/firestone-complete-auto-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407627/truaido-previews/firestone-complete-auto-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407627/truaido-previews/firestone-complete-auto-harrisburg/work4"
+  ]
+}

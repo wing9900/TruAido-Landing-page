@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "swisher-plumbing-mountville",
+  "company": "Swisher Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mountville",
+  "state": "PA",
+  "phone": "+17172854958",
+  "phone_display": "(717) 285-4958",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Swisher%20Plumbing%20%26%20Heating&query_place_id=ChIJPy62TKAnxokRMnmu12EYGCs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Columbia",
+    "Washington Boro",
+    "Millersville",
+    "Landisville",
+    "Salunga",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "My parents have used for over 20 years. Swisher has now helped me several times at my home with water softener and plumbing issues. I would highly recommend them \u2013 fast, trustworthy, and excellent service.",
+      "author": "Adam W.",
+      "stars": 5,
+      "month": "August 2017"
+    },
+    {
+      "text": "I have used them several times now and I have always been happy with their work.",
+      "author": "Michael",
+      "stars": 5,
+      "month": "September 2013"
+    }
+  ],
+  "gallery": []
+}

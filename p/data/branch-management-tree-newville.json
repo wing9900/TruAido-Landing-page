@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "branch-management-tree-newville",
+  "company": "Branch Management Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177062617",
+  "phone_display": "(717) 706-2617",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Branch%20Management%20Tree%20Service&query_place_id=ChIJX3_EQwANyYkRKOqOA-uF8LI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Shippensburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "BMTS was responsive, efficient and reasonably priced. They took down a huge Maple in my front yard. I highly recommend them!",
+      "author": "Missy F.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Had Alan come out numerous times and always does great work. He's our only go to guy for tree work. A++++",
+      "author": "matthew D.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": []
+}

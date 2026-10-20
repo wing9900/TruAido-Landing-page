@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "rohrersonehourheating-ac-mt-joy",
+  "company": "Rohrer'sOneHourHeating&AC.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176531140",
+  "phone_display": "(717) 653-1140",
+  "has_website": false,
+  "rating": 2.1,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rohrer'sOneHourHeating%26AC.&query_place_id=ChIJj2Ud7vWeyIkR40t_qJw-a6M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Mount Joy Township",
+    "Landisville",
+    "Marietta",
+    "Columbia",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "Had a consultation visit regarding a request to have mini-split AC installed. The Rohrer representative, Greg, felt that we would be unhappy with the result of such installation and suggested a lower cost alternative that had nothing to do with Rohrer.",
+      "author": "C. J.",
+      "stars": 5,
+      "month": "June 2024"
+    }
+  ],
+  "gallery": []
+}

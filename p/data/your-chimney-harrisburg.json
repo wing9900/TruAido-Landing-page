@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "your-chimney-harrisburg",
+  "company": "Your Chimney Sweep",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174001300",
+  "phone_display": "(717) 400-1300",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 25,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Your%20Chimney%20Sweep&query_place_id=ChIJAchpHBroyIkRJPXf2YZByn4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407908/truaido-previews/your-chimney-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#AF4E52",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "Mechanicsburg",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Charles was priced right and did an awesome job. He is my go to now. Anderson is way overpriced and always a sales pitch.",
+      "author": "matthew H.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "The guy was nice and he shared with me what all the issues were. Only issue is I have a poor memory and forgot most of what he said and I sent a message to him to request him to call or message my husband and he has not yet.",
+      "author": "Sarah M.",
+      "stars": 4,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407906/truaido-previews/your-chimney-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407906/truaido-previews/your-chimney-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407907/truaido-previews/your-chimney-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407907/truaido-previews/your-chimney-harrisburg/work4"
+  ]
+}

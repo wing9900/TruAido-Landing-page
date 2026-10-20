@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "david-good-heating-denver",
+  "company": "David L Good Heating & A/C Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17174457373",
+  "phone_display": "(717) 445-7373",
+  "has_website": false,
+  "rating": 4.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=David%20L%20Good%20Heating%20%26%20A%2FC%20Services&query_place_id=ChIJC0TTgQRrxokRi43lg8TGrUI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Adamstown",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Furnace would not run. Came within an hour.",
+      "author": "EDNA F.",
+      "stars": 4,
+      "month": "February 2023"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "house-tutor-home-harrisburg",
+  "company": "House Tutor Home Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179931476",
+  "phone_display": "(717) 993-1476",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 78,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=House%20Tutor%20Home%20Services&query_place_id=ChIJURG2kuLpYKcR2NVP_bmwt2E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407412/truaido-previews/house-tutor-home-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#246EAF",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Middletown",
+    "Hershey",
+    "Hummelstown",
+    "Highspire",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Cody showed up on time and performed the maintenance on my furnace that is part of my membership. Prices are very reasonable and house tutor is responsive to your emergency needs. I recommend inquiring about membership information.",
+      "author": "Israel",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Cody with House Tutor Home Services answers all questions, is very thorough, prompt, personable. I am extremely pleased with the installation and service provided by House Tutor Home Services and I highly recommend them for all of your HVAC needs.",
+      "author": "K D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Cody ( House Tutor) is an amazing technician When it comes to HVAC plus refrigeration He is honest , explains everything that needs to be done , keeps the work area clean and cleans up everything so you wouldn\u2019t even know he was there He gets a grade if A+",
+      "author": "Rita M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

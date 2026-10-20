@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "eichelbergers-tree-harrisburg",
+  "company": "Eichelbergers Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176522375",
+  "phone_display": "(717) 652-2375",
+  "has_website": false,
+  "rating": 4.6,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Eichelbergers%20Tree%20Service&query_place_id=ChIJI1wFFgy5yIkRiFrrl4F0fXw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406955/truaido-previews/eichelbergers-tree-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "Grantville",
+    "East Pennsboro Township",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Eichelbergers topped and shaped a tree The results look great",
+      "author": "Richard K.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Professional, considerate, prompt and clean up great. They will be my first call for any tree service I need. Great company to deal with.",
+      "author": "Mike",
+      "stars": 5,
+      "month": "July 2024"
+    },
+    {
+      "text": "Honest and hard working team. I am very happy with the level of professionalism and the pride they have in their work.",
+      "author": "Adeel K.",
+      "stars": 5,
+      "month": "March 2024"
+    }
+  ],
+  "gallery": []
+}

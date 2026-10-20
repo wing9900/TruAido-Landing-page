@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "pendu-machine-shop-new-holland",
+  "company": "Pendu Machine Shop",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17173544348",
+  "phone_display": "(717) 354-4348",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pendu%20Machine%20Shop&query_place_id=ChIJe9YAmsUVxokR2nq9WG0taDQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Ephrata",
+    "Brownstown",
+    "Leola",
+    "Stevens",
+    "Gordonville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

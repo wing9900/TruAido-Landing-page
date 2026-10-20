@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "topper-tree-harrisburg",
+  "company": "Topper Tree Shrub",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173647178",
+  "phone_display": "(717) 364-7178",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Topper%20Tree%20Shrub&query_place_id=ChIJW8g5k0fHyIkRhfJGCNkEyxo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Carlisle",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Jara delivered as promised! He was professional, knowledgeable, and affordable. Thank you Jara!",
+      "author": "Miguel R.",
+      "stars": 5,
+      "month": "May 2024"
+    },
+    {
+      "text": "I had a large pine tree that was leaning and partially uprooted. Jara promptly responded to my message, showed up when he said, quoted a fair price and did an outstanding job with removing the tree /clean up.",
+      "author": "Corinne B.",
+      "stars": 5,
+      "month": "February 2024"
+    },
+    {
+      "text": "Jara took on a major project in the nature of the demolition/excavation of a 33,000 gallon in-ground pool, along with filling/compacting, and seeding. He was very timely in arriving and going over the project requirements.",
+      "author": "Deacon L.",
+      "stars": 5,
+      "month": "August 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408108/truaido-previews/topper-tree-harrisburg/work1"
+  ]
+}

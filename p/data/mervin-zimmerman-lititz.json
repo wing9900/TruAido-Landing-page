@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "mervin-zimmerman-lititz",
+  "company": "Mervin Zimmerman Plumbing Heating & AC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176261168",
+  "phone_display": "(717) 626-1168",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 251,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mervin%20Zimmerman%20Plumbing%20Heating%20%26%20AC&query_place_id=ChIJ0VliKhIYxokR2bFjIu4J9jU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405771/truaido-previews/mervin-zimmerman-lititz/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "East Petersburg",
+    "Ephrata",
+    "Manheim",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "First time customer. My wife and I have had contractors in our home many times through the years, but we have never had a contractor leave it as clean as we did after Tom\u2019s installation of some shower fixtures in our upstairs bathroom.",
+      "author": "Tony C.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405770/truaido-previews/mervin-zimmerman-lititz/work1"
+  ]
+}

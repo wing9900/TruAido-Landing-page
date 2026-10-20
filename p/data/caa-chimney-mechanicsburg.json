@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "caa-chimney-mechanicsburg",
+  "company": "CAA Chimney sweep & repair and fireplace cleaning of PA",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+12232631868",
+  "phone_display": "(223) 263-1868",
+  "has_website": false,
+  "rating": 3.8,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CAA%20Chimney%20sweep%20%26%20repair%20and%20fireplace%20cleaning%20of%20PA&query_place_id=ChIJVVVpin7pyIkRvneGuPRdbXM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Tech Marlon from this company was super helpful and informative when he came to look at our fireplace. We weren\u2019t sure what the status was as we were new homeowners but he answered our questions and provided helpful options for us to consider after the...",
+      "author": "Edward S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We're very happy to have this company. The tech Miles was very friendly, honest and reliable service. They fixed the problem with my fireplace and left looking like a new one.",
+      "author": "Paul S.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "This company made dealing with mold in our chimney much easier than expected. Barry took the time to inspect everything and explain the mold cleaning process clearly. His mold removal work was thorough and handled professionally.",
+      "author": "Marcel M.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

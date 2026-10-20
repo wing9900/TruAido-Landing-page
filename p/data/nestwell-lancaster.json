@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "nestwell-lancaster",
+  "company": "NestWell",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178446999",
+  "phone_display": "(717) 844-6999",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=NestWell&query_place_id=ChIJoUASEcFYFGcRczELvdDjDMk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406503/truaido-previews/nestwell-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#8B6D16",
+  "nearby_towns": [
+    "Leola",
+    "Brownstown",
+    "New Holland",
+    "Akron",
+    "Gordonville",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "From the first phone call to the service performed, everything was extremely professional and explained in a way that even I could understand. I appreciated the honesty and nobody trying to \"upsell\" me. The service was done well and in a timely manner.",
+      "author": "Ken D.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Absolutely recommend Nestwell! They showed up when they said they were going to, got an estimate over quickly and gave us a fair price. After 30 years we are finally going to have central AC! Thanks Billy!",
+      "author": "Sarah W.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "This company is top-notch! We had them out to install a mini split system in our main home as well as a rental property. Communication was great. The service went above and beyond to meet our needs! I highly recommend them.",
+      "author": "Shannon D.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

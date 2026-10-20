@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "hanes-mechanical-elizabethtown",
+  "company": "Hanes Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17178646991",
+  "phone_display": "(717) 864-6991",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 118,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hanes%20Mechanical&query_place_id=ChIJq9DTNoGbyIkRsfAlGJBILU8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406187/truaido-previews/hanes-mechanical-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0879BA",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Called them Friday morning at 8:30 AM and they were here by 9:45. Eric and Russ were positively wonderful. We are so grateful for them getting our lines reopened. The owner, Don is positively wonderful to deal with as well.",
+      "author": "Shannon B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Another positive experience with Hanes Mechanical. Service Technician, Glenn, was friendly, professional and knowledgeable. Just a great level of service every time we have a need.",
+      "author": "Kristopher H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Called Hanes service to replace ac. They had to add additional vents and additional return. They came reviewed square footage of house and told us what we needed. Very pleased with everything they did.",
+      "author": "Bob D.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406184/truaido-previews/hanes-mechanical-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406185/truaido-previews/hanes-mechanical-elizabethtown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406186/truaido-previews/hanes-mechanical-elizabethtown/work3"
+  ]
+}

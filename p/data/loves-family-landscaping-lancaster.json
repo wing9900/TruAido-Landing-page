@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "loves-family-landscaping-lancaster",
+  "company": "Love's Family Landscaping",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174198183",
+  "phone_display": "(717) 419-8183",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Love's%20Family%20Landscaping&query_place_id=ChIJ711EvEe34WgRs34qaNCfJUM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

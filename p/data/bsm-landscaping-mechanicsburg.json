@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "bsm-landscaping-mechanicsburg",
+  "company": "BSM Landscaping and Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17178074276",
+  "phone_display": "(717) 807-4276",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 115,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=BSM%20Landscaping%20and%20Tree%20Service&query_place_id=ChIJtTNqJaPpyIkRg4JgLnUXy-U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408060/truaido-previews/bsm-landscaping-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#866E00",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "We hired BSM Landscaping in December to remove several hazardous trees on a property line, technically our neighbor's trees. Each tree was over 70' \u2014and we couldn\u2019t be more impressed with their work.",
+      "author": "valerie B.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Came timely. Friendly workers. Great job",
+      "author": "Linda F.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Great job and clean up. Very professional.",
+      "author": "Curtis S.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408053/truaido-previews/bsm-landscaping-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408055/truaido-previews/bsm-landscaping-mechanicsburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408057/truaido-previews/bsm-landscaping-mechanicsburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408059/truaido-previews/bsm-landscaping-mechanicsburg/work4"
+  ]
+}

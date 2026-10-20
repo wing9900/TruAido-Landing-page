@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "rh-tree-lancaster",
+  "company": "RH Tree Service Lancaster",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+14849474052",
+  "phone_display": "(484) 947-4052",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=RH%20Tree%20Service%20Lancaster&query_place_id=ChIJJQAd9iAlxokRfhaTWqbA2ec",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Salunga",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "It was very easy to get in touch with the business. I spoke with a live person, was told someone would be out to assess the situation, and got a quote the next day. I got an email with a date and time that the work would be done.",
+      "author": "Cynthia P.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "on time. great equipment to do the job. friendly and professional. took their time to do the job right. very fair pricing. good communicating on line. would highly recommend them.",
+      "author": "tom F.",
+      "stars": 5,
+      "month": "April 2023"
+    },
+    {
+      "text": "I had a 90' foot tree come down in a storm and I started to stress from the moment that I noticed it until RH Tree Service stopped by to check out the problem.The man who I dealt with was very personable and knowledgeable. It was interesting talking with him.",
+      "author": "Joe L.",
+      "stars": 5,
+      "month": "March 2023"
+    }
+  ],
+  "gallery": []
+}

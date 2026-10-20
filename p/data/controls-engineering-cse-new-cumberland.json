@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "controls-engineering-cse-new-cumberland",
+  "company": "Controls Service & Engineering Co., Inc. (CSE)",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+17177742222",
+  "phone_display": "(717) 774-2222",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Controls%20Service%20%26%20Engineering%20Co.%2C%20Inc.%20(CSE)&query_place_id=ChIJi8lw4DbAyIkRk3ZyIqXU0ks",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408261/truaido-previews/controls-engineering-cse-new-cumberland/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#CA2028",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Highspire",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "This company is professional and prepared to do the job you need done. I strongly recommended. There team is amazing, Service tech Shawn is very knowledgeable and can explain everything the you actually understand.",
+      "author": "G&C L.",
+      "stars": 5,
+      "month": "December 2022"
+    },
+    {
+      "text": "Top notch staff always make for a pleasant and professional experience! Always willing to go the extra mile to ensure all my needs are taken care of. Highly recommend! \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "author": "Anna B.",
+      "stars": 5,
+      "month": "May 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408261/truaido-previews/controls-engineering-cse-new-cumberland/work1"
+  ]
+}

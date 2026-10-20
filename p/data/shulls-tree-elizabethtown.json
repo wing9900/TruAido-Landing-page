@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "shulls-tree-elizabethtown",
+  "company": "Shull's Tree Service Inc",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17172539864",
+  "phone_display": "(717) 253-9864",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 47,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Shull's%20Tree%20Service%20Inc&query_place_id=ChIJHTdplIG9yIkR4f6MTYHcUC4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406177/truaido-previews/shulls-tree-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#438338",
+  "nearby_towns": [
+    "Bainbridge",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "The crew that came out this morning did a fantastic job! Our tree was damaged during a storm. Some branches broke off completely while others hung over our neighbor\u2019s yard. The crew came earlier than expected, assessed the tree, and went to work.",
+      "author": "Mindy S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Shull's provided us professional services to remove large fallen tree branches from a storm. Their pricing was great and their team was personable and professional.",
+      "author": "Melanie W.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "A Thank You to Shull\u2019s Tree Service In July 2025, a small group of individuals who were raised in Marietta came together with the goal of placing commemorative markers at two historic locations: an abandoned cemetery and the site of the former Wesley AME Zion...",
+      "author": "First L.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406175/truaido-previews/shulls-tree-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406176/truaido-previews/shulls-tree-elizabethtown/work2"
+  ]
+}

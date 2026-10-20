@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "air-conditioning-hvac-harrisburg",
+  "company": "Air conditioning and HVAC Solutions Harrisburg",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12234884077",
+  "phone_display": "(223) 488-4077",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20conditioning%20and%20HVAC%20Solutions%20Harrisburg&query_place_id=ChIJmawK5Q_ByIkRsteo8Io-sa0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "New Cumberland",
+    "Steelton",
+    "East Pennsboro Township",
+    "Camp Hill",
+    "Lower Paxton Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "action-tree-lancaster",
+  "company": "Action Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173670681",
+  "phone_display": "(717) 367-0681",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Action%20Tree%20Service&query_place_id=ChIJ8b5C2FKfyIkRQQcOi94Hl5E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "We had an excellent experience with Action Tree Service and highly recommend Tim and his team! They removed two large trees that were over 100 feet tall, and it was definitely not an easy job given their location near power lines and the limited access to our...",
+      "author": "Stephanie E.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "ATS transformed my yard and removed all the old overgrown shrubs. Really nice crew and they took extra care to not damage my lawn.",
+      "author": "Sky C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I had Tim take down 4 very big Pinoak trees that were in my front yard up against power lines and road. He did a great job for a great price. I would recommend him to anyone and already have recommend to my dad who is having 4 trees taken down as well.",
+      "author": "Brad E.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "greens-plumbing-peach-bottom",
+  "company": "Green's Plumbing and Heating LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Peach Bottom",
+  "state": "PA",
+  "phone": "+16102357475",
+  "phone_display": "(610) 235-7475",
+  "has_website": false,
+  "rating": 3.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Green's%20Plumbing%20and%20Heating%20LLC&query_place_id=ChIJC2yNjnXLx4kRSJGr-mGrKgk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Nottingham",
+    "Quarryville",
+    "Holtwood",
+    "Kirkwood",
+    "New Providence",
+    "Pequea"
+  ],
+  "reviews": [
+    {
+      "text": "We have used Green's Plumbing and Heating for several years. He is always polite, straight shooting, and fair. Quality work without the \"upsale\" of bigger companies.",
+      "author": "Robert G.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

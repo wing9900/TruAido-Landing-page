@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "gruver-plumbing-shippensburg",
+  "company": "Gruver Plumbing Heating and Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17175322727",
+  "phone_display": "(717) 532-2727",
+  "has_website": false,
+  "rating": 4.4,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gruver%20Plumbing%20Heating%20and%20Air%20Conditioning&query_place_id=ChIJaQPPeY0MyYkRhfoTAqMSMlA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent work very super nice guy price reasonably",
+      "author": "sandra N.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Iv had them come out three times, two times for my hot water heater. It was a simple thermostat fix both times. They could have lied upsold me a brand new unit since I don\u2019t know what I\u2019m doing so they are honest.",
+      "author": "Doug W.",
+      "stars": 5,
+      "month": "September 2022"
+    }
+  ],
+  "gallery": []
+}

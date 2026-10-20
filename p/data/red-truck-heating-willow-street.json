@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "red-truck-heating-willow-street",
+  "company": "Red Truck Heating, Cooling, and Electrical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17177232828",
+  "phone_display": "(717) 723-2828",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 134,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Red%20Truck%20Heating%2C%20Cooling%2C%20and%20Electrical&query_place_id=ChIJRWYbfz07xokRwMr7GWF8jhw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406672/truaido-previews/red-truck-heating-willow-street/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#D22027",
+  "nearby_towns": [
+    "New Providence",
+    "Pequea",
+    "Strasburg",
+    "Conestoga",
+    "Quarryville",
+    "Holtwood"
+  ],
+  "reviews": [
+    {
+      "text": "Red Truck did a fantastic job. Had a previous company tell me I needed to replace the most of the system. Red Truck came out and found it was a minor issue presenting as larger one and fixed it for a fraction of replacement quote.",
+      "author": "Michael D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Jamie and team are top notch! Exceptional service, highly trustworthy, and excellent communication!",
+      "author": "Dan R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "This is way over due\u2026I can't say enough good things about Red Truck Heating, cooling and electrical. Last year, our AC went out on a weekend, and when I reached out for help, the owner went completely above and beyond.",
+      "author": "Stephen S.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406667/truaido-previews/red-truck-heating-willow-street/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406669/truaido-previews/red-truck-heating-willow-street/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406670/truaido-previews/red-truck-heating-willow-street/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406671/truaido-previews/red-truck-heating-willow-street/work4"
+  ]
+}

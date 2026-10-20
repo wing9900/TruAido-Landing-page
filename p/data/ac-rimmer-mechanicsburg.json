@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "ac-rimmer-mechanicsburg",
+  "company": "A. C. Rimmer",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177957533",
+  "phone_display": "(717) 795-7533",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 60,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A.%20C.%20Rimmer&query_place_id=ChIJ2xUXrvbcyIkRonrcPxdLZyY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407686/truaido-previews/ac-rimmer-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#E20201",
+  "nearby_towns": [
+    "Hampden Township",
+    "Enola",
+    "Summerdale",
+    "Shiremanstown",
+    "East Pennsboro Township",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "A.C. Rimmer has quoted & installed the following projects in our home: whole-home humidifier Natural gas tankless water heater Flex ducting and vents Utility sink Bathroom sink Annual service membership runs $250 Natural gas tankless WH cleaning $150 I would...",
+      "author": "Danny R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Prompt professional and honest. Good job all around.",
+      "author": "Curtis S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great experience with Eric. He was professional and offered good customer service.",
+      "author": "Amy",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407685/truaido-previews/ac-rimmer-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407686/truaido-previews/ac-rimmer-mechanicsburg/work2"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "rl-graham-sons-columbia",
+  "company": "R L Graham & Sons Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17176842461",
+  "phone_display": "(717) 684-2461",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=R%20L%20Graham%20%26%20Sons%20Inc&query_place_id=ChIJAV8GJhOdyIkRzhULF6cDuWg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "Our refrigerator was on the fritz. We did not know who to call, so my husband tried R L Graham. They were able to come out the same day and did a great job. Thank you so much. 12/11/24 New Fridge, new problem.",
+      "author": "Diane M.",
+      "stars": 5,
+      "month": "December 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406453/truaido-previews/rl-graham-sons-columbia/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406454/truaido-previews/rl-graham-sons-columbia/work2"
+  ]
+}

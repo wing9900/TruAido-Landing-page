@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "kuuma-insulation-lancaster",
+  "company": "Kuuma insulation LLC",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232716751",
+  "phone_display": "(223) 271-6751",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kuuma%20insulation%20LLC&query_place_id=ChIJQcR1c0U2Sy8RllkKCneXgZk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406698/truaido-previews/kuuma-insulation-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#077894",
+  "nearby_towns": [
+    "Mount Joy",
+    "Mount Joy Township",
+    "Salunga",
+    "Elizabethtown",
+    "Landisville",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "I would highly recommend this sole owner company. Troy was a pleasure to work with and did an excellent job of adding 15 inches of insulation to my entire attic at a reasonable cost.",
+      "author": "Mary C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Troy and Jethro recently insulated and air sealed our attic. They did a very thorough job and left the area as clean as when they arrived. They also went the extra mile to repair a problem ceiling area for a small additional charge.",
+      "author": "Lewis J.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Troy & Jethro were amazing & went above my expectations with the level of professionalism and customer care & service, not to mention the excellent job they did with solving our dead critter problem in our crawlspace insulation.",
+      "author": "Ricardo A.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

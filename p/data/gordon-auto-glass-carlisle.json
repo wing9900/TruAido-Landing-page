@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "gordon-auto-glass-carlisle",
+  "company": "Gordon Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172434914",
+  "phone_display": "(717) 243-4914",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 42,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gordon%20Auto%20Glass&query_place_id=ChIJdQZdcTPgyIkRb5t5JA_jV5M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Great friendly people do fantastic work and get it done on time",
+      "author": "Steve",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "I would highly recommend these guys for windshield replacement. Zach and Dale were friendly, efficient, got the job done, and a delight to be around!",
+      "author": "Daniel B.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "The guys were punctual, extremely humorous, and fair! They showed up early and had the job done in less than 20 minutes, highly recommend!!",
+      "author": "Cailin",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

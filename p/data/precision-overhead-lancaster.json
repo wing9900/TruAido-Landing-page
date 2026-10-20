@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "precision-overhead-lancaster",
+  "company": "Precision Overhead Garage Door of Lancaster",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179216161",
+  "phone_display": "(717) 921-6161",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1087,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Precision%20Overhead%20Garage%20Door%20of%20Lancaster&query_place_id=ChIJsx-06fElxokR3Nwo0L_PBYQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Conestoga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service! Arrived within hours and had my problem fixed quickly.",
+      "author": "Kate S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service from Jerry. Very skilled and friendly. Replaced old spring with new ones and replaced worn out parts of garage door. Even offered to take old parts previous garage company left that I didn't know what to do with. Appreciate the excellent work.",
+      "author": "Husam (.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Explained the weakness of the different components of our 34 yr old garage door. So not surprised why it was not operating properly.",
+      "author": "Richard R.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

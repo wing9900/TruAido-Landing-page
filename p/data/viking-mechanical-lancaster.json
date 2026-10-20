@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "viking-mechanical-lancaster",
+  "company": "Viking Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177012890",
+  "phone_display": "(717) 701-2890",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Viking%20Mechanical&query_place_id=ChIJ3z8N-S9P84URFYWNFvXLD2A",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406511/truaido-previews/viking-mechanical-lancaster/logo",
+    "layout": "square",
+    "badge": "#010413"
+  },
+  "accent": "#0C1B3E",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "I am a property manager/ landlord for 5 properties. I have used Viking mechanical many times. His prices are very reasonable, work is done CORRECTLY, fast, and he\u2019s amazing at communicating. I truly trust him more than the big name brand vendors.",
+      "author": "Megan H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had issues with my air-conditioning at my townhouse. Luke came out right away took a look. Fixed me right. Highly recommend.",
+      "author": "Steven S.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

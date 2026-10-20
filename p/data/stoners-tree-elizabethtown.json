@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "stoners-tree-elizabethtown",
+  "company": "Stoners Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17175335885",
+  "phone_display": "(717) 533-5885",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 37,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stoners%20Tree%20Service&query_place_id=ChIJn3ejW9G8yIkRnqrZWRWRutE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406970/truaido-previews/stoners-tree-elizabethtown/logo",
+    "layout": "wide",
+    "badge": "#FBD741"
+  },
+  "accent": "#055089",
+  "nearby_towns": [
+    "Hershey",
+    "Hummelstown",
+    "Middletown",
+    "Highspire",
+    "Lower Paxton Township",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "They cleared away dead branches over our parking area and driveway last week. Did a stellar job! Would definately recommend!",
+      "author": "Karen F.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Stoners Tree Service have helped us with our Tree issues for many years. Todd, Alex and their team have always done an excellent job regardless if the job is small or large. They are professional, reasonable and personable.",
+      "author": "Dennis M.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Look no further than Stoner's Tree Service, you'll be wasting your time. They recently removed some trees for my neighbor and me. The entire crew was professional and very efficient. I could not be more satisfied, and they had the best pricing around.",
+      "author": "Laddie S.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": []
+}

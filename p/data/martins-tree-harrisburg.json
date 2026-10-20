@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "martins-tree-harrisburg",
+  "company": "Martin's Tree Service inc.",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179918767",
+  "phone_display": "(717) 991-8767",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin's%20Tree%20Service%20inc.&query_place_id=ChIJx_xezg4GxKQRFwFkCvaPcVw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407475/truaido-previews/martins-tree-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Enola",
+    "Summerdale",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [],
+  "gallery": []
+}

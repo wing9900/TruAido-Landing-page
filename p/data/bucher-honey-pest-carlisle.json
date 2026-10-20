@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "bucher-honey-pest-carlisle",
+  "company": "The Bucher Honey Co. Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173854414",
+  "phone_display": "(717) 385-4414",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 47,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Bucher%20Honey%20Co.%20Pest%20Control&query_place_id=ChIJLUVT5BkZyYkRNzd8TBDXYoE",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407705/truaido-previews/bucher-honey-pest-carlisle/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Boiling Springs",
+    "Walnut Bottom",
+    "Mechanicsburg",
+    "Gardners",
+    "Dillsburg"
+  ],
+  "reviews": [
+    {
+      "text": "I had the pleasure of meeting jaret he was very professional and did a wonderful job spraying for spiders and other insects I had other companies spray before but with Jared in was a much better job with much much better results and price competitive",
+      "author": "Darryn K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Exceptional service. Jared came out quickly and took care of a swarm of yellow jackets that was in our house. Gave great information and checked back in to ensure the swarm was completely gone. Wouldn\u2019t use anyone else!",
+      "author": "Jennifer E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very fast service, professional and extremely knowledgeable. Took care of a yellow jacket nest right by our front door. Guaranteed his work but so far doesn\u2019t look like we need any additional visits. Highly recommend!",
+      "author": "michelle S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

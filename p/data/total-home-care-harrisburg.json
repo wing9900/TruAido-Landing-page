@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "total-home-care-harrisburg",
+  "company": "Total Home Care and Restoration",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175618750",
+  "phone_display": "(717) 561-8750",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Total%20Home%20Care%20and%20Restoration&query_place_id=ChIJk1vtKSLByIkRRR-L-0gAOK0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "New Cumberland",
+    "Steelton",
+    "Enola",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Great group of workers that I can count on every time.",
+      "author": "Aka S.",
+      "stars": 5,
+      "month": "June 2016"
+    }
+  ],
+  "gallery": []
+}

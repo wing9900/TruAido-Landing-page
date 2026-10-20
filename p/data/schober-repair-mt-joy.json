@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "schober-repair-mt-joy",
+  "company": "Schober Repair Services",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17172888764",
+  "phone_display": "(717) 288-8764",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 35,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Schober%20Repair%20Services&query_place_id=ChIJAfD2bCWfyIkR_q3xhaQ56nE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Mount Joy Township",
+    "Landisville",
+    "Marietta",
+    "Columbia",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "Nicholas was excellent. He did a fantastic job. I will be calling him for more projects.",
+      "author": "Ollie H.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Dependable, knowledgeable, and fair. Does the job right.",
+      "author": "Derek S.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Needed a repair for my ceiling fan and Schrober quickly worked with me to figure out a date and get it done. Reasonable prices, and great work. Will continue to use for future repairs/ projects.",
+      "author": "Quinn S.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "meadowcreek-welding-new-holland",
+  "company": "Meadowcreek Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17173547533",
+  "phone_display": "(717) 354-7533",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Meadowcreek%20Welding&query_place_id=ChIJ_7wUxok_xokRJtI4ZrCDOls",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gordonville",
+    "Leola",
+    "East Earl",
+    "Gap",
+    "Brownstown",
+    "Narvon"
+  ],
+  "reviews": [
+    {
+      "text": "Was there for the Annual auction. Nice place. Served up some decent food. Bought a smoker while I was there. Picked ot up the following week and the employees helped me load it up.",
+      "author": "A (.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Excellent local manufacturer of awesome BBQ equipment. Second to none craftsmanship and quality. Meadowcreek Smokers are well known brand and very reliable. Anything for home enthusiast or professional alike. Top notch products that worth every penny.",
+      "author": "Andriy P.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

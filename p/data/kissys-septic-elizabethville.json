@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "kissys-septic-elizabethville",
+  "company": "Kissy's Septic Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Elizabethville",
+  "state": "PA",
+  "phone": "+17173629437",
+  "phone_display": "(717) 362-9437",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kissy's%20Septic%20Services&query_place_id=ChIJF_gC3JBKz4kRjk3q3-hEtg0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lykens",
+    "Gratz",
+    "Millersburg",
+    "Halifax",
+    "Williamstown",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "Not much to say about having the septic tanks pumped empty. The staff was knowledgeable and careful with nearby garden plants and checked the system for leakage. The cost was reasonable, $300.00, for primary AND secondary tanks.",
+      "author": "Dane S.",
+      "stars": 5,
+      "month": "November 2021"
+    }
+  ],
+  "gallery": []
+}

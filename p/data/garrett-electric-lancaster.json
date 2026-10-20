@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "garrett-electric-lancaster",
+  "company": "Garrett Electric, Heating & Air LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173714814",
+  "phone_display": "(717) 371-4814",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Garrett%20Electric%2C%20Heating%20%26%20Air%20LLC&query_place_id=ChIJ5UXXr8bdQwsRf-forKyT9PU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406423/truaido-previews/garrett-electric-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#9C1A1E",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Had a pleasure working with the team. They were very kind, helpful, and had a great attention to detail. Will definitely use them again, and would highly recommend them to anyone looking for electrical needs.",
+      "author": "Leyla N.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Elise, the electrician, offered friendly service. She patiently explained the repairs and was thorough, completing all repairs.",
+      "author": "sidney C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "When I moved into my home 14 years ago, Chuck was recommended to me by my parents to service my Heating and Air Conditioning. I have been satisfied with the service that my home has received from Chuck. He is very knowledgeable in all that he does.",
+      "author": "Robin",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

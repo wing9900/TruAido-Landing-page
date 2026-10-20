@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "carstar-fred-beans-mechanicsburg",
+  "company": "CARSTAR Fred Beans Mechanicsburg",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177668758",
+  "phone_display": "(717) 766-8758",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 733,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CARSTAR%20Fred%20Beans%20Mechanicsburg&query_place_id=ChIJM6FxTMjCyIkRiv8ndO64Ezk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Enola",
+    "East Pennsboro Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "They did an excellent job fixing our Kia Sportage after a hit and run. Coordinated all the insurance and thd car looks great and was completed ahead of schedule.",
+      "author": "Brian O.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408255/truaido-previews/carstar-fred-beans-mechanicsburg/work1"
+  ]
+}

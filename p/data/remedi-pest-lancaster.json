@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "remedi-pest-lancaster",
+  "company": "Remedi Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179175101",
+  "phone_display": "(717) 917-5101",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 87,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Remedi%20Pest%20Control&query_place_id=ChIJrdNHYRTN7owRdN6UnwZikjw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406277/truaido-previews/remedi-pest-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#3E7F4B",
+  "nearby_towns": [
+    "Gordonville",
+    "Gap",
+    "Ronks",
+    "New Holland",
+    "Strasburg",
+    "Paradise"
+  ],
+  "reviews": [
+    {
+      "text": "We were having an issue with yellow jackets and called for to have them exterminated. Colin took the call was very helpful in setting us up for a visit from Christian that same day and getting us set up on a plan not only to rid the yellow jacket issue but to...",
+      "author": "DEVOTED I.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I highly recommend Remedy for pest control! Brendan, the owner, and Christian, the technician, are both wonderful to work with. They are professional, reliable, friendly, and truly care about providing excellent service.",
+      "author": "ED",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I am a new customer and my experience with Colin and Christian, both gentlemen, have been polite, professional and friendly from the first phone call.",
+      "author": "pamela F.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406274/truaido-previews/remedi-pest-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406275/truaido-previews/remedi-pest-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406276/truaido-previews/remedi-pest-lancaster/work3"
+  ]
+}

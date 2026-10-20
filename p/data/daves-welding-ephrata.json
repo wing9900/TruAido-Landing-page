@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "daves-welding-ephrata",
+  "company": "Dave's Welding LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17178594860",
+  "phone_display": "(717) 859-4860",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dave's%20Welding%20LLC&query_place_id=ChIJKSh23d0VxokR2Mc4ZwPqeRI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Leola",
+    "New Holland",
+    "Stevens",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "I highly recommend Dave's welding. I have known and dealt with the owner personally for years. I have had Dave weld together some of the most mindblowing cookies that have ever been seen on this God's green Earth.",
+      "author": "Niall B.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

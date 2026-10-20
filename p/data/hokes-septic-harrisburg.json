@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "hokes-septic-harrisburg",
+  "company": "Hoke's Septic Tank Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175995794",
+  "phone_display": "(717) 599-5794",
+  "has_website": false,
+  "rating": 3.7,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hoke's%20Septic%20Tank%20Services&query_place_id=ChIJsesSNgnIyIkRWxRvvlKQPPo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dauphin",
+    "Lower Paxton Township",
+    "Summerdale",
+    "East Pennsboro Township",
+    "Enola",
+    "Halifax"
+  ],
+  "reviews": [
+    {
+      "text": "Quick, effective and kind on an emergency service call! Highly recommend!",
+      "author": "Ben L.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "my-car-chevrolet-millersburg",
+  "company": "My Car Chevrolet GMC Service Department",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+12233344787",
+  "phone_display": "(223) 334-4787",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=My%20Car%20Chevrolet%20GMC%20Service%20Department&query_place_id=ChIJ-fFVveszz4kRmtFrXbX6x9k",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407577/truaido-previews/my-car-chevrolet-millersburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz",
+    "Summerdale"
+  ],
+  "reviews": [],
+  "gallery": []
+}

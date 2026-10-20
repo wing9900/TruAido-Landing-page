@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "hamilton-heating-carlisle",
+  "company": "Hamilton Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173001026",
+  "phone_display": "(717) 300-1026",
+  "has_website": true,
+  "rating": 3.6,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hamilton%20Heating%20and%20Cooling&query_place_id=ChIJHTdGXicSyYkRrKxtZA9qgO0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Boiling Springs",
+    "Walnut Bottom",
+    "Gardners",
+    "Mechanicsburg",
+    "Dillsburg"
+  ],
+  "reviews": [
+    {
+      "text": "Very professional, fantastic work absolutely amazing work ethic. I would recommend Denny Hamilton for any an all of your H.V.A.C. needs an wants.",
+      "author": "Batman",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "Ive known Denny for 14 years. He repairs any issues I have regularly and complete. He has answers and an old school way of doing things but when it comes to heating and air conditioning he knows his stuff. Ver y knowledgeable.",
+      "author": "Shelli W.",
+      "stars": 5,
+      "month": "August 2021"
+    },
+    {
+      "text": "Did a great job installing my tankless water heater. Very knowledgable in the trade and the price was significantly more reasonable than the competition.",
+      "author": "Tim H.",
+      "stars": 4,
+      "month": "June 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407959/truaido-previews/hamilton-heating-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407960/truaido-previews/hamilton-heating-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407961/truaido-previews/hamilton-heating-carlisle/work3"
+  ]
+}

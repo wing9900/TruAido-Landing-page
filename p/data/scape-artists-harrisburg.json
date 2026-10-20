@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "scape-artists-harrisburg",
+  "company": "SCAPE ARTISTS",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175991217",
+  "phone_display": "(717) 599-1217",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SCAPE%20ARTISTS&query_place_id=ChIJjwKXs17nyIkR0twSRx5wqDg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Carlisle",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

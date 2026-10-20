@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "thomas-appliance-enola",
+  "company": "Thomas Appliance & Service",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17177325129",
+  "phone_display": "(717) 732-5129",
+  "has_website": false,
+  "rating": 3.4,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thomas%20Appliance%20%26%20Service&query_place_id=ChIJNyt7tfbDyIkRAIX7LvLkeBA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Lemoyne",
+    "Camp Hill",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Awsome appliance repair. Tim is the Professor. Knows his business. Highly recommended.",
+      "author": "James N.",
+      "stars": 5,
+      "month": "September 2020"
+    },
+    {
+      "text": "Very reluctantly, due to worrying about quality of refurbished merchandise, bought a used dryer here probably three years back, has been the best dryer I've ever owned!",
+      "author": "Deb K.",
+      "stars": 5,
+      "month": "August 2017"
+    },
+    {
+      "text": "Great appliances and service!!my mom only shops here and has for a long, long time!!",
+      "author": "Michelle L.",
+      "stars": 5,
+      "month": "May 2017"
+    }
+  ],
+  "gallery": []
+}

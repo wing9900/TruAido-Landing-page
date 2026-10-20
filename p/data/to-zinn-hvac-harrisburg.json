@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "to-zinn-hvac-harrisburg",
+  "company": "A To Zinn HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175031505",
+  "phone_display": "(717) 503-1505",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 47,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A%20To%20Zinn%20HVAC&query_place_id=ChIJm3K6oHXHyIkRVAxBGoClmfc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "Enola",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Lower Paxton Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Very thorough, professional, reasonable rates! Highly recommend! Linda P, Halifax",
+      "author": "Butterfly2018 W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Called on Monday, they came right out as soon as they could, explained what was wrong with the AC. The indoor coil was shot, found me one and had it installed the next day. Explained pricing and did everything they could do to save me money. Thanks gentlemen.",
+      "author": "Carl A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "A-to-Z just installed our new furnace and air conditioner. They did a fantastic Job. I can\u2019t say enough good things about them. They\u2019re very knowledgeable and they have great customer service.",
+      "author": "Kimberly L.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

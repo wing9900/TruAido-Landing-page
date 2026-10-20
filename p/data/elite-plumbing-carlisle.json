@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "elite-plumbing-carlisle",
+  "company": "Elite Plumbing Heating & AC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172546564",
+  "phone_display": "(717) 254-6564",
+  "has_website": true,
+  "rating": 2.3,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20Plumbing%20Heating%20%26%20AC&query_place_id=ChIJTeYtRnjnyIkRFff8n4AqFXY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407842/truaido-previews/elite-plumbing-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#00447B",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Gardners",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Newville",
+    "Hampden Township"
+  ],
+  "reviews": [
+    {
+      "text": "Great group of guys. Do some amazing work!",
+      "author": "H T.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": []
+}

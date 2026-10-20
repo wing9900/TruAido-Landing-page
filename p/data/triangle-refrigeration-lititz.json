@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "triangle-refrigeration-lititz",
+  "company": "Triangle Refrigeration",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+18006692711",
+  "phone_display": "(800) 669-2711",
+  "has_website": true,
+  "rating": 3.3,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Triangle%20Refrigeration&query_place_id=ChIJp1FpwRgYxokRm1-DabPAS5U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405695/truaido-previews/triangle-refrigeration-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#B41D25",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Ephrata",
+    "East Petersburg",
+    "Leola",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "Fast unloading starts 6 am Overnight parking available for 1 semi truck Tight space for semi truck to getting in a dock Clean restrooms",
+      "author": "Satnam S.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": []
+}

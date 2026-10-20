@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "dm-welding-leola",
+  "company": "D&M welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Leola",
+  "state": "PA",
+  "phone": "+17176563513",
+  "phone_display": "(717) 656-3513",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=D%26M%20welding&query_place_id=ChIJ-2k57EA9xokRSd612TFFwsM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Ephrata",
+    "Lititz",
+    "New Holland",
+    "Lancaster"
+  ],
+  "reviews": [],
+  "gallery": []
+}

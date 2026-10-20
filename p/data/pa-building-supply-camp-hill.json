@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "pa-building-supply-camp-hill",
+  "company": "PA Building Supply | Camp Hill (formerly known as Myers Building Product Specialists)",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177370471",
+  "phone_display": "(717) 737-0471",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 47,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PA%20Building%20Supply%20%7C%20Camp%20Hill%20(formerly%20known%20as%20Myers%20Building%20Product%20Specialists)&query_place_id=ChIJOZokaRLCyIkRgP7WegPtKTI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Alex L. and Mitch K. went above and beyond to help with an order. They had positive attitudes and were very customer-oriented. Being in the construction trades, it is so helpful to have easy-to-work-with people.",
+      "author": "A. E.",
+      "stars": 5,
+      "month": "March 2025"
+    }
+  ],
+  "gallery": []
+}

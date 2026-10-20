@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "main-street-hvac-harrisburg",
+  "company": "Main-Street HVAC Repair Systems",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174275554",
+  "phone_display": "(717) 427-5554",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Main-Street%20HVAC%20Repair%20Systems&query_place_id=ChIJV5H4l_jByIkRxfojB8aOZwM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Lower Paxton Township",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "The issue turned out to be a malfunctioning fan motor that required repair. The technician was knowledgeable, explained the problem clearly, and efficiently fixed it.\ud83d\udc4c",
+      "author": "Kathleen D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The vent cleaning took about two hours, which seemed reasonable given the thoroughness of their work. The difference in airflow compared to previous visits is noticeable and appreciated.",
+      "author": "JEFF B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "The issue was traced back to a faulty thermostat, and the technician repaired it quickly with clear explanations throughout the process. Everything works well now, and I'm relieved the heating is back on track.",
+      "author": "JESSI F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

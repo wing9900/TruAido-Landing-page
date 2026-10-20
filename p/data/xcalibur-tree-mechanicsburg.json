@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "xcalibur-tree-mechanicsburg",
+  "company": "Xcalibur tree and stump services",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177986318",
+  "phone_display": "(717) 798-6318",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Xcalibur%20tree%20and%20stump%20services&query_place_id=ChIJZSncs9DpyIkRIWpXCGzJHZQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407775/truaido-previews/xcalibur-tree-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#3F1D1E",
+  "nearby_towns": [
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Bob and his crew removed two large trees from our property. They are trustworthy and professional. The job was done quickly and carefully. I would definitely recommend this tree service.",
+      "author": "Chris F.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

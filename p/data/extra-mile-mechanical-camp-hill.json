@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "extra-mile-mechanical-camp-hill",
+  "company": "Extra Mile Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17172106453",
+  "phone_display": "(717) 210-6453",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Extra%20Mile%20Mechanical&query_place_id=ChIJsRTVSpvDyIkR62L8BAOvhhk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408164/truaido-previews/extra-mile-mechanical-camp-hill/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1B2434",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola",
+    "New Cumberland"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408162/truaido-previews/extra-mile-mechanical-camp-hill/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408163/truaido-previews/extra-mile-mechanical-camp-hill/work2"
+  ]
+}

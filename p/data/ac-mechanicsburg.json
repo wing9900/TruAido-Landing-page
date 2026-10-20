@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "ac-mechanicsburg",
+  "company": "AC&H Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17174482296",
+  "phone_display": "(717) 448-2296",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=AC%26H%20Services&query_place_id=ChIJG3fEl6QQCi0RtO-r6tbC_aI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Gardners",
+    "Newville",
+    "Walnut Bottom",
+    "Dillsburg"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407972/truaido-previews/ac-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407973/truaido-previews/ac-mechanicsburg/work2"
+  ]
+}

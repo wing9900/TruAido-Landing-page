@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "okay-auto-glass-columbia",
+  "company": "A-Okay Auto Glass, LLC",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17175982225",
+  "phone_display": "(717) 598-2225",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 145,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A-Okay%20Auto%20Glass%2C%20LLC&query_place_id=ChIJlSxw9O0kxokRDRlgkhE1ykM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406858/truaido-previews/okay-auto-glass-columbia/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#9E0404",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Salunga",
+    "Marietta",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Dont hesitate to call . You won't be disappointed!! Great price. Rob and his technician did fantastic job on my husband's Colbolt windshield replacement. Came to the house and half hour had it finished. Super nice and explained things thoroughly.",
+      "author": "Melissa M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Had a windshield replacement- Great folks - quick service - Very reasonable prices! Best i could find, I will save you from calling around",
+      "author": "Dan F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great people and service i waited for a windshield and it took the. Exactly as long as they said",
+      "author": "Troy R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406858/truaido-previews/okay-auto-glass-columbia/work1"
+  ]
+}

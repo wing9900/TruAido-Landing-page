@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "hokes-septic-halifax",
+  "company": "Hoke's Septic Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17178967867",
+  "phone_display": "(717) 896-7867",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hoke's%20Septic%20Services&query_place_id=ChIJY38xXRDMyIkRILAHQP_Y_Mg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersburg",
+    "Dauphin",
+    "Elizabethville",
+    "Summerdale",
+    "Enola",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Pumper was on time. She was efficient and submitted paperwork to township. Have used this service for years. Will do so again.",
+      "author": "Rebecca D.",
+      "stars": 5,
+      "month": "March 2024"
+    },
+    {
+      "text": "I hired them to service my parents home in preparation for sale. They were excellent! They were straightforward, kind and honest! They gave me the knowledge I needed to make informed decisions and went out of their way to be helpful.",
+      "author": "Heather P.",
+      "stars": 5,
+      "month": "September 2023"
+    }
+  ],
+  "gallery": []
+}

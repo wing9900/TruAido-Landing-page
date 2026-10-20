@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "integrity-tree-quarryville",
+  "company": "Integrity Tree Removals",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17175723736",
+  "phone_display": "(717) 572-3736",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Integrity%20Tree%20Removals&query_place_id=ChIJmzSbgMM3xokRTWO4h_wEP0A",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406642/truaido-previews/integrity-tree-quarryville/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#937116",
+  "nearby_towns": [
+    "Paradise",
+    "Ronks",
+    "Christiana",
+    "Strasburg",
+    "New Providence",
+    "Kirkwood"
+  ],
+  "reviews": [
+    {
+      "text": "Guys were very nice and cleaned up after great company would use again",
+      "author": "Kenneth F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Other companies turned down my job or gave me estimate that was up to 60% higher. Emanuel and his 3 other crew members came Thursday, Friday and Saturday to complete a huge tree (like five trees in one, between two houses - safely and beautifully-) project...",
+      "author": "Ryan R.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406641/truaido-previews/integrity-tree-quarryville/work1"
+  ]
+}

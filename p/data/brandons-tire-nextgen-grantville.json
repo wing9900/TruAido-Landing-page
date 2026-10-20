@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "brandons-tire-nextgen-grantville",
+  "company": "Brandon's Tire and Service LLC / NextGen AutoWorks",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Grantville",
+  "state": "PA",
+  "phone": "+17174735997",
+  "phone_display": "(717) 473-5997",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 207,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Brandon's%20Tire%20and%20Service%20LLC%20%2F%20NextGen%20AutoWorks&query_place_id=ChIJk4LXyay6yIkRI-2_c1TWkc0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Hershey",
+    "Lower Paxton Township",
+    "Elizabethtown",
+    "Harrisburg",
+    "Middletown"
+  ],
+  "reviews": [
+    {
+      "text": "\u2b50\u2b50\u2b50 I just want to take a moment to give a huge shout-out to Justin at Brandon\u2019s Tire & Service in Jonestown. He went above and beyond to help me, and I truly appreciate the way he treated me.",
+      "author": "frincheska B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Brandons did a fantastic job. Online booking made it extremely easy to get an appointment And when I arrived, they were fast and efficient! Thank you so much! Will be back!",
+      "author": "Kenzie M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I dropped my car off for an excessive tire wear condition. This shop was able to find the source of the wear due to a bad install done by the previous owner.",
+      "author": "Zeren P.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407624/truaido-previews/brandons-tire-nextgen-grantville/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407625/truaido-previews/brandons-tire-nextgen-grantville/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407626/truaido-previews/brandons-tire-nextgen-grantville/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407627/truaido-previews/brandons-tire-nextgen-grantville/work4"
+  ]
+}

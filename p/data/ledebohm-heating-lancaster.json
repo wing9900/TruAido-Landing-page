@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ledebohm-heating-lancaster",
+  "company": "Ledebohm Heating&Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174808891",
+  "phone_display": "(717) 480-8891",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ledebohm%20Heating%26Cooling&query_place_id=ChIJTw8dx6Chu20R6IbzMYdQJOQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406551/truaido-previews/ledebohm-heating-lancaster/logo",
+    "layout": "square",
+    "badge": "#E6E4E4"
+  },
+  "accent": "#966303",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Professional, thorough, and dependable! Will contract again",
+      "author": "Kelly C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Is a very respectful young man came in and dead man installation with ease and talk to me through all the new things and products that were being installed I felt very comfortable with this individual.",
+      "author": "Evin R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great Prices\u2026Great Work\u2026 You won\u2019t find a better person to do your job. Always satisfied\u2026Excellent service and Personality to match..Can\u2019t go wrong\ud83d\udcaf",
+      "author": "Aretha F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

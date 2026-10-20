@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "green-estates-lawn-lancaster",
+  "company": "Green Estates Lawn & Tree Care/",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172999431",
+  "phone_display": "(717) 299-9431",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Green%20Estates%20Lawn%20%26%20Tree%20Care%2F&query_place_id=ChIJMy7XdTUjxokR_nqQdriwMk8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Leola",
+    "Brownstown",
+    "Lititz",
+    "Akron",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "We have used Green Estates for our lawn care for about 6 years and are 100% satisfied. They quickly transformed our weedy yard into a lawn we are very proud of! This is a local, mom/pop business that I highly recommend.",
+      "author": "Brenda R.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "Full service landscaping company. Friendly reliable servicing most of Lancaster county.",
+      "author": "Orlando C.",
+      "stars": 5,
+      "month": "July 2017"
+    },
+    {
+      "text": "Has been doing all my yard work for years and does outstanding work. Takes care of all my needs and is very dependable. I highly recommend this company.",
+      "author": "Gerald B.",
+      "stars": 5,
+      "month": "April 2017"
+    }
+  ],
+  "gallery": []
+}

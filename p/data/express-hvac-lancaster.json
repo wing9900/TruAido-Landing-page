@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "express-hvac-lancaster",
+  "company": "Express hvac",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174682922",
+  "phone_display": "(717) 468-2922",
+  "has_website": false,
+  "rating": 1.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Express%20hvac&query_place_id=ChIJz1o7VaolxokROpft-QdlZHY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Willow Street",
+    "Leola",
+    "Strasburg",
+    "Brownstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "britestone-autoglass-hummelstown",
+  "company": "BriteStone AUTOGLASS LLC",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17178442772",
+  "phone_display": "(717) 844-2772",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=BriteStone%20AUTOGLASS%20LLC&query_place_id=ChIJX5ZWkyO7yIkRkS87wG0Yxjo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407323/truaido-previews/britestone-autoglass-hummelstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#A05904",
+  "nearby_towns": [
+    "Hershey",
+    "Elizabethtown",
+    "Middletown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "I completely agree with all the previous reviews. Fast and very clean service. I'd been thinking for weeks about how to get my car's windshield repaired.",
+      "author": "Mar S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "If you could give a higher star rating than 5, then this company would be the one that deserves it. They quoted me the best price in the Harrisburg/Hershey area.",
+      "author": "Jimmy D.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Amazing experience! Quick response and replaced the window regulator within a few hours of contacting them. He explained what happened and said it's a common issue. Highly recommend!",
+      "author": "Justina B.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407318/truaido-previews/britestone-autoglass-hummelstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407319/truaido-previews/britestone-autoglass-hummelstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407320/truaido-previews/britestone-autoglass-hummelstown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407322/truaido-previews/britestone-autoglass-hummelstown/work4"
+  ]
+}

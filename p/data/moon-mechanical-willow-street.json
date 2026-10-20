@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "moon-mechanical-willow-street",
+  "company": "Moon Mechanical Services LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17179452000",
+  "phone_display": "(717) 945-2000",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 27,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Moon%20Mechanical%20Services%20LLC&query_place_id=ChIJI5n9QzkvxokRfZUUOly1hE0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406663/truaido-previews/moon-mechanical-willow-street/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#213B57",
+  "nearby_towns": [
+    "Conestoga",
+    "Pequea",
+    "Millersville",
+    "Strasburg",
+    "New Providence",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Technician figured out my problem quickly and knew all the parts needed to repair my leaking cast iron pipe.",
+      "author": "Matthew F.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Moon Mechanical Services LLC does an excellent job! They do wonderful work and keep our business running smoothly.",
+      "author": "James W.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": []
+}

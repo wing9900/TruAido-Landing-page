@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "ww-welding-reinholds",
+  "company": "W & W Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17173364314",
+  "phone_display": "(717) 336-4314",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=W%20%26%20W%20Welding&query_place_id=ChIJjyv1AX0NxokRgWwkA4adnuw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Robesonia",
+    "Denver",
+    "Adamstown",
+    "Stevens",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [],
+  "gallery": []
+}

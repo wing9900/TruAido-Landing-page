@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "jk-mechanical-willow-street",
+  "company": "JK Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17174640111",
+  "phone_display": "(717) 464-0111",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 1448,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JK%20Mechanical&query_place_id=ChIJcSDJWV8lxokR5sZyv_s4IfU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Conestoga",
+    "Millersville",
+    "Pequea",
+    "Strasburg",
+    "New Providence",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Cole was excellent, polite, timely. Very professional organization!",
+      "author": "T W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Polite and very knowledgeable. Enjoyed meeting Emmanuel. He did an outstanding job!",
+      "author": "Kristin D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "JK Mechanical is always prompt, courteous and reasonable.",
+      "author": "Ray D.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

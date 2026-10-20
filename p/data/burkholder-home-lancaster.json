@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "burkholder-home-lancaster",
+  "company": "Burkholder Home Solutions LLC",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177990455",
+  "phone_display": "(717) 799-0455",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Burkholder%20Home%20Solutions%20LLC&query_place_id=ChIJ2TI2vW0XxokR005wYlqqUGo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405756/truaido-previews/burkholder-home-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#6E051F",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "Ephrata",
+    "Reinholds",
+    "Adamstown",
+    "Akron"
+  ],
+  "reviews": [],
+  "gallery": []
+}

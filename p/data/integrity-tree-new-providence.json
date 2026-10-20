@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "integrity-tree-new-providence",
+  "company": "Integrity tree care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "New Providence",
+  "state": "PA",
+  "phone": "+17174139622",
+  "phone_display": "(717) 413-9622",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 31,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Integrity%20tree%20care&query_place_id=ChIJW2v9rmIxxokRaM63FTgycY8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Quarryville",
+    "Holtwood",
+    "Pequea",
+    "Willow Street",
+    "Strasburg",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "When we purchased our home in 2021, Integrity came out and cut down a dead tree on the property. I was impressed by the professionalism and called again when I needed some branches trimmed from a very tall tree.",
+      "author": "Lora B.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I called Integrity Tree Care to get a quote to cut down a large tree that started shedding branches. Will came out and inspected the tree, showing his vast knowledge in the subject! We agreed that they would drop the tree and take away all of the pieces.",
+      "author": "John D.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Will and his crew did an amazing job! They are all hard workers and very nice people too! Highly recommended for any tree work you may need!",
+      "author": "Christina M.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406655/truaido-previews/integrity-tree-new-providence/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406655/truaido-previews/integrity-tree-new-providence/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406656/truaido-previews/integrity-tree-new-providence/work3"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "olsens-tree-lancaster",
+  "company": "Olsens Tree Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12674438230",
+  "phone_display": "(267) 443-8230",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Olsens%20Tree%20Care&query_place_id=ChIJFw6Ea7ANACMRe61H9d71Ufc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

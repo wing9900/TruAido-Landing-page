@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "jg-heating-conestoga",
+  "company": "J & G Heating and Air Conditioning, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Conestoga",
+  "state": "PA",
+  "phone": "+17177757445",
+  "phone_display": "(717) 775-7445",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 52,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=J%20%26%20G%20Heating%20and%20Air%20Conditioning%2C%20Inc.&query_place_id=ChIJS8TZMNcuxokRow7NUFdiRT0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Pequea",
+    "Millersville",
+    "Washington Boro",
+    "Willow Street",
+    "Mountville",
+    "New Providence"
+  ],
+  "reviews": [
+    {
+      "text": "I couldn't be more pleased with the work J&G Heating & Air Conditioning did installing a dehumidifier in our basement! We have a very old basement with steep steps and some challenging conditions, but Darien did a fantastic job!",
+      "author": "Fred M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Always good to have Derek here. We trust his work - he does a great job",
+      "author": "Barbara C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "very polite tech prompt service Thank You",
+      "author": "Duane K.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406766/truaido-previews/jg-heating-conestoga/work1"
+  ]
+}

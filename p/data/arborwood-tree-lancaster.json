@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "arborwood-tree-lancaster",
+  "company": "Arborwood Tree and Lawn Care, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176150700",
+  "phone_display": "(717) 615-0700",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Arborwood%20Tree%20and%20Lawn%20Care%2C%20LLC&query_place_id=ChIJ79sZGaE9xokR2rHN3iPKPCg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Tyler and Katie from Arborwood Outdoor Solutions did an amazing job on our trees! They had the job done within a day. Zero, and I mean ZERO mess was left behind. They were both great to work with from the beginning to the very end. We HIGHLY recommend them!!",
+      "author": "Heather F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Good communication flow, very knowledgeable, and quick to provide service after a storm. Did a great job cleaning up.",
+      "author": "Dustin J.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "We had Arborwood cut down a big maple tree in our backyard. They did a wonderful job and were very easy to work with. I would recommend Arborwood for any landscaping projects!",
+      "author": "Travis S.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406254/truaido-previews/arborwood-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406255/truaido-previews/arborwood-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406255/truaido-previews/arborwood-tree-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406256/truaido-previews/arborwood-tree-lancaster/work4"
+  ]
+}

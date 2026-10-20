@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "collins-home-performance-harrisburg",
+  "company": "Collins Home Performance",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175786211",
+  "phone_display": "(717) 578-6211",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Collins%20Home%20Performance&query_place_id=ChIJ-ekVYCh0uCMRqUysXBPCNBc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Camp Hill",
+    "Lemoyne",
+    "Mechanicsburg",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "John was absolutely amazing from start to finish. When we learned that our HVAC system needed replaced, we were obviously not happy. John was referred to us and went out of his way to get here quickly to assess the problem and provide a very reasonable quote.",
+      "author": "Jason S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "John\u2019s nd Caleb were great!!! They replaced our gas furnace and our air conditioning system. Everything went perfect!!",
+      "author": "Michael P.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

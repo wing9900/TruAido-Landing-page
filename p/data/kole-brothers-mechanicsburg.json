@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "kole-brothers-mechanicsburg",
+  "company": "Kole Brothers",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17175992204",
+  "phone_display": "(717) 599-2204",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 103,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kole%20Brothers&query_place_id=ChIJZ_nAfbqv1oIR6BLRAE_tmmE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408131/truaido-previews/kole-brothers-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": "#0B2336"
+  },
+  "accent": "#0C2437",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Dillsburg",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Kole Brothers did a great job - very professional, they cleaned up the mess that another company made.",
+      "author": "Jennifer C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We hired Kole Brothers to put a ventilation system in our garage. Alex Kole assessed our need and advised a system that was installed with in a week at a reasonable price. We will definitely use their services in the future. Highly recommended!",
+      "author": "Kim S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Alex did preventative maintenance on two of our heat pump units today. His work was exemplary, and his demeanor is highly professional. I\u2019m so glad that I discovered this local small business owner.",
+      "author": "Alan W.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408128/truaido-previews/kole-brothers-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408129/truaido-previews/kole-brothers-mechanicsburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408130/truaido-previews/kole-brothers-mechanicsburg/work3"
+  ]
+}

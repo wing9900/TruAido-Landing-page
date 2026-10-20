@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "george-fitzpatrick-son-carlisle",
+  "company": "George W Fitzpatrick & Son",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17175766100",
+  "phone_display": "(717) 576-6100",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=George%20W%20Fitzpatrick%20%26%20Son&query_place_id=ChIJd7qaDrThyIkRAwDA6TnIhxU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407944/truaido-previews/george-fitzpatrick-son-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#216C21",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Cory was amazing! Was able to fit me in within an hour! Had a problem that could have flooded my downstairs basement and he was about to come in and make it better then it started.",
+      "author": "Lucas L.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Cory has helped us out on several different plumbing issues and we are very pleased with his work and pleasant personality. Great job.",
+      "author": "cheryl R.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Cory always fits you in and Does an excellent job!!!",
+      "author": "Donnathompson D.",
+      "stars": 5,
+      "month": "September 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407944/truaido-previews/george-fitzpatrick-son-carlisle/work1"
+  ]
+}

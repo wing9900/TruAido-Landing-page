@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "crees-welding-mechanicsburg",
+  "company": "Cree's Welding & Fabrication",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177958711",
+  "phone_display": "(717) 795-8711",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cree's%20Welding%20%26%20Fabrication&query_place_id=ChIJESkqtgXoyIkRbSQrh5Eayxo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407754/truaido-previews/crees-welding-mechanicsburg/logo",
+    "layout": "square",
+    "badge": "#0101AF"
+  },
+  "accent": "#03036C",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "Dillsburg",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "They did some work for us and couldn't have been happier with the result. Dying breed these type of folks are. Thank you for the great repair and fast turn around.",
+      "author": "YourAverageJoe",
+      "stars": 5,
+      "month": "April 2025"
+    }
+  ],
+  "gallery": []
+}

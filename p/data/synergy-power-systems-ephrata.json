@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "synergy-power-systems-ephrata",
+  "company": "Synergy Power Systems, Inc",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+14849961000",
+  "phone_display": "(484) 996-1000",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 30,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Synergy%20Power%20Systems%2C%20Inc&query_place_id=ChIJ8Ut_1G57xokRcjSh9hSAaUc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405838/truaido-previews/synergy-power-systems-ephrata/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#867200",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "New Holland",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "David and Dan are a class act. The install of my generator since it was a retro-fit was challenging and they used their expertise to perfection to work out the quirks. It's installed and working as indicated.",
+      "author": "carlos H.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Absolute Professionalism, Integrity, and Ingenuity! These are the best words to describe my experience with David Pogue and Synergy Power Systems.",
+      "author": "Kate M.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I first had an estimate done through Costco for a generator and did not like the vibe from the contractor they sent. I was referred to Dave by a friend and could not be happier with the price, service and installation.",
+      "author": "Jim D.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

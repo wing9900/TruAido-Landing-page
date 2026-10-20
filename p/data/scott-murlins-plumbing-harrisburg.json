@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "scott-murlins-plumbing-harrisburg",
+  "company": "Scott Murlin's Plumbing Services",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177594543",
+  "phone_display": "(717) 759-4543",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Scott%20Murlin's%20Plumbing%20Services&query_place_id=ChIJdSsHKMCXyIkRFDUhbIrFASg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Hershey",
+    "Dauphin",
+    "Halifax"
+  ],
+  "reviews": [
+    {
+      "text": "I would recommend Scott Murlin Plumbing to anyone who has any plumbing issues. I've had him do several jobs for me and he is very reliable and reasonably priced. He explained the issue to me and gave me an estimate for the work that needed to be done.",
+      "author": "Judy G.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "He came a day early because he knew we had no hot water. He was here exactly the time he quoted me. He quoted me a price beforehand and the price never went up.",
+      "author": "Linda B.",
+      "stars": 5,
+      "month": "January 2025"
+    },
+    {
+      "text": "Had a strange whining noise in my pipes whenever water was running, flushing toilets, etc. Scott came to my home and reviewed the problem, determined the cause and took care of it. Scott worked efficiently and quickly. I appreciate Scott.",
+      "author": "Elise",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407469/truaido-previews/scott-murlins-plumbing-harrisburg/work1"
+  ]
+}

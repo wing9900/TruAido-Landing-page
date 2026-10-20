@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "truly-nolen-pest-lancaster",
+  "company": "Truly Nolen Pest & Termite Control of Lancaster",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178790059",
+  "phone_display": "(717) 879-0059",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 119,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Truly%20Nolen%20Pest%20%26%20Termite%20Control%20of%20Lancaster&query_place_id=ChIJt8qO5RLnyIkR29ZuWNa7hbo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Manheim",
+    "Mount Joy",
+    "Elizabethtown",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Greatly appreciate his patience and knowledge!",
+      "author": "Cesar G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Kevin was very professional and did a through job inside and out.",
+      "author": "Stewart H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Terrific and well informed technician Kevin performed a service on our new home. Myself and my wife couldn't be happier with the quality of service. We signed up for a yearly service as I would recommend anyone in the lancaster area to do.",
+      "author": "Liam H.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

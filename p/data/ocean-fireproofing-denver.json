@@ -1,0 +1,47 @@
+{
+  "v": 1,
+  "slug": "ocean-fireproofing-denver",
+  "company": "ocean fireproofing",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+16109221210",
+  "phone_display": "(610) 922-1210",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ocean%20fireproofing&query_place_id=ChIJtak9M5gTxokRx4CDYyPeWSQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405844/truaido-previews/ocean-fireproofing-denver/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#2A385A",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Adamstown",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "I was looking for a fireproofing contractor near me and found the guys at Ocean Fireproofing. They were able to value engineer our project and find significant cost savings.",
+      "author": "Abe M.",
+      "stars": 5,
+      "month": "February 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405841/truaido-previews/ocean-fireproofing-denver/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405841/truaido-previews/ocean-fireproofing-denver/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405842/truaido-previews/ocean-fireproofing-denver/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405843/truaido-previews/ocean-fireproofing-denver/work4"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "blackout-pest-lancaster",
+  "company": "Blackout Pest Control LLC",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+14846377148",
+  "phone_display": "(484) 637-7148",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Blackout%20Pest%20Control%20LLC&query_place_id=ChIJo0XEHoDfLa8ReUP0Em6jg3E",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406730/truaido-previews/blackout-pest-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406733/truaido-previews/blackout-pest-lancaster/logo",
+    "layout": "square",
+    "badge": "#131612"
+  },
+  "accent": "#896F09",
+  "nearby_towns": [
+    "Lititz",
+    "Manheim",
+    "East Petersburg",
+    "Brownstown",
+    "Landisville",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Jessie is absolutely amazing and very quick to respond when you have an emergency. I've had a yellow jacket issue and she's been a huge help in eliminating them.",
+      "author": "Kristy L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great experience, very knowledgeable. Highly recommend!!",
+      "author": "Carl S.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I highly recommend. Jess was efficient and quick to come and look the problem and take care of it. She is excellent at customer service and and accommodating to ur needs. If u want those pests gone then you need to call Blackout Pest Control.",
+      "author": "Deanna K.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

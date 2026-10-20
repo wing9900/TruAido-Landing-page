@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "home-climates-elizabethtown",
+  "company": "Home Climates",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17176894151",
+  "phone_display": "(717) 689-4151",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 2032,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Home%20Climates&query_place_id=ChIJsx6WX2WYyIkRPV2LjYL8CZQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406199/truaido-previews/home-climates-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#5C080A",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Bainbridge",
+    "Marietta",
+    "Mount Joy",
+    "Salunga",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "Dilan was very professional and thorough.",
+      "author": "George P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great job from Justin Swiney today! Tom D.",
+      "author": "T D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Friendly, listened to descriptions/situations, explained equipment and procedures, and performed quality work.",
+      "author": "Glen.Becky M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406197/truaido-previews/home-climates-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406198/truaido-previews/home-climates-elizabethtown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406198/truaido-previews/home-climates-elizabethtown/work3"
+  ]
+}

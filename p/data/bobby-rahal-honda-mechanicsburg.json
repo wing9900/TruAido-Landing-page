@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "bobby-rahal-honda-mechanicsburg",
+  "company": "Bobby Rahal Honda Service Center",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177664300",
+  "phone_display": "(717) 766-4300",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 38,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bobby%20Rahal%20Honda%20Service%20Center&query_place_id=ChIJ5Q60QXfdyIkRRoR9kx7Ajl4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408297/truaido-previews/bobby-rahal-honda-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Enola",
+    "Dillsburg",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "awesome sauce! gave me a discount thanks gang great place",
+      "author": "jupiter M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Amazing customer service I called up because my radio in my 2003 Honda Accord was asking for a code and there was no book telling me the code so I looked it up online it said to call the dealership so I did an I'm glad I call this one because the guy on the...",
+      "author": "Tristan C.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "I've been a Bobby Rahal Honda customer for many years because of their Service Dept. In particular, I have received outstanding service from Jonathan Bair. He gave me expert advice in a manner that was courteous and went beyond my expectations.",
+      "author": "Steven M.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408296/truaido-previews/bobby-rahal-honda-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408297/truaido-previews/bobby-rahal-honda-mechanicsburg/work2"
+  ]
+}

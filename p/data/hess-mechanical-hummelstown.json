@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hess-mechanical-hummelstown",
+  "company": "Hess Mechanical, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175201314",
+  "phone_display": "(717) 520-1314",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hess%20Mechanical%2C%20LLC&query_place_id=ChIJ__YqbqO7yIkRq5K0YRVYudM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Hershey",
+    "Lower Paxton Township",
+    "Elizabethtown",
+    "Harrisburg",
+    "Middletown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

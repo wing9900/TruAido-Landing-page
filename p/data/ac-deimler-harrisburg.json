@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "ac-deimler-harrisburg",
+  "company": "A.C Deimler",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177138862",
+  "phone_display": "(717) 713-8862",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A.C%20Deimler&query_place_id=ChIJrybF2knkRYsREgXEutMtZCw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407663/truaido-previews/ac-deimler-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#346CE3",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Carlisle",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "During the crazy hot summer, 11 year old AC unit went out. Andy returned call right away, and was there the next day, on time and communicative throughout. Diagnosed and fixed in no time at a very fair price.",
+      "author": "Beth S.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "I called AC Deimler for water in my basement. He came the same day fixed my problem within minutes. I would recommend AC Deimler anytime he saved the day. Thank you Andy!",
+      "author": "Sharon M.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "When I posted on Nextdoor that I needed someone to repair the broken piping in my septic tank, AC Deimler, was the company that many of my neighbors referred me to. I went with a friend's recommendation and called Rob from AC Deimler.",
+      "author": "Jeff D.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407662/truaido-previews/ac-deimler-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407663/truaido-previews/ac-deimler-harrisburg/work2"
+  ]
+}

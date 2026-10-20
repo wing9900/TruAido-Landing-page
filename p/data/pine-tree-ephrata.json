@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "pine-tree-ephrata",
+  "company": "Pine Tree Motors",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177382242",
+  "phone_display": "(717) 738-2242",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 72,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pine%20Tree%20Motors&query_place_id=ChIJZTg7n7QQxokRJrTsa4oZMfA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405926/truaido-previews/pine-tree-ephrata/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#007934",
+  "nearby_towns": [
+    "Lititz",
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service, very friendly and helpful staff. We left the dealership very happy and highly recommended.200%",
+      "author": "Soaris C.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "I purchased a 2016 gmc sierra from them 2 years ago and they made tge experience very easy and like any vehicle has issues Andre is very helpful to solve the issues weather by advice or repair. Would totally recommend this business",
+      "author": "Bob J.",
+      "stars": 4,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405925/truaido-previews/pine-tree-ephrata/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405925/truaido-previews/pine-tree-ephrata/work2"
+  ]
+}

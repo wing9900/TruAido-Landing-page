@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "bg-mellinger-son-lancaster",
+  "company": "B G Mellinger & Son Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174643921",
+  "phone_display": "(717) 464-3921",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%20G%20Mellinger%20%26%20Son%20Inc.&query_place_id=ChIJsYGMsucvxokRB3LporvGOqw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Millersville",
+    "Mountville",
+    "Salunga",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "Appreciate your customer service with the fuel oil and furnace cleaning.",
+      "author": "Karen B.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Very friendly people who run this company. I used them years ago for my heating oil and I'll never forget one time I needed my furnace restarted because I had ran out of oil. The people who came that night were husband and wife and the owners of the company.",
+      "author": "Jess W.",
+      "stars": 5,
+      "month": "January 2023"
+    },
+    {
+      "text": "Excellent customer service! In a time when workers and patience is short the team went out of their way to make sure our house stayed warm.",
+      "author": "Kandis S.",
+      "stars": 5,
+      "month": "December 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406451/truaido-previews/bg-mellinger-son-lancaster/work1"
+  ]
+}

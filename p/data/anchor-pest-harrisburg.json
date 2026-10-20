@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "anchor-pest-harrisburg",
+  "company": "Anchor Pest Defense",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12232256743",
+  "phone_display": "(223) 225-6743",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 71,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Anchor%20Pest%20Defense&query_place_id=ChIJIbI6fG2h74MRrbmBx5gy8bk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Highspire",
+    "Steelton",
+    "Middletown",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "Brian is knowledgeable, the price is upfront and fair, and scheduling was easy. He also followed up to ensure his treatments were effective. I\u2019d highly recommend Anchor Pest Defense!",
+      "author": "Stephen K.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I found Anchor by asking AI for the top five exterminators in the Harrisburg area. I reached out to Anchor via email, detailed what I was looking for, and received an extremely thoughtful and intelligent response.",
+      "author": "Colby Z.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Fast response. Great results. Very happy with Brian and Anchor Took care of the bees",
+      "author": "Kim G.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "martin-heating-brownstown",
+  "company": "Martin Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Brownstown",
+  "state": "PA",
+  "phone": "+17178593131",
+  "phone_display": "(717) 859-3131",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 135,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Heating%20%26%20Cooling&query_place_id=ChIJkeOF5GQXxokR0xcek6f_SmQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Leola",
+    "Ephrata",
+    "Lititz",
+    "New Holland",
+    "Stevens"
+  ],
+  "reviews": [
+    {
+      "text": "Great experience from initial sales consult (David Martin), to quote, to answering a variety of questions, to quality of installation (Travis and Eldon) and explaining how to operate the mini splits. Great customer service.",
+      "author": "Brian W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Jon, Jeremy and Travis did a fantastic job installing my new heat pump. It looks good, it runs good and they left the house in clean, orderly condition which means a lot to me! I can always count on Martin's for doing a wonderful job.",
+      "author": "Dara K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We recently had a whole home steam humidifier installed by Martin Heating and Cooling. Michael did a great job explaining the system and what was needed. The installation went smoothly and the area was cleaned up nicely. Would recommend.",
+      "author": "Rebecca S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

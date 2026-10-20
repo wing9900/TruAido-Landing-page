@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "manor-mechanical-lancaster",
+  "company": "Manor Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172854900",
+  "phone_display": "(717) 285-4900",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Manor%20Mechanical%20LLC&query_place_id=ChIJ3-qr7zAnxokRQJpcZEu3nFQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Landisville",
+    "East Petersburg",
+    "Salunga",
+    "Millersville",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "From start to finish this job was organized and managed by Allen and his crew expertly and efficiently. The pandemic delayed the start of this major job - to excavate a 4 foot trench about 100 feet, from the barn at the back of the property to lay a sewage...",
+      "author": "Susan G.",
+      "stars": 5,
+      "month": "July 2020"
+    },
+    {
+      "text": "Manor Mechanical charged a really reasonable price to install some duct work & a register at our older home today. Alan & Joe arrived on time, were professional & friendly, cleaned up after themselves and made it very easy to do business with them.",
+      "author": "Emily B.",
+      "stars": 5,
+      "month": "August 2017"
+    }
+  ],
+  "gallery": []
+}

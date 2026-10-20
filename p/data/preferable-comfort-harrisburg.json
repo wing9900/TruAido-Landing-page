@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "preferable-comfort-harrisburg",
+  "company": "Preferable Comfort",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173192862",
+  "phone_display": "(717) 319-2862",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Preferable%20Comfort&query_place_id=ChIJfwiC4X0Ke0sRqbdsOGBxmpg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Lemoyne",
+    "Summerdale"
+  ],
+  "reviews": [],
+  "gallery": []
+}

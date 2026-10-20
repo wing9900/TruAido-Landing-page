@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "george-boyer-sons-harrisburg",
+  "company": "George D Boyer & Sons Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172367672",
+  "phone_display": "(717) 236-7672",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=George%20D%20Boyer%20%26%20Sons%20Inc&query_place_id=ChIJJ55gFcrGyIkRFdHYq3atJQQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407399/truaido-previews/george-boyer-sons-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Enola",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "New Cumberland"
+  ],
+  "reviews": [],
+  "gallery": []
+}

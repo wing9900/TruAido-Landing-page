@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "pa-pest-lemoyne",
+  "company": "Pa pest control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17173649890",
+  "phone_display": "(717) 364-9890",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pa%20pest%20control&query_place_id=ChIJkShZIAmNSaoRTx8s_UQIBEA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Camp Hill",
+    "New Cumberland",
+    "Shiremanstown",
+    "East Pennsboro Township",
+    "Steelton",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

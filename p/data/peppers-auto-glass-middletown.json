@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "peppers-auto-glass-middletown",
+  "company": "Pepper's Auto Glass, Llc",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17178132279",
+  "phone_display": "(717) 813-2279",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pepper's%20Auto%20Glass%2C%20Llc&query_place_id=ChIJq6r26AG-yIkRYP4ozOhSFbo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Highspire",
+    "Elizabethtown",
+    "Steelton",
+    "Hummelstown",
+    "New Cumberland",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "This guy is great! The communication about how things would go, when he would have the window and then he installed the new window while the car was in the driveway! He is friendly and the price for replacement was extremely reasonable! Thank you!!",
+      "author": "Katherine M.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Best auto glass service around, very friendly on the phone. Would recommend over any other service.",
+      "author": "James I.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407256/truaido-previews/peppers-auto-glass-middletown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407257/truaido-previews/peppers-auto-glass-middletown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407258/truaido-previews/peppers-auto-glass-middletown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407259/truaido-previews/peppers-auto-glass-middletown/work4"
+  ]
+}

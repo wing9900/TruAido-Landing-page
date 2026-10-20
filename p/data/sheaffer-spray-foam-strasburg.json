@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "sheaffer-spray-foam-strasburg",
+  "company": "Sheaffer Spray Foam",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Strasburg",
+  "state": "PA",
+  "phone": "+17176878018",
+  "phone_display": "(717) 687-8018",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sheaffer%20Spray%20Foam&query_place_id=ChIJrT_8ih46xokRsVEwkqOPBow",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Ronks",
+    "Willow Street",
+    "New Providence",
+    "Paradise",
+    "Gordonville",
+    "Quarryville"
+  ],
+  "reviews": [
+    {
+      "text": "They respond very fast, are very knowledgeable and professional. They were able to accommodate our tight schedule without any issues. The day of installation, the crew worked fast but efficiently.",
+      "author": "Sarah A.",
+      "stars": 5,
+      "month": "January 2014"
+    }
+  ],
+  "gallery": []
+}

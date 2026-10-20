@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "arbor-assassin-harrisburg",
+  "company": "Arbor Assassin LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+15708471145",
+  "phone_display": "(570) 847-1145",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Arbor%20Assassin%20LLC&query_place_id=ChIJ1f5TRZAxz4kR-F3n8Di6CYQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dauphin",
+    "Halifax",
+    "Summerdale",
+    "Enola",
+    "East Pennsboro Township",
+    "Millersburg"
+  ],
+  "reviews": [
+    {
+      "text": "I could not have had a better experience! If you are looking for good quality and honest arborists, I would highly recommend Arbor Assassin. They were thorough in the work & the price was very fair for all the work they did.",
+      "author": "Steph M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I have used Jason and his crew multiple times over the last 6 years, and given him a lot of business, but I can tell you it's worth every penny.",
+      "author": "Mike G.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Highly recommend! A tree fell over my driveway and Jason and his team came out quickly. They cleaned everything up and it looked nicer than before the tree fell over.",
+      "author": "Kim B.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407537/truaido-previews/arbor-assassin-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407539/truaido-previews/arbor-assassin-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407540/truaido-previews/arbor-assassin-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407541/truaido-previews/arbor-assassin-harrisburg/work4"
+  ]
+}

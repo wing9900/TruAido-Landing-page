@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "sunny-hollow-fabrication-gratz",
+  "company": "Sunny Hollow Fabrication & Equipment",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Gratz",
+  "state": "PA",
+  "phone": "+17173653811",
+  "phone_display": "(717) 365-3811",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sunny%20Hollow%20Fabrication%20%26%20Equipment&query_place_id=ChIJsy6qNgJPz4kRTeSpMyqAk_w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lykens",
+    "Elizabethville",
+    "Williamstown",
+    "Millersburg",
+    "Halifax",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent shop! Top notch quality workmanship combined with friendly and timely customer service. I\u2019ve had several pieces of equipment manufactured and repaired over the years. I am always pleased by this shop!",
+      "author": "David C.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Affordable repairs and fabrication Work. Haven\u2019t had an issue with anything they have done from semi trailer repairs, frame repairs on equipment, to making side steps for a pickup, I have had both steel and aluminum work done and everything is holding up...",
+      "author": "Nathen E.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Great place for custom metal fabrication, equipment repair, and equipment supplies and parts. Owner and staff very helpful",
+      "author": "Samuel E.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407337/truaido-previews/sunny-hollow-fabrication-gratz/work1"
+  ]
+}

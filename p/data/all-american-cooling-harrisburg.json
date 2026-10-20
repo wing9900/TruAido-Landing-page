@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "all-american-cooling-harrisburg",
+  "company": "All American Cooling & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172384800",
+  "phone_display": "(717) 238-4800",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 19,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=All%20American%20Cooling%20%26%20Heating&query_place_id=ChIJe5G1nrjGyIkRb0PozV64YVU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Enola",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "I had an emergency when my oil tank started leaking and they were here to fix it the next morning. They did excellent work replacing the tank in my basement and cleaned up everything when they were finished.",
+      "author": "Marissa W.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Very responsable and they did a good job and completed the job same day.",
+      "author": "Hamilton A.",
+      "stars": 5,
+      "month": "September 2022"
+    },
+    {
+      "text": "Installed a new furnace within 2 days of being approved. Works great. Fast service.",
+      "author": "Wooty W.",
+      "stars": 5,
+      "month": "April 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407364/truaido-previews/all-american-cooling-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407365/truaido-previews/all-american-cooling-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407365/truaido-previews/all-american-cooling-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407366/truaido-previews/all-american-cooling-harrisburg/work4"
+  ]
+}

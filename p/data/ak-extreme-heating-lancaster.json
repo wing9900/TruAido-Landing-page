@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "ak-extreme-heating-lancaster",
+  "company": "A & K Extreme Heating and Cooling LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176198100",
+  "phone_display": "(717) 619-8100",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20K%20Extreme%20Heating%20and%20Cooling%20LLC&query_place_id=ChIJ8y2LMZ73LCsRWuraPUkLQwo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406575/truaido-previews/ak-extreme-heating-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#077BB5",
+  "nearby_towns": [
+    "Willow Street",
+    "Strasburg",
+    "Leola",
+    "Millersville",
+    "Ronks",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent work looks at everything that you need to do the job right will recommend them to anybody",
+      "author": "Mateo C.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Amazing service all around! Was in a rush to get quotes for a total HVAC replacement . Bill was able to come out to the property the same day I had called him. Was getting the system installed not even a week later.",
+      "author": "Kristina M.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Put in a new furnace, took out the old one, clean and professional, Highly recommend,Great job",
+      "author": "maryjane S.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406571/truaido-previews/ak-extreme-heating-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406572/truaido-previews/ak-extreme-heating-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406573/truaido-previews/ak-extreme-heating-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406574/truaido-previews/ak-extreme-heating-lancaster/work4"
+  ]
+}

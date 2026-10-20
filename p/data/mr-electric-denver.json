@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "mr-electric-denver",
+  "company": "Mr. Electric of Lancaster County",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17172082495",
+  "phone_display": "(717) 208-2495",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 668,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Electric%20of%20Lancaster%20County&query_place_id=ChIJtdQ1s6cTxokR-bceNjapq-Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Adamstown",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "We have used them for multiple jobs. Very happy with their work.",
+      "author": "zinkfv61",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I like that they send you a picture of the service person that\u2019s going to be doing your work. All their technicians are friendly & knowledgeable",
+      "author": "Michaleen A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We were able to have someone come out the same day I called Mr. Electric, Andrew did a fantastic job fixing the light that was falling.",
+      "author": "Lydia T.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477784/truaido-previews/mr-electric-denver/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477785/truaido-previews/mr-electric-denver/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477786/truaido-previews/mr-electric-denver/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477787/truaido-previews/mr-electric-denver/work4"
+  ]
+}

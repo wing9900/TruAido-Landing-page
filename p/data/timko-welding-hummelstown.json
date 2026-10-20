@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "timko-welding-hummelstown",
+  "company": "Timko Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175146807",
+  "phone_display": "(717) 514-6807",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Timko%20Welding&query_place_id=ChIJsyK8jXAU3gsR4Sg9eVmTMlw",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407216/truaido-previews/timko-welding-hummelstown/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Hershey",
+    "Lower Paxton Township",
+    "Harrisburg",
+    "Middletown",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "My motorcycle center stand was bent and broken so he nicely welded everything back in place in under 20 minutes. Good experience overall",
+      "author": "Bernardo B.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "I called Tim frantic after a major piece of equipment broke off that I needed to run my business. Knowing I had no time to waste and pending orders in a few days I was definitely stressing. He was quick and extremely reasonable in price.",
+      "author": "Kim Z.",
+      "stars": 5,
+      "month": "January 2025"
+    },
+    {
+      "text": "If anyone needs a professional welder this is your man. On time goes above and beyond to make sure the customer is satisfied. Also his prices are great! He's worth the price. I personally want to thank you for taking the time to weld our wrestling ring.",
+      "author": "Rob N.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407216/truaido-previews/timko-welding-hummelstown/work1"
+  ]
+}

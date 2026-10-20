@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "tapper-sons-dauphin",
+  "company": "TAPPER & SONS INC.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Dauphin",
+  "state": "PA",
+  "phone": "+17179214822",
+  "phone_display": "(717) 921-4822",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 222,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=TAPPER%20%26%20SONS%20INC.&query_place_id=ChIJZ7oGYLe4yIkR0J5mtdP4PZA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "Enola",
+    "East Pennsboro Township",
+    "Halifax",
+    "Harrisburg",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Thank you guys so much Always on it and there for me Brandon is TOP NOTCH by the way ! Good dude and knows his stuff !!",
+      "author": "Shawn F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They did a great job coming out to take a look at my heat pump. Very honest and didn\u2019t try to sell me anything I didn\u2019t need (even when I suggested it!). Will use them for an ongoing service contract. Highly recommend.",
+      "author": "Shellie R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "7/15/2026 Brandon Tapper came to my house to provide a yearly maintenance check on my furnaces, heat pumps, filters etc. He worked efficiently, checking all the HVAC items listed and said everything looked good and was working well.",
+      "author": "David K.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407334/truaido-previews/tapper-sons-dauphin/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407335/truaido-previews/tapper-sons-dauphin/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407335/truaido-previews/tapper-sons-dauphin/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407335/truaido-previews/tapper-sons-dauphin/work4"
+  ]
+}

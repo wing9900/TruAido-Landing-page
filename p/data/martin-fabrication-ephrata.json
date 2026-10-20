@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "martin-fabrication-ephrata",
+  "company": "Martin Fabrication",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177384228",
+  "phone_display": "(717) 738-4228",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Fabrication&query_place_id=ChIJ_XsjzdYVxokRKaV7kINEB00",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Stevens",
+    "Leola",
+    "New Holland",
+    "Denver"
+  ],
+  "reviews": [
+    {
+      "text": "The best custom welding shop you will find!",
+      "author": "Chris M.",
+      "stars": 5,
+      "month": "June 2016"
+    }
+  ],
+  "gallery": []
+}

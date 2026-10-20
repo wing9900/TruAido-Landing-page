@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "total-exterminating-columbia",
+  "company": "Total Exterminating Services",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17179513868",
+  "phone_display": "(717) 951-3868",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 137,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Total%20Exterminating%20Services&query_place_id=ChIJMamzaB2dyIkRtMb7OjDA9W8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406678/truaido-previews/total-exterminating-columbia/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#2674B4",
+  "nearby_towns": [
+    "Mountville",
+    "Mount Joy",
+    "Washington Boro",
+    "Marietta",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "I LOVE TES! Christian is great; always kind and punctual. They keep so many pests under control even in an older home like ours. Very reasonably priced for everything they do. They took care of a big mouse issue we had and maintain my home to be pest free!",
+      "author": "Taylor B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Zack does my apartment and he is very courteous and polite",
+      "author": "Barry H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had a great experience with Steve and the team at TES. We were dealing with a pest issue, initially suspected as mice but which turned out to be squirrels, and wanted to work with a local company to assist.",
+      "author": "Ryan M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406678/truaido-previews/total-exterminating-columbia/work1"
+  ]
+}

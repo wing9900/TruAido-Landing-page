@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "fallen-tree-carlisle",
+  "company": "Fallen Tree Farm Bed and Breakfast",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17177135407",
+  "phone_display": "(717) 713-5407",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 128,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fallen%20Tree%20Farm%20Bed%20and%20Breakfast&query_place_id=ChIJQ86g__MdyYkR0lGRAldqdtg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Gardners",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Newville",
+    "Hampden Township"
+  ],
+  "reviews": [
+    {
+      "text": "My wife and I got married on the last weekend of summer at Fallen Tree Farms, and were amazed with the entire experience. Ours was a small wedding, so we went with the micro mini package, and everything was exquisite: The decorations were elegant and...",
+      "author": "Benjamin G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I wanted to leave a review and express our sincere gratitude for everything Kim did to make our wedding day so incredible. Kim is a wonderful hostess and a truly fantastic chef.",
+      "author": "Tiffany F.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

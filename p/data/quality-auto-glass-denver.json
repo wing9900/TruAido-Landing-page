@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "quality-auto-glass-denver",
+  "company": "Quality Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17173717650",
+  "phone_display": "(717) 371-7650",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Quality%20Auto%20Glass&query_place_id=ChIJnW92j2RhSacRSA2ajNauxfY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Robesonia",
+    "Reinholds",
+    "Stevens",
+    "Adamstown",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Orin takes pride in his work does it right the first time. And uses the best glass made. Is very reasonably priced. Been using him for years. He is always my first choice. Nate",
+      "author": "Rollin C.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Orin and his guys are the best in the business! They provide great value and also have wonderful customer service, and they are a pleasure to work with!",
+      "author": "Marcus G.",
+      "stars": 5,
+      "month": "March 2025"
+    },
+    {
+      "text": "Oren provides great customer service and is a pleasure to work with!",
+      "author": "Daniel L.",
+      "stars": 5,
+      "month": "March 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "commercial-refrigeration-harrisburg",
+  "company": "Commercial Refrigeration of Harrisburg Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175642034",
+  "phone_display": "(717) 564-2034",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 71,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Refrigeration%20of%20Harrisburg%20Inc&query_place_id=ChIJ30Ctdrm-yIkREbDh_MAgYvU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407054/truaido-previews/commercial-refrigeration-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#01335B",
+  "nearby_towns": [
+    "Hummelstown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Middletown",
+    "Steelton",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "I had three mini-splits installed. Work was completed as planned and on schedule. Staff were competent, respectful and approachable which added confidence to the experience.",
+      "author": "Mary Z.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Had a clogged drain line on one of my mini-split units that caused water to leak out in the room. It was after 4pm on a Saturday. Called the answering service who contacted a technician who came and blew out the drain line. All fixed.",
+      "author": "Christopher R.",
+      "stars": 4,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407051/truaido-previews/commercial-refrigeration-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407052/truaido-previews/commercial-refrigeration-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407053/truaido-previews/commercial-refrigeration-harrisburg/work3"
+  ]
+}

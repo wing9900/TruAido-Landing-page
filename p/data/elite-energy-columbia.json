@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "elite-energy-columbia",
+  "company": "Elite Energy",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17176842181",
+  "phone_display": "(717) 684-2181",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 52,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20Energy&query_place_id=ChIJCzV-YwOdyIkRRY9ZcbC70BI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406813/truaido-previews/elite-energy-columbia/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Marietta",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Had a leaking hot water heater. JOE WAS THERE WITHIN MINUTES! It was repaired in a half hour. What service!!!!",
+      "author": "Mark K.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "They do my yearly cleaning of my furnace. Also I was working around my oil tank last week and hit a line that started leaking oil. I called them on a Sunday morning and to tell them I screwed up!",
+      "author": "Eric K.",
+      "stars": 5,
+      "month": "January 2024"
+    }
+  ],
+  "gallery": []
+}

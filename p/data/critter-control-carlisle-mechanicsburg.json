@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "critter-control-carlisle-mechanicsburg",
+  "company": "Critter Control of Carlisle",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17174627712",
+  "phone_display": "(717) 462-7712",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 168,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Critter%20Control%20of%20Carlisle&query_place_id=ChIJj6HpMVJS320RUMmeHxfMzEY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "The very quick response time was greatly appreciated. Thoroughly checked out the attic and looked for access points. Very satisfied and would use again without hesitation.",
+      "author": "Linda E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Nate and Sean were here for bee had to come back second time and we're very professional would recommend them to anyone that has issues",
+      "author": "Gary L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "As I was fighting off about 100 bees, I didn\u2019t realize how easy it would\u2019ve been to get someone into my home within an hour to help me solve this horrible horrible bee situation. They were growing in the attic.",
+      "author": "Larry S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407997/truaido-previews/critter-control-carlisle-mechanicsburg/work1"
+  ]
+}

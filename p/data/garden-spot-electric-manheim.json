@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "garden-spot-electric-manheim",
+  "company": "Garden Spot Electric Inc",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176656000",
+  "phone_display": "(717) 665-6000",
+  "has_website": true,
+  "rating": 3.3,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Garden%20Spot%20Electric%20Inc&query_place_id=ChIJ7XRqn0QfxokRhrl1que-5yQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477755/truaido-previews/garden-spot-electric-manheim/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#766F29",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "Lititz",
+    "East Petersburg",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477754/truaido-previews/garden-spot-electric-manheim/work1"
+  ]
+}

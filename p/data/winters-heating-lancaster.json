@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "winters-heating-lancaster",
+  "company": "Winter's Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232274328",
+  "phone_display": "(223) 227-4328",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 786,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Winter's%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJ-Vrbx5QnxokR-AIhUfu3ULM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Mountville",
+    "Washington Boro",
+    "Landisville",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "We were very pleased with the systems maintenance performed by your technician, Mel. Both, interior, and exterior units were checked and examined.....and filter was replaced.",
+      "author": "Egan W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Had my heating system serviced. Great guys to work with. Very helpful and kind. I truly appreciate the fact that they were willing to explained things to me. Very through. Will continue to give them my business.",
+      "author": "Lisa C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great experience with Winters heating and air! Technician was extremely knowledgeable and helpful. I would highly recommend them. Honest and affordable",
+      "author": "Glenn G.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

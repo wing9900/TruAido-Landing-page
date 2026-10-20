@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "airgas-store-carlisle",
+  "company": "Airgas Store",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172496221",
+  "phone_display": "(717) 249-6221",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Airgas%20Store&query_place_id=ChIJ2USxeyoeyYkRGY53E1MO6eU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407768/truaido-previews/airgas-store-carlisle/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#006272",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Our company has been going to these guys for years . They are very friendly and have great customer service ! Never had one problem in the 7 years I have been coming to them !",
+      "author": "kyle M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lopez-pest-elizabethtown",
+  "company": "Lopez Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17176500416",
+  "phone_display": "(717) 650-0416",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 85,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lopez%20Pest%20Control&query_place_id=ChIJAQDMUW-YyIkRfjpvEG7qf0s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406844/truaido-previews/lopez-pest-elizabethtown/logo",
+    "layout": "square",
+    "badge": "#000000"
+  },
+  "accent": "#8C6F1D",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Bainbridge",
+    "Marietta",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Best people in the world! Take very great care of you asap and not just a service but made friends! Large hearts. Love them!",
+      "author": "Jamin S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "We have been using Lopez Pest Control for about two years. Initially, Ray came out to take care of a yellow jacket problem we were having. I signed up for a quarterly contract and couldn't be happier with the service. Kyle, Ray and Joe are all fantastic.",
+      "author": "Jill M.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Joseph did a great job today! He was very friendly and very thorough!",
+      "author": "Greg S.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

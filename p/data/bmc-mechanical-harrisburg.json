@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bmc-mechanical-harrisburg",
+  "company": "BMC Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174901925",
+  "phone_display": "(717) 490-1925",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=BMC%20Mechanical%20LLC&query_place_id=ChIJCbuGjM4E4CkRVWwEg8ER0J4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Middletown",
+    "Highspire",
+    "Hummelstown",
+    "Steelton",
+    "Lower Paxton Township",
+    "Elizabethtown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

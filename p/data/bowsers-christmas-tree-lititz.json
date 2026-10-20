@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "bowsers-christmas-tree-lititz",
+  "company": "Bowser's Christmas Tree Farm",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176277071",
+  "phone_display": "(717) 627-7071",
+  "has_website": false,
+  "rating": 4.1,
+  "review_count": 26,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bowser's%20Christmas%20Tree%20Farm&query_place_id=ChIJ2x3vBK4ixokRN4_SyvvTKy8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "East Petersburg",
+    "Lancaster",
+    "Leola",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "What a gem on 5 acres and if you need work on your car! One stop shopping, beautiful selection of cut your own or precuts some in water.",
+      "author": "Patrick K.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "This is our second year getting a tree here. Both trees have been absolutely perfect! The staff is so nice and so helpful. Will be going here year after year.",
+      "author": "Madelyn S.",
+      "stars": 5,
+      "month": "December 2023"
+    },
+    {
+      "text": "Wonderful place to go we found the perfect tree! Everyone there was so helpful we will definitely be back !!",
+      "author": "Jamie K.",
+      "stars": 5,
+      "month": "November 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406007/truaido-previews/bowsers-christmas-tree-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406008/truaido-previews/bowsers-christmas-tree-lititz/work2"
+  ]
+}

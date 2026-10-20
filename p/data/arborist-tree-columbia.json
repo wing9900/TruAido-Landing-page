@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "arborist-tree-columbia",
+  "company": "Arborist Tree Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17175375503",
+  "phone_display": "(717) 537-5503",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 67,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Arborist%20Tree%20Care&query_place_id=ChIJ72yA_L2K3CcRd2qR9JCdOl4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Millersville",
+    "Landisville",
+    "Salunga",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Matt is very kind and did a great job! I will be using him for any job that needs to be done in the near future.",
+      "author": "Jeanine S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Matt was easy to work with from start to finish. I mentioned that we mow around the mushrooms in our yard, and he was very intentional about driving around them while he was working.",
+      "author": "Ashley G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We had 2 trees trimmed. The job was done as expected including clean-up of all debris. Well pleased with all aspects of the job.",
+      "author": "Jean M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

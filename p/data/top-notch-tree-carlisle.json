@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "top-notch-tree-carlisle",
+  "company": "Top Notch Tree And Landscape",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173864688",
+  "phone_display": "(717) 386-4688",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 47,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Top%20Notch%20Tree%20And%20Landscape&query_place_id=ChIJvwDrV5sbyYkRwP7wE8oIWIg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Walnut Bottom",
+    "Boiling Springs",
+    "Gardners",
+    "Shippensburg",
+    "Newburg"
+  ],
+  "reviews": [
+    {
+      "text": "I am extremely pleased with my experience with Top Notch Tree. They removed a large, overgrown willow tree. Javan provided an excellent quote. The crew executed tree removal, stump grinding & complete clean-up in 30 minutes.",
+      "author": "Jackie H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "They did a trim of a couple trees on my property. The work was good, they cleaned up, didn't damage anything. We quoted a few services, and they were all pretty close in price. What set them apart in my mind was the communication.",
+      "author": "Christopher C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I very much appreciated Rhett's very quick response to my initial phone call inquiring about getting our tree removed & also how quickly he & his crew were actually able to come & do the job.",
+      "author": "Michelle L.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407782/truaido-previews/top-notch-tree-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407783/truaido-previews/top-notch-tree-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407784/truaido-previews/top-notch-tree-carlisle/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407785/truaido-previews/top-notch-tree-carlisle/work4"
+  ]
+}

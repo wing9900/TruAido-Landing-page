@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "united-rentals-climate-mechanicsburg",
+  "company": "United Rentals - Climate Solutions",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17175067307",
+  "phone_display": "(717) 506-7307",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=United%20Rentals%20-%20Climate%20Solutions&query_place_id=ChIJ4-kv8IbpyIkR4s22OTHD0AE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408154/truaido-previews/united-rentals-climate-mechanicsburg/logo",
+    "layout": "square",
+    "badge": "#0050A9"
+  },
+  "accent": "#0954AB",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Camp Hill",
+    "Lemoyne",
+    "Dillsburg",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Craig is great! Nice and helpful..both units they over for heating and cooling work amazing used them twice now once in the winter to keep our grooming salon warm and this summer to keep it nice and cool for our clients",
+      "author": "Valentina D.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Excellent customer service and fast response time from Craig and team. Thank you.",
+      "author": "Jennifer G.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Deandre was quick and did an excellent job. Would highly recommend! Thank you!",
+      "author": "Nathan K.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408153/truaido-previews/united-rentals-climate-mechanicsburg/work1"
+  ]
+}

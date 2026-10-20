@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "cocoa-restaurant-hummelstown",
+  "company": "Cocoa Restaurant Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175543695",
+  "phone_display": "(717) 554-3695",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 48,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cocoa%20Restaurant%20Services&query_place_id=ChIJgz1XZb-8yIkREnStiligZAY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407523/truaido-previews/cocoa-restaurant-hummelstown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#21679C",
+  "nearby_towns": [
+    "Hershey",
+    "Middletown",
+    "Elizabethtown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "They not only meet our expectations but constantly exceed them. Keep up the good work",
+      "author": "Robert S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Swatara Home Association 265 couldn\u2019t run without Cocoa Refrigeration! They are truly a God send!",
+      "author": "Tonya M.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "They get the job done. Even when it's so cold you think to your a penguin they will still climb up on your roof to get it done 10/10",
+      "author": "jeramie F.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407522/truaido-previews/cocoa-restaurant-hummelstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407522/truaido-previews/cocoa-restaurant-hummelstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407523/truaido-previews/cocoa-restaurant-hummelstown/work3"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tempchek-lancaster",
+  "company": "Tempchek",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173937572",
+  "phone_display": "(717) 393-7572",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 19,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempchek&query_place_id=ChIJsTxEK3s8xokRkXQhRgkR9jY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leola",
+    "Brownstown",
+    "Strasburg",
+    "Gordonville",
+    "Akron",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Max from Tempcheck is amazing. He is able to come in and Fix everything that we need. If a machine needs a part, he is always able to put in a temporary fix until the part is ordered.",
+      "author": "Tyler S.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "A+ service. Tempchek installed my mini splits and helped me with a gas hookup issue. Tempchek has great staff and know how. I would highly recommend them!",
+      "author": "Ben",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "Great and knowledgeable team! Max can fix anything!",
+      "author": "Deanna",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": []
+}

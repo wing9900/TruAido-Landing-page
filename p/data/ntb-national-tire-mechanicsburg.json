@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "ntb-national-tire-mechanicsburg",
+  "company": "NTB-National Tire & Battery",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17172084875",
+  "phone_display": "(717) 208-4875",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 710,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=NTB-National%20Tire%20%26%20Battery&query_place_id=ChIJ7ab2vMDCyIkRA5GT_GN2nbM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Enola",
+    "East Pennsboro Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "I\u2019ve came here for a good bit of my repairs, and they\u2019re always awesome. Although, a bit on the pricier sides of shops, they do very well and uphold parts warranty 100%. thank you to everyone who\u2019s helped get my car back on the road safely",
+      "author": "Sharon F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Extremely helpful and accommodating. Service was top notch.",
+      "author": "Albert D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They gave me a free valve stem cap! Thanks guys",
+      "author": "Taylor H.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408338/truaido-previews/ntb-national-tire-mechanicsburg/work1"
+  ]
+}

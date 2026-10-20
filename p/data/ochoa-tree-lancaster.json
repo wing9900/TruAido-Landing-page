@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "ochoa-tree-lancaster",
+  "company": "Ochoa Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+16106208365",
+  "phone_display": "(610) 620-8365",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ochoa%20Tree%20Service&query_place_id=ChIJP_jWgcVju6ERniCt5QUtELo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Kirkwood",
+    "Christiana",
+    "Nottingham",
+    "Paradise",
+    "Quarryville",
+    "Peach Bottom"
+  ],
+  "reviews": [
+    {
+      "text": "Noe and his guys are awesome! They came out and looked at the job within 2 hours of calling. They are VERY well priced (sometimes I think tree services take advantage but you can't beat thier prices).",
+      "author": "Olivia T.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "I contacted Ochoa Tree Services to cut down one dead willow tree and trim a very old and large Silver Maple tree that was at risk of falling on my house. They scheduled a day and showed up on time.",
+      "author": "Antonio P.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Prompt, experienced and helpful. Cleaned up after. Good price for the work.",
+      "author": "Donald A.",
+      "stars": 5,
+      "month": "September 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406524/truaido-previews/ochoa-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406525/truaido-previews/ochoa-tree-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406527/truaido-previews/ochoa-tree-lancaster/work3"
+  ]
+}

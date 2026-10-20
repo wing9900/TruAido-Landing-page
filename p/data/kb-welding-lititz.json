@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "kb-welding-lititz",
+  "company": "KB Welding LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17173336684",
+  "phone_display": "(717) 333-6684",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=KB%20Welding%20LLC&query_place_id=ChIJt7yYwDwZxokRBjrYpIXmP1A",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "Akron",
+    "Ephrata",
+    "Brownstown",
+    "East Petersburg",
+    "Stevens"
+  ],
+  "reviews": [
+    {
+      "text": "Kim's Always nice whenever I have to make an exchange with her.",
+      "author": "corey M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "They were amazing, they did some welding for me on the spot! Prices are good and the people are fantastic. Highly recommend \ud83d\udc4c",
+      "author": "Jeremy K.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I brought my dump trailer in to have the walls extended and told her I wanted it to look as factory as possible. She absolutely exceeded my expectations. The quality of the work is top-notch and it looks like it came that way from the factory.",
+      "author": "Nick K.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406105/truaido-previews/kb-welding-lititz/work1"
+  ]
+}

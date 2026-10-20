@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "kcs-home-harrisburg",
+  "company": "KCS Home Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176866425",
+  "phone_display": "(717) 686-6425",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=KCS%20Home%20Services&query_place_id=ChIJVUhGm_65yIkR1GPxDfsv-MA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407422/truaido-previews/kcs-home-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Hershey",
+    "Grantville",
+    "Steelton",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "I work with Kasey for my HVAC needs, and in this case, an emergency hot water heater install. He was recommended to my by a good Friend who owns a small business, who said he was Honest and Fair. Kasey actually turned out to be even better than that.",
+      "author": "Grant",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "I was helped by Kasey recently on an issue with my furnace. He was incredibly knowledgeable and guessed what the problem was as soon as he first looked at the furnace. It turned out he was right!",
+      "author": "Dannie D.",
+      "stars": 5,
+      "month": "October 2024"
+    },
+    {
+      "text": "I've used KCS Home Services multiple times, always with exceptional results. Kasey\u2019s communication is excellent. He takes the time to explain the process, and is always happy to answer each and every question I have.",
+      "author": "Chris M.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407422/truaido-previews/kcs-home-harrisburg/work1"
+  ]
+}

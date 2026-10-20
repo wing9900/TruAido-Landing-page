@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "stoner-industrial-denver",
+  "company": "Stoner Industrial Services, Inc",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17173364521",
+  "phone_display": "(717) 336-4521",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stoner%20Industrial%20Services%2C%20Inc&query_place_id=ChIJu3y2FC0TxokRt9SHSlN4Mqo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406090/truaido-previews/stoner-industrial-denver/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#7E011F",
+  "nearby_towns": [
+    "Adamstown",
+    "Reinholds",
+    "Stevens",
+    "Ephrata",
+    "Robesonia",
+    "Narvon"
+  ],
+  "reviews": [
+    {
+      "text": "We have used Stoner industrial on several projects and every time they have done an excellent job. They are on time; the operators are very good at their jobs and the equipment is well maintained. I would gladly recommend them to anyone.",
+      "author": "Andrew M.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "Great Company! Fast and reliable Crane Services!",
+      "author": "Ryan E.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "Great company! Needed a crane in a pinch, got in contact with Tracy in the office and they got us in the schedule right away!",
+      "author": "Ryan S.",
+      "stars": 5,
+      "month": "February 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406089/truaido-previews/stoner-industrial-denver/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406089/truaido-previews/stoner-industrial-denver/work2"
+  ]
+}

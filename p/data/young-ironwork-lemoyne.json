@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "young-ironwork-lemoyne",
+  "company": "Young Ironwork",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17177611428",
+  "phone_display": "(717) 761-1428",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Young%20Ironwork&query_place_id=ChIJ5YyBkZjByIkRWq3Ahphs7VU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Cumberland",
+    "Camp Hill",
+    "Steelton",
+    "East Pennsboro Township",
+    "Shiremanstown",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

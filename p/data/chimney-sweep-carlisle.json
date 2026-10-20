@@ -17,14 +17,18 @@
     "source": "google"
   },
   "logo": {
-    "url": "",
-    "layout": "text",
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407839/truaido-previews/chimney-sweep-carlisle/logo",
+    "layout": "square",
     "badge": null
   },
-  "accent": "#1E5B31",
+  "accent": "#6B100F",
   "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
     "Newville",
-    "Shippensburg"
+    "Hampden Township"
   ],
   "reviews": [
     {
@@ -47,6 +51,6 @@
     }
   ],
   "gallery": [
-    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792114374/truaido-previews/chimney-sweep-carlisle/work1"
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407838/truaido-previews/chimney-sweep-carlisle/work1"
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lawns-plants-pests-harrisburg",
+  "company": "Lawns Plants & Pests LLC",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173793248",
+  "phone_display": "(717) 379-3248",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lawns%20Plants%20%26%20Pests%20LLC&query_place_id=ChIJBdlzp0nByIkRToPsN2NIqZA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406966/truaido-previews/lawns-plants-pests-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "Kevin was very knowledgeable, very pleasant and killed the yellow jackets quickly. Price was very reasonable. I will not hesitate to hire him in the future.",
+      "author": "Allen H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service! We had a wasp nest in our siding, we called Devon and he was at our house the same day. He was very friendly, answered any questions we had, and took the time to explain everything in detail. I would definitely recommend him!",
+      "author": "Breanne O.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "A great experience with Devon! He is very knowledgeable and professional, I highly recommend him!!",
+      "author": "Keith K.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

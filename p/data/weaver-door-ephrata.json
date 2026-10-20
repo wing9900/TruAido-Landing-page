@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "weaver-door-ephrata",
+  "company": "Weaver Door LLC",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17173358216",
+  "phone_display": "(717) 335-8216",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 39,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Weaver%20Door%20LLC&query_place_id=ChIJH4lUihP1BIcR4e8ohs7cAdo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "Akron",
+    "Reinholds",
+    "Robesonia",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "Very excellent price beautiful job in Very short time span. Called Wed job done Fri. Morn. I had no clean up or anything WELL DONE THANKS",
+      "author": "George D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "We recently had a garage door and opener installed and are very happy with Weaver Doors. They helped with design choices and did a great job with the installation process.",
+      "author": "Lori C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "We got great service from Weaver Door! They were able to come and assess our issue the morning we called for service. We decided on a new opener.",
+      "author": "Sharon C.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

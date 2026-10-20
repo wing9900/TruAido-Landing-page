@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "integritree-columbia",
+  "company": "integriTree LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17178261699",
+  "phone_display": "(717) 826-1699",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 38,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=integriTree%20LLC&query_place_id=ChIJWbGijuk2BSUR0sXKgIHLy10",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Washington Boro",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "Jeff and his team at IntegriTree did a great job removing some trees for us. Two big pine trees were near the house and power lines but they got them cut down without any incidents. Also cut down a big oak tree that was leaning.",
+      "author": "Clinton W.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Jeff and Jeff did an amazing job! Great guys, great price, great communication! Thank you!",
+      "author": "Beth B.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Jeff and Jeff made quick work of our arborvitae and hedge! They were professional, timely and executed perfectly. Thanks guys!",
+      "author": "Michael F.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": []
+}

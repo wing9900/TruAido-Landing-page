@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "ollies-bargain-outlet-harrisburg",
+  "company": "Ollie's Bargain Outlet",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176578243",
+  "phone_display": "(717) 657-8243",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 3358,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ollie's%20Bargain%20Outlet&query_place_id=ChIJoXKZj1S4yIkRYm-4-IAAbs4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407656/truaido-previews/ollies-bargain-outlet-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#797300",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "Grantville",
+    "East Pennsboro Township",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "Ollie's is great. Always adding different products and great prizes. Get great discounts with rewards card.",
+      "author": "Karen H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407655/truaido-previews/ollies-bargain-outlet-harrisburg/work1"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "scientific-air-harrisburg",
+  "company": "Scientific Air Conditioning & Quality Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176972392",
+  "phone_display": "(717) 697-2392",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Scientific%20Air%20Conditioning%20%26%20Quality%20Services&query_place_id=ChIJcVu9xRbdyIkRfg4D7u4n8Ls",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408143/truaido-previews/scientific-air-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#746D02",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "Mechanicsburg",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Nobody touches my HVAC system but Joe! Honest, trustworthy, knowledgeable and fair. AAAAA+",
+      "author": "Doug M.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "joeseph and crew installed a new heating and air conditioning unit in my home. they were very professional and efficient. my home is now very comfortable to live in, always even temperature around my home.",
+      "author": "Patricia T.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "We couldn\u2019t be happier with the quality of work and knowledge Joe had installing our new system. A true honest professional!",
+      "author": "stefania F.",
+      "stars": 5,
+      "month": "March 2025"
+    }
+  ],
+  "gallery": []
+}

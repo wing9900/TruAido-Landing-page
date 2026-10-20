@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "gilberts-pest-carlisle",
+  "company": "Gilbert's Professional Pest Control, Inc.",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172496667",
+  "phone_display": "(717) 249-6667",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 137,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gilbert's%20Professional%20Pest%20Control%2C%20Inc.&query_place_id=ChIJq_QsEc7hyIkRPa1DuSnIcTI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407727/truaido-previews/gilberts-pest-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#4C7C14",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Hampden Township",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "I\u2019ve worked in the dental field for 15 years and have had plenty of experience with different pest control and maintenance personnel coming into the office. Derrick really stood out today.",
+      "author": "Morgan S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Wow, called for a FREE QUOTE $ and Ryan was very helpful and professional. His suggestion was to do some things DIY and suggested we don't need any $ spend on add on's!",
+      "author": "ShedLo 1.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "A quick call because of wasps getting into our home. An even quicker response to coordinate a visit. Derrick's personable character, integrity and knowledge were obvious. In, out, and done with a guaranty of success. Gilbert's is my go to from here on out!!",
+      "author": "Andrew S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407725/truaido-previews/gilberts-pest-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407725/truaido-previews/gilberts-pest-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407727/truaido-previews/gilberts-pest-carlisle/work3"
+  ]
+}

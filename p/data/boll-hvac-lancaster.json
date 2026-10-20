@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "boll-hvac-lancaster",
+  "company": "Boll Hvac",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176175998",
+  "phone_display": "(717) 617-5998",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Boll%20Hvac&query_place_id=ChIJtZts2OSzIEYRP30uNVDvGhM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Narvon",
+    "East Earl",
+    "Adamstown",
+    "New Holland",
+    "Denver",
+    "Gap"
+  ],
+  "reviews": [
+    {
+      "text": "Highly recommend, very nice guy to deal with.",
+      "author": "Josh G.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Kevin is a great guy. His work is outstanding. Highly recommended.",
+      "author": "Abbas H.",
+      "stars": 5,
+      "month": "December 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406205/truaido-previews/boll-hvac-lancaster/work1"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "valley-heating-shippensburg",
+  "company": "Valley Heating & Cooling, LLC.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+18557754042",
+  "phone_display": "(855) 775-4042",
+  "has_website": true,
+  "rating": 3.8,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Valley%20Heating%20%26%20Cooling%2C%20LLC.&query_place_id=ChIJWelzd48MyYkRMdK-lfhLYeg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "With over 27 units at three properties I highly suggest. Hands up to Tim I think he's an excellent HVAC mechanic. Tristan James and Zack also were very polite and very professional office ladies also very prompt polite thank you guys",
+      "author": "Jason H.",
+      "stars": 5,
+      "month": "June 2024"
+    },
+    {
+      "text": "Thanks to Valley Heating & Cooling our heat is back up and running!",
+      "author": "Grace M.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Servicemen are friendly and knowledgeable",
+      "author": "Delmar L.",
+      "stars": 4,
+      "month": "July 2020"
+    }
+  ],
+  "gallery": []
+}

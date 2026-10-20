@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "hershey-hvac",
+  "company": "Hershey HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+17175339603",
+  "phone_display": "(717) 533-9603",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 35,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hershey%20HVAC&query_place_id=ChIJzQpcKSy7yIkRoDTnDoY4DKw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Elizabethtown",
+    "Middletown",
+    "Grantville",
+    "Lower Paxton Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "Amazing experience with Hershey HVAC. Extremely knowledgeable, kind, and fixed my unit quickly!",
+      "author": "Danny A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Eric was great, super timely and helpful.",
+      "author": "Noah K.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Very responsive, honest, timely, and respectful. Would recommend 10 out of 10 times.",
+      "author": "Sage K.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407499/truaido-previews/hershey-hvac/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407502/truaido-previews/hershey-hvac/work2"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "dale-lees-auto-ephrata",
+  "company": "Dale Lee's Auto Body Repair",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177380370",
+  "phone_display": "(717) 738-0370",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dale%20Lee's%20Auto%20Body%20Repair&query_place_id=ChIJb9MGfjIXxokRKSTjq7SVUhY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Lititz",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "I couldn't be happier w/ the service there at Dale Lee's. Jeff is a great guy to work with. He keeps you up to date on what's going on w/ your vehicle and he did a lot of the communicating w/ my insurance for me (Erie Insurance).",
+      "author": "Shawn L.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I recently picked up my Hyundai Sonata and was thoroughly impressed. Thanks to Jeff Martin's highly conscientious work my car looks like nothing happened to it!",
+      "author": "James L.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405975/truaido-previews/dale-lees-auto-ephrata/work1"
+  ]
+}

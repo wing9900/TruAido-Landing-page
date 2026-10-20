@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "faulkner-auto-glass-carlisle",
+  "company": "Faulkner Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17177954808",
+  "phone_display": "(717) 795-4808",
+  "has_website": true,
+  "rating": 1.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Faulkner%20Auto%20Glass&query_place_id=ChIJSfpSV1XhyIkRPGQhMPZL8Lw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Hampden Township",
+    "Boiling Springs",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [],
+  "gallery": []
+}

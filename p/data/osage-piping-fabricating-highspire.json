@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "osage-piping-fabricating-highspire",
+  "company": "Osage Piping and Fabricating, Inc.",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Highspire",
+  "state": "PA",
+  "phone": "+17179851680",
+  "phone_display": "(717) 985-1680",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 19,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Osage%20Piping%20and%20Fabricating%2C%20Inc.&query_place_id=ChIJ7-kVxWfAyIkRL3OAqxlpYl4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407241/truaido-previews/osage-piping-fabricating-highspire/logo",
+    "layout": "wide",
+    "badge": "#000000"
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "Middletown",
+    "New Cumberland",
+    "Harrisburg",
+    "Lemoyne",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Fast load, super friendly & the employee\u2019s communicate with drivers. Very professional!",
+      "author": "fran",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "This company does exceptional work. The quality is excellent.",
+      "author": "sheldon K.",
+      "stars": 5,
+      "month": "October 2022"
+    }
+  ],
+  "gallery": []
+}

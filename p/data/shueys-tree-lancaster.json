@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "shueys-tree-lancaster",
+  "company": "Shuey\u2019s Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178362827",
+  "phone_display": "(717) 836-2827",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Shuey%E2%80%99s%20Tree%20Service&query_place_id=ChIJ3TerCPlq2AIRjYVFiy5opa8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Manheim",
+    "Mount Joy",
+    "Elizabethtown",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "They removed a HUGE dying sycamore for us and ground the stump. All communication was prompt, professional and friendly. The process from quote to removal to invoicing was clear and easy. We were amazed at how quickly and safely the tree was removed.",
+      "author": "Christine M.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Noah was amazing! Very helpful, responsive, and understanding of our needs. His team was thorough and polite and informed me every step of the way",
+      "author": "Amber B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I would highly recommend Shuey's tree service. Not only was he profession him and his crew had may yard cleaned up two days after the July storm. I called him on Sunday he was here Monday to quote tree removed that was on my roof on Tuesday.",
+      "author": "Jennifer R.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

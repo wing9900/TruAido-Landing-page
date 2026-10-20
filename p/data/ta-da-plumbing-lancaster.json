@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ta-da-plumbing-lancaster",
+  "company": "Ta-Da Plumbing Cooling Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232182375",
+  "phone_display": "(223) 218-2375",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 124,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ta-Da%20Plumbing%20Cooling%20Heating&query_place_id=ChIJiUocUXioOEsRD_9GovnTaKg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Mountville",
+    "Salunga",
+    "Millersville",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Kevin did an excellent job.Explained a lot of things and answered all of my questions. Will definitely call again to clean my air conditioner.",
+      "author": "Deb",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Kevin was very professional and courteous. Very knowledgeable about the area and his work is solid",
+      "author": "Nooblord N.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Bryan was fantastic! Thorough & fantastic!",
+      "author": "Maggie H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

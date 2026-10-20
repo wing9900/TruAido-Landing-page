@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "frank-sons-plumbing-enola",
+  "company": "C Frank & Sons Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17177329488",
+  "phone_display": "(717) 732-9488",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%20Frank%20%26%20Sons%20Plumbing%20%26%20Heating&query_place_id=ChIJjduHku_DyIkRrM_vEOL9qS4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Lemoyne",
+    "Camp Hill",
+    "Shiremanstown",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "A Jack of all trades! Awesome Quality work!",
+      "author": "Mary F.",
+      "stars": 5,
+      "month": "December 2017"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "cf-acri-son-harrisburg",
+  "company": "C.F. Acri and Son",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172341675",
+  "phone_display": "(717) 234-1675",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C.F.%20Acri%20and%20Son&query_place_id=ChIJY_50_c3HyIkRxREL_C1wuOE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407396/truaido-previews/cf-acri-son-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#996800",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Enola",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "Had issues with my kitchen sink pipe and they came in less than 3min after the call dropped to help resolve the issue. Price was affordable and they left it all clean soon as they were done. Would definately recommend and will use often",
+      "author": "Jaafar Y.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407394/truaido-previews/cf-acri-son-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407395/truaido-previews/cf-acri-son-harrisburg/work2"
+  ]
+}

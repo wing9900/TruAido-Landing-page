@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "cornwell-door-camp-hill",
+  "company": "Cornwell Door Service",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17179047249",
+  "phone_display": "(717) 904-7249",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cornwell%20Door%20Service&query_place_id=ChIJzclBFhvCyIkRCtxAIbWEkwU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Cornwall Door installed our new garage door, and the service was outstanding, largely thanks to Troy. My wife works from home and needed the house quiet during the job, and Troy went out of his way to accommodate her.",
+      "author": "David J.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They installed my new opener in April 2022. Everything was working fine until we got home from vacation when we kept getting a beeping. Could not figure out what was causing it so finally called Camp Hill office.",
+      "author": "Eleanor N.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "I called for a quote and after a couple of minutes I had received enough information to do the repair on my own, I had a small problem with the door opening and closing so I called again and spoke with ray who guided me through perfectly.",
+      "author": "joshua C.",
+      "stars": 5,
+      "month": "March 2025"
+    }
+  ],
+  "gallery": []
+}

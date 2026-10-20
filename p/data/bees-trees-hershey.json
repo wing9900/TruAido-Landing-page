@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "bees-trees-hershey",
+  "company": "Bees-N-Trees",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+17173293216",
+  "phone_display": "(717) 329-3216",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bees-N-Trees&query_place_id=ChIJcVfH1r-9yIkRIFDyLkZefA0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Middletown",
+    "Elizabethtown",
+    "Highspire",
+    "Lower Paxton Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Eggs are the best. Way better than eggs at the grocery store. I only buy eggs from Bill at Bees n Trees!",
+      "author": "Dave R.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "Bill is AWESOME! Helped me identify that I have a yellow jacket nest between my first and second floor. He have me a referral to Hershey Pest Control and they are completing the bee hive extraction same day.",
+      "author": "Chris M.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Words cannot describe how incredibly happy I am with thus business, specifically Bill. I called at a time that I assumed was after hours and was expecting to leave a voicemail.",
+      "author": "Sabrina M.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": []
+}

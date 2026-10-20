@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "superior-hvac-lancaster",
+  "company": "Superior HVAC Repair Lancaster PA",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232715355",
+  "phone_display": "(223) 271-5355",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Superior%20HVAC%20Repair%20Lancaster%20PA&query_place_id=ChIJRxYq_q4nxokRO5bayO0-5gE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406705/truaido-previews/superior-hvac-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#0356B4",
+  "nearby_towns": [
+    "Mountville",
+    "Millersville",
+    "East Petersburg",
+    "Landisville",
+    "Washington Boro",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Thermostat installation was quick and effective.",
+      "author": "Hugo G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "After comparing two A/C maintenance services, I was impressed with how clearly the second technician explained what needed to be done and why. This helped me make a more informed decision about the necessary repairs for my system.",
+      "author": "XANDER C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "The vent cleaning for my A/C system took about two hours, which seemed reasonable given the extensive work involved. Everything was left tidy, and I noticed an immediate improvement in airflow.",
+      "author": "SANDY S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

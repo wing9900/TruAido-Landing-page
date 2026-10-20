@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "keystone-ridge-mechanicsburg",
+  "company": "Keystone Ridge enterprise LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176099511",
+  "phone_display": "(717) 609-9511",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Keystone%20Ridge%20enterprise%20LLC&query_place_id=ChIJO8uvfRN1j20R3sDpR9ibGfw",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408278/truaido-previews/keystone-ridge-mechanicsburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Gardners",
+    "Dillsburg",
+    "Newville",
+    "Hampden Township"
+  ],
+  "reviews": [
+    {
+      "text": "Keystone Ridge recently replace my house furnace. Phil was great to work with and was very flexible with my schedule. 10/10 would recommend without hesitation",
+      "author": "Wade F.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Phil Is wonderful! Shows up on time, Quick to respond, very professional and clearly knew his stuff. Electrical, plumbing and HVAC wise! Would highly Recommend Keystone Ridge!",
+      "author": "Alison M.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

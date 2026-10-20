@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "kennedys-portable-harrisburg",
+  "company": "Kennedy's Portable Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176577050",
+  "phone_display": "(717) 657-7050",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kennedy's%20Portable%20Welding&query_place_id=ChIJuQDMt4vHyIkRER7MFjwcDeI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Summerdale",
+    "Dauphin",
+    "East Pennsboro Township",
+    "Enola",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Thank you for the boat repair. Looks Great !",
+      "author": "Ken B.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Dave is an extremely talented welder. He got my boat welded quickly and his price was more then fair.I can now get back on the water with my clients.",
+      "author": "Blueflash 7.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Excellent work at a fair price in a punctual manner.",
+      "author": "Michael D.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407213/truaido-previews/kennedys-portable-harrisburg/work1"
+  ]
+}

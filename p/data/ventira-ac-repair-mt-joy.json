@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "ventira-ac-repair-mt-joy",
+  "company": "Ventira AC Repair Specialist",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176532271",
+  "phone_display": "(717) 653-2271",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ventira%20AC%20Repair%20Specialist&query_place_id=ChIJQSxkawCfyIkRqweJa6rtVl0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy Township",
+    "Columbia",
+    "Marietta",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "The estimate for the new thermostat installation was fair, especially given my past experiences with other contractors, and the technician completed the job efficiently.",
+      "author": "JAVONTE M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Having had a challenging experience before, I was cautiously optimistic about getting my thermostat installed, and thankfully the process was straightforward and efficient. The technician clearly explained how to use the new system, which was appreciated.",
+      "author": "Everett A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "After receiving an inflated quote from another company, this technician identified a simple issue with the capacitor and had our A/C running again within an hour. He clearly explained the problem and left everything tidy.\ud83d\udc4c\ud83c\udffb",
+      "author": "DEIRDRE Y.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

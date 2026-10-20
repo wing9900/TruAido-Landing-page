@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "timber-wolf-tree-elizabethtown",
+  "company": "Timber Wolf Tree & Lawn",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17176841916",
+  "phone_display": "(717) 684-1916",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Timber%20Wolf%20Tree%20%26%20Lawn&query_place_id=ChIJD9vTLAmdyIkRbtTdNjCe0vM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "We have used them for years and our lawn always looks nice",
+      "author": "Nancy C.",
+      "stars": 5,
+      "month": "April 2024"
+    }
+  ],
+  "gallery": []
+}

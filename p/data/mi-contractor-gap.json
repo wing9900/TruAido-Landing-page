@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "mi-contractor-gap",
+  "company": "M&I Contractor And Chimney Sweep & Repair And Gas Fireplace Services LLC",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Gap",
+  "state": "PA",
+  "phone": "+17174826999",
+  "phone_display": "(717) 482-6999",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=M%26I%20Contractor%20And%20Chimney%20Sweep%20%26%20Repair%20And%20Gas%20Fireplace%20Services%20LLC&query_place_id=ChIJhzvApgtExokR6x-DNp8x2Mw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gordonville",
+    "Paradise",
+    "Christiana",
+    "East Earl",
+    "Ronks",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "I\u2019m very satisfied with the quality of their work. The contractor was punctual, respectful, and paid attention to every detail. They listened carefully to my requirements and delivered exactly what I needed.",
+      "author": "Harley A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Quick turnaround, flawless execution, and great communication. This contractor made our interior remodeling project an absolute breeze from day one to final inspection.",
+      "author": "Naseer N.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I am thoroughly impressed with this chimney sweep team. They were prompt, courteous, and efficient, removing years of heavy soot buildup without making any mess. Our fireplace is working better and safer than ever. Excellent local service!",
+      "author": "Calvin K.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406483/truaido-previews/mi-contractor-gap/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406484/truaido-previews/mi-contractor-gap/work2"
+  ]
+}

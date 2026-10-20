@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "shreiner-air-shiremanstown",
+  "company": "Shreiner Air Conditioning Heating & Plumbing",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shiremanstown",
+  "state": "PA",
+  "phone": "+17177376200",
+  "phone_display": "(717) 737-6200",
+  "has_website": false,
+  "rating": 3.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Shreiner%20Air%20Conditioning%20Heating%20%26%20Plumbing&query_place_id=ChIJl7ZWUHHCyIkR-eem-SLj4o8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "My AC unit was down. Scott quickly diagnosed the problem and was able to replace the control board the same day. I couldn't be happier.",
+      "author": "Nicholas M.",
+      "stars": 5,
+      "month": "August 2022"
+    },
+    {
+      "text": "Great family owned business and very polite.",
+      "author": "Meagan M.",
+      "stars": 5,
+      "month": "June 2020"
+    }
+  ],
+  "gallery": []
+}

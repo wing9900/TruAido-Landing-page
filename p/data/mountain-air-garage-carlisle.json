@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "mountain-air-garage-carlisle",
+  "company": "Mountain Air Garage Doors",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+12232121167",
+  "phone_display": "(223) 212-1167",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mountain%20Air%20Garage%20Doors&query_place_id=ChIJF7pcXdMdyYkRm0UBvfUtGK4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407757/truaido-previews/mountain-air-garage-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#7B3F3C",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Gardners",
+    "Newville",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Walnut Bottom"
+  ],
+  "reviews": [
+    {
+      "text": "I definitely recommend this company, they were prompt and knowledgeable i will use them again!",
+      "author": "Sue T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Called Mountain Air Garage Doors needing emergency service. I couldn\u2019t open my garage door as it was closed. My car was trapped inside and I needed to be at work in about 1 hour. The garage door had worked earlier in the day a few times.",
+      "author": "Tracy L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Honest personal that explain you what could be the problem of your garage door before setting the appointment, and rapid service. Fair cost!!",
+      "author": "Ana G.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407753/truaido-previews/mountain-air-garage-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407755/truaido-previews/mountain-air-garage-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407756/truaido-previews/mountain-air-garage-carlisle/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407757/truaido-previews/mountain-air-garage-carlisle/work4"
+  ]
+}

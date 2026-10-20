@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hanes-mechanical-hershey",
+  "company": "Hanes Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+17178329004",
+  "phone_display": "(717) 832-9004",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hanes%20Mechanical&query_place_id=ChIJEwRJs7WZyIkR-jvO1G3bB2c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Elizabethtown",
+    "Middletown",
+    "Grantville",
+    "Lower Paxton Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "Russ and Eric from Hanes Mechanical did an outstanding job at one of our large commercial sites. After I called them, they were on-site within an hour.",
+      "author": "Ashley M.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "We are very pleased with the prompt service and work from Hanes Mechanical. Russ & Eric were friendly, helpful, and know what they are doing.",
+      "author": "Chris N.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "My heat system stopped working at my home on. Saturday night at around 10 pm and I had my heat back and running by 2 pm the next day Sunday. My heat inducer was defective and finding this part on a Sunday is very difficult.",
+      "author": "Michael S.",
+      "stars": 5,
+      "month": "December 2025"
+    }
+  ],
+  "gallery": []
+}

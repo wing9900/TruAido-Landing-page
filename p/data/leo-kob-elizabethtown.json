@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "leo-kob-elizabethtown",
+  "company": "Leo Kob Co. Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173671363",
+  "phone_display": "(717) 367-1363",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 275,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Leo%20Kob%20Co.%20Inc&query_place_id=ChIJ8zytWOCYyIkReLe8sHPYfwc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406180/truaido-previews/leo-kob-elizabethtown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#877000",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Had a new gas line put in did a wonderful job they put a hole in the skirting but they are coming out to fix it would call again",
+      "author": "Robert S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We\u2019ve had Leo Kob out for a number of projects to date. They are kind and professional and committed to communicating before, during and after the job. They took care of our latest project in a timely manner and left things even better than they found them.",
+      "author": "Dustin D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Leo Kob renovated our powder room and did a fantastic job with it. We are very pleased with the quality of the work and the transformation of the space. Thank you!",
+      "author": "Aimee F.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406179/truaido-previews/leo-kob-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406179/truaido-previews/leo-kob-elizabethtown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406180/truaido-previews/leo-kob-elizabethtown/work3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "clark-lancaster",
+  "company": "Clark, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173976181",
+  "phone_display": "(717) 397-6181",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Clark%2C%20Inc.&query_place_id=ChIJo1cMcJgkxokR0joxW9esjqw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406533/truaido-previews/clark-lancaster/logo",
+    "layout": "wide",
+    "badge": "#3A6E47"
+  },
+  "accent": "#386D46",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Leola",
+    "Willow Street",
+    "Mountville",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "Great place to go to when you need help with ac. Always helpful and great costumer service",
+      "author": "Samantha S.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

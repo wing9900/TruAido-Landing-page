@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "pioneerfix-harrisburg",
+  "company": "PioneerFix",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12238776630",
+  "phone_display": "(223) 877-6630",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PioneerFix&query_place_id=ChIJoxqQ4eubVIMR3N9Wtl0X084",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Enola",
+    "Summerdale",
+    "Hampden Township",
+    "East Pennsboro Township",
+    "Shiremanstown",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "Great service- technician is very friendly and knowledgeable. Pricing is great I am satisfied with service. Highly recommended pioneer Fix.",
+      "author": "Bishnu D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I had a great experience with Pioneer Fix. Their technician was professional, thorough, and did an excellent job cleaning the dust from my home's air ducts.",
+      "author": "Govinda K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "It was a great service. Professional and respond on time.",
+      "author": "Tej K.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

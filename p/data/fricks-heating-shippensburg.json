@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "fricks-heating-shippensburg",
+  "company": "Frick's Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17178090060",
+  "phone_display": "(717) 809-0060",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 90,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Frick's%20Heating%20and%20Cooling&query_place_id=ChIJA8k5nb0TyYkRZdDPoK5f7po",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Newville",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Frick's does really quality work. First they will honestly recommend what you need and not try to sell you something unnecessary. They keep in contact as far as scheduling. They are reliable and you usually get more work accomplished than expected.",
+      "author": "Thomas P.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Service is, as always very friendly and professional. Owner was thorough and transparent. Great experience with the company. Highly recommend.",
+      "author": "Jason B.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Great service. Very friendly and knowledgeable staff. Very professional. Really goes the extra mile to get you exactly what YOU want. Never felt pressured into a certain make or model. Answered all my questions and explained every step of the process.",
+      "author": "Christopher C.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

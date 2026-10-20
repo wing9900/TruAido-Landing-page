@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "mcclure-harrisburg",
+  "company": "McClure Company",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172329743",
+  "phone_display": "(717) 232-9743",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=McClure%20Company&query_place_id=ChIJmxekKZPGyIkRx19TSx0RsVg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Enola",
+    "Dauphin",
+    "Lower Paxton Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Despite being a bit limited on space (for a tractor-trailer), had no issues in getting unloaded within a timely manner. (Also, no overnight parking provided.)",
+      "author": "Jesse R.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Service Tech Dawson arrive and provied the most professional/friendly/timely service that I've experienced in awhile... would highly recommend McClue Company!!",
+      "author": "Mark D.",
+      "stars": 5,
+      "month": "May 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407611/truaido-previews/mcclure-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407612/truaido-previews/mcclure-harrisburg/work2"
+  ]
+}

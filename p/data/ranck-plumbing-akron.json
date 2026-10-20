@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "ranck-plumbing-akron",
+  "company": "Ranck Plumbing, Heating, AC & Excavation",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Akron",
+  "state": "PA",
+  "phone": "+17173972577",
+  "phone_display": "(717) 397-2577",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 73,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ranck%20Plumbing%2C%20Heating%2C%20AC%20%26%20Excavation&query_place_id=ChIJVYAh10IWxokRUqJKWEVfUAI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Ephrata",
+    "Brownstown",
+    "Lititz",
+    "Leola",
+    "Stevens",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "HVAC tech was courteous, professional, friendly and knowledgeable. Performed the service in a very reasonable period of time and answered all of our questions.",
+      "author": "Steven L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "over all Very kind On time, The work they done is good work, Friendly, We will be using Them for the future and Their cost is within reason as well",
+      "author": "scotts R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Dave did an outstanding standing job on the furnace maintenance and installation of condensation pump. Very thorough and professional.",
+      "author": "J P.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405790/truaido-previews/ranck-plumbing-akron/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405790/truaido-previews/ranck-plumbing-akron/work2"
+  ]
+}

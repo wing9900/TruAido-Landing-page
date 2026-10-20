@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dougs-tree-columbia",
+  "company": "Doug's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17176846489",
+  "phone_display": "(717) 684-6489",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 124,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Doug's%20Tree%20Service&query_place_id=ChIJD9vTLAmdyIkRluFnwt8__34",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Mount Joy",
+    "Washington Boro",
+    "Salunga",
+    "Landisville",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "We needed 4 very tall pines removed. Doug\u2019s Tree Servce came out asap to assess the job and put us on their schedule. The crew and their high tech equipment did an excellent job! Very experienced and professional!",
+      "author": "Carol A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Absolutely recommend, I needed emergency tree removal and they came next day and did a awesome job. The crew was great and professional and very helpful. Cleaned up everything.",
+      "author": "Eva M.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "I had a large limb break and crash onto our pergola. It was suspended over my koi pond. I called Doug and they were out at the house within 3 days to come and remove it.",
+      "author": "Greg W.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

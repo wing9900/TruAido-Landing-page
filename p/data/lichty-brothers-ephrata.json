@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lichty-brothers-ephrata",
+  "company": "Lichty Brothers, Inc. - Ephrata",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17174662055",
+  "phone_display": "(717) 466-2055",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 330,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lichty%20Brothers%2C%20Inc.%20-%20Ephrata&query_place_id=ChIJo4NDdM8WxokRGARQs1lvHQw",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406081/truaido-previews/lichty-brothers-ephrata/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406081/truaido-previews/lichty-brothers-ephrata/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "New Holland",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Lichty Brothers customer service is key! you never have to guess or wonder what is going on with your car. You know what repairs are being done and if anything was found other than what was announced on your original estimate, they will tell you what it is...",
+      "author": "Tracey P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "La mejor experiencia, el personal muy profesional, servicial, y amable durante todo el proceso. Estoy muy satisfecha con el trabajo.",
+      "author": "Elsa P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great customer service & very happy with the finished product!",
+      "author": "Madeleine H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "717-arborist-harrisburg",
+  "company": "717-ARBORIST LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172726747",
+  "phone_display": "(717) 272-6747",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 338,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=717-ARBORIST%20LLC&query_place_id=ChIJebvY5mbpyIkRDz0gPnUnTtM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dillsburg",
+    "Shiremanstown",
+    "Mechanicsburg",
+    "Hampden Township",
+    "Camp Hill",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Exceptional Service, Fair Pricing, and Outstanding Attention to Detail! I highly recommend 717-Arborist LLC The Delancey Court Condominium Association has used 717 Arborist three times, and we couldn\u2019t be more pleased with their service and results.",
+      "author": "Lori S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Fantastic work\u2026 would definitely hire again and or recommend!!! Trustworthy \ud83d\ude01",
+      "author": "mark K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The employees did an excellent job cutting down and removing 4 trees and grinding 11 stumps, in addition to the clean up. They were efficient and polite.",
+      "author": "John M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408062/truaido-previews/717-arborist-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408063/truaido-previews/717-arborist-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408065/truaido-previews/717-arborist-harrisburg/work3"
+  ]
+}

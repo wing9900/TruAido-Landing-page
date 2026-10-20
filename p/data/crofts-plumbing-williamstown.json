@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "crofts-plumbing-williamstown",
+  "company": "Croft's Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Williamstown",
+  "state": "PA",
+  "phone": "+17176479031",
+  "phone_display": "(717) 647-9031",
+  "has_website": false,
+  "rating": 3.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Croft's%20Plumbing%20%26%20Heating&query_place_id=ChIJI4aLDotRz4kR09chCNLxtBI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lykens",
+    "Gratz",
+    "Elizabethville",
+    "Grantville",
+    "Halifax",
+    "Millersburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "little-pigs-welding-stevens",
+  "company": "3 Little Pigs Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Stevens",
+  "state": "PA",
+  "phone": "+17176294648",
+  "phone_display": "(717) 629-4648",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=3%20Little%20Pigs%20Welding&query_place_id=ChIJIZj4la4TxokRxJDCu_1hhKc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405959/truaido-previews/little-pigs-welding-stevens/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#D50035",
+  "nearby_towns": [
+    "Denver",
+    "Ephrata",
+    "Reinholds",
+    "Adamstown",
+    "Akron",
+    "Brownstown"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405958/truaido-previews/little-pigs-welding-stevens/work1"
+  ]
+}

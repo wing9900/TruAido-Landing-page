@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bill-nathan-heating-landisville",
+  "company": "Bill Nathan Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Landisville",
+  "state": "PA",
+  "phone": "+17173440047",
+  "phone_display": "(717) 344-0047",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bill%20Nathan%20Heating%20%26%20Cooling&query_place_id=ChIJZ2YYBiAhxokRysEi8rg_e4E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "East Petersburg",
+    "Mountville",
+    "Lancaster",
+    "Mount Joy",
+    "Manheim"
+  ],
+  "reviews": [],
+  "gallery": []
+}

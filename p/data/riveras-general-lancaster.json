@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "riveras-general-lancaster",
+  "company": "Rivera's General Service, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179452091",
+  "phone_display": "(717) 945-2091",
+  "has_website": false,
+  "rating": 4.4,
+  "review_count": 32,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rivera's%20General%20Service%2C%20LLC&query_place_id=ChIJHTFPh2uXyIkRgRRUvWikw6g",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Willow Street",
+    "East Petersburg",
+    "Conestoga",
+    "Mountville",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent, professional and prompt service. I asked when it could be removed, they said 2 weeks, which was good. They stayed entire day until it stormed, and returned for removal the next day.",
+      "author": "Gelusee S.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Great price for tree removal and came the next day and got it all done and cleaned up nicely, good people and good working, highly recommend \ud83d\udc4d",
+      "author": "Bryce H.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Amazing as always ,this is the third time I have had them do work for me and the skill is on point 100% every time ,i will recommend them to anyone in need, all 3 times they have dropped massive trees with pin point precision.",
+      "author": "Jed H.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406353/truaido-previews/riveras-general-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406355/truaido-previews/riveras-general-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406356/truaido-previews/riveras-general-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406356/truaido-previews/riveras-general-lancaster/work4"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "linde-welding-gas-harrisburg",
+  "company": "Linde Welding Gas & Equipment Center",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172323173",
+  "phone_display": "(717) 232-3173",
+  "has_website": true,
+  "rating": 4.1,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Linde%20Welding%20Gas%20%26%20Equipment%20Center&query_place_id=ChIJCfLq6o3AyIkRX7VSiPRGo6E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "Highspire",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Very Knowledgeable and Professional Did and Excellent job. Was even in and out quickly !",
+      "author": "M K.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407234/truaido-previews/linde-welding-gas-harrisburg/work1"
+  ]
+}

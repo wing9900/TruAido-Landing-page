@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "comfort-pro-hvac-bainbridge",
+  "company": "Comfort Pro HVAC Specialists",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Bainbridge",
+  "state": "PA",
+  "phone": "+17174269990",
+  "phone_display": "(717) 426-9990",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Pro%20HVAC%20Specialists&query_place_id=ChIJq6oOEceQyIkRR6pfR7fliQc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Marietta",
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Mount Joy",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "The team at Susquehanna Mechanical are always timely and do quality work and is my go to for all things electrical, plumbing and HVAC. I highly recommend Chris and his team!",
+      "author": "Derek L.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Our luck hasn't been the best lately but luckily we called susquehanna mechanical for a second estimate to replace our gas hot water heater and was quoted at almost half of what Ben franklin did. They literally came out the next day and replaced it for us.",
+      "author": "Emily L.",
+      "stars": 5,
+      "month": "June 2022"
+    }
+  ],
+  "gallery": []
+}

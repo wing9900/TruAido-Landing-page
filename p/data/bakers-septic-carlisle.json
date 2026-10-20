@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bakers-septic-carlisle",
+  "company": "Baker's Septic Tank Cleaning",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17175673848",
+  "phone_display": "(717) 567-3848",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Baker's%20Septic%20Tank%20Cleaning&query_place_id=ChIJ_fhjm8UeyYkR2fD__kuUm-A",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Boiling Springs",
+    "Gardners",
+    "Walnut Bottom",
+    "Mechanicsburg",
+    "Dillsburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

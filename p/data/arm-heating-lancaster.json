@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "arm-heating-lancaster",
+  "company": "ARM Heating & Air LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177232757",
+  "phone_display": "(717) 723-2757",
+  "has_website": false,
+  "rating": 4.3,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ARM%20Heating%20%26%20Air%20LLC&query_place_id=ChIJQwS-SJETxokRtngY9XidNAo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "Salunga",
+    "Landisville",
+    "Lititz",
+    "Mount Joy Township",
+    "Mount Joy"
+  ],
+  "reviews": [
+    {
+      "text": "ARM Heating and Air installed a mini split ceiling unit in our office and we love it. Their team worked quickly and were very professional. Quality work done in a timely manner! I highly recommend using them for any residential or commercial needs!!",
+      "author": "Brandon A.",
+      "stars": 5,
+      "month": "August 2021"
+    },
+    {
+      "text": "I would highly recommend ARM Heating and Air! Our AC stopped working on one of the hottest days of the year. They were able to come to our residence within 8 hours and quickly identified the cause.",
+      "author": "Cassondra H.",
+      "stars": 5,
+      "month": "July 2020"
+    },
+    {
+      "text": "Great value for the service they do. 100% will be using them again!",
+      "author": "Colin W.",
+      "stars": 5,
+      "month": "January 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405692/truaido-previews/arm-heating-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405693/truaido-previews/arm-heating-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405693/truaido-previews/arm-heating-lancaster/work3"
+  ]
+}

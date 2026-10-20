@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "fisher-welder-repair-gap",
+  "company": "Fisher Welder Repair, LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Gap",
+  "state": "PA",
+  "phone": "+17173550028",
+  "phone_display": "(717) 355-0028",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fisher%20Welder%20Repair%2C%20LLC&query_place_id=ChIJc6W0Q3hBxokRZWXUkKkHq6g",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gordonville",
+    "East Earl",
+    "New Holland",
+    "Narvon",
+    "Ronks",
+    "Paradise"
+  ],
+  "reviews": [
+    {
+      "text": "Exceptional customer service, very knowledgeable and helpful",
+      "author": "Justin",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Bought a used welder for 1/2 price & works very well , I will be back for more welders",
+      "author": "Elmer P.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "This is the best place to buy or get your welder repaired! Very experienced and knowledgeable people with reasonable prices!",
+      "author": "Josh S.",
+      "stars": 5,
+      "month": "June 2023"
+    }
+  ],
+  "gallery": []
+}

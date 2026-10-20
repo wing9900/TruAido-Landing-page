@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "energy-smart-home-carlisle",
+  "company": "Energy Smart Home Improvements",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172586574",
+  "phone_display": "(717) 258-6574",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 148,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Energy%20Smart%20Home%20Improvements&query_place_id=ChIJu4zL6n_hyIkRu5EU_WUu6VU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Love working with the whole crew at Energy Smart! They always find a solution when I have a problem at our rentals with excessive heating bills or energy loss, pipes freezing etc.",
+      "author": "John S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "As soon as you call Energy Smart you'll be treated with professionalism and patience. The folks at Energy Smart have been to my house for two jobs, most recently to add insulation to my attic. Nate and Brandon were great.",
+      "author": "John S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We reached out to a few companies to get quotes on attic insulation. Energy Smart was the only one company that got back to us. What also impressed me the most was that they didn\u2019t approach the job as simply \u201cadding more insulation.\u201d They looked at the attic...",
+      "author": "Mike S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

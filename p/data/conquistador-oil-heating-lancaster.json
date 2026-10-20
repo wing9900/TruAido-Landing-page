@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "conquistador-oil-heating-lancaster",
+  "company": "Conquistador Oil Heating & Air Conditioning inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173979800",
+  "phone_display": "(717) 397-9800",
+  "has_website": true,
+  "rating": 3.9,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Conquistador%20Oil%20Heating%20%26%20Air%20Conditioning%20inc.&query_place_id=ChIJfWPFFJokxokRpSoFvpOce4U",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Leola",
+    "Mountville",
+    "Willow Street",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Our heat went out at 3am they were there in 15 minutes to keep our family warm. I can\u2019t recommend them highly enough.",
+      "author": "max P.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Muy buen servicio, siempre llegan a la hr estimada \ud83d\udc4d\ud83d\udc4d",
+      "author": "Fideluz P.",
+      "stars": 5,
+      "month": "March 2021"
+    },
+    {
+      "text": "Mario is a good guy, very friendly and personable. On time and did a great job communicating delivery.",
+      "author": "A.N. G.",
+      "stars": 5,
+      "month": "January 2021"
+    }
+  ],
+  "gallery": []
+}

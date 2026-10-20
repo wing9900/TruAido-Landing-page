@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hershey-door-elizabethtown",
+  "company": "Hershey Door Services Inc",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173676822",
+  "phone_display": "(717) 367-6822",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 26,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hershey%20Door%20Services%20Inc&query_place_id=ChIJNQoKqkiYyIkRzXHlwDeEaUM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Bainbridge",
+    "Marietta",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "WOW Seriously WOW!! Excellent experience from start to finish! No games, no pressure, no problems! The prices are great, the products are great, the service was great, our salesman was great, our favorite was the install.",
+      "author": "michelle G.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "They came out and fixed my garage door and didn\u2019t try to upsell me on a new garage door opener. The service tech was very honest.",
+      "author": "Jon S.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I called midday with a small emergency due to our garage gate not opening and my car being trapped. Hershey Door sent out repairmen that same afternoon to at least see if they could lift it - not only did they lift the gate but they performed the repair the...",
+      "author": "Beck H.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

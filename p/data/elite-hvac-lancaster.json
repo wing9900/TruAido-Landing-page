@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "elite-hvac-lancaster",
+  "company": "Elite HVAC Repair Lancaster",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173239899",
+  "phone_display": "(717) 323-9899",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20HVAC%20Repair%20Lancaster&query_place_id=ChIJ2aCAVQAlxokRqauawxmKH3Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Conestoga",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Our technician carefully reviewed our concerns about changing indoor temperatures. He explained the possible influences of system settings and airflow and discussed sensible next steps.",
+      "author": "Christiano L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I\u2019m happy with the service from Elite HVAC Repair Lancaster. The technician was professional, respectful, and thorough. He explained the work clearly and completed everything efficiently.",
+      "author": "Myia S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

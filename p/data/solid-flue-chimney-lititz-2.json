@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "solid-flue-chimney-lititz-2",
+  "company": "Solid Flue Chimney Savers",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176275054",
+  "phone_display": "(717) 627-5054",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Solid%20Flue%20Chimney%20Savers&query_place_id=ChIJMybVOGkYxokRpW4z0XB24dc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "East Petersburg",
+    "Manheim",
+    "Ephrata",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "This company delivered outstanding service throughout our chimney liner replacement project. The technician took out the broken liner and meticulously fitted a new stainless steel flue liner.",
+      "author": "Hamel D.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Mark removed the old tile chimney liner and replaced it with a stainless flue liner. He worked quickly but carefully and was able to accommodate our travel schedule. His quote was reasonable.",
+      "author": "Cynthia C.",
+      "stars": 5,
+      "month": "December 2021"
+    },
+    {
+      "text": "Mark was absolutely wonderful. Fixed our chimney perfectly. Work was done fast and quote was exact. I would not hesitate to use him again! Thank you so much!",
+      "author": "terri A.",
+      "stars": 5,
+      "month": "November 2021"
+    }
+  ],
+  "gallery": []
+}

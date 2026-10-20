@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "youngs-welding-carlisle",
+  "company": "Youngs Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172268551",
+  "phone_display": "(717) 226-8551",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Youngs%20Welding&query_place_id=ChIJW1XbDLESyYkR7YSmt2SZB2w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shippensburg",
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [],
+  "gallery": []
+}

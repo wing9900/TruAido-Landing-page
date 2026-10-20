@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "lennox-middletown",
+  "company": "Lennox",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17178977770",
+  "phone_display": "(717) 897-7770",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lennox&query_place_id=ChIJI9aOQoi-yIkRUZQ-eT7iLVY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Highspire",
+    "Hummelstown",
+    "Steelton",
+    "Lower Paxton Township",
+    "Hershey",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "Bien amables y para la descarga 20 minutos",
+      "author": "Jack S.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "Fast loading ,, clean place and friendly ppl works here,, in out in 1 hour( because they were on brake)",
+      "author": "satish K.",
+      "stars": 5,
+      "month": "January 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407620/truaido-previews/lennox-middletown/work1"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "cpi-mechanical-carlisle",
+  "company": "CPI Mechanical Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172452382",
+  "phone_display": "(717) 245-2382",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CPI%20Mechanical%20Services&query_place_id=ChIJWQJ22n8fyYkREBQ_weafoeQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407968/truaido-previews/cpi-mechanical-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1D1955",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Gardners",
+    "Newville",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Walnut Bottom"
+  ],
+  "reviews": [],
+  "gallery": []
+}

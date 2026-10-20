@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "aes-hearth-patio-camp-hill",
+  "company": "AES Hearth & Patio",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177611617",
+  "phone_display": "(717) 761-1617",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 390,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=AES%20Hearth%20%26%20Patio&query_place_id=ChIJjRtqdmfCyIkRwUmZb-a8b5g",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408000/truaido-previews/aes-hearth-patio-camp-hill/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#51140F",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "AES service technicians are thoroughly trained, professional, and communicate well. Today, Ian called ten minutes before arrival, completed the yearly service, and answered my questions about the remote control within the scheduled service appointment window.",
+      "author": "Cynthia L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Ian Heward did a great job cleaning and fixing our complicated fireplace.",
+      "author": "Kristen M.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Cleaning crew was prompt, knowledgeably and efficient. Very personable, polite and friendly. I would recommend their service to anyone.",
+      "author": "Robert H.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407998/truaido-previews/aes-hearth-patio-camp-hill/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407999/truaido-previews/aes-hearth-patio-camp-hill/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408000/truaido-previews/aes-hearth-patio-camp-hill/work3"
+  ]
+}

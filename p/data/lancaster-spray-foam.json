@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "lancaster-spray-foam",
+  "company": "Lancaster Spray Foam Insulation",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179298723",
+  "phone_display": "(717) 929-8723",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Spray%20Foam%20Insulation&query_place_id=ChIJY3OUXk0jxokR0gXCJfx9aOg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406756/truaido-previews/lancaster-spray-foam/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Used them for insulating our old attic and they did not disappoint! They were respectful of my home and wasted no time getting the job done, very well at that. At an amazing price. I\u2019d definitely recommend you checking them out!",
+      "author": "Breeanna G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I am absolutely blown away by Lancaster Spray Foam Insulation - not only did they provide great service with an incredibly knowledgeable team, but they also ensured our safety and satisfaction during each step of the process.",
+      "author": "Edwin R.",
+      "stars": 5,
+      "month": "February 2023"
+    },
+    {
+      "text": "Lancaster Spray Foam Insulation came to my home to solve a major insulation issue, and I could not be more pleased with the results. Their team was professional, courteous, and had the job done quickly and efficiently.",
+      "author": "Waylon P.",
+      "stars": 5,
+      "month": "January 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406757/truaido-previews/lancaster-spray-foam/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406757/truaido-previews/lancaster-spray-foam/work2"
+  ]
+}

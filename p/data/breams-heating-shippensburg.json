@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "breams-heating-shippensburg",
+  "company": "Bream's Heating and Cooling Solutions",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17174778160",
+  "phone_display": "(717) 477-8160",
+  "has_website": false,
+  "rating": 1.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bream's%20Heating%20and%20Cooling%20Solutions&query_place_id=ChIJRzU5d0YMyYkReT6FP89wjYs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [],
+  "gallery": []
+}

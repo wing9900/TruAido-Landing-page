@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "papas-plumbing-lancaster",
+  "company": "Papa's Plumbing, Heating & Air Conditioning LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178748382",
+  "phone_display": "(717) 874-8382",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 120,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Papa's%20Plumbing%2C%20Heating%20%26%20Air%20Conditioning%20LLC&query_place_id=ChIJEfdujcIjxokRjvqInZqa7ts",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406735/truaido-previews/papas-plumbing-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#B31C1C",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Leola",
+    "Brownstown",
+    "Landisville",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Reasonable price and even did extra at no cost, and answered all of my questions. Would recommend!",
+      "author": "Skylar S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Excellent service, have used this service many times. Prompt friendly service at a fair price, always.",
+      "author": "Bryan",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Very professional and on time, Great Job.",
+      "author": "Giuseppe P.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406734/truaido-previews/papas-plumbing-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406735/truaido-previews/papas-plumbing-lancaster/work2"
+  ]
+}

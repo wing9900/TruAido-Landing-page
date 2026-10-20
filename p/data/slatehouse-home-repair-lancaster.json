@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "slatehouse-home-repair-lancaster",
+  "company": "SlateHouse Home Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172881327",
+  "phone_display": "(717) 288-1327",
+  "has_website": false,
+  "rating": 4.2,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SlateHouse%20Home%20Repair&query_place_id=ChIJVxE4lGIjxokRW22oxxAi6lg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Mountville",
+    "Millersville",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "I bought my sister a HVAC tune up as a house warming gift. Travis did such a great job she is thinking of breaking stuff on purpose to have him out again.",
+      "author": "Judah H.",
+      "stars": 5,
+      "month": "March 2018"
+    },
+    {
+      "text": "Our experience with Slate House\u2019s HVAC service was wonderful. Our Technician Travis sent a text to let us know he was on the way, was personable, made sure not to track any messes in the house, and did an excellent job cleaning our boiler so it will run more...",
+      "author": "Lauren J.",
+      "stars": 5,
+      "month": "November 2017"
+    },
+    {
+      "text": "In a world where HVAC companies take advantage of people everyday, I couldn't believe how honest, helpful, and creative Slatehouse was in solving our AC problems.",
+      "author": "Beau O.",
+      "stars": 5,
+      "month": "May 2017"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "yang-tree-lancaster",
+  "company": "Yang Tree Services Of Lancaster",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232445182",
+  "phone_display": "(223) 244-5182",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Yang%20Tree%20Services%20Of%20Lancaster&query_place_id=ChIJMVVc16glxokR38ElRE0NeQk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Conestoga",
+    "Leola"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "air-swap-heating-elizabethtown",
+  "company": "Air Swap Heating & Cooling, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17174926509",
+  "phone_display": "(717) 492-6509",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20Swap%20Heating%20%26%20Cooling%2C%20LLC&query_place_id=ChIJY8jIw9UCeUoRRtZolICpjU0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406145/truaido-previews/air-swap-heating-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#D32400",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406144/truaido-previews/air-swap-heating-elizabethtown/work1"
+  ]
+}

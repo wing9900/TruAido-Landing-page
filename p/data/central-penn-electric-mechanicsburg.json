@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "central-penn-electric-mechanicsburg",
+  "company": "Central Penn Electric LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176209505",
+  "phone_display": "(717) 620-9505",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Central%20Penn%20Electric%20LLC&query_place_id=ChIJ29hV_OfDyIkR6UnUrVYSX1Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "A breath of fresh air. They actually return phone calls and show up on time. I called them as I was having trouble with my GFIs. They were at my home in less than 24 hours after calling.",
+      "author": "Yves P.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Prompt, excellent work. Friendly and easy to work with. Never an issue with any service they provided. Quick response to a serious issue. I have used their services multiple times and will continue to do so.",
+      "author": "Robbin C.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "Excellent work by Central Penn Electric replacing our panel and running new circuit for a dishwasher & disposal in the kitchen. Great price, quality work, pleasant to deal with.",
+      "author": "Kristian C.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408160/truaido-previews/central-penn-electric-mechanicsburg/work1"
+  ]
+}

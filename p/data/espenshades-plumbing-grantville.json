@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "espenshades-plumbing-grantville",
+  "company": "Espenshade's Plumbing & Heating, Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Grantville",
+  "state": "PA",
+  "phone": "+17174692533",
+  "phone_display": "(717) 469-2533",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 48,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Espenshade's%20Plumbing%20%26%20Heating%2C%20Inc&query_place_id=ChIJ1d8a3iSwyIkRXvmCYsNIBuc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407566/truaido-previews/espenshades-plumbing-grantville/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#0937DF",
+  "nearby_towns": [
+    "Hummelstown",
+    "Hershey",
+    "Lower Paxton Township",
+    "Elizabethtown",
+    "Harrisburg",
+    "Middletown"
+  ],
+  "reviews": [
+    {
+      "text": "We can't say enough good things about Espenshade's. We have called on them to service our furnace, hot water heater and well tank over the 15 years we've lived in our home and every time they came when scheduled, diagnosed the issue, provided options for...",
+      "author": "Barb D.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "We worked with Espenshades to install a new hydrant in our barn. They answered all my questions and did the job right. I would hire them again. Great job and Thank you!",
+      "author": "Anthony C.",
+      "stars": 5,
+      "month": "October 2024"
+    },
+    {
+      "text": "Good people that I can depend on to keep my systems running but also who keep my interests in mind for cost.",
+      "author": "Jim C.",
+      "stars": 5,
+      "month": "January 2024"
+    }
+  ],
+  "gallery": []
+}

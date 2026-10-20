@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "littleton-peak-air-hershey",
+  "company": "Littleton Peak Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+17173266027",
+  "phone_display": "(717) 326-6027",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Littleton%20Peak%20Air%20Conditioning&query_place_id=ChIJjeHUxOqlyIkR-zSasVX7ZL4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Grantville",
+    "Elizabethtown",
+    "Middletown",
+    "Lower Paxton Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "I liked how the tech detailed what was wrong now and what could happen down the road with my portable A/C after receiving a 2nd opinion. Trying both provided me the courage to work out which one to utilise long term.",
+      "author": "Briana R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The problem was a bad compressor. The professionals worked quickly to install the replacement AC unit. Service was quick and to the professional and quality standards we expected.",
+      "author": "Angela G.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

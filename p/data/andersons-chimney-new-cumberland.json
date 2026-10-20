@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "andersons-chimney-new-cumberland",
+  "company": "Anderson's Chimney & Masonry Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+17177905510",
+  "phone_display": "(717) 790-5510",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 386,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Anderson's%20Chimney%20%26%20Masonry%20Service&query_place_id=ChIJKYb_MkrAyIkRQ_9vpqZBXNI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Highspire",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Anthony was exceptional. He performed an emergency cleaning on my furnace flue in a professional, courteous manner. Highly recommend.",
+      "author": "Michelle T.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Jace and Caleb did a fantastic job with explaining every detail of what they were doing and what they were looking at. Very knowledgeable in their field and we're very honest about what they found.",
+      "author": "Joshua Z.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Eric and Caleb did a fantastic job of providing a quote and explaining exactly what work needed to be completed and why it needed to be completed, while showing the photos of our chimney. They were on time and very professional.",
+      "author": "Rebecca M.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

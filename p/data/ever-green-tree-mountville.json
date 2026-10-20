@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "ever-green-tree-mountville",
+  "company": "Ever Green Tree & Lawn Care",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mountville",
+  "state": "PA",
+  "phone": "+17172859221",
+  "phone_display": "(717) 285-9221",
+  "has_website": true,
+  "rating": 2.3,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ever%20Green%20Tree%20%26%20Lawn%20Care&query_place_id=ChIJbxTS-f0mxokRZKdsD2BwIQg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406327/truaido-previews/ever-green-tree-mountville/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#004531",
+  "nearby_towns": [
+    "Washington Boro",
+    "Millersville",
+    "Columbia",
+    "Landisville",
+    "Salunga",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Get compliments often about my beautiful lawn thanks to Ever Green Tree and Lawn, highly recommend them.",
+      "author": "Margaret B.",
+      "stars": 5,
+      "month": "April 2021"
+    }
+  ],
+  "gallery": []
+}

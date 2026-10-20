@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "boyd-big-tree-harrisburg",
+  "company": "Boyd Big Tree Preserve Conservation Area",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175679255",
+  "phone_display": "(717) 567-9255",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 625,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Boyd%20Big%20Tree%20Preserve%20Conservation%20Area&query_place_id=ChIJ00_zGsPHyIkRYppmL6iv4E0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dauphin",
+    "Summerdale",
+    "Lower Paxton Township",
+    "Enola",
+    "East Pennsboro Township",
+    "Halifax"
+  ],
+  "reviews": [
+    {
+      "text": "Great hiking with varying levels of difficulty. Trails are well marked. There's plenty of parking and bathroom facilities at the trail head",
+      "author": "Rob L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very nice walking trails that lead to power lines. It looks great in the fall or at sunset. Not far from Fort hunter on the river front.",
+      "author": "Izaviah S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Views and sunsets are amazing highly recommend",
+      "author": "Noah",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

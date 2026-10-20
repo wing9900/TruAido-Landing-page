@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "genesis-termite-new-holland",
+  "company": "Genesis Termite and Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17175983769",
+  "phone_display": "(717) 598-3769",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 174,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Genesis%20Termite%20and%20Pest%20Control&query_place_id=ChIJ3Uf_Luw_xokRfixWgsV66yY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gordonville",
+    "Leola",
+    "East Earl",
+    "Brownstown",
+    "Akron",
+    "Gap"
+  ],
+  "reviews": [
+    {
+      "text": "We have used this service for over 6 years. They are very professional & pleasant to work with. We are very pleased. We refer Genesis to everyone. Thank you. Martha & Garth",
+      "author": "Martha M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "A friendly and professional couple, I had yellow Jackets come through a small whole in the brick chimney, they took care of the problem and came back to address spiders inside the home, and other small critters that some how, find their way inside.",
+      "author": "Gladys M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "They come out quickly and assessed the isss. I left a message about something and they responded In a timely manner",
+      "author": "audrey W.",
+      "stars": 4,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405718/truaido-previews/genesis-termite-new-holland/work1"
+  ]
+}

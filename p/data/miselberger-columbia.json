@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "miselberger-columbia",
+  "company": "MiselBerger, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17179898888",
+  "phone_display": "(717) 989-8888",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 54,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MiselBerger%2C%20Inc.&query_place_id=ChIJqR6cSf2dyIkRFvrWFnoPxL8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406741/truaido-previews/miselberger-columbia/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#374DA1",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "Always on-time and efficient. They have some of the best people working for them. Courteous and knowledgeable. They're the only folks I call anymore.",
+      "author": "Penrose L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "MiselBerger has become my go-to for heating/furnace needs. They\u2019re quick to respond and their contractors are knowledgeable, experienced, and professional.",
+      "author": "Lindsey",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We've been using MiselBerger Plumbing for years, at three different locations. They always do a great job!",
+      "author": "Bart R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406740/truaido-previews/miselberger-columbia/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406741/truaido-previews/miselberger-columbia/work2"
+  ]
+}

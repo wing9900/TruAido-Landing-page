@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "les-weaver-heating-ephrata",
+  "company": "Les Weaver Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177338806",
+  "phone_display": "(717) 733-8806",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 76,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Weaver%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJ3wNIPw8UxokRU-hT33QgOJc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405783/truaido-previews/les-weaver-heating-ephrata/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#C72322",
+  "nearby_towns": [
+    "Stevens",
+    "Akron",
+    "Denver",
+    "Reinholds",
+    "Brownstown",
+    "Adamstown"
+  ],
+  "reviews": [
+    {
+      "text": "Highly recommend! From first contact to the end results, communication and job professionalism was excellent \ud83d\udc4c Techs were informative and friendly.",
+      "author": "J M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The technician (MC) It was very diligent in finding the problem and fixing it. He was very professional and very thorough. I recommend him.",
+      "author": "Gary W.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Great service. Called at 7 am and they were here at noon to get the AC up and running. Scott was great to work with.",
+      "author": "Chad",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

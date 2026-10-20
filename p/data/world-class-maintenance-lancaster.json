@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "world-class-maintenance-lancaster",
+  "company": "World Class Maintenance Inc. Chimney Specialist Lancaster",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232714924",
+  "phone_display": "(223) 271-4924",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=World%20Class%20Maintenance%20Inc.%20Chimney%20Specialist%20Lancaster&query_place_id=ChIJpzNGfwAlxokRG9MNi1oorTI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Leola",
+    "Mountville",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Prime performance! The crew arrived right on time, conducted a thorough chimney safety check, and swept our fireplace impeccably. Their zero-mess setup kept our living space completely dust-free.",
+      "author": "Aiden C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "two other companies couldn\u2019t fix the problem with my chimney, So I was pretty doubtful when this company came to look at my chimney last week. I had noticed some weird white stuff on the bricks and didn\u2019t know what it was.",
+      "author": "Wesley P.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Reliable chimney cleaning with exceptional attention to detail. The crew was friendly, efficient, and respectful, leaving our fireplace area tidy while providing a smooth, professional experience from beginning to end.",
+      "author": "Sylvia G.",
+      "stars": 4,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

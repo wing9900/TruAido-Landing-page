@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lt-land-tree-harrisburg",
+  "company": "L T Land Tree",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175548959",
+  "phone_display": "(717) 554-8959",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 29,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=L%20T%20Land%20Tree&query_place_id=ChIJVVVVVQzByIkReqfNOKiMEVU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Mechanicsburg",
+    "Enola",
+    "Summerdale",
+    "Shiremanstown",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "I have awesome news about LT Land and Tree service, their professional, hardworking team. I was very satisfied with 5 stump and multiple root removals. They even cleared area and leveled ground with top soil. Highly recommended!!",
+      "author": "D A.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "I had a large pine tree, and some brush that needed to be removed. I contacted Todd and was given a fair price for the work that needed to be completed. On the day the work was completed the crew showed up on time and completed the job in a efficient manner.",
+      "author": "Kaylee K.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "My go-to guys for tree service, prompt, fair pricing and they do a great job. Quick service in an emergency. And they clean up well.",
+      "author": "kimberly P.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": []
+}

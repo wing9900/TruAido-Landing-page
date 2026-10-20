@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "le-contractor-quarryville",
+  "company": "J&LE Contractor & Chimney Repair And Wood Stove Cleaning Services Inc.",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17179715662",
+  "phone_display": "(717) 971-5662",
+  "has_website": false,
+  "rating": 4.4,
+  "review_count": 19,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=J%26LE%20Contractor%20%26%20Chimney%20Repair%20And%20Wood%20Stove%20Cleaning%20Services%20Inc.&query_place_id=ChIJo5Lut-IzxokRfQWGTXbwrac",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Providence",
+    "Holtwood",
+    "Pequea",
+    "Willow Street",
+    "Strasburg",
+    "Paradise"
+  ],
+  "reviews": [
+    {
+      "text": "The review praises J&LE Contractor & Chimney Repair And Wood Stove Cleaning Services Inc. for their meticulous cleaning of dryer vents service, air ducts services, chimney sweeps services, wood stoves, gas fireplaces, mold removal, painting, and comprehensive...",
+      "author": "Nkem",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Fantastic experience! The cleaning of the dryer vent and air ducts was done with meticulous attention to detail. The roofing contractor went above and beyond, and the chimney sweep and repair were completed perfectly.",
+      "author": "David M.",
+      "stars": 4,
+      "month": "May 2025"
+    },
+    {
+      "text": "We recently had J&LE Contractor & Chimney Repair And Wood Stove Cleaning Services Inc. come out to inspect our fireplace in Pennsylvania.",
+      "author": "Medusa H.",
+      "stars": 4,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406630/truaido-previews/le-contractor-quarryville/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406631/truaido-previews/le-contractor-quarryville/work2"
+  ]
+}

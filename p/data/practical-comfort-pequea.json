@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "practical-comfort-pequea",
+  "company": "Practical Comfort Solutions, LLC - Brent Eisenberger",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Pequea",
+  "state": "PA",
+  "phone": "+17172091665",
+  "phone_display": "(717) 209-1665",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Practical%20Comfort%20Solutions%2C%20LLC%20-%20Brent%20Eisenberger&query_place_id=ChIJqUx1xoBCgWwRrS85uzyk3rg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406643/truaido-previews/practical-comfort-pequea/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Willow Street",
+    "New Providence",
+    "Conestoga",
+    "Holtwood",
+    "Quarryville",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "Brent has an excellent attention to detail. He checked & cleaned our condensate pump - I don\u2019t think any other HVAC service company had done that for us. We will use his services again!",
+      "author": "Jeff K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Brent was quick in responding and fitting us in to his schedule as first time customers. His demeanor was friendly and professional. He gave us thorough explanations as he was troubleshooting and pricing was very fair.",
+      "author": "Brenda S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Brent was on time, very nice and went above and beyond his planned visit. Thank you!!!",
+      "author": "Travis B.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406644/truaido-previews/practical-comfort-pequea/work1"
+  ]
+}

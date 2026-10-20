@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "forvino-hvac-hummelstown",
+  "company": "Forvino HVAC Repair Hummelstown",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+12233432325",
+  "phone_display": "(223) 343-2325",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Forvino%20HVAC%20Repair%20Hummelstown&query_place_id=ChIJXUp_DgC9yIkRmhSYf9o8euM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Middletown",
+    "Elizabethtown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Very impressed by this HVAC contractor's responsiveness and expertise. Their technician communicated clearly, worked efficiently, and delivered excellent service from start to finish.",
+      "author": "Jacob R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Forvino HVAC Repair Hummelstown came out after our outdoor AC unit started making unusual noises. The technician inspected it thoroughly, identified the source, and completed the necessary repair. Everything was tested before he left.",
+      "author": "Edward J.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

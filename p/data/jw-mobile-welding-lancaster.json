@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "jw-mobile-welding-lancaster",
+  "company": "J.W. Mobile Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+14846676085",
+  "phone_display": "(484) 667-6085",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=J.W.%20Mobile%20Welding&query_place_id=ChIJlTn9JzAMH4kRbM2plWRJh_Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

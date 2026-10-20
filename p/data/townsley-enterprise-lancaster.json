@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "townsley-enterprise-lancaster",
+  "company": "Townsley Enterprise",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172718780",
+  "phone_display": "(717) 271-8780",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Townsley%20Enterprise&query_place_id=ChIJMd5K_kltSGwR9eiVqgJgABU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Ephrata",
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Lititz"
+  ],
+  "reviews": [],
+  "gallery": []
+}

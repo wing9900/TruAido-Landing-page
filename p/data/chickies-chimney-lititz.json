@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "chickies-chimney-lititz",
+  "company": "Chickies Chimney Sweeps",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176261686",
+  "phone_display": "(717) 626-1686",
+  "has_website": true,
+  "rating": 3.4,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chickies%20Chimney%20Sweeps&query_place_id=ChIJD9PjNr4YxokRyzvEcqhShLU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405970/truaido-previews/chickies-chimney-lititz/logo",
+    "layout": "square",
+    "badge": "#4F74BB"
+  },
+  "accent": "#0F7E93",
+  "nearby_towns": [
+    "Manheim",
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Lancaster",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "This is a small father and son business and they are always professional and do an excellent job. I\u2019ve been having them clean my chimney for 15 years now and they always do a wonderful job.",
+      "author": "Shane R.",
+      "stars": 5,
+      "month": "February 2021"
+    }
+  ],
+  "gallery": []
+}

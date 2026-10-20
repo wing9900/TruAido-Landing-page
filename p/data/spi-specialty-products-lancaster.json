@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "spi-specialty-products-lancaster",
+  "company": "SPI - Specialty Products and Insulation",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17175810650",
+  "phone_display": "(717) 581-0650",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SPI%20-%20Specialty%20Products%20and%20Insulation&query_place_id=ChIJI4NExecjxokRbDgD_QiPHP0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Mountville",
+    "Millersville",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "They always have any specialty insulation products we need in stock.",
+      "author": "Robert K.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "In and out. Overnight parking available. Great place to deliver a load.",
+      "author": "Ameritransport L.",
+      "stars": 5,
+      "month": "July 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406171/truaido-previews/spi-specialty-products-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406172/truaido-previews/spi-specialty-products-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406172/truaido-previews/spi-specialty-products-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406173/truaido-previews/spi-specialty-products-lancaster/work4"
+  ]
+}

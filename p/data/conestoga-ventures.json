@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "conestoga-ventures",
+  "company": "Conestoga Ventures",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Conestoga",
+  "state": "PA",
+  "phone": "+17178722027",
+  "phone_display": "(717) 872-2027",
+  "has_website": false,
+  "rating": 1.7,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Conestoga%20Ventures&query_place_id=ChIJRbP4NR8vxokRZIrdITn1kzU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Pequea",
+    "Millersville",
+    "Willow Street",
+    "Washington Boro",
+    "New Providence",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "Had a tree taken down ..so fast ..so efficiently and it was done at such a reasonable price..very nice people and hard honest workers",
+      "author": "Autumn T.",
+      "stars": 5,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": []
+}

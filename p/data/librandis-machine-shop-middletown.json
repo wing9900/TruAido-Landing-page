@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "librandis-machine-shop-middletown",
+  "company": "Librandi's Machine Shop Inc",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17179449442",
+  "phone_display": "(717) 944-9442",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 25,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Librandi's%20Machine%20Shop%20Inc&query_place_id=ChIJmSpDn_iVyIkRpOUYcxiQVgE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407250/truaido-previews/librandis-machine-shop-middletown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#005487",
+  "nearby_towns": [
+    "Highspire",
+    "Elizabethtown",
+    "Steelton",
+    "Hummelstown",
+    "New Cumberland",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "We absolutely love the new Linrandi's! Everyone is so welcoming and friendly. They have the best patio in town and the food is delicious! I highly recommend the BLT! We will be back!!",
+      "author": "Monica M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "These people are the best! I had all the pieces to my vintage bicycle re-chromed through their shop, every person I dealt with there gave me the confidence that my stuff was safe with them.",
+      "author": "Zach Z.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407248/truaido-previews/librandis-machine-shop-middletown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407250/truaido-previews/librandis-machine-shop-middletown/work2"
+  ]
+}

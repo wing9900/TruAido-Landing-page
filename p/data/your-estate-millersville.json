@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "your-estate-millersville",
+  "company": "Your Estate Services Inc",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Millersville",
+  "state": "PA",
+  "phone": "+17178721641",
+  "phone_display": "(717) 872-1641",
+  "has_website": false,
+  "rating": 3.4,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Your%20Estate%20Services%20Inc&query_place_id=ChIJEybtjuAlxokRcKS_0R0dkLQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Washington Boro",
+    "Mountville",
+    "Conestoga",
+    "Lancaster",
+    "East Petersburg",
+    "Willow Street"
+  ],
+  "reviews": [
+    {
+      "text": "Been using this company for years. Besides servicing my yard, they have removed trees as well as snow. They do it all. Today the gentleman that cleaned up my leaves did an excellent job. So pleased.",
+      "author": "Cheryl E.",
+      "stars": 5,
+      "month": "November 2024"
+    },
+    {
+      "text": "Amazing work! I cannot say enough about the service while working with Y.E.S. They were very responsive and professional thorough out the whole job. The quality of the work was excellent.",
+      "author": "Meredith S.",
+      "stars": 5,
+      "month": "October 2021"
+    },
+    {
+      "text": "Great company, great people always live up to my expectations! He is the yes man!",
+      "author": "amanda M.",
+      "stars": 5,
+      "month": "March 2019"
+    }
+  ],
+  "gallery": []
+}

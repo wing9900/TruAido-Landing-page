@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "legacy-comfort-systems-harrisburg",
+  "company": "Legacy Comfort Systems",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179803883",
+  "phone_display": "(717) 980-3883",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 193,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Legacy%20Comfort%20Systems&query_place_id=ChIJUQ03P0PHyIkR1G56i0tFmv0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Summerdale",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Enola",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Jason and Patrick did a fabulous job; we couldn't be more satisfied. They installed a mini-split unit in our finished basement, and it works and looks awesome. They were very professional and knowledgeable. They also were neat and organized.",
+      "author": "Mike B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Thoroughly impressed with the level of service from LCS & the completed installation of my mini split system. At each stage Jason & Patrick provided a clear & detailed explanation of what work was being done; asked before making any alterations during the...",
+      "author": "Fredrica J.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "We had a terrific experience with Jason and Legacy Comfort Systems. From his initial visit through the completion of our new HVAC installation, Jason was thorough, communicative, and professional every step of the way.",
+      "author": "Benjamin W.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

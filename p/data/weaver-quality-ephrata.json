@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "weaver-quality-ephrata",
+  "company": "Weaver Quality Insulation",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17174888240",
+  "phone_display": "(717) 488-8240",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Weaver%20Quality%20Insulation&query_place_id=ChIJ68MGvB4XxokR1g7dCAXD_9E",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405837/truaido-previews/weaver-quality-ephrata/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405838/truaido-previews/weaver-quality-ephrata/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#3E797C",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Lititz",
+    "Stevens",
+    "Leola",
+    "Denver"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405837/truaido-previews/weaver-quality-ephrata/work1"
+  ]
+}

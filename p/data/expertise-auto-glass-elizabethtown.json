@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "expertise-auto-glass-elizabethtown",
+  "company": "Expertise Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17176871544",
+  "phone_display": "(717) 687-1544",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 86,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Expertise%20Auto%20Glass&query_place_id=ChIJLxooRfGXyIkRknhQ0QD2yng",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407314/truaido-previews/expertise-auto-glass-elizabethtown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#6A292A",
+  "nearby_towns": [
+    "Middletown",
+    "Hershey",
+    "Highspire",
+    "Hummelstown",
+    "Steelton",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Everything about this transaction was five star. The first time I called, they explained how to call my insurance company and get a referral to them. Then they called me right back and set an appointment to come to me the following day.",
+      "author": "Debi V.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "These guys rock! They replaced my Camaro windshield and the whole process was excellent. They came to my work and had everything done before lunch. Highly Recommended !!!!!!!!!!!",
+      "author": "rootskir6",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had an excellent experience with Expertise Auto Glass! Their customer service was outstanding from start to finish. They responded to me quickly, got me scheduled right away, and made the entire process easy and stress-free.",
+      "author": "Kelly K.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407313/truaido-previews/expertise-auto-glass-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407314/truaido-previews/expertise-auto-glass-elizabethtown/work2"
+  ]
+}

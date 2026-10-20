@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "ck-jones-hvac-carlisle",
+  "company": "C.K. Jones HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173068666",
+  "phone_display": "(717) 306-8666",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 19,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C.K.%20Jones%20HVAC&query_place_id=ChIJ-5sNeGjgyIkRB6hRICNL98I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407834/truaido-previews/ck-jones-hvac-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#DF0203",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Gardners",
+    "Dillsburg",
+    "Mechanicsburg",
+    "Walnut Bottom",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "The service has been top notch. I requested estimates from a few companies, but CK Jones had the best pricing by far. The installation process was prompt and professional.",
+      "author": "William D.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "C.K. Jones staff have been servicing our HVAC system twice a year for several years. Polite, courteous, and always know their stuff! Quick response - great fees!! Can't say enough good things about them!!",
+      "author": "Jeanne D.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "lebos-plumbing-carlisle",
+  "company": "Lebo's Plumbing, Heating, & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172438345",
+  "phone_display": "(717) 243-8345",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 529,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lebo's%20Plumbing%2C%20Heating%2C%20%26%20Air%20Conditioning&query_place_id=ChIJ6YpD-tbhyIkRtVWAYRDagBI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Hampden Township",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "Lebo's added some ducting and re-routed others in our basement finishing project, so that the revised layout would have sufficient airflow.",
+      "author": "Cecil B.",
+      "stars": 4,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

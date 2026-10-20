@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "woodsmen-harrisburg",
+  "company": "Woodsmen & Company",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178242767",
+  "phone_display": "(717) 824-2767",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Woodsmen%20%26%20Company&query_place_id=ChIJnwuRLL45gyURBJw-l1GnMeo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407340/truaido-previews/woodsmen-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Middletown",
+    "Highspire",
+    "Steelton",
+    "Elizabethtown",
+    "New Cumberland",
+    "Hummelstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

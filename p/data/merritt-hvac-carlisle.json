@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "merritt-hvac-carlisle",
+  "company": "Merritt HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17175549974",
+  "phone_display": "(717) 554-9974",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Merritt%20HVAC&query_place_id=ChIJe4IKrjUZyYkRc8zMxCl_ObE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407675/truaido-previews/merritt-hvac-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#776941",
+  "nearby_towns": [
+    "Newville",
+    "Boiling Springs",
+    "Walnut Bottom",
+    "Gardners",
+    "Mechanicsburg",
+    "Newburg"
+  ],
+  "reviews": [
+    {
+      "text": "Paul has been known in the business for 30 years. My sister was manager at a HVAC company and knew him from there. There are only positive things to say about Paul. He came to help us with our new unit (installed by someone else).",
+      "author": "Jan M.",
+      "stars": 5,
+      "month": "January 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407675/truaido-previews/merritt-hvac-carlisle/work1"
+  ]
+}

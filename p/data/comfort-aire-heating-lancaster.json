@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "comfort-aire-heating-lancaster",
+  "company": "Comfort Aire Heating & Cooling Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174646460",
+  "phone_display": "(717) 464-6460",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 37,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Comfort%20Aire%20Heating%20%26%20Cooling%20Inc.&query_place_id=ChIJNe6A4Ls6xokRluyjz8CQIxo",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406731/truaido-previews/comfort-aire-heating-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Willow Street",
+    "Strasburg",
+    "Millersville",
+    "Conestoga",
+    "New Providence",
+    "Pequea"
+  ],
+  "reviews": [
+    {
+      "text": "Be assured you are getting quality service every time. Have been using them for years....they are the best!",
+      "author": "Grant B.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Awesome crew! I got five mini split zones installed they got it done in a few days and for a great price!",
+      "author": "Joshua M.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "The main house A/C failed and it was in need of service. My most trusted HVAC contractor retired and after a thirty five plus year relationship it left me in search for his replacement. Carl was incredible but I believe I have found an awesome replacement.",
+      "author": "Tom K.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406732/truaido-previews/comfort-aire-heating-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406733/truaido-previews/comfort-aire-heating-lancaster/work2"
+  ]
+}

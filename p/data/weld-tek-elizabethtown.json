@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "weld-tek-elizabethtown",
+  "company": "Weld Tek Ltd",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173670666",
+  "phone_display": "(717) 367-0666",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Weld%20Tek%20Ltd&query_place_id=ChIJd8JMzpKXyIkR-BdNIiAwzdA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Bainbridge",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [],
+  "gallery": []
+}

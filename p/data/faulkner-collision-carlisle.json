@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "faulkner-collision-carlisle",
+  "company": "Faulkner Collision of Carlisle",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172540041",
+  "phone_display": "(717) 254-0041",
+  "has_website": true,
+  "rating": 4.1,
+  "review_count": 99,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Faulkner%20Collision%20of%20Carlisle&query_place_id=ChIJM6DQwqjgyIkRd0uGfbjz468",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Hampden Township",
+    "Boiling Springs",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Quick estimate. Very friendly. Easy to find and park.",
+      "author": "AmyLea W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Kept us updated on progress and got truck back date they said",
+      "author": "nancy O.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

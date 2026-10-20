@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "stump-fleet-lancaster",
+  "company": "Stump Fleet",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12793334115",
+  "phone_display": "(279) 333-4115",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stump%20Fleet&query_place_id=ChIJC-i5Q6rRPK4RDXqRuQozVTM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405999/truaido-previews/stump-fleet-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#A32B32",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Fast, communicative, reasonably priced and did great job. Gave quote and was able to grind stump same day. Left no trace of stump and surrounding area was cleaned very well. Even helped to facilitate disposal of brush. Would recommend.",
+      "author": "Christopher I.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Chris went above and beyond for us. He took out every stump and made everything look better than we were thinking it was going to end up. Thank you so much for all your help and hard work.",
+      "author": "John D.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "If you\u2019re looking for a reliable local stump grinder in Palmyra, I highly recommend Chris at Stump Fleet. He was responsive, punctual, and very reasonably priced. Safety was clearly a priority\u2014he took extra care to protect my home while working.",
+      "author": "G P.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405998/truaido-previews/stump-fleet-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405999/truaido-previews/stump-fleet-lancaster/work2"
+  ]
+}

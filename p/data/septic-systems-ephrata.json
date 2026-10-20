@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "septic-systems-ephrata",
+  "company": "Septic Systems, LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17172832030",
+  "phone_display": "(717) 283-2030",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Septic%20Systems%2C%20LLC&query_place_id=ChIJc4qp7TIXxokRuGdmXSRZhl4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Lititz",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [],
+  "gallery": []
+}

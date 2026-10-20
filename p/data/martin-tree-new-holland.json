@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "martin-tree-new-holland",
+  "company": "Martin Tree Service, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17173545939",
+  "phone_display": "(717) 354-5939",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 313,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Tree%20Service%2C%20LLC&query_place_id=ChIJGzzu-MJBxokR4Rd4Q6Z3_bU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406877/truaido-previews/martin-tree-new-holland/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#8B671F",
+  "nearby_towns": [
+    "East Earl",
+    "Gordonville",
+    "Narvon",
+    "Gap",
+    "Leola",
+    "Stevens"
+  ],
+  "reviews": [
+    {
+      "text": "Had to use Martins after the July 4 storm. With how busy they were they still took the time to get my job done in a timely manner. Additionally they did an expert job. Will go to Martins any time I have tree work.",
+      "author": "Rick H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very pleased with their work and how safely they removed the trees .",
+      "author": "Michael T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Truly an honest and ethical company to work with Phone in people always knowledgeable and helpful Do excellent tree work, too!!",
+      "author": "mm",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406873/truaido-previews/martin-tree-new-holland/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406874/truaido-previews/martin-tree-new-holland/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406875/truaido-previews/martin-tree-new-holland/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406877/truaido-previews/martin-tree-new-holland/work4"
+  ]
+}

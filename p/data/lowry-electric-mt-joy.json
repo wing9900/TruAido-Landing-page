@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "lowry-electric-mt-joy",
+  "company": "Lowry Electric Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176532230",
+  "phone_display": "(717) 653-2230",
+  "has_website": true,
+  "rating": 1.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lowry%20Electric%20Inc&query_place_id=ChIJj2Ud7vWeyIkRTlUtmEf0THo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Mount Joy Township",
+    "Landisville",
+    "Marietta",
+    "Columbia",
+    "Elizabethtown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

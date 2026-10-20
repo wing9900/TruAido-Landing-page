@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "superior-insulation-lititz",
+  "company": "Superior Insulation, Inc.",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176267471",
+  "phone_display": "(717) 626-7471",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Superior%20Insulation%2C%20Inc.&query_place_id=ChIJRa8k6YkixokRO9y2ea-S0fU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Lancaster",
+    "Brownstown",
+    "Leola",
+    "Landisville",
+    "Akron"
+  ],
+  "reviews": [],
+  "gallery": []
+}

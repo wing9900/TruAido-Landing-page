@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "countryside-pest-stevens",
+  "company": "Countryside Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Stevens",
+  "state": "PA",
+  "phone": "+17172789918",
+  "phone_display": "(717) 278-9918",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 76,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Countryside%20Pest%20Control&query_place_id=ChIJgSWDPSYSxokRFt8a_IqvJko",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405725/truaido-previews/countryside-pest-stevens/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#EA0A1D",
+  "nearby_towns": [
+    "Ephrata",
+    "Denver",
+    "Reinholds",
+    "Robesonia",
+    "Akron",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "They were able to come out the same day I contacted them and took care of my yellowjacket problem at a fair price. I also had them spray the exterior of my home. Highly recommend!!!",
+      "author": "Jack B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "This is an excellent pest control service, very well priced, always on time, courteous, effective and very good customer service. I highly recommend.",
+      "author": "Shana G.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "We were so satisfied with countryside. We had flying squirrels in our eaves. They knew to set traps and kept following up until they were gone. Very professional. Very good service too",
+      "author": "Diane R.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405720/truaido-previews/countryside-pest-stevens/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405721/truaido-previews/countryside-pest-stevens/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405723/truaido-previews/countryside-pest-stevens/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405724/truaido-previews/countryside-pest-stevens/work4"
+  ]
+}

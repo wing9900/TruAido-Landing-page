@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hometown-hvac-carlisle",
+  "company": "Hometown Hvac Installations",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17174481184",
+  "phone_display": "(717) 448-1184",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hometown%20Hvac%20Installations&query_place_id=ChIJCdf17CThyIkRXgVr88_NSpE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407934/truaido-previews/hometown-hvac-carlisle/logo",
+    "layout": "square",
+    "badge": "#010E2E"
+  },
+  "accent": "#1F2640",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Alex was fantastic to work with and was able the come the same day I called him for an estimate. He knew exactly what he was doing and the installation was a breeze. All around great experience and will use him again.",
+      "author": "Beth R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had some power issues with my thermostat after a lightning strike on our utility pole and Alex was able to fix the problem. He confirmed the appointment the day before, which is reassuring and showed up on time.",
+      "author": "Jon",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Alex was awesome with his efficiency and professionalism. He cleaned up after himself and made sure our new hvac system was working well even a few months after installation.",
+      "author": "emily H.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

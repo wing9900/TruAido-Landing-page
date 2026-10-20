@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "kc-welding-fabrication-halifax",
+  "company": "K&C WELDING & FABRICATION",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17175711771",
+  "phone_display": "(717) 571-1771",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=K%26C%20WELDING%20%26%20FABRICATION&query_place_id=ChIJAy5zjQ_LyIkR010Hl4d1yMs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersburg",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Keith's work was exceptional! He knows what he's doing. I would definitely recommend him. Such a pleasant man to do business with!!",
+      "author": "Kate B.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407336/truaido-previews/kc-welding-fabrication-halifax/work1"
+  ]
+}

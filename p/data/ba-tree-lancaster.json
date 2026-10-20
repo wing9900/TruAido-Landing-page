@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "ba-tree-lancaster",
+  "company": "B & A Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17175981280",
+  "phone_display": "(717) 598-1280",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%20%26%20A%20Tree%20Service&query_place_id=ChIJIc4ylWvjvCMRLrb444RzmzA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406865/truaido-previews/ba-tree-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Pequea",
+    "New Providence",
+    "Willow Street",
+    "Holtwood",
+    "Conestoga",
+    "Quarryville"
+  ],
+  "reviews": [
+    {
+      "text": "Brandon did a good job, graded and seeded the area where he removed a large silver maple, and cleaned up after completion.",
+      "author": "Thomas H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I got a quote from my usual tree guy for tree removal and stump grinding. I felt the price was high so I reached out to B & A for a second quote. It was a much more reasonable price. And they also provides top soil and grass seed. What an excellent value!",
+      "author": "Derrick K.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Brandon was awesome! We had a tree fall on the house from storm damage and he came out the same day for an assessment. His price was very fair and he took care of the job the next day.",
+      "author": "Henry S.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406863/truaido-previews/ba-tree-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406864/truaido-previews/ba-tree-lancaster/work2"
+  ]
+}

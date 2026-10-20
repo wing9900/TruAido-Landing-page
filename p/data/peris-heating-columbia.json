@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "peris-heating-columbia",
+  "company": "Peris Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17176845175",
+  "phone_display": "(717) 684-5175",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 44,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Peris%20Heating%20%26%20Cooling&query_place_id=ChIJs5GV-SwkxokR_u67R2yFC1s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406845/truaido-previews/peris-heating-columbia/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#005A9D",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "Trust worthy, knowledgeable, friendly. Highly recommend.",
+      "author": "Lynn M.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "They have been my heating and cooling for 22 years. Excellent service, work and response.",
+      "author": "shawna H.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Service guy Ryan was amazing! Excellent customer service. I have been using your services for a few years now and you guys never disappoint. Thank you always for the great service. Dawn Cubitt:)",
+      "author": "Dawn S.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406843/truaido-previews/peris-heating-columbia/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406844/truaido-previews/peris-heating-columbia/work2"
+  ]
+}

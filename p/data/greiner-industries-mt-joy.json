@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "greiner-industries-mt-joy",
+  "company": "Greiner Industries Inc.",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17176538111",
+  "phone_display": "(717) 653-8111",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 28,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Greiner%20Industries%20Inc.&query_place_id=ChIJFevPNc2YyIkRYwWRReOD_20",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406358/truaido-previews/greiner-industries-mt-joy/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#C24D0D",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Elizabethtown",
+    "Marietta",
+    "Salunga",
+    "Bainbridge",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "We have been working with Greiner for many years. They provide almost all of our crane work to raise and install our heavy timber frames. They have bailed us out on more than one occasion where the schedule gets moved or changed. We work with Dustin Lewis.",
+      "author": "Amy G.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406357/truaido-previews/greiner-industries-mt-joy/work1"
+  ]
+}

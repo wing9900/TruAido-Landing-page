@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "cozy-penguin-insulation-harrisburg",
+  "company": "The Cozy Penguin Insulation Company",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172129048",
+  "phone_display": "(717) 212-9048",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 203,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Cozy%20Penguin%20Insulation%20Company&query_place_id=ChIJlQ3WP3_oKSQR6iZsLng4zW8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lower Paxton Township",
+    "Lemoyne",
+    "Highspire",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "The company is very professional and friendly, all work to be done is clearly explained to the customer and questions or concerns are answered.",
+      "author": "Harriet S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Prompt arrival, professional service, all stages of work were explained thoroughly.",
+      "author": "Pam M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "David and his team at Cozy Penguin were excellent. They really took pride in their work, showed up on time ( and a bit early ), kept me in the loop, answered questions. Highly recommend them.",
+      "author": "Ross B.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "evergreen-heating-manheim",
+  "company": "Evergreen Heating and Air LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17177989118",
+  "phone_display": "(717) 798-9118",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 177,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Evergreen%20Heating%20and%20Air%20LLC&query_place_id=ChIJe-r7mG_KrWIRjISW9Nw5WbI",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405827/truaido-previews/evergreen-heating-manheim/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405828/truaido-previews/evergreen-heating-manheim/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#986505",
+  "nearby_towns": [
+    "Lititz",
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Lancaster",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "We have been extremely happy with Evergreen Heating and Air LLC. They have been smart, punctual, and polite. I administered large scale construction projects for over 30 years. These guys are the present and the future. Tom Eisemann",
+      "author": "Tom E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Really great company! Super responsive. One of the best decisions we ever made.",
+      "author": "Miguel D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent service. Honest technician and reasonable price. Thank you.",
+      "author": "Bill A.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405828/truaido-previews/evergreen-heating-manheim/work1"
+  ]
+}

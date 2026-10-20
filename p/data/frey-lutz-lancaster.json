@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "frey-lutz-lancaster",
+  "company": "Frey Lutz",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178986808",
+  "phone_display": "(717) 898-6808",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 91,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Frey%20Lutz&query_place_id=ChIJe929fS4nxokRfRLOPCwJ2Rk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406215/truaido-previews/frey-lutz-lancaster/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#007AC4",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "Mountville",
+    "East Petersburg",
+    "Columbia",
+    "Mount Joy"
+  ],
+  "reviews": [
+    {
+      "text": "I used their services for replacing the oil burner about 20 years ago. Their estimate was almost half the others. Have not had any issues at all. Recently had them replace my AC unit and air handler. Very pleased with the job they performed!",
+      "author": "Scott R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I had my HVAC system replaced and I'm sooooooo glad I got Frey Lutz for the project. I got an estimate within one day of them doing an onsite inspection. On installation day, the tech crew were professional, and kept us informed as to what was being done.",
+      "author": "Randy G.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "Work performed by install team was phenomenal, technicians were skilled and communicative, helpful and knowledgeable during work conducted. Frey Lutz conducts amazing work and I will be recommending them for any HVAC needs to friends and family.",
+      "author": "Heidi C.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406215/truaido-previews/frey-lutz-lancaster/work1"
+  ]
+}

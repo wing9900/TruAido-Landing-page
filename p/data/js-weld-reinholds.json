@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "js-weld-reinholds",
+  "company": "JS Weld-Rite",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+15705279852",
+  "phone_display": "(570) 527-9852",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JS%20Weld-Rite&query_place_id=ChIJg7PiCN8RxokRAgkOmB10BqE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Robesonia",
+    "Adamstown",
+    "Stevens",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Awesome service and exceptionally nice guy! Needed some welding done in a pinch for a motorcycle project and had what I needed in a day. Got the right advice, the work was outstanding and the price was more than fair.",
+      "author": "Shawn H.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "JS Weld-Rite was a pleasure to work with. Welder was professional and well knowledgeable.",
+      "author": "Ray M.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "This guy did a lot of work for my company and he always did a very decent job",
+      "author": "Dawn H.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405971/truaido-previews/js-weld-reinholds/work1"
+  ]
+}

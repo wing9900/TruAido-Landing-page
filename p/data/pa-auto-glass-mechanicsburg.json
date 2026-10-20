@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "pa-auto-glass-mechanicsburg",
+  "company": "PA Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17178817866",
+  "phone_display": "(717) 881-7866",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 115,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PA%20Auto%20Glass&query_place_id=ChIJ_bjRS4rpyIkRzVhZgM6-ZYk",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407824/truaido-previews/pa-auto-glass-mechanicsburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407826/truaido-previews/pa-auto-glass-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": "#000000"
+  },
+  "accent": "#3F3611",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "They replaced my windshield in just 20 minutes\u2014fast and cheap.",
+      "author": "Hafiz H.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Call one day they were out the next came to my property to change my windshield awesome people best price",
+      "author": "Daniel S.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "If I could give this company 6 \u2b50\ufe0f\u2026\u2026I would! My windshield was cracked and I was due to for inspection so I called safelight (big name recognition) and they wanted $627 for the windshield replacement. So thankful I called PA Auto Glass.",
+      "author": "Michael F.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407825/truaido-previews/pa-auto-glass-mechanicsburg/work1"
+  ]
+}

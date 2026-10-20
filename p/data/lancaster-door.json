@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lancaster-door",
+  "company": "Lancaster Door Service",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173944724",
+  "phone_display": "(717) 394-4724",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 183,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Door%20Service&query_place_id=ChIJDxQlXD87xokRwItT5evAITE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leola",
+    "Willow Street",
+    "Strasburg",
+    "Millersville",
+    "East Petersburg",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "\u2605\u2605\u2605\u2605\u2605 Lancaster Door Service did a five-star job! Kelly, whom I first met at the store, came out with another technician to install a LiftMaster wall-mount garage door opener.",
+      "author": "Dan D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "This is the second time we have used Lancaster Door Service. The technician did an outstanding job doing the repairs and teaching how to program our car remotes. The owners are fair and honest people, and I highly recommend this company.",
+      "author": "B G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Lancaster Door installed my garage door opener years ago when my home was built. So when the spring broke last week I called then to schedule a repair. They were out the next day and the door was repaired in less than an hour.",
+      "author": "S Z.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "wertz-home-solutions-harrisburg",
+  "company": "Wertz Home Solutions",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174332288",
+  "phone_display": "(717) 433-2288",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 26,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Wertz%20Home%20Solutions&query_place_id=ChIJ_91JIibLIQURXQ05Ic_xR3M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Mechanicsburg",
+    "Shiremanstown",
+    "Enola",
+    "Camp Hill",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Stellar customer service!! Dave didn't just replace parts, he was determined to find the cause of my home boiler problem and pinpoint the defective part... Saving me potentially $100s of dollars.",
+      "author": "Bryan",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "I called Wertz home solutions on a 5 degree day. My heat had stopped sometime during the night. I feared it may be a blower motor and would take sometime to get the part. But, Dave had my house toasty before lunch time the same day.",
+      "author": "Jeffrey C.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "One of absolute best there is and the pricing is very fair. Honest, hard working people. Highly recommend!!",
+      "author": "Bobby J.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "creek-hill-welding-ephrata",
+  "company": "Creek Hill Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17175568452",
+  "phone_display": "(717) 556-8452",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Creek%20Hill%20Welding&query_place_id=ChIJSTxOS5k-xokR_Gij0N0ssE0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406189/truaido-previews/creek-hill-welding-ephrata/logo",
+    "layout": "square",
+    "badge": "#111827"
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "New Holland",
+    "Akron",
+    "Adamstown",
+    "Reinholds"
+  ],
+  "reviews": [],
+  "gallery": []
+}

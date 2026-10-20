@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "nexora-hvac-lancaster",
+  "company": "Nexora HVAC Reoair Lancaster",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232446449",
+  "phone_display": "(223) 244-6449",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nexora%20HVAC%20Reoair%20Lancaster&query_place_id=ChIJxxluDgAlxokRrxt75F6CBEg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406599/truaido-previews/nexora-hvac-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Conestoga",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Outstanding HVAC service from start to finish. The technician was knowledgeable, courteous, punctual, and thorough while ensuring everything operated properly before leaving.",
+      "author": "Billy R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Very pleased with Nexora HVAC Reoair Lancaster. The technician was courteous, efficient, and knowledgeable. He explained the issue clearly and completed the work professionally.",
+      "author": "Emmanuel L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Professional and reliable HVAC contractor. The technician was courteous, explained the process clearly, and completed the work efficiently and carefully.",
+      "author": "Starz M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

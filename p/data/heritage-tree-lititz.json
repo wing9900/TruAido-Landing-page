@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "heritage-tree-lititz",
+  "company": "Heritage Tree Farm",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176262559",
+  "phone_display": "(717) 626-2559",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Tree%20Farm&query_place_id=ChIJC60j8bMXxokRwGIGg0_6qjA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405937/truaido-previews/heritage-tree-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1D4A25",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Ephrata",
+    "Leola",
+    "East Petersburg",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "This place was magical!!! Weekends They have a gift shop which is adorable, free hot chocolate, and wagon rides. The staff were all friendly and the owners welcoming",
+      "author": "Cecelia",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "La atencion es increible y sin duda es una experiencia maravillosa poder elegir tu arbol, cortarlo y llevarlo a casa para luego darle tu toque personal.",
+      "author": "Nubia",
+      "stars": 5,
+      "month": "December 2023"
+    },
+    {
+      "text": "Friendly service. Great experience for families with wagon rides and hot chocolate. The kids look forward to going each year.",
+      "author": "Daniel K.",
+      "stars": 5,
+      "month": "December 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405935/truaido-previews/heritage-tree-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405935/truaido-previews/heritage-tree-lititz/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405937/truaido-previews/heritage-tree-lititz/work3"
+  ]
+}

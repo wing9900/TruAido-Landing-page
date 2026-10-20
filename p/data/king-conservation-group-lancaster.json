@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "king-conservation-group-lancaster",
+  "company": "King Conservation Group Insulation",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172053610",
+  "phone_display": "(717) 205-3610",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 153,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=King%20Conservation%20Group%20Insulation&query_place_id=ChIJTYQKKXs8xokRB8xiMMo2UXY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leola",
+    "East Petersburg",
+    "Millersville",
+    "Willow Street",
+    "Strasburg",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "I highly recommend Casey King and the entire team at King Conservation Group. From start to finish, their approach to home performance and insulation was highly professional, and completely transparent.",
+      "author": "Martin K.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "The crew was efficient, courteous, and clearly experienced with insulation projects",
+      "author": "roberta V.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "King Conservation Group did an absolute top-notch job. Zach and his crew were extremely professional from start to finish, showing up on time, communicating clearly, and treating the property with total respect.",
+      "author": "TMF",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

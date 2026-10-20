@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "septic-solutions-kirkwood",
+  "company": "Septic Solutions LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Kirkwood",
+  "state": "PA",
+  "phone": "+17175290931",
+  "phone_display": "(717) 529-0931",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Septic%20Solutions%20LLC&query_place_id=ChIJP5yDlURKxokR7ExNGQ_i3Tg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Christiana",
+    "Nottingham",
+    "Paradise",
+    "Quarryville",
+    "Peach Bottom",
+    "New Providence"
+  ],
+  "reviews": [
+    {
+      "text": "Super professional and helpful. Pumped the tank and inspected it. Instructed me on how to install the riser myself.",
+      "author": "Nathan P.",
+      "stars": 5,
+      "month": "April 2024"
+    },
+    {
+      "text": "A professional, friendly, and efficient inspection and pump out of my septic system. The right equipment and experienced technician quickly serviced my system and provided valuable advice. Highly recommended.",
+      "author": "Gerald N.",
+      "stars": 5,
+      "month": "August 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406595/truaido-previews/septic-solutions-kirkwood/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406596/truaido-previews/septic-solutions-kirkwood/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406597/truaido-previews/septic-solutions-kirkwood/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406597/truaido-previews/septic-solutions-kirkwood/work4"
+  ]
+}

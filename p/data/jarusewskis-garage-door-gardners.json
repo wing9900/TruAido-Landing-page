@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "jarusewskis-garage-door-gardners",
+  "company": "Jarusewski's garage door service",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Gardners",
+  "state": "PA",
+  "phone": "+17172265250",
+  "phone_display": "(717) 226-5250",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 54,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jarusewski's%20garage%20door%20service&query_place_id=ChIJpwY1Wrkk-gER2OPN1Te78ho",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407752/truaido-previews/jarusewskis-garage-door-gardners/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#A8000B",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Carlisle",
+    "Walnut Bottom",
+    "Dillsburg",
+    "Newville",
+    "Shippensburg"
+  ],
+  "reviews": [
+    {
+      "text": "Scott and Logan were very professional. They responded on time and answered or returned my calls promptly. They did a quick, clean, and professional installation. Very fair pricing.",
+      "author": "Monica S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Exceptional service. Been using this group for nearly 30 years, replacing my old wooden garage door with a new metal door, replacing the opener unit and just today replacing the large overhead springs. Quick turnaround and great price. Highly recommend.",
+      "author": "Valerie A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Fantastic! Extremely friendly and quick to respond. Every time I\u2019ve needed Scott he has come through. Great service!",
+      "author": "Shervin D.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407752/truaido-previews/jarusewskis-garage-door-gardners/work1"
+  ]
+}

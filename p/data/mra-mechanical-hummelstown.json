@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "mra-mechanical-hummelstown",
+  "company": "MRA Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17172208696",
+  "phone_display": "(717) 220-8696",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MRA%20Mechanical%20LLC&query_place_id=ChIJbwelV8APyywRSsinxMayGc4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407514/truaido-previews/mra-mechanical-hummelstown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#4A6FC8",
+  "nearby_towns": [
+    "Hershey",
+    "Middletown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Elizabethtown",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Matt was quick to come out to look at my elderly Mother's ac unit. It was a very hot summer day and she doesn't handle the geat well. He diagnosed the issue and was able to repair. Matt was very professional and polite.",
+      "author": "Christine M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Matt was great. He explained everything in a way I could understand, had all the necessary parts, and was able to fix my AC system in no time",
+      "author": "Jessica R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407514/truaido-previews/mra-mechanical-hummelstown/work1"
+  ]
+}

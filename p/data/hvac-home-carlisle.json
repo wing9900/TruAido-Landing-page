@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hvac-home-carlisle",
+  "company": "HVAC Home Services LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172549606",
+  "phone_display": "(717) 254-9606",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HVAC%20Home%20Services%20LLC&query_place_id=ChIJpbe-l2tqP6kRQwDLHukchLE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Gardners",
+    "Shippensburg",
+    "Newville",
+    "Boiling Springs",
+    "Newburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

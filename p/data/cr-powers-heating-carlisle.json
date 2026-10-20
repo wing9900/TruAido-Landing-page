@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "cr-powers-heating-carlisle",
+  "company": "C.R. Powers Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172415988",
+  "phone_display": "(717) 241-5988",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 97,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C.R.%20Powers%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJ6xwN-NPhyIkRx1pWNT08UwI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407686/truaido-previews/cr-powers-heating-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#B25305",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Hampden Township",
+    "Newville"
+  ],
+  "reviews": [
+    {
+      "text": "I am so incredibly happy with the central air system Chris Powers installed for me back in May! He got it put in so quickly and way ahead of when it was originally scheduled, which was a lifesaver since the weather was starting to get warm.",
+      "author": "Jackie G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great work and thorough explanation as always with C.R. Powers!",
+      "author": "Joe C.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Hot water Heater failure and leak. Water everywhere. After being potentially Gouged by another local Plumbing company (Handyside) that did the emergency valve repair. I called CR Powers.",
+      "author": "Brian O.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407684/truaido-previews/cr-powers-heating-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407685/truaido-previews/cr-powers-heating-carlisle/work2"
+  ]
+}

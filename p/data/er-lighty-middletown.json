@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "er-lighty-middletown",
+  "company": "E.R. Lighty Co.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Middletown",
+  "state": "PA",
+  "phone": "+17179440132",
+  "phone_display": "(717) 944-0132",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=E.R.%20Lighty%20Co.&query_place_id=ChIJPQ93j369yIkRFenmmnRxmkA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407518/truaido-previews/er-lighty-middletown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#540205",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Highspire",
+    "Hershey",
+    "Hummelstown",
+    "Steelton",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "I had an excellent experience with this company! Within 30 minutes of calling, someone was at my house providing a quote, and in less than 24 hours, I had a brand new 80-gallon hot water heater installed.",
+      "author": "S M.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I cannot express enough gratitude for this company. I called about 8 companies in a panic because I had a leak under my mobile home and very low temps were coming.",
+      "author": "Lisa M.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "These guys came in did their job and were out with everything cleaned up. I will definitely be calling them again. Hopefully not too soon.",
+      "author": "Gloria G.",
+      "stars": 5,
+      "month": "April 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407517/truaido-previews/er-lighty-middletown/work1"
+  ]
+}

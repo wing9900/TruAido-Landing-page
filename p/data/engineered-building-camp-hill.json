@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "engineered-building-camp-hill",
+  "company": "Engineered Building Systems",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17174098384",
+  "phone_display": "(717) 409-8384",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Engineered%20Building%20Systems&query_place_id=ChIJFVR92d3ryIkRqX8kOexlR6I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton"
+  ],
+  "reviews": [],
+  "gallery": []
+}

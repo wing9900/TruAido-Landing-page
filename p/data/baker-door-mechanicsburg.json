@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "baker-door-mechanicsburg",
+  "company": "Baker Door Company",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177278028",
+  "phone_display": "(717) 727-8028",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 99,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Baker%20Door%20Company&query_place_id=ChIJAc2yzXzCyIkRRV9cMRzOlIw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Baker Door Company was fantastic from start to finish. Casey explained everything that I could expect and Chris (and Casey) kept me updated on the status of my door.",
+      "author": "Gregory T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent installation of two new garage doors, as well as new openers that we had purchased ourselves. The installers did an excellent job and all with a smile even though it took longer than expected due to having to trouble shoot some issues.",
+      "author": "Lisa C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Had a 12 x 12 door installed. Did a great job",
+      "author": "Lonnie D.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

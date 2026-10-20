@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "mill-grind-millersburg",
+  "company": "Mill & Grind LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Millersburg",
+  "state": "PA",
+  "phone": "+17173504498",
+  "phone_display": "(717) 350-4498",
+  "has_website": false,
+  "rating": 4.3,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mill%20%26%20Grind%20LLC&query_place_id=ChIJq4jOGHU1z4kRTFU0VPyIAoA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethville",
+    "Lykens",
+    "Gratz",
+    "Halifax",
+    "Williamstown",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "I had a large maple tree stump I could not get out by myself so I called for assistance and left a message. Tom, from Mill and Grind, called me back and coordinated a date and time with me. He showed up at my home early, ready to work.",
+      "author": "Anthony G.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Tom from Mill & Grind was extremely helpful with helping me remove my stumps and planting grass where my trees were. His communication was great as well as his price. I won\u2019t even shop around next time I need a stump ground. Five stars!",
+      "author": "Cody B.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "We appreciate Mill & Grind LLC's prompt service in removing our tree stumps. If you require stump grinding services, we highly recommend Mill & Grind LLC for their exceptional customer service, expertise, and professionalism. Mill & Grind LLC.",
+      "author": "Tammy K.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407278/truaido-previews/mill-grind-millersburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407279/truaido-previews/mill-grind-millersburg/work2"
+  ]
+}

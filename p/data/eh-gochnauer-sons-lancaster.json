@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "eh-gochnauer-sons-lancaster",
+  "company": "EH Gochnauer & Sons, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172993776",
+  "phone_display": "(717) 299-3776",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 70,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=EH%20Gochnauer%20%26%20Sons%2C%20Inc.&query_place_id=ChIJx3ef5B4kxokRmkaPxZMcU1c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406712/truaido-previews/eh-gochnauer-sons-lancaster/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#E02D27",
+  "nearby_towns": [
+    "East Petersburg",
+    "Mountville",
+    "Millersville",
+    "Landisville",
+    "Salunga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "I recently had a gentleman by the name of Mike who is an HVAC specialist who came out and inspected my unit and told me his thoughts on what was wrong. I thought he did a great job, but I would like to add this.",
+      "author": "Connie A.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I have used Gochnauer for my heating and cooling for a # of years and I have consistently found them to be very professional and trustworthy. This weekend I had the need for emergency service as the furnace failed overnight and the inside temp was 59 degrees.",
+      "author": "B.E. L.",
+      "stars": 5,
+      "month": "December 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406712/truaido-previews/eh-gochnauer-sons-lancaster/work1"
+  ]
+}

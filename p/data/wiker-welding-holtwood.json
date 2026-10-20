@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "wiker-welding-holtwood",
+  "company": "Wiker Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Holtwood",
+  "state": "PA",
+  "phone": "+17172844637",
+  "phone_display": "(717) 284-4637",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Wiker%20Welding&query_place_id=ChIJaWiLxmAyxokRicXDLfj9iQI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Quarryville",
+    "New Providence",
+    "Pequea",
+    "Willow Street",
+    "Peach Bottom",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Very nice company to get your racks or steel beams",
+      "author": "D B.",
+      "stars": 5,
+      "month": "July 2021"
+    }
+  ],
+  "gallery": []
+}

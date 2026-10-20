@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "tires-plus-camp-hill",
+  "company": "Tires Plus",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17172301405",
+  "phone_display": "(717) 230-1405",
+  "has_website": true,
+  "rating": 4.1,
+  "review_count": 371,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tires%20Plus&query_place_id=ChIJGRnL1J749IgRMoXeMFfDNwE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "East Pennsboro Township",
+    "Enola",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "I\u2019ve purchased the unlimited wheel alignment service for my daughter\u2019s car and I must say TirePlus, Andy and his team never disappoints! They service fast. They\u2019re convenient with pick up and drop offs. Customer service is amazing and I always return.",
+      "author": "Lavon C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Had a rear tire with a slow leak only to discover there was a nail in the tire but tire could not be fixed too close to outer edge of tire.Very efficient service i highly recommend thanks Tony and the service tech for stepping up and the service happen...",
+      "author": "Brian G.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408312/truaido-previews/tires-plus-camp-hill/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408313/truaido-previews/tires-plus-camp-hill/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408313/truaido-previews/tires-plus-camp-hill/work3"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "jr-king-excavating-lititz",
+  "company": "JR King Excavating (Snow Removal & Septic Systems)",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17179843900",
+  "phone_display": "(717) 984-3900",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JR%20King%20Excavating%20(Snow%20Removal%20%26%20Septic%20Systems)&query_place_id=ChIJPyscnwQ9xokRe5-CnulXXXQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405667/truaido-previews/jr-king-excavating-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Ephrata",
+    "Manheim",
+    "East Petersburg",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Weaver Environmental has had the pleasure of working with JR King Excavating on a number of agricultural BMP projects, and we highly recommend their team. As a small, family-owned company, they bring a strong work ethic and pride to every job.",
+      "author": "Jeremy W.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Top notch quality work. Great to deal with",
+      "author": "thomas H.",
+      "stars": 5,
+      "month": "June 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405665/truaido-previews/jr-king-excavating-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405666/truaido-previews/jr-king-excavating-lititz/work2"
+  ]
+}

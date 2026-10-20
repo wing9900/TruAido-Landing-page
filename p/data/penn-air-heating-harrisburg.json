@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "penn-air-heating-harrisburg",
+  "company": "Penn Air Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178364575",
+  "phone_display": "(717) 836-4575",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Penn%20Air%20Heating%20and%20Cooling&query_place_id=ChIJMd5xQvERwiQReV4hbjUKrxY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Steelton",
+    "New Cumberland",
+    "Lower Paxton Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f I had a great experience with PennAir Heating & Cooling. They were professional, responsive, and knowledgeable from start to finish.",
+      "author": "Sapana",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great reliable and friendly tech for all your heating and cooling used them past winter and spring.",
+      "author": "Tara D.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

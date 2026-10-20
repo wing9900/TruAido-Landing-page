@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "scott-king-glassworks-enola",
+  "company": "Scott King Glassworks",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17177328865",
+  "phone_display": "(717) 732-8865",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 341,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Scott%20King%20Glassworks&query_place_id=ChIJLWY_zQTEyIkRPV3qRrdgNvs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Harrisburg",
+    "Lemoyne",
+    "Dauphin",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Had the windshield replaced on our Tahoe. Professional service done right and in a timely manner! Highly recommend!",
+      "author": "Shane W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "He was able to beat the price I was quoted from Other places by a lot. Got me scheduled right away and they even came to my job to fix my windshield and was done in about 20 mins. Thank you guys great job",
+      "author": "Jere N.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Always a great service! Fast and affordable! Never had an issue with replacements. 10/10 Edit/Add: Had multiple replacements here and its a pleasure each time! Fast, affordable, friendly and goes above and beyond for customers \ud83e\udd70",
+      "author": "Amber N.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407815/truaido-previews/scott-king-glassworks-enola/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407817/truaido-previews/scott-king-glassworks-enola/work2"
+  ]
+}

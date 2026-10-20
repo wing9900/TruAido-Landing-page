@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "daflure-heating-new-cumberland",
+  "company": "Daflure Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+17177749480",
+  "phone_display": "(717) 774-9480",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 853,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Daflure%20Heating%20and%20Cooling&query_place_id=ChIJcawXYkvAyIkRdWMun3DdLFY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408259/truaido-previews/daflure-heating-new-cumberland/logo",
+    "layout": "square",
+    "badge": "#E21F25"
+  },
+  "accent": "#CC000D",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Harrisburg",
+    "East Pennsboro Township",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Technician was very knowledgeable and helpful.",
+      "author": "Ed U.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Easy appointment process, confirmed appointment the day before and was here on time. Gave me some helpful tips. All good!",
+      "author": "Mary E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The technician, Jon, was awesome! Very respectful of my home, wore his mask and shoe protection. I asked him a bunch of questions and he was extremely knowledgeable and helpful!! Very informative and kind!! \ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe",
+      "author": "Twiggy W.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408256/truaido-previews/daflure-heating-new-cumberland/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408257/truaido-previews/daflure-heating-new-cumberland/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408259/truaido-previews/daflure-heating-new-cumberland/work3"
+  ]
+}

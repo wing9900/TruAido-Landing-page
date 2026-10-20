@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "eco-pest-harrisburg",
+  "company": "Eco Pest Control of Harrisburg",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179358971",
+  "phone_display": "(717) 935-8971",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Eco%20Pest%20Control%20of%20Harrisburg&query_place_id=ChIJ8fWLFgvByIkRN9xy7j1Tw8s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "New Cumberland",
+    "Steelton",
+    "Enola",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "I had a great experience with this pest control company in my area. The guy was highly skilled and knew a lot about how to keep pests away.",
+      "author": "Anthony B.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "The workers immediately removed spiders and vermin from our property. Friendly, fast, and informed. Home seems secure and clean again. Great pest control.",
+      "author": "Lynnette M.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

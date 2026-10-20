@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "tree-life-willow-street",
+  "company": "Tree of Life Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Willow Street",
+  "state": "PA",
+  "phone": "+17174643020",
+  "phone_display": "(717) 464-3020",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 25,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tree%20of%20Life%20Services&query_place_id=ChIJ8c_jmR0wxokRwYOHNFYWZ8s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406363/truaido-previews/tree-life-willow-street/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#045134",
+  "nearby_towns": [
+    "Pequea",
+    "New Providence",
+    "Conestoga",
+    "Strasburg",
+    "Millersville",
+    "Quarryville"
+  ],
+  "reviews": [
+    {
+      "text": "Highly recommend doing business with this company.",
+      "author": "Max F.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "Treated Arborvitae for bagworms, very responsive!! Was able to get me in same day with can't be beat pricing!!! Will use again for anything to do with landscaping!!!",
+      "author": "Carl S.",
+      "stars": 5,
+      "month": "July 2021"
+    },
+    {
+      "text": "Returned my call and offered good tree recommendations and possible diagnosis over the phone!",
+      "author": "James M.",
+      "stars": 4,
+      "month": "April 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406359/truaido-previews/tree-life-willow-street/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406361/truaido-previews/tree-life-willow-street/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406362/truaido-previews/tree-life-willow-street/work3"
+  ]
+}

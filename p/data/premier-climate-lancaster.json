@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "premier-climate-lancaster",
+  "company": "Premier Climate LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178267490",
+  "phone_display": "(717) 826-7490",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Premier%20Climate%20LLC&query_place_id=ChIJecvzH4ATxokRdwG2tD1kGpA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405677/truaido-previews/premier-climate-lancaster/logo",
+    "layout": "wide",
+    "badge": "#000000"
+  },
+  "accent": "#09406D",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "We had a unique problem with our central air system, so we called James out to take a look. James was not only able to solve the issue, but did it in a manner that we thought wasn\u2019t possible initially. He was on time, very clean, and did outstanding work.",
+      "author": "Mark T.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "We found James through a family referral. He was quick to respond when our HVAC stopped working properly in the middle of summer. He was able to come out next day to diagnose the issue, and returned the following business day to complete the repair.",
+      "author": "Eric G.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Hands down one of the smartest and most professional HVAC Contractors I've ever had the pleasure of working beside!",
+      "author": "Justin T.",
+      "stars": 5,
+      "month": "May 2022"
+    }
+  ],
+  "gallery": []
+}

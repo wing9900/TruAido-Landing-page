@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "countryside-landscapes-lancaster",
+  "company": "Countryside Landscapes, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172052156",
+  "phone_display": "(717) 205-2156",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Countryside%20Landscapes%2C%20LLC&query_place_id=ChIJ43hilhN2jSERtZEHlA-3DlM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy",
+    "East Petersburg",
+    "Mountville",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "This company was so great to work with! Communication was great, the price was fair and now our yard looks amazing!",
+      "author": "Amber F.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406503/truaido-previews/countryside-landscapes-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406503/truaido-previews/countryside-landscapes-lancaster/work2"
+  ]
+}

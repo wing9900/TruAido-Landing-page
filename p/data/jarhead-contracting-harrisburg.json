@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "jarhead-contracting-harrisburg",
+  "company": "Jarhead Contracting LLC",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177437090",
+  "phone_display": "(717) 743-7090",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jarhead%20Contracting%20LLC&query_place_id=ChIJAWbdWLLByIkRpKTCyVjTn8A",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Enola",
+    "Lemoyne",
+    "Summerdale",
+    "New Cumberland",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Trey did an excellent job with the paint job in my house and I HIGHLY recommend him.",
+      "author": "Evan P.",
+      "stars": 5,
+      "month": "January 2025"
+    }
+  ],
+  "gallery": []
+}

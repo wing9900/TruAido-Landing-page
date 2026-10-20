@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "manheim-auto-repair",
+  "company": "Manheim Auto Repair",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17179369975",
+  "phone_display": "(717) 936-9975",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 231,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Manheim%20Auto%20Repair&query_place_id=ChIJRQP4uXkfxokRxzrMxjWVr_c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Salunga",
+    "Lititz",
+    "Landisville",
+    "Mount Joy",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are the best of the best. Limped in off the turnpike and got it done. And even gave me a free rental. You can\u2019t get better than them!",
+      "author": "Michael R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "i often work on my own vehicles, and go to a shop as a last resort, but this is one place i can\u2019t ever complain. Even if Im just bringing something in for diagnostics, and not repair these guys have always pointed me in the right direction. Great shop.",
+      "author": "Mark R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great place to take you car for service. Friendly high trained staff.Will be going there again.Very Happy.",
+      "author": "Michael M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406337/truaido-previews/manheim-auto-repair/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406338/truaido-previews/manheim-auto-repair/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406339/truaido-previews/manheim-auto-repair/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406341/truaido-previews/manheim-auto-repair/work4"
+  ]
+}

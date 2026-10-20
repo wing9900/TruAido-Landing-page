@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "jm-lapp-plumbing-manheim",
+  "company": "JM Lapp Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176656910",
+  "phone_display": "(717) 665-6910",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 79,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JM%20Lapp%20Plumbing%20%26%20Heating&query_place_id=ChIJ6eaPO5cfxokR0X44d4V8sfw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy",
+    "Mount Joy Township",
+    "East Petersburg",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "Jason was in and out with excellence. He was very kind and friendly. I was still tiling the bathroom and he set everything up to make sure it would be correct, then showed me how to disassemble it so I could reassemble it when I finished.",
+      "author": "Drew M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Very pleased. Great workers and very helpful \ud83d\udc4d",
+      "author": "Sally C.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

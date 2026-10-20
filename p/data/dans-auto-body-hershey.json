@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "dans-auto-body-hershey",
+  "company": "Dan's Auto Body",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+17175336050",
+  "phone_display": "(717) 533-6050",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 113,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dan's%20Auto%20Body&query_place_id=ChIJd-UFSGujyIkR51ZhxTLNDzU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407537/truaido-previews/dans-auto-body-hershey/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#B54D01",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Hummelstown",
+    "Middletown",
+    "Grantville",
+    "Highspire",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "They are terrific to deal with and they do an exceptional job.",
+      "author": "gloria B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They are meticulous about their work, keep current communication, and a pleasure to do business with.",
+      "author": "don H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "From start to finish, they were so kind and kept us informed of the process. We were very pleased with the end result. Highly recommend this business!",
+      "author": "denise Y.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407535/truaido-previews/dans-auto-body-hershey/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407535/truaido-previews/dans-auto-body-hershey/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407536/truaido-previews/dans-auto-body-hershey/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407537/truaido-previews/dans-auto-body-hershey/work4"
+  ]
+}

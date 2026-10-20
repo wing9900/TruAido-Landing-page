@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "crest-at-elm-mt-joy",
+  "company": "The Crest at Elm Tree Apartments",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mount Joy",
+  "state": "PA",
+  "phone": "+17178646804",
+  "phone_display": "(717) 864-6804",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 130,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Crest%20at%20Elm%20Tree%20Apartments&query_place_id=ChIJM4ILTEqeyIkRgsmFW1ItJHs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy Township",
+    "Manheim",
+    "Columbia",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "Shout out to Felix for great maintenance work. Felix did a great job on fixing my toilet issue. Very professional and was done in a timely manner. Thank you Gary",
+      "author": "Garry M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

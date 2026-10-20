@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "peters-septic-peach-bottom",
+  "company": "Peter's Septic Tank Pumping",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Peach Bottom",
+  "state": "PA",
+  "phone": "+17177861454",
+  "phone_display": "(717) 786-1454",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Peter's%20Septic%20Tank%20Pumping&query_place_id=ChIJcTGGnqHMx4kRXIIvB8oWSeI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Nottingham",
+    "Holtwood",
+    "Quarryville",
+    "Kirkwood",
+    "New Providence",
+    "Pequea"
+  ],
+  "reviews": [],
+  "gallery": []
+}

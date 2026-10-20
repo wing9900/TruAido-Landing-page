@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "windshield-world-manheim",
+  "company": "Windshield World",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176656244",
+  "phone_display": "(717) 665-6244",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 27,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Windshield%20World&query_place_id=ChIJL4SQ-kAfxokR9THZYeDjS5g",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Lititz",
+    "Lancaster",
+    "Mount Joy"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent experience from the friendly first phone call to a perfect installation just two days later. Special shout out to Mike, my very professional service technician who worked in frigid weather. Highly recommend Windshield World!",
+      "author": "Teri G.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "They were professional, honest, and thorough. I would highly recommend them to others.",
+      "author": "Don R.",
+      "stars": 5,
+      "month": "September 2024"
+    },
+    {
+      "text": "What a blessing! I\u2019m not sure where to begin. Christy was so helpful & had me scheduled promptly, for a next day home visit/replacement. Out of ignorance & not wanting to wait, I shopped around hoping to get the windshield replaced immediately.",
+      "author": "Kristine S.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406126/truaido-previews/windshield-world-manheim/work1"
+  ]
+}

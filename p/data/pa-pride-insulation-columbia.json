@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "pa-pride-insulation-columbia",
+  "company": "P A Pride Insulation",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17179024328",
+  "phone_display": "(717) 902-4328",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=P%20A%20Pride%20Insulation&query_place_id=ChIJ88GlWv2cyIkRwMAoQBYyYIs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Mount Joy",
+    "Marietta",
+    "Washington Boro",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

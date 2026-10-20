@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "iron-valley-hvac-lititz",
+  "company": "Iron Valley HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17173303646",
+  "phone_display": "(717) 330-3646",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 20,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Iron%20Valley%20HVAC&query_place_id=ChIJkUa6BRMVBY0R0VRfy3zrn0w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Brownstown",
+    "Lancaster",
+    "Manheim",
+    "Akron",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Matthew was on everything! Not only did he come out to the house immediately he double checked everything and explained everything very well to both me and my fiance! Very knowledgeable and definitely will reach out to you again!",
+      "author": "Katelyn M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Matthew was a pleasure to work with. Came out immediately and gave me a great price. Will continue to use Iron Valley HVAC for future projects and would recommend them to anyone in the area!",
+      "author": "Noah B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Awesome company! Just had them convert our furnace from heating oil to propane. The project went extremely smoothly. They went above and beyond for us. Great communication, Competitive pricing, and quality is top notch!",
+      "author": "Gordon M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405634/truaido-previews/iron-valley-hvac-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405635/truaido-previews/iron-valley-hvac-lititz/work2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "highland-tank-manheim",
+  "company": "Highland Tank & Manufacturing Company",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176640600",
+  "phone_display": "(717) 664-0600",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Highland%20Tank%20%26%20Manufacturing%20Company&query_place_id=ChIJpVyqG00exokRTb0rNYMuZqQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406134/truaido-previews/highland-tank-manheim/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#007053",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "Mount Joy Township",
+    "Mount Joy",
+    "Lititz",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Great tank manufacturer. Personnel are great to work with and tgey build quality products.",
+      "author": "JM W.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

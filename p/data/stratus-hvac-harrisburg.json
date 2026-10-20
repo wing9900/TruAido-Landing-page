@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "stratus-hvac-harrisburg",
+  "company": "Stratus HVAC Repair Harrisburg",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12233697171",
+  "phone_display": "(223) 369-7171",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stratus%20HVAC%20Repair%20Harrisburg&query_place_id=ChIJhUHIEgDByIkR3zBVEcS8-lU",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407046/truaido-previews/stratus-hvac-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Steelton",
+    "Camp Hill",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "The installation crew did a careful job replacing our heating equipment. They reviewed the new controls, answered our questions, and made sure the area was left clean.",
+      "author": "Ricky L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Extremely pleased with the HVAC service. The technician was professional, courteous, and knowledgeable, providing clear explanations and ensuring the equipment operated correctly after repairs were completed.",
+      "author": "Tirza L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent HVAC workmanship and customer support. The technician was punctual, knowledgeable, and respectful, completing the service efficiently and explaining the results clearly.",
+      "author": "Pallavi M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407047/truaido-previews/stratus-hvac-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407048/truaido-previews/stratus-hvac-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407048/truaido-previews/stratus-hvac-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407049/truaido-previews/stratus-hvac-harrisburg/work4"
+  ]
+}

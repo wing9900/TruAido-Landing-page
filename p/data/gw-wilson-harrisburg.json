@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "gw-wilson-harrisburg",
+  "company": "Gw Wilson Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175410687",
+  "phone_display": "(717) 541-0687",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gw%20Wilson%20Inc&query_place_id=ChIJvz0WiGy5yIkRpKXzvqfBVPA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Hershey",
+    "Steelton",
+    "Highspire",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "Del and Harry have been helping us remodel our home one room at a time for the past 15 years. We have always been extremely happy with everything they have done for us.",
+      "author": "Marya D.",
+      "stars": 5,
+      "month": "March 2021"
+    },
+    {
+      "text": "Family owned and operated! Always on time and willing to help.",
+      "author": "Taylor D.",
+      "stars": 5,
+      "month": "September 2019"
+    }
+  ],
+  "gallery": []
+}

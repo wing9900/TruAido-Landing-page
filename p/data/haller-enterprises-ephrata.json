@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "haller-enterprises-ephrata",
+  "company": "Haller Enterprises Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+18885650546",
+  "phone_display": "(888) 565-0546",
+  "has_website": true,
+  "rating": 2.3,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Haller%20Enterprises%20Inc&query_place_id=ChIJX37peJ0WxokRnQLkSaauUHQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405688/truaido-previews/haller-enterprises-ephrata/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#062B48",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Lititz",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Regular folk extremely busy never unable to help someone who is in need. They have rescued me more than once. Talk with thwm",
+      "author": "Roy T.",
+      "stars": 5,
+      "month": "October 2021"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "pestcor-columbia",
+  "company": "Pestcor Inc.",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17178033300",
+  "phone_display": "(717) 803-3300",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pestcor%20Inc.&query_place_id=ChIJu8wFLB87xokR1GmQJtuhpbM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "Pestcor is the best! Great field technicians that take their time and explain everything that they are doing. They are very conscientious about their work as well. The customer support is equally as helpful and super responsive. I highly recommend.",
+      "author": "Doug K.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I\u2019ve been a customer for many years now. Today I met my new tech Lathen for the first time and I have to say he exceeded my expectations. He was so friendly, easy to talk to, very full of knowledge. Took time to listen and answer my questions.",
+      "author": "Angelina M.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Zach is extremely professional and knowledgeable about extermination. He does a thorough , meticulous job and is always courteous . I can rest easy knowing I won\u2019t be seeing any insects or rodents in or near my home.",
+      "author": "Lil M.",
+      "stars": 5,
+      "month": "April 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406697/truaido-previews/pestcor-columbia/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406698/truaido-previews/pestcor-columbia/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406698/truaido-previews/pestcor-columbia/work3"
+  ]
+}

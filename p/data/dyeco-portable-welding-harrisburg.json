@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "dyeco-portable-welding-harrisburg",
+  "company": "Dyeco Inc. - Portable Welding & Supplies",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175451882",
+  "phone_display": "(717) 545-1882",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 28,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dyeco%20Inc.%20-%20Portable%20Welding%20%26%20Supplies&query_place_id=ChIJw5aou4jHyIkRMTFY7CjPzUM",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407458/truaido-previews/dyeco-portable-welding-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Summerdale",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Enola",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Awesome customer service! They have it all.",
+      "author": "anthony M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great local company! I just needed 2 of our kitchen stools repaired but spent an hour talking to the owner. Great guy and company. Welds are perfect!",
+      "author": "Ben I.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Great custom work on a challenging and detailed project.",
+      "author": "Carl R.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407458/truaido-previews/dyeco-portable-welding-harrisburg/work1"
+  ]
+}

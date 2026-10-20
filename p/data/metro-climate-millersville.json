@@ -1,0 +1,40 @@
+{
+  "v": 1,
+  "slug": "metro-climate-millersville",
+  "company": "Metro Climate Experts",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Millersville",
+  "state": "PA",
+  "phone": "+17175552241",
+  "phone_display": "(717) 555-2241",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Metro%20Climate%20Experts&query_place_id=ChIJld7iwrQlxokRKrOUlRJqK5M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Lancaster",
+    "Conestoga",
+    "East Petersburg",
+    "Willow Street"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406709/truaido-previews/metro-climate-millersville/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406710/truaido-previews/metro-climate-millersville/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406711/truaido-previews/metro-climate-millersville/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406711/truaido-previews/metro-climate-millersville/work4"
+  ]
+}

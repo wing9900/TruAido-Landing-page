@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "rhoads-energy-lancaster",
+  "company": "Rhoads Energy Corporation",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173975277",
+  "phone_display": "(717) 397-5277",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 280,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rhoads%20Energy%20Corporation&query_place_id=ChIJD95gqvwkxokRqfTpsn7N3E4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Conestoga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Bryan came to my home to inspect my oil tank. He explained everything very thoroughly.",
+      "author": "D",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We recently had a new boiler installed and we were very happy with the quality of service provided by the Sale consultant (Tim), and the installation technicians (Scott and Bryce). Thanks to all of you!",
+      "author": "Marc T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great employees doing great work. Very friendly, honest, and knowledgeable.",
+      "author": "Mark C.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

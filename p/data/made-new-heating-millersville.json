@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "made-new-heating-millersville",
+  "company": "Made New Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Millersville",
+  "state": "PA",
+  "phone": "+17178262542",
+  "phone_display": "(717) 826-2542",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Made%20New%20Heating%20%26%20Cooling&query_place_id=ChIJFyBThxxitCYRAVrIDAvH374",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Washington Boro",
+    "Conestoga",
+    "Mountville",
+    "Lancaster",
+    "Willow Street",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "TOP NOTCH SERVICE, GREAT PRICING. VERY CLEAN WORK , IN AND OUT IN A TIMELY MANNER. WE WERE ALSO ABLE TO SECURE ONE YEAR SAME AS CASH FINANCING AND A TAX DEDUCTION FOR THE FUJITSU SYSTEM THAT MEL RECOMMENDED AND INSTALLED. WILL RECOMMEND TO FRIENDS AND FAMILY.",
+      "author": "Mig H.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Highly recommend Mel and his team. Mel came out three times to go over ideas to install a few mini splits for us as I was unsure about the first plan.",
+      "author": "Janet W.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Mel did a spectacular job on installing a new unit at our house. His attention to detail and pride in his work, sets him above other contractors that have done work for us. He cares about resolving you heating and cooling needs.",
+      "author": "Skid S.",
+      "stars": 5,
+      "month": "February 2024"
+    }
+  ],
+  "gallery": []
+}

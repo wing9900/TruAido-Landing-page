@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "home-comfort-hvac-lancaster",
+  "company": "Home Comfort HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+14847580330",
+  "phone_display": "(484) 758-0330",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Home%20Comfort%20HVAC&query_place_id=ChIJSai_kltMxokRmvRCNcsYBx0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Paradise",
+    "Ronks",
+    "Christiana",
+    "Strasburg",
+    "Gordonville",
+    "Gap"
+  ],
+  "reviews": [],
+  "gallery": []
+}

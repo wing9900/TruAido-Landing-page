@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "kirchners-pest-mountville",
+  "company": "Kirchner's Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Mountville",
+  "state": "PA",
+  "phone": "+17172976960",
+  "phone_display": "(717) 297-6960",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 159,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kirchner's%20Pest%20Control&query_place_id=ChIJ8xe0-AAnxokRWMrfQcE-nMo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Washington Boro",
+    "Millersville",
+    "Columbia",
+    "Landisville",
+    "Salunga",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "We noticed a wasp nest 2 weeks ago. We tried to get rid of them with absolutely no luck. Yesterday entered my garage filled with yellowjackets. After trying a different company, we found Kirchner's. And I am super glad I did.",
+      "author": "Dottie R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Fantastic company with fantastic technicians. Always do what they say they\u2019re gonna do.",
+      "author": "Kirk B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "We have been using Kirchner's for 28 years across multiple restaurants, residential properties, and apartment buildings. Their service, attention to detail, and customer care have always been outstanding.",
+      "author": "Tony L.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "cumberland-valley-tree-carlisle",
+  "company": "Cumberland Valley Tree Service - Landscaping",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172638657",
+  "phone_display": "(717) 263-8657",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 91,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cumberland%20Valley%20Tree%20Service%20-%20Landscaping&query_place_id=ChIJWQCwZ8_hyIkRyBBCryO_lqk",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407787/truaido-previews/cumberland-valley-tree-carlisle/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407792/truaido-previews/cumberland-valley-tree-carlisle/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#6B730D",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "We have used CVTS for years and are always pleased with the results . Had tree service done again on 10/7/26 and they did a great job, even trimmed bushes not part of the quote. Great job thank you",
+      "author": "Dan S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great service and excellent personnel from start to finish. Definitely will hire them again for my tree trimming needs. 5 star!!!",
+      "author": "Rick K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They took down an old crabapple tree and cut it into sections at a very affordable price",
+      "author": "Jeffrey S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407788/truaido-previews/cumberland-valley-tree-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407790/truaido-previews/cumberland-valley-tree-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407790/truaido-previews/cumberland-valley-tree-carlisle/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407791/truaido-previews/cumberland-valley-tree-carlisle/work4"
+  ]
+}

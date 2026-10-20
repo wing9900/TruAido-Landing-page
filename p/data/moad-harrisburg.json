@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "moad-harrisburg",
+  "company": "Moad Services Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175459387",
+  "phone_display": "(717) 545-9387",
+  "has_website": true,
+  "rating": 1.9,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Moad%20Services%20Inc&query_place_id=ChIJUQpPad65yIkRA2JFJy1PMLQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Grantville",
+    "Hummelstown",
+    "Hershey",
+    "Steelton",
+    "Dauphin"
+  ],
+  "reviews": [
+    {
+      "text": "We were working with this company for several years and have no complaints. It looks like they are a family owned business, pleasant people and highly professional. They are quick to respond, leave messages with updates, and their work in decent.",
+      "author": "Irina E.",
+      "stars": 5,
+      "month": "August 2019"
+    }
+  ],
+  "gallery": []
+}

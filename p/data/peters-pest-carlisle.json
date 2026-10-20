@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "peters-pest-carlisle",
+  "company": "Peters Pest Control LLC",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172260832",
+  "phone_display": "(717) 226-0832",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 33,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Peters%20Pest%20Control%20LLC&query_place_id=ChIJERkeyNoeyYkRLM1oRY1Dkbc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407717/truaido-previews/peters-pest-carlisle/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#4E7534",
+  "nearby_towns": [
+    "Newville",
+    "Boiling Springs",
+    "Gardners",
+    "Walnut Bottom",
+    "Mechanicsburg",
+    "Dillsburg"
+  ],
+  "reviews": [
+    {
+      "text": "I would give 10 stars if I could. I have used this company at all 3 of the properties I have owned over the years. They are always kind, reliable, and knowledgeable. Their prices are reasonable and they do great work!",
+      "author": "Marissa S.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Excellent service! Great communication and friendly. Easy and quick scheduling.",
+      "author": "Jenna",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Peter\u2019s communication was terrific and their scheduling was perfect! I really appreciate the fantastic customer service and the technician was kind and thorough! Will definitely be using their service next year!",
+      "author": "Robin W.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": []
+}

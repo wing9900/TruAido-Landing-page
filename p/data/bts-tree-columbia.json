@@ -1,0 +1,47 @@
+{
+  "v": 1,
+  "slug": "bts-tree-columbia",
+  "company": "BTS Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17178750874",
+  "phone_display": "(717) 875-0874",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 101,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=BTS%20Tree%20Services&query_place_id=ChIJfbZh-ESGN0wR9x2RicsgJ-M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406415/truaido-previews/bts-tree-columbia/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#B84A00",
+  "nearby_towns": [
+    "Mountville",
+    "Washington Boro",
+    "Salunga",
+    "Mount Joy",
+    "Landisville",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "BTS did a fantastic job! We had three trees removed from a hillside. All trees were removed without issue, and the crew cleaned up the area perfectly. You\u2019d never know they were here!",
+      "author": "Tyler D.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406411/truaido-previews/bts-tree-columbia/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406413/truaido-previews/bts-tree-columbia/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406414/truaido-previews/bts-tree-columbia/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406415/truaido-previews/bts-tree-columbia/work4"
+  ]
+}

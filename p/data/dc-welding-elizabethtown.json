@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "dc-welding-elizabethtown",
+  "company": "DC Welding, Inc.",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173619400",
+  "phone_display": "(717) 361-9400",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=DC%20Welding%2C%20Inc.&query_place_id=ChIJZaZvVFCfyIkRXZisO4By8dQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406407/truaido-previews/dc-welding-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#004287",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Mount Joy",
+    "Marietta",
+    "Salunga",
+    "Manheim",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are 100% professional...they handle all my my fabrication needs.",
+      "author": "David G.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "These guys knock it out of the park every time fixing our rusty dump truck to welding stairs back together for us good work, very fair prices",
+      "author": "David C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "needed a piece of 1/8 steel plate, I stopped in and they cut it for me right away at a very fair price!",
+      "author": "Peter H.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406406/truaido-previews/dc-welding-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406406/truaido-previews/dc-welding-elizabethtown/work2"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "mt-treaster-air-lemoyne",
+  "company": "M T Treaster Air Vent Pro",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17175252665",
+  "phone_display": "(717) 525-2665",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=M%20T%20Treaster%20Air%20Vent%20Pro&query_place_id=ChIJd40MBF_ByIkRC1iu4Qtya0M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Cumberland",
+    "Camp Hill",
+    "Steelton",
+    "East Pennsboro Township",
+    "Shiremanstown",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "We had a great experience with M.T. Treaster. Mike and his son came out to clean our exterior dryer vent outlets and were polite, prompt, and thorough from start to finish.",
+      "author": "Ishan S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "One of the greatest HVAC companies that\u2019s I\u2019ve dealt with. Highly recommend!",
+      "author": "MzLynnD",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "I was referred to Mike by family. Mike, his son, John and everyone else are responsible , respectful, caring of their customers and caring that they have done the best for your family or business in the most transparent and cost effective way.",
+      "author": "Rick H.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408335/truaido-previews/mt-treaster-air-lemoyne/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408336/truaido-previews/mt-treaster-air-lemoyne/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408337/truaido-previews/mt-treaster-air-lemoyne/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408338/truaido-previews/mt-treaster-air-lemoyne/work4"
+  ]
+}

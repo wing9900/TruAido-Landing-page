@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "tree-wise-guys-lititz",
+  "company": "Tree Wise Guys LLC.",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176011501",
+  "phone_display": "(717) 601-1501",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 59,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tree%20Wise%20Guys%20LLC.&query_place_id=ChIJRT9suxO5x4kRy-H-u6ScRYQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "Akron",
+    "Brownstown",
+    "Ephrata",
+    "East Petersburg",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Several large branches fell in my yard as a result of storms on 7/4 and 7/5. Tree Wise Guys arrived at my home early morning on 7/9 and quickly/efficiently cleaned everything up.",
+      "author": "Sandy M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Highly recommend this company for efficiency and very fair pricing.They were extremely efficient in removing large branches that had broken off a willow tree at the end of our backyard in a difficult location.",
+      "author": "Kathy R.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "Wow! Took out a huge copper beech in 4 hours! These guys know what they are doing! Left the site looking good! Great service & price! Highly recommended!",
+      "author": "Susan S.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406045/truaido-previews/tree-wise-guys-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406046/truaido-previews/tree-wise-guys-lititz/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406047/truaido-previews/tree-wise-guys-lititz/work3"
+  ]
+}

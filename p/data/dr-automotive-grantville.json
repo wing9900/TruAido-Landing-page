@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dr-automotive-grantville",
+  "company": "DR Automotive",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Grantville",
+  "state": "PA",
+  "phone": "+17172160644",
+  "phone_display": "(717) 216-0644",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 441,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=DR%20Automotive&query_place_id=ChIJA1iVr2-wyIkRin131944qvQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hummelstown",
+    "Hershey",
+    "Lower Paxton Township",
+    "Harrisburg",
+    "Elizabethtown",
+    "Middletown"
+  ],
+  "reviews": [
+    {
+      "text": "Honest auto repair shop. I brought my car in and described my concerns. After details evaluation they didn't find anything wrong with my chief concern. It is an 2015 year model with 90k miles on it.",
+      "author": "Duanping L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I can't say enough about DR Automotive! Their customer service is phenomenal!! They work with you and truly care about their customers! Whether you need a small repair or major overhaul, check them out!",
+      "author": "Kathy M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "So an interesting story for me - my car broke down while heading to Hershey Park for a family vacation. It was towed to DR, and they determined it was a bad transmission, so it would be a total loss.",
+      "author": "Eric R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

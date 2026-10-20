@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hummelstown-hvac-hershey",
+  "company": "Hummelstown HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hershey",
+  "state": "PA",
+  "phone": "+17175341903",
+  "phone_display": "(717) 534-1903",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hummelstown%20HVAC&query_place_id=ChIJs3EFWmujyIkR_fSjhaXqOqk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Hummelstown",
+    "Middletown",
+    "Grantville",
+    "Highspire",
+    "Lower Paxton Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

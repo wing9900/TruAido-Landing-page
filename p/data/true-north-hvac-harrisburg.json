@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "true-north-hvac-harrisburg",
+  "company": "True-North HVAC Repair Systems",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174275562",
+  "phone_display": "(717) 427-5562",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=True-North%20HVAC%20Repair%20Systems&query_place_id=ChIJxfKpTJK5yIkRB5eDB61RuqA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Hummelstown",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "I was initially concerned about the coordination required with building management, but the vent cleaning for our A/C system went smoothly. The technicians were thorough and respectful of our home, addressing any questions I had during the process.",
+      "author": "EVELYN G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Before the maintenance visit, my A/C unit was making unusual noises, and I wanted to ensure it would run smoothly during the upcoming months.",
+      "author": "DEXTER R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "This visit was noticeably more thorough than the last, as the technician took extra time to explain how to maintain the heating system between services. The difference in attention to detail left me feeling better informed about my home's heating needs.",
+      "author": "JAILA D.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

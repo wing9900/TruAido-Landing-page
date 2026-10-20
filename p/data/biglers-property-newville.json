@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "biglers-property-newville",
+  "company": "Bigler's Property Maintenance",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17173863359",
+  "phone_display": "(717) 386-3359",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bigler's%20Property%20Maintenance&query_place_id=ChIJd5dYYjsRyYkR-AxuFeRpNOE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408195/truaido-previews/biglers-property-newville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Shippensburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "This gentleman takes customer satisfaction to a higher level.",
+      "author": "D R.",
+      "stars": 5,
+      "month": "June 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408193/truaido-previews/biglers-property-newville/work1"
+  ]
+}

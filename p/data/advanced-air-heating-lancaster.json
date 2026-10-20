@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "advanced-air-heating-lancaster",
+  "company": "Advanced Air Heating & Cooling LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173145951",
+  "phone_display": "(717) 314-5951",
+  "has_website": true,
+  "rating": 3.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Advanced%20Air%20Heating%20%26%20Cooling%20LLC&query_place_id=ChIJ5Qb4_es6xokREp3iMCjI1P0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406574/truaido-previews/advanced-air-heating-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#C25114",
+  "nearby_towns": [
+    "Willow Street",
+    "Strasburg",
+    "Ronks",
+    "Millersville",
+    "New Providence",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Hans is the best. He took my call about A system he put in a house I purchased and even took the time to work through issues I was having on a weekend evening. Then called me back just as a follow through. Superb!",
+      "author": "Scott S.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": []
+}

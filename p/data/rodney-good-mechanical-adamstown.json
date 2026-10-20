@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "rodney-good-mechanical-adamstown",
+  "company": "Rodney J Good Mechanical Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Adamstown",
+  "state": "PA",
+  "phone": "+17174841660",
+  "phone_display": "(717) 484-1660",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 36,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rodney%20J%20Good%20Mechanical%20Heating&query_place_id=ChIJ59VJjxBtxokRc5AIpbzYmNI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405796/truaido-previews/rodney-good-mechanical-adamstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#073A7C",
+  "nearby_towns": [
+    "Denver",
+    "Reinholds",
+    "Stevens",
+    "Narvon",
+    "Robesonia",
+    "East Earl"
+  ],
+  "reviews": [
+    {
+      "text": "A big shout-out to Tom and everyone at Good\u2019s Mechanical. My father is home on hospice, and his air conditioning stopped cooling. Tom came out, quickly diagnosed the problem, and explained that the parts would normally take a few days to get.",
+      "author": "Mike H.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Had central air put in my 70 y/o brick home. We could not be happier! The crew was professional, courteous, efficient and extremely neat!! I wish I could give them more than a 5 star. I highly recommend this company!!",
+      "author": "Dixie S.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I have used them for twenty years and cannot say enough good comments. Always dependable and respectful. Rodney fought with my insurance company and won my settlement",
+      "author": "Janice J.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405788/truaido-previews/rodney-good-mechanical-adamstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405789/truaido-previews/rodney-good-mechanical-adamstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405790/truaido-previews/rodney-good-mechanical-adamstown/work3"
+  ]
+}

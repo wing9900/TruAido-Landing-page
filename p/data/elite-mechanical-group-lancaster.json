@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "elite-mechanical-group-lancaster",
+  "company": "Elite Mechanical Group",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173997576",
+  "phone_display": "(717) 399-7576",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20Mechanical%20Group&query_place_id=ChIJJ6PM9bMjxokRqWFozzEcdNA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406521/truaido-previews/elite-mechanical-group-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#A66800",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Salunga",
+    "Mountville",
+    "Millersville",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent on time and very reasonably priced. My new go to guys",
+      "author": "Michele S.",
+      "stars": 5,
+      "month": "December 2023"
+    },
+    {
+      "text": "Tony and Elite Mechanical are one of the best HVAC and Electrical contractors in the Lancaster Area. They reacted almost immediately and replaced my entire Air conditioning system during the hottest months of the summer.",
+      "author": "Sammy B.",
+      "stars": 5,
+      "month": "October 2023"
+    },
+    {
+      "text": "Elite Mechanical is my go to contractor for all Electrical and HVAC work. New construction or existing residential work, call Elite for the best pricing and workmanship!",
+      "author": "Andrew F.",
+      "stars": 5,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406521/truaido-previews/elite-mechanical-group-lancaster/work1"
+  ]
+}

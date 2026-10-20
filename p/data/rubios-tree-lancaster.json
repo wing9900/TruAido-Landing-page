@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "rubios-tree-lancaster",
+  "company": "Rubio's Tree Services & Landscaping",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174593281",
+  "phone_display": "(717) 459-3281",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 199,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rubio's%20Tree%20Services%20%26%20Landscaping&query_place_id=ChIJ4fxWgS4hxokRQCulIRJgus4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Mountville",
+    "Columbia",
+    "Mount Joy"
+  ],
+  "reviews": [
+    {
+      "text": "excellent work! reasonable pricing. We had absolutely no issues with how the stump was removed. Looks like there was never a tree there. Highly recommend",
+      "author": "Maryann E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Rubios is by far the best in the area and very reasonably priced. When I bought the house, I knew I was taking on a huge project and Rubio\u2019s was there every step of the way to help guide me through it.",
+      "author": "Eileen B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "If you need any kind of tree work done, I recommend calling Rubio\u2019s Tree Service! They have removed and trimmed up several trees for me and grinded a couple of stumps as well. They have responded very quickly when a couple of trees have fallen from storms.",
+      "author": "Andrew J.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

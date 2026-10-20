@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "sublime-heating-harrisburg",
+  "company": "Sublime Heating, Cooling & Plumbing",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178231831",
+  "phone_display": "(717) 823-1831",
+  "has_website": false,
+  "rating": 3.6,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sublime%20Heating%2C%20Cooling%20%26%20Plumbing&query_place_id=ChIJS4F2P7-ZyIkRxXvI2fv2iZk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Hummelstown",
+    "Grantville",
+    "Elizabethtown",
+    "Middletown",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Kent showed up on time, took care of my regular HVAC Maintenance and found a problem in my ductwork. He took pictures and showed me throughout what he was doing and we talked through my options.",
+      "author": "Jennifer J.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Within the past 3 months I had a new HVAC system and water heater installed. Sublime was very prompt and professional with the installations. I would recomend Sublime for all of your HVAC and plumbing needs.",
+      "author": "Tommy L.",
+      "stars": 5,
+      "month": "August 2020"
+    },
+    {
+      "text": "Kent Brinser was very efficient and worked very well. Good price and cleaned up well. Was very informative also.",
+      "author": "Paula G.",
+      "stars": 5,
+      "month": "July 2020"
+    }
+  ],
+  "gallery": []
+}

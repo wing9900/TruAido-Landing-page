@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "west-point-air-harrisburg",
+  "company": "West Point Air Conditioning Partners",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176947628",
+  "phone_display": "(717) 694-7628",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=West%20Point%20Air%20Conditioning%20Partners&query_place_id=ChIJUWZnelrByIkRM60pTSCzJFo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Steelton",
+    "Lower Paxton Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Before the installation, our old air conditioning unit struggled to keep our home cool, especially during the warmer months. The new AC was installed efficiently, and now our house maintains a comfortable temperature throughout the day.",
+      "author": "NEIL S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "\ud83d\udc4cI anticipated a straightforward process, and coordinating with building management was smoother than expected, allowing the AC maintenance to proceed efficiently.",
+      "author": "Kevon P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Expecting a straightforward vent cleaning, I was relieved to have the work done efficiently without any surprise issues.\ud83d\udc4c",
+      "author": "Donna F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

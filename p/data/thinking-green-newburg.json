@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "thinking-green-newburg",
+  "company": "Thinking Green Insulators",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Newburg",
+  "state": "PA",
+  "phone": "+17174140697",
+  "phone_display": "(717) 414-0697",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thinking%20Green%20Insulators&query_place_id=ChIJSxJv2egSyYkRWl4XCi2-Fog",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shippensburg",
+    "Newville",
+    "Walnut Bottom",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [],
+  "gallery": []
+}

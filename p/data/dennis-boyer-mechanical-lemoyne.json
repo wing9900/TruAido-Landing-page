@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "dennis-boyer-mechanical-lemoyne",
+  "company": "Dennis L Boyer Mechanical Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17177612960",
+  "phone_display": "(717) 761-2960",
+  "has_website": false,
+  "rating": 3.3,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dennis%20L%20Boyer%20Mechanical%20Services&query_place_id=ChIJMyTRdpTByIkRmdqQbgWG4BE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Camp Hill",
+    "New Cumberland",
+    "Shiremanstown",
+    "Steelton",
+    "East Pennsboro Township",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

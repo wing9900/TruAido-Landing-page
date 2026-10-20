@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "heattime-lancaster",
+  "company": "Heattime LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+16108235214",
+  "phone_display": "(610) 823-5214",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Heattime%20LLC&query_place_id=ChIJu0N5qNhwxokR7WSfx9sZgIk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Adamstown",
+    "Denver",
+    "Narvon",
+    "East Earl",
+    "Stevens",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Outstanding Expertise and Professionalism From the moment I contacted Heat Time, I was impressed by their customer service. The scheduling process was seamless, and I appreciated how quickly they were able to accommodate my request for an HVAC inspection.",
+      "author": "carlos A.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "S\u00faper responsable econ\u00f3mico ning\u00fan tipo de queja",
+      "author": "John G.",
+      "stars": 5,
+      "month": "January 2021"
+    },
+    {
+      "text": "Muy satisfecha con su trabajo. Y muy profecional",
+      "author": "Digna C.",
+      "stars": 5,
+      "month": "June 2019"
+    }
+  ],
+  "gallery": []
+}

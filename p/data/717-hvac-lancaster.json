@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "717-hvac-lancaster",
+  "company": "717 HVAC Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172059015",
+  "phone_display": "(717) 205-9015",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=717%20HVAC%20Services&query_place_id=ChIJKTRFrF6fyIkR7D3OVm8F120",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy",
+    "Mount Joy Township",
+    "Marietta",
+    "Elizabethtown",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Great service and easy to work with. Will definitely recommend.",
+      "author": "Laura F.",
+      "stars": 5,
+      "month": "March 2020"
+    }
+  ],
+  "gallery": []
+}

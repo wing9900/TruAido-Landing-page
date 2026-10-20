@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "blue-valley-heating-harrisburg",
+  "company": "Blue Valley Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178077615",
+  "phone_display": "(717) 807-7615",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 73,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Blue%20Valley%20Heating%20%26%20Cooling&query_place_id=ChIJs4TMXbvByIkREq6uhHct8zA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Lemoyne",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Alex and Ethan were on time, & communicated what what service we needed for our heating to be efficient! We are ready for winter. \u2744\ufe0f",
+      "author": "Peggy T.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Alex and Ethan were very approachable and professional. They did a very thorough service on our system.",
+      "author": "Glenn F.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Exceptional customer service! Owner is a great guy!",
+      "author": "Emily V.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407382/truaido-previews/blue-valley-heating-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407383/truaido-previews/blue-valley-heating-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407383/truaido-previews/blue-valley-heating-harrisburg/work3"
+  ]
+}

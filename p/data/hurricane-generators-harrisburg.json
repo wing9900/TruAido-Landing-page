@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hurricane-generators-harrisburg",
+  "company": "Hurricane Generators",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172122383",
+  "phone_display": "(717) 212-2383",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 32,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hurricane%20Generators&query_place_id=ChIJUz0MMjq5yIkROcgINxVsWNg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "Grantville",
+    "East Pennsboro Township",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Emma the technician came to repair an oil leak on our generator. She answered all questions and had the repair done in less than an hour. Will definitely use Hurricane in the future!",
+      "author": "Robbi A.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Today\u2019s experience was exceptionally good. Actually came earlier than expected after calling ahead to verify it was ok.very professional yet very friendly. I would recommend Hurricane Generators to anyone looking for routine maintenance or repair.",
+      "author": "Jeffrey P.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Hurricane generators was the best company we found. They were the most professional. They explained everything. They got back to us with the quote extremely quickly and they were very competitive.",
+      "author": "Matt C.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

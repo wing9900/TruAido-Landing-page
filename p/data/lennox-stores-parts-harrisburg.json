@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "lennox-stores-parts-harrisburg",
+  "company": "Lennox Stores (Parts Plus)",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177988685",
+  "phone_display": "(717) 798-8685",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lennox%20Stores%20(Parts%20Plus)&query_place_id=ChIJhxHEAzS_yIkRxeBn63HW3rA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407180/truaido-previews/lennox-stores-parts-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#C70A46",
+  "nearby_towns": [
+    "Hummelstown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Middletown",
+    "Steelton",
+    "Hershey"
+  ],
+  "reviews": [
+    {
+      "text": "Quick and knowledgeable staff and always ready to help",
+      "author": "Jeffrey K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Courtney and Allen have never let us down! They are always helpful In finding parts and their turn around times on quotes are fantastic. Couldn\u2019t ask for a better supplier!",
+      "author": "Devin M.",
+      "stars": 5,
+      "month": "October 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407179/truaido-previews/lennox-stores-parts-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407179/truaido-previews/lennox-stores-parts-harrisburg/work2"
+  ]
+}

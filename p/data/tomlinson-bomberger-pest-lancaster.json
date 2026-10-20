@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "tomlinson-bomberger-pest-lancaster",
+  "company": "Tomlinson Bomberger Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173991991",
+  "phone_display": "(717) 399-1991",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 68,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tomlinson%20Bomberger%20Pest%20Control&query_place_id=ChIJ7S1k0pAhxokRE1s6BLPHOWU",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406490/truaido-previews/tomlinson-bomberger-pest-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Mountville",
+    "Manheim",
+    "Mount Joy"
+  ],
+  "reviews": [
+    {
+      "text": "We continue to be happy with our service! T.J. Is very knowledgeable and always has the answers to any questions we may have. He is always pleasant and personable and provides great customer service!",
+      "author": "Donna V.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "TJ Grams just serviced our house and has now for some time. He is always courteous and professional answering any questions we\u2019ve had. It\u2019s feels good to have a tech who is as friendly and trustworthy as TJ.",
+      "author": "Wes G.",
+      "stars": 5,
+      "month": "November 2023"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406492/truaido-previews/tomlinson-bomberger-pest-lancaster/work1"
+  ]
+}

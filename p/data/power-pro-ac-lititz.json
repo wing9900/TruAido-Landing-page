@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "power-pro-ac-lititz",
+  "company": "Power-Pro AC Repair Service",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17174275549",
+  "phone_display": "(717) 427-5549",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Power-Pro%20AC%20Repair%20Service&query_place_id=ChIJZ5O_CQoZxokRsXCrpaZ8GTQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "East Petersburg",
+    "Manheim",
+    "Akron",
+    "Lancaster",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "After having a disappointing experience with another contractor, I was relieved when this repair visit addressed the HVAC issue efficiently. The technician explained everything clearly and completed the work in a timely manner.\ud83d\udc4d",
+      "author": "Katelyn V.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The quote provided was fair, and the technician completed the thermostat installation efficiently. Comparing it to previous visits from other services, this was a straightforward experience with clear communication throughout.",
+      "author": "STEPHANIE C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Ceiling vents improved air flow significantly.",
+      "author": "YESICA F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

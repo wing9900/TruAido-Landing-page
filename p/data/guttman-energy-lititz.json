@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "guttman-energy-lititz",
+  "company": "Guttman Energy Lititz",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176267169",
+  "phone_display": "(717) 626-7169",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 91,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Guttman%20Energy%20Lititz&query_place_id=ChIJr4BgzBwXxokRjGP-NbW6Gf8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405675/truaido-previews/guttman-energy-lititz/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#226192",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Ephrata",
+    "Leola",
+    "Stevens",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Zach did an excellent job. He was friendly, professional, and courteous. He did his work efficiently and explained everything he did.",
+      "author": "Violet W.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "My furnace had it's annual maintenance performed by Zach today. He was very respectful and left me feeling confident in Guttman taking over for Weavers... THANK YOU ZACH!",
+      "author": "Marlaina R.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Great service - explained all the work with pictures and video that demonstrated clearly what was needed and why. Thanks Zach",
+      "author": "Greg K.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

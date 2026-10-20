@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "big-crack-autoglass-manheim",
+  "company": "Big Crack Autoglass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17179519906",
+  "phone_display": "(717) 951-9906",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 173,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Big%20Crack%20Autoglass&query_place_id=ChIJwd6WAKmZyIkRwU8x8WWPDbo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406119/truaido-previews/big-crack-autoglass-manheim/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#0575A9",
+  "nearby_towns": [
+    "Lititz",
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "Shannon was extremely friendly and knowledgeable. I really appreciated him taking the time to talk to me while my windshield was being replaced. It was installed perfectly and in less time then expected.",
+      "author": "Elliot P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "\u2b50\u2b50\u2b50\u2b50\u2b50 I had a great experience with Big Crack Auto Glass from start to finish! Chad was extremely helpful and informative, and he was able to get my car scheduled right away for a new windshield. He made the whole process easy and convenient.",
+      "author": "Stacy",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Always top of the line with work, recommendations and especially customer relationships. A+++",
+      "author": "Timothy S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406116/truaido-previews/big-crack-autoglass-manheim/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406117/truaido-previews/big-crack-autoglass-manheim/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406117/truaido-previews/big-crack-autoglass-manheim/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406118/truaido-previews/big-crack-autoglass-manheim/work4"
+  ]
+}

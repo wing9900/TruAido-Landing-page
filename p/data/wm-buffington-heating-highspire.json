@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "wm-buffington-heating-highspire",
+  "company": "WM Buffington Heating, Cooling & Plumbing",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Highspire",
+  "state": "PA",
+  "phone": "+17176162682",
+  "phone_display": "(717) 616-2682",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 535,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=WM%20Buffington%20Heating%2C%20Cooling%20%26%20Plumbing&query_place_id=ChIJu5a7wtq_yIkR7_aWiDDMXqg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407027/truaido-previews/wm-buffington-heating-highspire/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#0072A0",
+  "nearby_towns": [
+    "Steelton",
+    "Middletown",
+    "New Cumberland",
+    "Harrisburg",
+    "Lemoyne",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Having been a customer of Buffington Heating, Cooling & Plumbing since 2014, the service received today, October 14, 2026, did nothing but continue to impress. The service, both professional and kind, goes above and beyond. Thank you, Buffington!",
+      "author": "Robert D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Technicians were very helpful with good recommendations.",
+      "author": "Douglas B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great company that responds quickly and repairs equipment with excellence.",
+      "author": "Timothy H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407025/truaido-previews/wm-buffington-heating-highspire/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407026/truaido-previews/wm-buffington-heating-highspire/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407026/truaido-previews/wm-buffington-heating-highspire/work3"
+  ]
+}

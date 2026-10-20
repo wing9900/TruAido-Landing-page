@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "jireh-welding-machining-newville",
+  "company": "Jireh Welding & Machining",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177764384",
+  "phone_display": "(717) 776-4384",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jireh%20Welding%20%26%20Machining&query_place_id=ChIJFeZVaw0RyYkRTFlybXzRrQQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Shippensburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Don't know what I'd do without Jireh welding. He always has what I need and reasonable prices!",
+      "author": "Errol H.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "very friendly, great service and prices are reasonable. Thank you for helping me out!",
+      "author": "joe C.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "Tom is a very skilled craftsman and always helpful . Tom has supplies on hand for different things but call first to see if can help you out.",
+      "author": "T M.",
+      "stars": 5,
+      "month": "June 2021"
+    }
+  ],
+  "gallery": []
+}

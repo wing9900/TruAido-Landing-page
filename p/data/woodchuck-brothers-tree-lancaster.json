@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "woodchuck-brothers-tree-lancaster",
+  "company": "Woodchuck brothers tree service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172832409",
+  "phone_display": "(717) 283-2409",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Woodchuck%20brothers%20tree%20service&query_place_id=ChIJRf1TjQdCCQIRXPU9DymWN9U",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405976/truaido-previews/woodchuck-brothers-tree-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "Mount Joy Township",
+    "Mount Joy",
+    "Salunga",
+    "Elizabethtown",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Great Service, just had them remove two trees that had fallen this week with the high winds and storms. Cleanup was perfect and great price. Very professional and courteous.",
+      "author": "Joseph W.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405977/truaido-previews/woodchuck-brothers-tree-lancaster/work1"
+  ]
+}

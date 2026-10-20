@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "infinite-hvac-quarryville",
+  "company": "Infinite HVAC Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17174158624",
+  "phone_display": "(717) 415-8624",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 105,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Infinite%20HVAC%20Services&query_place_id=ChIJaf8braoxxokRUzYF-DfSMC0",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406609/truaido-previews/infinite-hvac-quarryville/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406610/truaido-previews/infinite-hvac-quarryville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0201FD",
+  "nearby_towns": [
+    "New Providence",
+    "Paradise",
+    "Ronks",
+    "Strasburg",
+    "Holtwood",
+    "Willow Street"
+  ],
+  "reviews": [
+    {
+      "text": "My old furnace completely broke during the coldest month of winter. TJ replaced it with a new one within a few days, working late to get it running! Definitely recommend Infinite HVAC!",
+      "author": "Samuel H.",
+      "stars": 5,
+      "month": "February 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406610/truaido-previews/infinite-hvac-quarryville/work1"
+  ]
+}

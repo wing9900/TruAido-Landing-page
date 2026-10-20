@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "boro-mechanical-washington",
+  "company": "Boro Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Washington Boro",
+  "state": "PA",
+  "phone": "+17175176120",
+  "phone_display": "(717) 517-6120",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Boro%20Mechanical&query_place_id=ChIJEWNO7TWhv04RE7pTBy9qPU8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Conestoga",
+    "Mountville",
+    "Pequea",
+    "Columbia",
+    "Willow Street"
+  ],
+  "reviews": [
+    {
+      "text": "Erik did a professional job installing a new HVAC system at my residence. He was prompt and courteous and kept things clean. He answered all my questions to my satisfaction. I would use him again and again. Great job!",
+      "author": "Doug W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Boro Mechanical has been servicing and repairing my plumbing & hvac needs for years. Erik is honest, reliable and knowledgeable. I only use Boro Mechanical and highly recommend them.",
+      "author": "Debra R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent hvac contractor, very knowledge and reasonable prices. Have had Boro Mechanical help us on 3-4 homes. Very satisfied each and every time.",
+      "author": "Trey J.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406811/truaido-previews/boro-mechanical-washington/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406814/truaido-previews/boro-mechanical-washington/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406816/truaido-previews/boro-mechanical-washington/work3"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "lenk-tree-mechanicsburg",
+  "company": "Lenk Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177668201",
+  "phone_display": "(717) 766-8201",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 75,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lenk%20Tree%20Service&query_place_id=ChIJP0dViGDnyIkRGgoDXF9KJO4",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407912/truaido-previews/lenk-tree-mechanicsburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407917/truaido-previews/lenk-tree-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#531111",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "We have had no less than 45 trees removed in the last 27 years. We've used 4 different companies and I don't know why... Look No Further Than Lenk!",
+      "author": "Chris V.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "Very helpful and nice guys! They were quick and did a very good job. I definitely recommend!",
+      "author": "Maddy F.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "We were working on some stone on someone\u2019s property. One of their employees came over and started talking to us. Next thing we know they brought a tractor with a bucket over and helped us with over half of our days work in a couple minutes.",
+      "author": "Lochlain B.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407912/truaido-previews/lenk-tree-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407915/truaido-previews/lenk-tree-mechanicsburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407916/truaido-previews/lenk-tree-mechanicsburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407917/truaido-previews/lenk-tree-mechanicsburg/work4"
+  ]
+}

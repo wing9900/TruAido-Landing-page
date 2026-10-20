@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "metro-hvac-camp-hill",
+  "company": "Metro HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17178742030",
+  "phone_display": "(717) 874-2030",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 298,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Metro%20HVAC&query_place_id=ChIJsxmfCBa_vaURXgNEfKKcZE0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "Shiremanstown",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Hampden Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "I highly recommend Metro HVAC in Camp Hill, PA for all of your heating, air conditioning, water conditioning, and plumbing needs. Whether it is an emergency or routine Metro HVAC is your answer!",
+      "author": "David B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "After speaking to a neighbor about There new HVAC system installed by metro, they invited me to in to check it out for myself. After checking it out and there high recommendation of metro, I had metro install the same unit in my condo.",
+      "author": "John C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "It's the Monday after Christmas, My heater was full of misses, I called them in, And they fixed it for the win-ter. In all seriousness, a great company full of people that are serious and knowledgeable about their field.",
+      "author": "Joshua",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

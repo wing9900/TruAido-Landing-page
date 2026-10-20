@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "bowers-tree-mechanicsburg",
+  "company": "Bowers Tree Experts.",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177012302",
+  "phone_display": "(717) 701-2302",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bowers%20Tree%20Experts.&query_place_id=ChIJMfbu_DLpyIkRaN-_qmqkMlg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Dillsburg",
+    "Hampden Township",
+    "Camp Hill",
+    "Lemoyne",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "I recently hired Bowers Tree Service to remove a stump from my lawn. It was a beastly stump, but Rodney did a great job. He went above and beyond my expectations, and I was impressed with his professional and friendly demeanor.",
+      "author": "Richard C.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "These too young guys did a amazing job and cleaning up highly recommende them top notch",
+      "author": "Shawn H.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "I have never been so impressed with a crew!!! Rodney was so kind and true to his word. They started early, stayed late, and came back early the next day and cleaned up perfectly!! I highly recommended Bowers Tree Experts. You will not be disappointed.",
+      "author": "Sherrill B.",
+      "stars": 5,
+      "month": "October 2018"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "eg-heating-harrisburg",
+  "company": "E & G Heating & Air Conditioning LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177431585",
+  "phone_display": "(717) 743-1585",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 34,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=E%20%26%20G%20Heating%20%26%20Air%20Conditioning%20LLC&query_place_id=ChIJJfcQm_TAyIkR2TNjgPQ0fE0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Lower Paxton Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "If you have an issue with your heater, this is the company you should call. We have had issues with our heating system for years. We had our unit serviced every year and the service company just kept guessing and did not offer to really try to find the issue.",
+      "author": "Mari E.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Edwin is an absolute professional when it comes to HVAC services. After having two other technicians from the same company fail to properly fix my issue, Edwin went above and beyond to troubleshoot and resolve the problem efficiently.",
+      "author": "Re R.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "Small operation but great customer service. The owner, Edwin, is very personable and very knowledgeable.",
+      "author": "Imago D.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407039/truaido-previews/eg-heating-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407039/truaido-previews/eg-heating-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407040/truaido-previews/eg-heating-harrisburg/work3"
+  ]
+}

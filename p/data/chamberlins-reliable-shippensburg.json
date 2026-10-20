@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "chamberlins-reliable-shippensburg",
+  "company": "Chamberlins Reliable Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17173311530",
+  "phone_display": "(717) 331-1530",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chamberlins%20Reliable%20Heating%20%26%20Cooling&query_place_id=ChIJBy4TPfsNyYkRe-ESvn63GJE",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407879/truaido-previews/chamberlins-reliable-shippensburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newburg",
+    "Walnut Bottom",
+    "Newville",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "We have an older boiler furnace they service every winter or anytime we have a problem.",
+      "author": "Brooke M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Really great team flexible scheduling and willing to come to all three of our commercial properties highly recommended thank you..shout again brady a great team leader got the job done for creekside appreciate all of ur team ty.",
+      "author": "Jason H.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "Everybody was very friendly and polite. Told me what was going on before they did it and explained it. Everybody was very great. Would highly recommend them to anybody in a heartbeat.",
+      "author": "Joe H.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407880/truaido-previews/chamberlins-reliable-shippensburg/work1"
+  ]
+}

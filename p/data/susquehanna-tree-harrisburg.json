@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "slug": "susquehanna-tree-harrisburg",
+  "company": "Susquehanna Tree Solutions LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172802381",
+  "phone_display": "(717) 280-2381",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Tree%20Solutions%20LLC&query_place_id=ChIJo8ihJO_Q6o8RrBPNTka42YY",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407371/truaido-previews/susquehanna-tree-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407377/truaido-previews/susquehanna-tree-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#8D690F",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Middletown",
+    "Hershey",
+    "Hummelstown",
+    "Highspire",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "My tree was professionally trimmed within promised timeframe and cost was reasonable. Job well done!",
+      "author": "C V.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The team did a great job trimming, clean up and more. Very reasonable price for the work done!",
+      "author": "Michael H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407372/truaido-previews/susquehanna-tree-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407373/truaido-previews/susquehanna-tree-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407374/truaido-previews/susquehanna-tree-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407376/truaido-previews/susquehanna-tree-harrisburg/work4"
+  ]
+}

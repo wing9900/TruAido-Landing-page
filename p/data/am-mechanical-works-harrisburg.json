@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "am-mechanical-works-harrisburg",
+  "company": "AM Mechanical Works LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178858096",
+  "phone_display": "(717) 885-8096",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=AM%20Mechanical%20Works%20LLC&query_place_id=ChIJSR2K-9lGZWkRtwZLnmQNIFc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Summerdale",
+    "Dauphin",
+    "East Pennsboro Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Angel was responding to my \u201cAC not working\u201d claim with my home warranty company. He did an amazing job. He explained everything as he went along.",
+      "author": "Nancy F.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Angel is super friendly and responsible. He did an amazing job fixing our AC! He communicated well and was on time. Definitely recommend him to anyone in the area.",
+      "author": "Shem-May M.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Angel is on his game, and is an amazing person. I met him through a home warranty claim, and was actually understanding of the situation. He's trustworthy, won't steer you wrong. I will be contacting him again for work in the future.",
+      "author": "Nick C.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

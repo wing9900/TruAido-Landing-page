@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "spray-tight-insulation-newville",
+  "company": "Spray Tight Insulation LLC",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Newville",
+  "state": "PA",
+  "phone": "+17177291125",
+  "phone_display": "(717) 729-1125",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 45,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Spray%20Tight%20Insulation%20LLC&query_place_id=ChIJOYOzl4gMyYkRgM-WcyEaaVQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Shippensburg",
+    "Newburg",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "I am in a two-story house. In the summertime it's always been about 3\u00b0 warmer upstairs and in the winter time about 4\u00b0 cooler. With my thermostat set at 65\u00b0 in the winter, The upstairs was absolutely freezing.",
+      "author": "Roxanne A.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Removed old attic insulation and installed new. The crew was respectful of our property and worked continually despite the July heat. They even alerted us that there had been an attic fire at some point!",
+      "author": "Jeanie R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Used Spray Tight Insulation for some work we needed at our office in downtown Carlisle and are pleased with the entire process. Estimate was obtained within days of reaching out, discussed scheduling, team arrived as scheduled and did a great job.",
+      "author": "AbomKutulakis",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

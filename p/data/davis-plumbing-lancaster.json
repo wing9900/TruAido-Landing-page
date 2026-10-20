@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "davis-plumbing-lancaster",
+  "company": "Davis Plumbing Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174688205",
+  "phone_display": "(717) 468-8205",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Davis%20Plumbing%20Heating%20%26%20Cooling&query_place_id=ChIJjew3Qu2q7aIRwYyWQ7N1c9w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406544/truaido-previews/davis-plumbing-lancaster/logo",
+    "layout": "square",
+    "badge": "#D74018"
+  },
+  "accent": "#C64A0B",
+  "nearby_towns": [
+    "Gordonville",
+    "Gap",
+    "New Holland",
+    "Ronks",
+    "Paradise",
+    "East Earl"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406542/truaido-previews/davis-plumbing-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406543/truaido-previews/davis-plumbing-lancaster/work2"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tims-body-shop-lititz",
+  "company": "Tim's Body Shop LLC",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17177384746",
+  "phone_display": "(717) 738-4746",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 232,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tim's%20Body%20Shop%20LLC&query_place_id=ChIJXzaC_t8WxokR86W5eLDEr3s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Ephrata",
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Wow! Smooth operator\ud83c\udfb6. We decided to stay local with a need for auto body repair. Tim\u2019s Body Shop was very fast in service, reasonable, and they even washed my car when they were done.",
+      "author": "Kathy S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Tim\u2019s Body Shop did an excellent job for us twice on two different cars. First, they repaired a smashed in bumper a few years ago and most recently they repaired a passenger side mirror that had been badly damaged.",
+      "author": "Shannon E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Tims body shop did a awesome paint job on my car ...I would definitely recommend anyone that is looking for a number 1 paint shop to check these guys out ..Mike was very helpful and went the extra mile if I had any questions..Thanks",
+      "author": "Jaden Z.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

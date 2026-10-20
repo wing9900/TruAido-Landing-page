@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "harbor-mechanical-new-cumberland",
+  "company": "Harbor Mechanical Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+17177129005",
+  "phone_display": "(717) 712-9005",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 11,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Harbor%20Mechanical%20Services&query_place_id=ChIJXR2PPErByIkRfM768OIqDWQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408250/truaido-previews/harbor-mechanical-new-cumberland/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#477793",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Highspire",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Alex and his crew really know what the customer needs. Great business to work with. I highly recommend!",
+      "author": "Richard S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Alex and his crew are fantastic. Alex communicated every step of the process, was punctual and professional. End result looks great and exceeded our expectations. Highly recommend.",
+      "author": "Oren K.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "This company does good work at a good price. Alex walked me through all of my options when I needed a new furnace and provided clear and honest answeres for each one. It's been a year and I have had ZERO problems with my new furnace.",
+      "author": "Shawn M.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "carrs-welding-carlisle",
+  "company": "Carr's Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17177766763",
+  "phone_display": "(717) 776-6763",
+  "has_website": false,
+  "rating": 4.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Carr's%20Welding&query_place_id=ChIJJV-O5cgZyYkRXbgruRV48g4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Walnut Bottom",
+    "Newburg",
+    "Boiling Springs",
+    "Shippensburg",
+    "Gardners"
+  ],
+  "reviews": [
+    {
+      "text": "Great guy, great welder , very knowledgeable and old school type of person. I would most definitely take anything of mine there. Took my company tri axle dump truck there to have mirror bracket welded and it was a very delicate job because of cb antenna wire...",
+      "author": "Jeffrey S.",
+      "stars": 5,
+      "month": "October 2023"
+    },
+    {
+      "text": "Did a great job wielding some racks for me. Reasonable prices",
+      "author": "Butch G.",
+      "stars": 5,
+      "month": "April 2021"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "trane-commercial-sales-harrisburg",
+  "company": "Trane Commercial Sales Office",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175615400",
+  "phone_display": "(717) 561-5400",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Trane%20Commercial%20Sales%20Office&query_place_id=ChIJyRfkgny_yIkR8zcTcAGNZEw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Highspire",
+    "Lower Paxton Township",
+    "Lemoyne",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

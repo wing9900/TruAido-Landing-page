@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "quality-metal-works-elizabethtown",
+  "company": "Quality Metal Works Inc",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173672120",
+  "phone_display": "(717) 367-2120",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Quality%20Metal%20Works%20Inc&query_place_id=ChIJkcWLCh6ZyIkRQ5qWKKiASCo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406356/truaido-previews/quality-metal-works-elizabethtown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#692D36",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Top notch customer service! Spoke to Bob over the phone about my metal needs before heading in. Not only was Bob informative but we also got slightly off topic about the welding projects we've done in the past. After a short drive in.",
+      "author": "George G.",
+      "stars": 5,
+      "month": "April 2021"
+    }
+  ],
+  "gallery": []
+}

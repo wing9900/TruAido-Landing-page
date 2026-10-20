@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "temp-tech-lemoyne",
+  "company": "Temp Tech Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17177612559",
+  "phone_display": "(717) 761-2559",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 35,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Temp%20Tech%20Inc&query_place_id=ChIJeWS17pDByIkRM77BXHYjj-I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408244/truaido-previews/temp-tech-lemoyne/logo",
+    "layout": "wide",
+    "badge": "#0F0F0F"
+  },
+  "accent": "#E62124",
+  "nearby_towns": [
+    "Camp Hill",
+    "New Cumberland",
+    "Shiremanstown",
+    "East Pennsboro Township",
+    "Steelton",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "Devin showed up on time and showed professionalism. He diagnosed the problem quickly and was able to complete a full installation in one day. It was the middle of summer during the hottest days and we were only without A/C for two days. Thank you Devin.",
+      "author": "Glenn S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "If you are looking for an HVAC company that is still locally owned and operated and also still cares about providing top notch service for a fair price all without aggressive sales quoting pressure tactics, Temp Tech definitely deserves your business.",
+      "author": "Andrew F.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Fast service. Professional. Fair price. Would absolutely recommend!",
+      "author": "Myra B.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408242/truaido-previews/temp-tech-lemoyne/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408243/truaido-previews/temp-tech-lemoyne/work2"
+  ]
+}

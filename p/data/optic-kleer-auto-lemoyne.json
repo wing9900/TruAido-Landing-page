@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "optic-kleer-auto-lemoyne",
+  "company": "Optic-Kleer\u00ae Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17177224824",
+  "phone_display": "(717) 722-4824",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Optic-Kleer%C2%AE%20Auto%20Glass&query_place_id=ChIJORRMqiHByIkRXSk-5RrTjbU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408031/truaido-previews/optic-kleer-auto-lemoyne/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#CD1473",
+  "nearby_towns": [
+    "Camp Hill",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Shiremanstown",
+    "Steelton",
+    "Harrisburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

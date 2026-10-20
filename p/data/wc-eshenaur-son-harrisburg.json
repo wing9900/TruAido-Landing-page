@@ -1,0 +1,47 @@
+{
+  "v": 1,
+  "slug": "wc-eshenaur-son-harrisburg",
+  "company": "W.C. Eshenaur & Son, Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17172365031",
+  "phone_display": "(717) 236-5031",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 498,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=W.C.%20Eshenaur%20%26%20Son%2C%20Inc.&query_place_id=ChIJZQDXGm-_yIkRvtZB8n1kUyM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407077/truaido-previews/wc-eshenaur-son-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#003D94",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Highspire",
+    "Lower Paxton Township",
+    "Lemoyne",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "I can not speak more highly of the people at this company. They truly made my heating oil experience the best it could possibly be....ask for Lisa!",
+      "author": "Kristine H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407074/truaido-previews/wc-eshenaur-son-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407075/truaido-previews/wc-eshenaur-son-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407076/truaido-previews/wc-eshenaur-son-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407076/truaido-previews/wc-eshenaur-son-harrisburg/work4"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "thermotech-camp-hill",
+  "company": "Thermotech Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17172344500",
+  "phone_display": "(717) 234-4500",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 209,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Thermotech%20Inc.&query_place_id=ChIJRRfHb5HAyIkRG9KlPau5mc4",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408131/truaido-previews/thermotech-camp-hill/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408132/truaido-previews/thermotech-camp-hill/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#E0020B",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "On time, professional, and gave me next steps to fix my fridge",
+      "author": "Leah B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Zach did a great job servicing our office\u2019s HVAC system! He was thorough and took the time to clearly explain what he found and how he fixed the issues. We really appreciated his attention to detail and friendly, helpful service. Thank you, Zach!",
+      "author": "Rose P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I contacted Thermotech to fix a repair in my duct work in the attic. Joe the technician was very timely, knowledgeable and professional and did an excellent job correcting it. I highly recommend him and this company as I have used their services many times.",
+      "author": "Rosanne C.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "jims-welding-automotive-manheim",
+  "company": "Jim's Welding & Automotive",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176657357",
+  "phone_display": "(717) 665-7357",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jim's%20Welding%20%26%20Automotive&query_place_id=ChIJb-9Gr3sfxokRgEaum2htqkw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Landisville",
+    "East Petersburg",
+    "Lititz",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "A truly honest hometown garage with reasonable rates and Great service!!!! They are still one of Manheim's Best kept Secrets !!!",
+      "author": "Mike M.",
+      "stars": 5,
+      "month": "November 2025"
+    },
+    {
+      "text": "Jim runs a top notch auto inspection business. He is very thorough and uses Quality Parts when purchasing them himself for the customer. Been going to Jim for over 30 years.",
+      "author": "BJ H.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "gracefulcuts-lancaster",
+  "company": "Gracefulcuts, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174156408",
+  "phone_display": "(717) 415-6408",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Gracefulcuts%2C%20LLC&query_place_id=ChIJD6ds_20DHoMR7CoIc1ivrAo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Landisville",
+    "Mountville",
+    "Salunga",
+    "Millersville",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Elisha did a good job. He arrived when he said, made the process easy and did the work at a fair price! I would recommend him.",
+      "author": "Donna M.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Amazing employees and love their professionalism.",
+      "author": "Pedro V.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Great experience with this company. Hired them for my mowing needs.",
+      "author": "Isa W.",
+      "stars": 5,
+      "month": "May 2025"
+    }
+  ],
+  "gallery": []
+}

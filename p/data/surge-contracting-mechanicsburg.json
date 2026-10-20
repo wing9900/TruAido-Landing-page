@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "surge-contracting-mechanicsburg",
+  "company": "Surge Contracting",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17173835774",
+  "phone_display": "(717) 383-5774",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Surge%20Contracting&query_place_id=ChIJwQ0O83fpyIkRYNgw0Qd8YQw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408071/truaido-previews/surge-contracting-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#8C6900",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [],
+  "gallery": []
+}

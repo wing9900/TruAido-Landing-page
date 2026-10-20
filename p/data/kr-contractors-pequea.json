@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "kr-contractors-pequea",
+  "company": "K & R Contractors Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Pequea",
+  "state": "PA",
+  "phone": "+17172840444",
+  "phone_display": "(717) 284-0444",
+  "has_website": false,
+  "rating": 1.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=K%20%26%20R%20Contractors%20Inc.&query_place_id=ChIJo2ezjYIuxokREq30s20P6Xc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Conestoga",
+    "Holtwood",
+    "Willow Street",
+    "New Providence",
+    "Millersville",
+    "Washington Boro"
+  ],
+  "reviews": [],
+  "gallery": []
+}

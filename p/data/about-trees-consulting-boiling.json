@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "about-trees-consulting-boiling",
+  "company": "About Trees Consulting",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Boiling Springs",
+  "state": "PA",
+  "phone": "+17172412814",
+  "phone_display": "(717) 241-2814",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=About%20Trees%20Consulting&query_place_id=ChIJccZqNdDjyIkR45rKOLA9uGs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dillsburg",
+    "Carlisle",
+    "Mechanicsburg",
+    "Gardners",
+    "Hampden Township",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Wow! Awesome services I definitely recommend them!",
+      "author": "Tree M.",
+      "stars": 5,
+      "month": "December 2019"
+    }
+  ],
+  "gallery": []
+}

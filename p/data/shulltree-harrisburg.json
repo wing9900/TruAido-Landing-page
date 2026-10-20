@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "shulltree-harrisburg",
+  "company": "ShullTree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177619489",
+  "phone_display": "(717) 761-9489",
+  "has_website": false,
+  "rating": 3.3,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ShullTree%20Services&query_place_id=ChIJh4mqNifCyIkR9kjWDEc-aI8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Steelton",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "This company was amazing! Had them remove a huge hedge and countless dead tree limbs off my property. Stellar crew arrived and slayed the job quickly. Very respectful and efficient crew. Would highly recommend! Thank you!",
+      "author": "Carolee M.",
+      "stars": 5,
+      "month": "October 2024"
+    },
+    {
+      "text": "I share this company with everyone! Best in area. Best estimate. Best Job. Great for Rental properties too!",
+      "author": "Kelly C.",
+      "stars": 5,
+      "month": "July 2023"
+    }
+  ],
+  "gallery": []
+}

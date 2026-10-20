@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "greens-tree-elizabethtown",
+  "company": "Green's Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17173671115",
+  "phone_display": "(717) 367-1115",
+  "has_website": true,
+  "rating": 4.1,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Green's%20Tree%20Service&query_place_id=ChIJxQiaHF6YyIkR4ThIPWRS-ZE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Bainbridge",
+    "Mount Joy",
+    "Salunga",
+    "Columbia"
+  ],
+  "reviews": [
+    {
+      "text": "Tree is starting to bloom..and it looks great..crew was also very nice..thanks again....Neil",
+      "author": "raylene B.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "You all did a phenomenal job today and we're thrilled with the outcome. Other than a missing tree and branches that we asked to be removed, you'd never know you were here.",
+      "author": "Merceda R.",
+      "stars": 5,
+      "month": "August 2023"
+    },
+    {
+      "text": "The team got the job done smoothly and satisfactory. Cleaned up great and made my place look better than before they arrived. Will definitely call again.",
+      "author": "seth H.",
+      "stars": 5,
+      "month": "October 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406003/truaido-previews/greens-tree-elizabethtown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406005/truaido-previews/greens-tree-elizabethtown/work2"
+  ]
+}

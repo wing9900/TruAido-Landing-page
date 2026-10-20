@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "lc-insulation-lititz",
+  "company": "L C Insulation Inc",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+15706957684",
+  "phone_display": "(570) 695-7684",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=L%20C%20Insulation%20Inc&query_place_id=ChIJg7rEX_MixokRfW--dQx3-xM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Lancaster",
+    "Brownstown",
+    "Landisville",
+    "Manheim",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Best group of guys to work with. First rate quality workmanship. Highly recommend L C Insulation.",
+      "author": "Rick K.",
+      "stars": 5,
+      "month": "May 2022"
+    }
+  ],
+  "gallery": []
+}

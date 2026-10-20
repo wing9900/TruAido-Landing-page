@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "williams-plumbing-reinholds",
+  "company": "Williams Plumbing, Heating & A/C LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17172787856",
+  "phone_display": "(717) 278-7856",
+  "has_website": false,
+  "rating": 4.5,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Williams%20Plumbing%2C%20Heating%20%26%20A%2FC%20LLC&query_place_id=ChIJ04fwuA4TxokR46rsXdZECjY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Adamstown",
+    "Stevens",
+    "Robesonia",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "So grateful for William\u2019s prompt response time in this crazy heat wave that broke our AC!",
+      "author": "Sam R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "William promptly responded to my call when my old HVAC system broke down. He carefully troubleshooted the problem which included temporary fixes before ultimately replacing the outdoor heat pump and coil.",
+      "author": "Pavlik T.",
+      "stars": 5,
+      "month": "May 2024"
+    },
+    {
+      "text": "We recently built a home and had William install the HVAC system. He did an amazing job and we couldn\u2019t be happier!",
+      "author": "Daniel T.",
+      "stars": 5,
+      "month": "April 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405714/truaido-previews/williams-plumbing-reinholds/work1"
+  ]
+}

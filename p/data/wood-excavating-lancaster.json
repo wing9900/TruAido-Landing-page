@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "wood-excavating-lancaster",
+  "company": "Wood Excavating & Septic, LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173712827",
+  "phone_display": "(717) 371-2827",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Wood%20Excavating%20%26%20Septic%2C%20LLC&query_place_id=ChIJo4Ffc_TNx4kRCJ3icDmST9Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Holtwood",
+    "Peach Bottom",
+    "Quarryville",
+    "New Providence",
+    "Nottingham",
+    "Pequea"
+  ],
+  "reviews": [],
+  "gallery": []
+}

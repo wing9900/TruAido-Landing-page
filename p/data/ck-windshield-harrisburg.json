@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "ck-windshield-harrisburg",
+  "company": "CK Windshield Wizards LLC",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174253693",
+  "phone_display": "(717) 425-3693",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 36,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CK%20Windshield%20Wizards%20LLC&query_place_id=ChIJjTjb_mKgz4kRPTjEw2CBlxM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408277/truaido-previews/ck-windshield-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0D3845",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Dillsburg",
+    "Boiling Springs",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Got me an appointment the next day and did an amazing job. Over $500 less than what I was quoted from other businesses. Definitely recommend!",
+      "author": "Rose K.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Communicated well, completed job in timely manner, very professional and didnt waste time getting the job done. Would recommend to anyone. Also reasonably priced.",
+      "author": "Elly F.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Excellent in quality of service and communication. Windshield replacement quote was very reasonable compared to others. Would definitely recommend.",
+      "author": "Tina F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408277/truaido-previews/ck-windshield-harrisburg/work1"
+  ]
+}

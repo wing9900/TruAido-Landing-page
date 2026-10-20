@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "douglas-tree-lancaster",
+  "company": "Douglas Tree & Property Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17175388762",
+  "phone_display": "(717) 538-8762",
+  "has_website": true,
+  "rating": 3.9,
+  "review_count": 64,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Douglas%20Tree%20%26%20Property%20Service&query_place_id=ChIJ0zm2JFkkxokRRBpqpyQ33t4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Mountville",
+    "Willow Street",
+    "Washington Boro",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "Let me start out by saying what a nightmare it was to find an affordable and honest tree removing service after our area suffered a severe thunderstorm that threw our neighbors tree into our backyard.",
+      "author": "Katelyn M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Rob was very quick in responding to my request for a quote. He provided me with a date for the work and followed through on time. He evaluated the job I was requesting and even discussed potential issues with work near our fence.",
+      "author": "Lesley H.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I had gotten four quotes from different companies. Douglas Tree Services was the lowest and best price. The highest price was $3700.00 then $2400.00 the last said they don't cut down trees. I would highly recommend them to do any kind of work.",
+      "author": "Richard",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

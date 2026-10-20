@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "cocalico-plumbing-denver",
+  "company": "Cocalico Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17177380760",
+  "phone_display": "(717) 738-0760",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 1282,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cocalico%20Plumbing%20%26%20Heating&query_place_id=ChIJISKwlagTxokRREiDF_xHoOQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Ephrata",
+    "Adamstown",
+    "Robesonia",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Gary, our tech, was courteous and professional in every way. Answering our questions easily. Great job!",
+      "author": "Peter S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent service with customer friendly knowledgeable employees !!!",
+      "author": "Greg D.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Service technician, Ian was pleasant and professional. Explained what service work was accomplished.",
+      "author": "Joe D.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

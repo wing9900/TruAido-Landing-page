@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "lynch-mechanicals-camp-hill",
+  "company": "Lynch Mechanicals",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17178775126",
+  "phone_display": "(717) 877-5126",
+  "has_website": false,
+  "rating": 4.6,
+  "review_count": 22,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lynch%20Mechanicals&query_place_id=ChIJH3N-ngzCyIkRj9zz9DJOy4w",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408126/truaido-previews/lynch-mechanicals-camp-hill/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#87292C",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Our AC quit working on a Thursday late afternoon on a holiday weekend. (Everything closed Friday) By Tuesday morning, Graham was at our home with the replacement unit. He installed it solo in just a couple hours.",
+      "author": "Joseph S.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Found these guys when my split units needed serviced and the company I was using didn't respond to my call. Best thing to happen! Have been using them for yearly maintenance, super nice, very professional and helpful. Highly recommend them!!",
+      "author": "Sherry S.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "These guys are top notch. Years ago they converted an old oil furnace to natural gas. They were efficient, friendly, professional and CLEAN! All three of them are laid back and super nice.",
+      "author": "B S.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

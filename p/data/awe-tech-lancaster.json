@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "awe-tech-lancaster",
+  "company": "AWE-Tech, LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178740672",
+  "phone_display": "(717) 874-0672",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=AWE-Tech%2C%20LLC&query_place_id=ChIJjZs9GCKvMwkRPqv7tJ4eMPE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Reinholds",
+    "Stevens",
+    "Adamstown",
+    "Ephrata",
+    "Robesonia"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "martin-tree-hummelstown",
+  "company": "Martin Tree Service Inc.",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175662990",
+  "phone_display": "(717) 566-2990",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 52,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Tree%20Service%20Inc.&query_place_id=ChIJFwffAkjStkwR-e1G7zHuNyw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406974/truaido-previews/martin-tree-hummelstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hershey",
+    "Middletown",
+    "Highspire",
+    "Harrisburg",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "We had Brian remove 4 trees in our backyard after storm damage. He was prompt to give us a quote and very knowledgeable and able to point out other trees that were unhealthy and should be removed (we have a lot of trees!).",
+      "author": "Fanny M.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Highly recommend! I was provided with a fair quote in a timely fashion, followed up by clear communication, and the job well done in a timely fashion as well! I will not hesitate to use Martin Tree Service again in the future!",
+      "author": "Shane K.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Phenomenal to work with! Exceeded my expectations. Professional, safe, efficient, knowledgeable, & excellent customer service!! Impressed & fascinated with their awesome equipment too!",
+      "author": "Samantha C.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406970/truaido-previews/martin-tree-hummelstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406971/truaido-previews/martin-tree-hummelstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406972/truaido-previews/martin-tree-hummelstown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406973/truaido-previews/martin-tree-hummelstown/work4"
+  ]
+}

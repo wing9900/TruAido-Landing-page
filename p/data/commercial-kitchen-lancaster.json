@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "commercial-kitchen-lancaster",
+  "company": "Commercial Kitchen Repair Service",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173912707",
+  "phone_display": "(717) 391-2707",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Kitchen%20Repair%20Service&query_place_id=ChIJl8mgh-4kxokRrP3tyhL9yHM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Conestoga",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Customer Service is exceptional! Denise and Paul are always a pleasure to work with!! Paul does everything possible to get your equipment in working order same day of service call!!!!",
+      "author": "robin O.",
+      "stars": 5,
+      "month": "June 2018"
+    }
+  ],
+  "gallery": []
+}

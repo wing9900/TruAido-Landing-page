@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "cumberland-county-carlisle",
+  "company": "Cumberland County Wildlife Removal",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173125447",
+  "phone_display": "(717) 312-5447",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 41,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cumberland%20County%20Wildlife%20Removal&query_place_id=ChIJL4pHc-42s1IRHJhf6m2FTE8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Bed Bug Guys are the most helpful people I\u2019ve talked to. He took my call after business hours. He took his time to ask me about my situation before scheduling an inspection, and actually was able to tell me that my bite pattern doesn\u2019t sound like bedbugs and...",
+      "author": "Jessica N.",
+      "stars": 5,
+      "month": "July 2023"
+    },
+    {
+      "text": "Was very helpful and very kind and considerate",
+      "author": "Arlene H.",
+      "stars": 5,
+      "month": "May 2023"
+    },
+    {
+      "text": "I called on a weekend and they got right back to me. They were very responsive, even on a weekend. They took time to talk things over with me, were understanding, gave great advice, were honest, candid, and extremely helpful.",
+      "author": "anne A.",
+      "stars": 5,
+      "month": "June 2022"
+    }
+  ],
+  "gallery": []
+}

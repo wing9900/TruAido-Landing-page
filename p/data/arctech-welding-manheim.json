@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "arctech-welding-manheim",
+  "company": "ArcTech Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17173539818",
+  "phone_display": "(717) 353-9818",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ArcTech%20Welding&query_place_id=ChIJhV3bQU2fyIkRBa4UGPtYNqs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy",
+    "Salunga",
+    "Landisville",
+    "Mount Joy Township",
+    "East Petersburg",
+    "Elizabethtown"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406399/truaido-previews/arctech-welding-manheim/work1"
+  ]
+}

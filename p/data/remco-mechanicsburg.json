@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "remco-mechanicsburg",
+  "company": "Remco Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+18772970389",
+  "phone_display": "(877) 297-0389",
+  "has_website": true,
+  "rating": 3.3,
+  "review_count": 41,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Remco%20Inc&query_place_id=ChIJwdkH24LnyIkRFWo6xNMr3GE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407969/truaido-previews/remco-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#95021E",
+  "nearby_towns": [
+    "Hampden Township",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill",
+    "Boiling Springs",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Great company that continues to one up its service as time progresses.",
+      "author": "Nick T.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407967/truaido-previews/remco-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407968/truaido-previews/remco-mechanicsburg/work2"
+  ]
+}

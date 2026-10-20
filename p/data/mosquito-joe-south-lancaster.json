@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "mosquito-joe-south-lancaster",
+  "company": "Mosquito Joe of South Central PA",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232662399",
+  "phone_display": "(223) 266-2399",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 318,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mosquito%20Joe%20of%20South%20Central%20PA&query_place_id=ChIJQcZMu2QjxokR9skU0sYYS14",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406683/truaido-previews/mosquito-joe-south-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#327E35",
+  "nearby_towns": [
+    "Leola",
+    "Brownstown",
+    "East Petersburg",
+    "Strasburg",
+    "Willow Street",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "The tech, Norman, did a great job reviewing my property and focusing on some areas that need attention to prevent future problems.",
+      "author": "Charles C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Just starting using this company as they were highly recommended from previous neighbors! They were great communicating, and provided great services in a timely fashion time!",
+      "author": "Sarah R.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406682/truaido-previews/mosquito-joe-south-lancaster/work1"
+  ]
+}

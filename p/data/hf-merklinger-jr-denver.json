@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "hf-merklinger-jr-denver",
+  "company": "H F Merklinger Jr",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17174459123",
+  "phone_display": "(717) 445-9123",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=H%20F%20Merklinger%20Jr&query_place_id=ChIJPfrzfG9rxokR-sSakVuQQ04",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405728/truaido-previews/hf-merklinger-jr-denver/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#085082",
+  "nearby_towns": [
+    "East Earl",
+    "Narvon",
+    "Adamstown",
+    "Stevens",
+    "New Holland",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Henry and his sons have helped us with many HVAC and plumbing projects over the past 7 years. They are honest, dependable and always professional.",
+      "author": "Sarah K.",
+      "stars": 5,
+      "month": "January 2021"
+    }
+  ],
+  "gallery": []
+}

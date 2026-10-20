@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "archer-pest-camp-hill",
+  "company": "Archer Pest Control, Inc.",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17177988303",
+  "phone_display": "(717) 798-8303",
+  "has_website": true,
+  "rating": 3.6,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Archer%20Pest%20Control%2C%20Inc.&query_place_id=ChIJG3eTAn7ByIkR99WjZV_JJQM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lemoyne",
+    "Shiremanstown",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "Keith always come very quickly even the same day if he\u2019s available. The pricing is very very good. He is friendly and knowledgeable too. Highly reccomend.",
+      "author": "Becky W.",
+      "stars": 5,
+      "month": "July 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408015/truaido-previews/archer-pest-camp-hill/work1"
+  ]
+}

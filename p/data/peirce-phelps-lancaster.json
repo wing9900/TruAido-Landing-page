@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "peirce-phelps-lancaster",
+  "company": "Peirce-Phelps",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172958330",
+  "phone_display": "(717) 295-8330",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Peirce-Phelps&query_place_id=ChIJqw58HIEjxokRnI_R-aTwPnk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406489/truaido-previews/peirce-phelps-lancaster/logo",
+    "layout": "wide",
+    "badge": "#012D6B"
+  },
+  "accent": "#002C6A",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Salunga",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "This place is super helpful in making sure you get your air conditioner needs completed",
+      "author": "Austin P.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Tim and company keep the parts a flowing! Keep it up guys! Thank you",
+      "author": "Sean W.",
+      "stars": 5,
+      "month": "June 2024"
+    }
+  ],
+  "gallery": []
+}

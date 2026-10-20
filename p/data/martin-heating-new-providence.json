@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "martin-heating-new-providence",
+  "company": "Martin Heating & Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "New Providence",
+  "state": "PA",
+  "phone": "+17177867373",
+  "phone_display": "(717) 786-7373",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Martin%20Heating%20%26%20Cooling&query_place_id=ChIJwYOQNg8xxokRz3I2_CqKWfE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Quarryville",
+    "Strasburg",
+    "Willow Street",
+    "Ronks",
+    "Paradise",
+    "Holtwood"
+  ],
+  "reviews": [
+    {
+      "text": "Cannot say enough good things about Michael, Travis, and Trey at Martin Heating and Cooling. They installed a Trane combination furnace and air conditioning system along with an AO Smith water heater. The workmanship was first rate from start to finish.",
+      "author": "Robert",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Michael, Travis, and Trey were very polite and respectful. Arrived on time went straight to work. Kept everything clean. Very nice company to do business with.",
+      "author": "Bettyjane G.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Travis, Terry and Eldon were kind, courteous and efficient. We were more than pleased with their job of installing a mini-split system. Highly recommend. We will always call Martin's for our appliance needs.",
+      "author": "Sharlene K.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

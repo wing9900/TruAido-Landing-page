@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "grim-electric-lancaster",
+  "company": "Grim Electric LLC",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178259970",
+  "phone_display": "(717) 825-9970",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Grim%20Electric%20LLC&query_place_id=ChIJmz_AqxGDyIkRjkfPz2dTJbQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Columbia",
+    "Mount Joy",
+    "Marietta",
+    "Mountville",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Mike has done numerous work for me over the years, I hired Mike again to do a rewire in a whole basement, all new lights, outlets, wiring etc etc.",
+      "author": "Adam S.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "Mike and his guys upgraded our electric panel from 100 amp to 200 amp service. They also added recessed lighting and new electric outlets in our basement for us. They are very knowledgeable and go above and beyond to get the job done. Highly recommend.",
+      "author": "Heather M.",
+      "stars": 5,
+      "month": "November 2024"
+    },
+    {
+      "text": "Top notch crew! Reliable, knowledgeable, affordable, honest, and professional.",
+      "author": "John H.",
+      "stars": 5,
+      "month": "January 2024"
+    }
+  ],
+  "gallery": []
+}

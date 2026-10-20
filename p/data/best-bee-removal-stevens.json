@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "best-bee-removal-stevens",
+  "company": "Best Bee Removal",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Stevens",
+  "state": "PA",
+  "phone": "+17175530154",
+  "phone_display": "(717) 553-0154",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 219,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Best%20Bee%20Removal&query_place_id=ChIJe3UNHUfHuAMRoaoG-Bg1Hoc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Reinholds",
+    "Adamstown",
+    "Ephrata",
+    "Akron",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "Great, efficient service at a good price.",
+      "author": "Debbie R.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great experience! Fair pricing, quick scheduling, excellent communication, and efficient service. Highly recommend!",
+      "author": "Jason L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "James is very professional. I texted him prior to 8 am and he was able to come same day earlier than expected. He came to rid of YELLOW JACKETS under our porch overhang in the eves section.",
+      "author": "Donna M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

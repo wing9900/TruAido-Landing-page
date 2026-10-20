@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "lancaster-welding-ronks",
+  "company": "Lancaster Welding and Fabrication",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ronks",
+  "state": "PA",
+  "phone": "+17176829915",
+  "phone_display": "(717) 682-9915",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Welding%20and%20Fabrication&query_place_id=ChIJve7TD7g5xokRKCYYWC8zAbU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Strasburg",
+    "Paradise",
+    "Gordonville",
+    "Willow Street",
+    "New Providence",
+    "Leola"
+  ],
+  "reviews": [],
+  "gallery": []
+}

@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "blaisure-mechanical-dauphin",
+  "company": "Blaisure Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Dauphin",
+  "state": "PA",
+  "phone": "+14843558635",
+  "phone_display": "(484) 355-8635",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Blaisure%20Mechanical%20LLC&query_place_id=ChIJs_8xdgrFyIkRYeGQSdgIgSQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "Enola",
+    "East Pennsboro Township",
+    "Halifax",
+    "Harrisburg",
+    "Lower Paxton Township"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407445/truaido-previews/blaisure-mechanical-dauphin/work1"
+  ]
+}

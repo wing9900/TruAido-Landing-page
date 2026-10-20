@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "ew-mainhart-carlisle",
+  "company": "E.W. Mainhart LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172267613",
+  "phone_display": "(717) 226-7613",
+  "has_website": true,
+  "rating": 4.1,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=E.W.%20Mainhart%20LLC&query_place_id=ChIJ6dQL5zUbyYkRCAFRoNQ2aq4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408189/truaido-previews/ew-mainhart-carlisle/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#347AB7",
+  "nearby_towns": [
+    "Newville",
+    "Walnut Bottom",
+    "Boiling Springs",
+    "Gardners",
+    "Shippensburg",
+    "Newburg"
+  ],
+  "reviews": [
+    {
+      "text": "I was able to get in quickly for my vehicle inspection. The young man was very professional and friendly. Thank you for the positive experience.",
+      "author": "Lori M.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Work Performed: All new Plumbing and HVAC. The crew was prompt and effecient. They did a quality install on a whole house remodeling job. They are only company I could find locally that offered custom fabricated sheet metal ductwork.",
+      "author": "Paul B.",
+      "stars": 5,
+      "month": "May 2025"
+    },
+    {
+      "text": "Fixed a water pipe within two days did an amazing job the guy was very nice",
+      "author": "Lacy G.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408185/truaido-previews/ew-mainhart-carlisle/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408186/truaido-previews/ew-mainhart-carlisle/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408188/truaido-previews/ew-mainhart-carlisle/work3"
+  ]
+}

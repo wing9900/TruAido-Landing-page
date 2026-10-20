@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "dave-duff-plumbing-hummelstown",
+  "company": "Dave Duff Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175330311",
+  "phone_display": "(717) 533-0311",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dave%20Duff%20Plumbing%20%26%20Heating&query_place_id=ChIJ1w0va7S8yIkRUs3HjLNvAfo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Elizabethtown",
+    "Middletown",
+    "Highspire",
+    "Grantville",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Dave is quick to respond and does an amazing job!",
+      "author": "M H.",
+      "stars": 5,
+      "month": "December 2025"
+    },
+    {
+      "text": "Had an absolutely wonderful experience. Quick response time, efficient, great price. 100% recommend and will use again. Thank you.",
+      "author": "Ian F.",
+      "stars": 5,
+      "month": "August 2022"
+    },
+    {
+      "text": "Dave,arrived on time,called before he got here,and,unclogged my drain in reasonable amount of time! Have used in the past,and will in the future!",
+      "author": "Robert H.",
+      "stars": 5,
+      "month": "April 2022"
+    }
+  ],
+  "gallery": []
+}

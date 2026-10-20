@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "jo-light-construction-harrisburg",
+  "company": "Jo light construction",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179034562",
+  "phone_display": "(717) 903-4562",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jo%20light%20construction&query_place_id=ChIJ7ZmkdHC5yIkRhsgDMemI_8M",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "East Pennsboro Township",
+    "Summerdale",
+    "New Cumberland"
+  ],
+  "reviews": [],
+  "gallery": []
+}

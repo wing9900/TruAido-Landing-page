@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "mt-heating-hummelstown",
+  "company": "MT Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17177453665",
+  "phone_display": "(717) 745-3665",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MT%20Heating%20and%20Cooling&query_place_id=ChIJo7sSwlKlyIkRgdjsauNWfVo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Hershey",
+    "Elizabethtown",
+    "Lower Paxton Township",
+    "Middletown",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "I had the pleasure of having empty heating cooling weatherization ce today and do work in my attic they did a wonderful job and cleaned up afterwards and the guys great",
+      "author": "Sherry S.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "MT Heating and Cooling is professional and responsive. They replaced our heat pump the beginning of November 2023. The techs did a great job and were able to adjust to some unforseen issues during the installation.",
+      "author": "Rick C.",
+      "stars": 5,
+      "month": "November 2023"
+    },
+    {
+      "text": "Great quality and value working with them.",
+      "author": "MJ P.",
+      "stars": 5,
+      "month": "January 2020"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407572/truaido-previews/mt-heating-hummelstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407574/truaido-previews/mt-heating-hummelstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407575/truaido-previews/mt-heating-hummelstown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407576/truaido-previews/mt-heating-hummelstown/work4"
+  ]
+}

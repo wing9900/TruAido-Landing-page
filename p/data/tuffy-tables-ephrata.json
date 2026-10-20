@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "tuffy-tables-ephrata",
+  "company": "Tuffy Tables",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+18669388339",
+  "phone_display": "(866) 938-8339",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tuffy%20Tables&query_place_id=ChIJkd1Kn1cWxokRRY454mfBaLE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405896/truaido-previews/tuffy-tables-ephrata/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#700F11",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Lititz",
+    "Stevens",
+    "Leola",
+    "Denver"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405894/truaido-previews/tuffy-tables-ephrata/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405895/truaido-previews/tuffy-tables-ephrata/work2"
+  ]
+}

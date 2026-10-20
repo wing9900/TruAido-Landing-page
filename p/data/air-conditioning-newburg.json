@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "air-conditioning-newburg",
+  "company": "Air Conditioning Services Newburg",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Newburg",
+  "state": "PA",
+  "phone": "+12236244343",
+  "phone_display": "(223) 624-4343",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20Conditioning%20Services%20Newburg&query_place_id=ChIJkZ7Yo1ITyYkRwatn4lqg2CA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shippensburg",
+    "Newville",
+    "Walnut Bottom",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service from Air Conditioning Services Newburg! The technician was professional, friendly, and arrived on time. They quickly diagnosed the issue, explained everything clearly, and got my AC working perfectly again.",
+      "author": "jaresa M.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

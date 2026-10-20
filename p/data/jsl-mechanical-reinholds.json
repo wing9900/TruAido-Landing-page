@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "jsl-mechanical-reinholds",
+  "company": "JSL Mechanical Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17173362255",
+  "phone_display": "(717) 336-2255",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 64,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JSL%20Mechanical%20Inc&query_place_id=ChIJ3ccV2ukTxokRHmVPrn3QlBk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405783/truaido-previews/jsl-mechanical-reinholds/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#97111E",
+  "nearby_towns": [
+    "Adamstown",
+    "Denver",
+    "Stevens",
+    "Robesonia",
+    "Ephrata",
+    "Narvon"
+  ],
+  "reviews": [
+    {
+      "text": "JSL responded to, diagnosed, and repaired our inoperable well pump within 24 hours. Great communication throughout the process, especially John the plumbing manager. Thank you!",
+      "author": "Brett B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "I had a bathroom leak that caused damage and was very stressed about the situation. Dakota was professional, knowledgeable, and took the time to explain everything clearly. He arrived promptly, diagnosed the problem, and completed the repair efficiently.",
+      "author": "J F.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "I had initially inquired with Berks plumbing and HVAC they automatically tried to sell me a new system. Got a second opinion from JSL and they were able to fix my AC for barely anything compared to replacement costs.",
+      "author": "Becca H.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405782/truaido-previews/jsl-mechanical-reinholds/work1"
+  ]
+}

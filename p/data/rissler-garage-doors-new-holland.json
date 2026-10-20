@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "rissler-garage-doors-new-holland",
+  "company": "Rissler Garage Doors",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17177383667",
+  "phone_display": "(717) 738-3667",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rissler%20Garage%20Doors&query_place_id=ChIJXfcreXJrxokRwlY0mOBRrb0",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406118/truaido-previews/rissler-garage-doors-new-holland/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Earl",
+    "Stevens",
+    "Gordonville",
+    "Ephrata",
+    "Akron",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Thanks to everyone at Rissler for our fabulous new garage door. Everything went smoothly and on time at a great price. Thanks!",
+      "author": "Fred B.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Daniel is a very nice man! A few months ago I found rissler garage and contacted them. Dan came out the next day and we went over my options and what I wanted/needed. Within a few days everything was here at a good price and I'm very pleased.",
+      "author": "Lynn S.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "The spring broke on our garage door so it wouldn't open. I called Rissler Garage Doors and they were able to squeeze me into their schedule the next day (I was hoping for early the next week).",
+      "author": "Kevin B.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406118/truaido-previews/rissler-garage-doors-new-holland/work1"
+  ]
+}

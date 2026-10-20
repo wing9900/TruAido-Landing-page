@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "goods-glass-narvon",
+  "company": "Good's Glass Services",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Narvon",
+  "state": "PA",
+  "phone": "+17174455708",
+  "phone_display": "(717) 445-5708",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 59,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Good's%20Glass%20Services&query_place_id=ChIJ75aBN05sxokRxRAR7JkUw0Q",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406092/truaido-previews/goods-glass-narvon/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406093/truaido-previews/goods-glass-narvon/logo",
+    "layout": "wide",
+    "badge": "#000000"
+  },
+  "accent": "#5C7A20",
+  "nearby_towns": [
+    "East Earl",
+    "Adamstown",
+    "Denver",
+    "Stevens",
+    "New Holland",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Best glass shop around. Very knowledgeable with the product.",
+      "author": "Jake S.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Shawn was amazing! Worked quickly and efficiently and best part our windows look fantastic! We will highly reccomend Goods Glass Services to any of our family/friends!",
+      "author": "Nicolette M.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406092/truaido-previews/goods-glass-narvon/work1"
+  ]
+}

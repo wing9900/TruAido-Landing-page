@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "ibach-tree-manheim",
+  "company": "Ibach Tree Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176654616",
+  "phone_display": "(717) 665-4616",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ibach%20Tree%20Services&query_place_id=ChIJe33ufG8fxokRZWb2XenmQW4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "Lititz",
+    "East Petersburg",
+    "Mount Joy",
+    "Lancaster"
+  ],
+  "reviews": [],
+  "gallery": []
+}

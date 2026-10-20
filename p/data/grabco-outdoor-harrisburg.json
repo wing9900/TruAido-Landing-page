@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "grabco-outdoor-harrisburg",
+  "company": "GrabCo Outdoor Services LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177047514",
+  "phone_display": "(717) 704-7514",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=GrabCo%20Outdoor%20Services%20LLC&query_place_id=ChIJ38QOgvu3yIkRxcWY7fh0Vr4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407348/truaido-previews/grabco-outdoor-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Grantville",
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Dauphin",
+    "Halifax",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Had Grabco come over and grind and remove some stumps for me. Very professional and friendly service at a reasonable price. I would definitely recommend if you want the job done right without a bunch of hassle.",
+      "author": "Scott H.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407347/truaido-previews/grabco-outdoor-harrisburg/work1"
+  ]
+}

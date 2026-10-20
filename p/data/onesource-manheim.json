@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "onesource-manheim",
+  "company": "OneSource",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17176758750",
+  "phone_display": "(717) 675-8750",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=OneSource&query_place_id=ChIJN76SMYEhxokRevVpSAB_Ynw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405674/truaido-previews/onesource-manheim/logo",
+    "layout": "square",
+    "badge": "#000000"
+  },
+  "accent": "#347E96",
+  "nearby_towns": [
+    "Landisville",
+    "Salunga",
+    "East Petersburg",
+    "Lititz",
+    "Lancaster",
+    "Mount Joy"
+  ],
+  "reviews": [
+    {
+      "text": "The OneSource team has done a number of projects for us and each have been completed professionally and in the estimated time. We are very pleased with their work!",
+      "author": "Brian K.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "Did an amazing job. Very timely and considerate. Clean up was perfect.",
+      "author": "Chynna M.",
+      "stars": 5,
+      "month": "February 2025"
+    }
+  ],
+  "gallery": []
+}

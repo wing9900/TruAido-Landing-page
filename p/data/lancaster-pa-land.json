@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "lancaster-pa-land",
+  "company": "Lancaster PA Land Clearing",
+  "trade": "land-clearing",
+  "trade_label": "Land Clearing",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179250418",
+  "phone_display": "(717) 925-0418",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20PA%20Land%20Clearing&query_place_id=ChIJKfQk2-gnxokRew-crWLCryo",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406226/truaido-previews/lancaster-pa-land/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406227/truaido-previews/lancaster-pa-land/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#5C8127",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "Washington Boro",
+    "Conestoga",
+    "East Petersburg",
+    "Columbia"
+  ],
+  "reviews": [],
+  "gallery": []
+}

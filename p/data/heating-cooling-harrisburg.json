@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "heating-cooling-harrisburg",
+  "company": "The Heating and Cooling Guys",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173373353",
+  "phone_display": "(717) 337-3353",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 211,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Heating%20and%20Cooling%20Guys&query_place_id=ChIJJ2670W_HyIkRZzERJw0b6-c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Grantville",
+    "Dauphin",
+    "Halifax",
+    "Hummelstown",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "From the first phone call the communication was excellent. We were quickly given an appointment and were kept informed with reminder texts. The texts also let us know when they were on their way. Devin was a complete professional.",
+      "author": "Kareen B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Summer 2026: These guys are fantastic! We had several wiring and electrical issues with our AC unit, including needing the fan replaced.",
+      "author": "Elizabeth S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent service! Great communication with the customer! Very pleased with the installation!",
+      "author": "Michael B.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

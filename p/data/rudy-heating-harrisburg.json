@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "rudy-heating-harrisburg",
+  "company": "Rudy Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175103319",
+  "phone_display": "(717) 510-3319",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rudy%20Heating&query_place_id=ChIJz-bS9FLHyIkRCiIGyAn-_7Y",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Enola",
+    "Summerdale",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Amazing!! Quality and affordable work! Plus he\u2019s so kind to talk to\u2026. As a single female homeowner\u2026. He\u2019s honest and a complete gentleman!",
+      "author": "Katelin T.",
+      "stars": 5,
+      "month": "February 2023"
+    }
+  ],
+  "gallery": []
+}

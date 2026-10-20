@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "cool-hand-tree-harrisburg",
+  "company": "Cool Hand Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178316366",
+  "phone_display": "(717) 831-6366",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cool%20Hand%20Tree%20Service&query_place_id=ChIJpSkFxwApqCQRh9ihek1rDuo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Hampden Township",
+    "Lemoyne",
+    "New Cumberland",
+    "Mechanicsburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

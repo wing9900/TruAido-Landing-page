@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "rapid-air-conditioning-enola",
+  "company": "Rapid Air Conditioning & Heating Enola",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+12232406480",
+  "phone_display": "(223) 240-6480",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rapid%20Air%20Conditioning%20%26%20Heating%20Enola&query_place_id=ChIJxXKFPV3DyIkRy1bzNbkyKQ4",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Lemoyne",
+    "Camp Hill",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Highly recommend Rapid Air Conditioning & Heating Enola for local HVAC services. The team was responsive, professional, and attentive to the service needs. Great option for heating and air conditioning in Enola, PA.",
+      "author": "Aaron J.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Rapid Air Conditioning & Heating Enola provided outstanding HVAC service from start to finish. Their technicians arrived on time, quickly diagnosed the issue, and repaired my air conditioning system with professionalism and attention to detail.",
+      "author": "jonathan M.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "absolute-energy-hummelstown",
+  "company": "Absolute Energy Solutions",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175662514",
+  "phone_display": "(717) 566-2514",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 42,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Absolute%20Energy%20Solutions&query_place_id=ChIJQSNHQeO7yIkRMr9_xxCLmNg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407164/truaido-previews/absolute-energy-hummelstown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#896800",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hershey",
+    "Middletown",
+    "Highspire",
+    "Harrisburg",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Absolute Energy made the process painless , the communication was excellent. They were on time with all the steps of the installation. Detailed explanations on the operation of the generator and all the questions were answered .",
+      "author": "Jeffery G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Absolutely Amazing and Professional. Communication is exceptional and they work seamlessly from sales to installation to sustainment.",
+      "author": "Gregory B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Our experience with Absolute Energy was excellent from start to finish! The generator installation was handled professionally and efficiently. The technicians were professional, knowledgeable, extremely thorough, and courteous, they did a great job!",
+      "author": "C S.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407161/truaido-previews/absolute-energy-hummelstown/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407162/truaido-previews/absolute-energy-hummelstown/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407163/truaido-previews/absolute-energy-hummelstown/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407163/truaido-previews/absolute-energy-hummelstown/work4"
+  ]
+}

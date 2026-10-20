@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "red-rose-landscaping-lancaster",
+  "company": "Red Rose Landscaping",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172082265",
+  "phone_display": "(717) 208-2265",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 157,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Red%20Rose%20Landscaping&query_place_id=ChIJfUNbYU4jxokRTwIjZV7D2DA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "East Petersburg",
+    "Conestoga",
+    "Willow Street",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Keith and his crew did a great job in clearing out our yard that was overgrown. They showed up on time, were professional, polite and hardworking. The final result was incredible, and many neighbors have complimented on how great the yard looks.",
+      "author": "Kelly T.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Friendly professional group to work with. Arrived right on time and started immediately. Did an excellent job of cleaning up at end. Very happy the way the new flower bed was done. Thank you Red Rose.",
+      "author": "Deb B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The guys at red rose helped my grandma with her hedges and our majorly overgrown car park next to our garage, they cleaned em up great, and took a small log we had stuck in our yard that fell.",
+      "author": "Edward D.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

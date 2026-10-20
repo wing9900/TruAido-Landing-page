@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "slug": "plastic-welding-ephrata",
+  "company": "Plastic Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17174457031",
+  "phone_display": "(717) 445-7031",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Plastic%20Welding&query_place_id=ChIJGyI5WhprxokRGorKy_I5lg0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "New Holland",
+    "Stevens",
+    "East Earl",
+    "Denver",
+    "Narvon",
+    "Adamstown"
+  ],
+  "reviews": [
+    {
+      "text": "When we unexpectedly needed a plexiglass cover for Grandma's service, they stepped in immediately. With measurements sent over by text, they had everything completed in about 10 minutes.",
+      "author": "Nou M.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Have a bass boat which is made out of p.v.c. I struck a log or something,, shearing a rather large hole in the hull of the boat. I took it here, couldn't be happier !! You can barely see it, only by the newer p.v.c.",
+      "author": "Jon M.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405959/truaido-previews/plastic-welding-ephrata/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405960/truaido-previews/plastic-welding-ephrata/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405962/truaido-previews/plastic-welding-ephrata/work3"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "countryside-welding-shippensburg",
+  "company": "Countryside Welding & Fbrctng",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Shippensburg",
+  "state": "PA",
+  "phone": "+17175309448",
+  "phone_display": "(717) 530-9448",
+  "has_website": false,
+  "rating": 4.6,
+  "review_count": 12,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Countryside%20Welding%20%26%20Fbrctng&query_place_id=ChIJhfk2fd0NyYkRqkfF8WkhdII",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Walnut Bottom",
+    "Newburg",
+    "Newville",
+    "Gardners",
+    "Carlisle",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Love working with them they do a phenomenal job \ud83e\udd29",
+      "author": "William H.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "High quality workmanship and top notch service. Lowell is as nice and honest as they come.",
+      "author": "nick E.",
+      "stars": 5,
+      "month": "July 2025"
+    },
+    {
+      "text": "Nice quality 403 stainless mudflap brackets for Semi Trailers \ud83d\udc4c\ud83d\udc4c",
+      "author": "Charles P.",
+      "stars": 5,
+      "month": "November 2022"
+    }
+  ],
+  "gallery": []
+}

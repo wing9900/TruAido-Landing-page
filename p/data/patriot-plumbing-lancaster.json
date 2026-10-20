@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "patriot-plumbing-lancaster",
+  "company": "Patriot Plumbing, Heating & A/C LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173412127",
+  "phone_display": "(717) 341-2127",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 42,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Patriot%20Plumbing%2C%20Heating%20%26%20A%2FC%20LLC&query_place_id=ChIJqb2catolxokRypB4RlZOCPU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Elizabethtown",
+    "Mount Joy",
+    "Marietta",
+    "Bainbridge",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "We have used Patriot twice now for different plumbing needs. They were quick to get us on their schedule, prompt in their timing, knowledgable and professional in their work, easy to communicate with, and considerate. Highly recommend!",
+      "author": "Rebecca C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "It was great working with Devon, Noah and Kade. They did an excellent job putting in a new shower / bathtub and a faucet downstairs. They were very kind and respectful. I would highly recommend them",
+      "author": "Mary C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "Would 100% recommend. Devon is quick to respond, does quality work, very reasonably priced, and is a pleasure to do business with.",
+      "author": "Sarah G.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406531/truaido-previews/patriot-plumbing-lancaster/work1"
+  ]
+}

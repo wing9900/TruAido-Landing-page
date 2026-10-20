@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "jct-welding-fabrication-halifax",
+  "company": "JCT Welding & Fabrication LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17175994862",
+  "phone_display": "(717) 599-4862",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JCT%20Welding%20%26%20Fabrication%20LLC&query_place_id=ChIJ-Yxp02LPyIkR2HMyv0WrUHQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dauphin",
+    "Millersburg",
+    "Summerdale",
+    "Enola",
+    "East Pennsboro Township",
+    "Elizabethville"
+  ],
+  "reviews": [
+    {
+      "text": "Jeremy fixed my trailer in a pinch. He did an awesome job and I\u2019ll absolutely be calling him again",
+      "author": "Chris C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Fair pricing, extremely quick turn around and fantastic work. Will use for any future fabrication needs!",
+      "author": "Tom T.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Needed a new bracket welded on my camper, Jeremy came to my house the next day. Great looking weld!!!",
+      "author": "Nate S.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}

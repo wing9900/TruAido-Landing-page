@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "cahill-hvac-lancaster",
+  "company": "Cahill HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179624510",
+  "phone_display": "(717) 962-4510",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cahill%20HVAC&query_place_id=ChIJ26DOA2yZyIkRraDEPMc8cYQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Elizabethtown",
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Tim from cahill hvac is amazing. He had fixed our main ac and put in a mini split for us a few years ago. Today our main ac unit was making a loud sound, the fan wasn't spinning and it was pushing out hot air.",
+      "author": "Josh D.",
+      "stars": 5,
+      "month": "August 2023"
+    },
+    {
+      "text": "Cahill was responsive, offered a lot of knowledge and quoted me for reasonably priced services for a new AC unit so it was a no brainer. The guys were very respectful and flexible around scheduling. Definitely trustful and reliable.",
+      "author": "Lauren D.",
+      "stars": 5,
+      "month": "June 2023"
+    }
+  ],
+  "gallery": []
+}

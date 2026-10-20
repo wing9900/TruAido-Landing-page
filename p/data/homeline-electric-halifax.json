@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "homeline-electric-halifax",
+  "company": "Homeline Electric LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17179520690",
+  "phone_display": "(717) 952-0690",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 46,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Homeline%20Electric%20LLC&query_place_id=ChIJG8LGqmc0z4kR3Nw09_2UIeU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersburg",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Summerdale",
+    "Gratz"
+  ],
+  "reviews": [
+    {
+      "text": "They are very nice and efficient. They let you know what they are doing and when they are doing it. Excellent job. Well done.",
+      "author": "Barbara R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Great job! Ben was very polite and a hard worker.",
+      "author": "Patricia S.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Amazing service, super knowledgeable and very kind folks! Very prompt with appointments and careful with things in the home. Just can't say enough! Highly recommend \ud83d\ude0a",
+      "author": "Lisa P.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407319/truaido-previews/homeline-electric-halifax/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407321/truaido-previews/homeline-electric-halifax/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407321/truaido-previews/homeline-electric-halifax/work3"
+  ]
+}

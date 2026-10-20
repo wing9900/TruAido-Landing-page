@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "leffler-energy-lancaster",
+  "company": "Leffler Energy",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176531411",
+  "phone_display": "(717) 653-1411",
+  "has_website": true,
+  "rating": 3.7,
+  "review_count": 491,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Leffler%20Energy&query_place_id=ChIJhxb60lieyIkRXkP52Zr7b_8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406250/truaido-previews/leffler-energy-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#CC333B",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Leola",
+    "Willow Street",
+    "Mountville",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "We had an awesome experience with Dylan. He was very polite, a hard worker & had us up & running in no time.",
+      "author": "Marilyn C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Henriette Friedman called in to say how wonderful Tech Allen was and that he does an amazing job everytime he comes",
+      "author": "Dennis W.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406250/truaido-previews/leffler-energy-lancaster/work1"
+  ]
+}

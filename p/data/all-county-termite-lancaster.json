@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "all-county-termite-lancaster",
+  "company": "All County Termite & Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17179409029",
+  "phone_display": "(717) 940-9029",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 70,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=All%20County%20Termite%20%26%20Pest%20Control&query_place_id=ChIJDf667vUmxokR5KaMvwUK6zg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406755/truaido-previews/all-county-termite-lancaster/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#846B03",
+  "nearby_towns": [
+    "Conestoga",
+    "Millersville",
+    "Pequea",
+    "Willow Street",
+    "Washington Boro",
+    "Mountville"
+  ],
+  "reviews": [
+    {
+      "text": "I had a yellow jacket nest that need remediation as I had already been stung and needed to climb a ladder in that area for a home project. Jim was very prompt and professional with setting up a time to take care of it, and transparent about the price.",
+      "author": "David",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I am a community manager for condominiums and HOAs in the Philadelphia and surrounding counties. All County Pest Control is thorough and professional.",
+      "author": "Paul J.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "James is awesome! Very thorough and always accommodating with times and pricing",
+      "author": "Meredith E.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406754/truaido-previews/all-county-termite-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406754/truaido-previews/all-county-termite-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406755/truaido-previews/all-county-termite-lancaster/work3"
+  ]
+}

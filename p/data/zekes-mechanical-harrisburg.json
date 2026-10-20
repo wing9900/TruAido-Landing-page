@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "slug": "zekes-mechanical-harrisburg",
+  "company": "Zeke's Mechanical Services LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173199832",
+  "phone_display": "(717) 319-9832",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zeke's%20Mechanical%20Services%20LLC&query_place_id=ChIJD1y-VxYUFWURY7hsHTffpWs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Camp Hill",
+    "Lemoyne",
+    "East Pennsboro Township",
+    "Enola"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408208/truaido-previews/zekes-mechanical-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408209/truaido-previews/zekes-mechanical-harrisburg/work2"
+  ]
+}

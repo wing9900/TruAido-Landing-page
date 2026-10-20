@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "vy-harrisburg",
+  "company": "V.Y. Services Co",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178779321",
+  "phone_display": "(717) 877-9321",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 135,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=V.Y.%20Services%20Co&query_place_id=ChIJU7kuLdt9SEMRBKAOw6gE9ds",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Middletown",
+    "Highspire",
+    "Steelton",
+    "Elizabethtown",
+    "New Cumberland",
+    "Hummelstown"
+  ],
+  "reviews": [
+    {
+      "text": "Always quick and efficient service. Excellent service!",
+      "author": "Alicia L.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Very happy with the service, friendly helpful and I would recommend you to anyone that needs help",
+      "author": "Anna G.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "My AC stopped working and Vasiliy was out the next afternoon and found my issue in a short time. He\u2019s very knowledgeable, friendly, and a joy to work with. Yes, do yourself a favor and use them for your HVAC needs!",
+      "author": "Karen",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

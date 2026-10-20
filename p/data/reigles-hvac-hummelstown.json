@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "reigles-hvac-hummelstown",
+  "company": "Reigle's HVAC.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175664956",
+  "phone_display": "(717) 566-4956",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Reigle's%20HVAC.&query_place_id=ChIJtWmSRk-6yIkRQVFGUQcMXG8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Grantville",
+    "Lower Paxton Township",
+    "Harrisburg",
+    "Middletown",
+    "Elizabethtown"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service. Small business America showing how it's done.",
+      "author": "Dale R.",
+      "stars": 5,
+      "month": "February 2022"
+    },
+    {
+      "text": "Great visit from Mike recently. Thank you for taking care of us so well.",
+      "author": "Ian F.",
+      "stars": 5,
+      "month": "October 2019"
+    }
+  ],
+  "gallery": []
+}

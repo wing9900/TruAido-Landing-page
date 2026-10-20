@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "york-factory-direct-lemoyne",
+  "company": "YORK Factory Direct",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17177612979",
+  "phone_display": "(717) 761-2979",
+  "has_website": true,
+  "rating": 4.2,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=YORK%20Factory%20Direct&query_place_id=ChIJI7rJHpHByIkR9q7FZDGprwE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408323/truaido-previews/york-factory-direct-lemoyne/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#24549B",
+  "nearby_towns": [
+    "Camp Hill",
+    "New Cumberland",
+    "Shiremanstown",
+    "East Pennsboro Township",
+    "Steelton",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "This branch is very knowledgeable and helpful with all our equipment and parts needs. Always timely and polite!!",
+      "author": "Michelle R.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "Had the part I needed in stock. Great friendly and helpful staff",
+      "author": "Shaggy5150 K.",
+      "stars": 5,
+      "month": "September 2021"
+    }
+  ],
+  "gallery": []
+}

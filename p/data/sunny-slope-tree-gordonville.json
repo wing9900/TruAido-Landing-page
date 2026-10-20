@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "sunny-slope-tree-gordonville",
+  "company": "Sunny Slope Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Gordonville",
+  "state": "PA",
+  "phone": "+17177680114",
+  "phone_display": "(717) 768-0114",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 158,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sunny%20Slope%20Tree%20Service&query_place_id=ChIJbzxnqF4_xokR4MuGpmgWOvQ",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406860/truaido-previews/sunny-slope-tree-gordonville/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406862/truaido-previews/sunny-slope-tree-gordonville/logo",
+    "layout": "wide",
+    "badge": "#111827"
+  },
+  "accent": "#936C00",
+  "nearby_towns": [
+    "New Holland",
+    "Ronks",
+    "Gap",
+    "Leola",
+    "Strasburg",
+    "Paradise"
+  ],
+  "reviews": [
+    {
+      "text": "They came right out and cleared out my driveway where a neighbor's tree had partially fallen. Knew exactly what to do and at a reasonable fee.",
+      "author": "Jo M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Excellent service. Removed a tree and ground the stump for me. They were fast and professional. Very pleased.",
+      "author": "Nick M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "We were pleased with Sunny Slope Tree Service who cut three black walnut trees that posed a threat to our home especially with El Ni\u00f1o and the incoming winter. Sunny Slope Tree Service were friendly and professional.",
+      "author": "Octavia B.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406860/truaido-previews/sunny-slope-tree-gordonville/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406861/truaido-previews/sunny-slope-tree-gordonville/work2"
+  ]
+}

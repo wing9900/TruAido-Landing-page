@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "fireside-chimney-lancaster",
+  "company": "Fireside Chimney Service",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17178268126",
+  "phone_display": "(717) 826-8126",
+  "has_website": false,
+  "rating": 4.5,
+  "review_count": 51,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fireside%20Chimney%20Service&query_place_id=ChIJryrMs0EWxokR38sY4Ab_bek",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "Leola",
+    "Ephrata",
+    "Lititz",
+    "New Holland"
+  ],
+  "reviews": [
+    {
+      "text": "Josh is very knowledgeable, does thorough work, and is a genuine pleasure to deal with. I would highly recommend him.",
+      "author": "Don G.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Was referred to Josh by another local vendor. He came in and figured out what was going on with our insert in about 5 minutes. This was after our other contractor had been here 2x and cleaned the liner (at the end of last season- never diagnosing the problem...",
+      "author": "G R.",
+      "stars": 5,
+      "month": "February 2025"
+    },
+    {
+      "text": "Josh & Fireside is fantastic. Honest and efficient work of our chimney inspection, and great communication. Highly recommend.",
+      "author": "Loren T.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405984/truaido-previews/fireside-chimney-lancaster/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405985/truaido-previews/fireside-chimney-lancaster/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405986/truaido-previews/fireside-chimney-lancaster/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405988/truaido-previews/fireside-chimney-lancaster/work4"
+  ]
+}

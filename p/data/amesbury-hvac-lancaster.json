@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "amesbury-hvac-lancaster",
+  "company": "Amesbury HVAC and Home Services LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12232891247",
+  "phone_display": "(223) 289-1247",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Amesbury%20HVAC%20and%20Home%20Services%20LLC&query_place_id=ChIJpYtMe7qowSoRfftH4H8wuDk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "The work they performed was quick, professional, and clean. The new compressor unit has been awesome the past 3 months, especially during those 100 degree days. I highly recommend.",
+      "author": "Nathan W.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "hughes-mechanical-carlisle",
+  "company": "Hughes Mechanical Enterprises",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17179610169",
+  "phone_display": "(717) 961-0169",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hughes%20Mechanical%20Enterprises&query_place_id=ChIJqW6hg-fhyIkR7KOcu9YHfX8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Gardners",
+    "Hampden Township",
+    "Newville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

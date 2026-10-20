@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "am-electric-ephrata",
+  "company": "A&M Electric LLC",
+  "trade": "generator",
+  "trade_label": "Generator Installation",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17179618575",
+  "phone_display": "(717) 961-8575",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 36,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A%26M%20Electric%20LLC&query_place_id=ChIJa585uTc8xokRut4k7KHo7qc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/generator.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Stevens",
+    "Brownstown",
+    "Lititz",
+    "Denver",
+    "Reinholds"
+  ],
+  "reviews": [
+    {
+      "text": "Excellent service. Very quick response to request for service.",
+      "author": "Terry E.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We are very happy that we chose A&M Electric to install a whole house generator. Everyone that came to the house acted in a professional and personal manner. They explained what they were doing and answered any questions when we asked.",
+      "author": "Jessica D.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Professional delivery in all aspects of service. Installed a Kohler generator fir us. The job required extra thought in application, but AMJ (Andrew) handled the situation nicely. The try to do there best in every aspect of delivery.",
+      "author": "B S.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": []
+}

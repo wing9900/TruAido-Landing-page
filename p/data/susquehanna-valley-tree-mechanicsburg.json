@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "susquehanna-valley-tree-mechanicsburg",
+  "company": "Susquehanna Valley Tree",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17179793299",
+  "phone_display": "(717) 979-3299",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 23,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Valley%20Tree&query_place_id=ChIJhX5yB_vnyIkREMcEorbzw4Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill",
+    "Boiling Springs",
+    "Enola"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are absolutely awesome!! They came in took down the tree and removed the stump and cleaned up their mess. I would highly recommend them and the price was way cheaper than I thought it would be. Seriously give them a call you won't be sorry you did.",
+      "author": "Michelle K.",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "They save houses! They also deal with the electric company so you don't have to. Best service in mechanicsburg.",
+      "author": "Kelly C.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Darwin and his crew at Susquehanna Tree are \"simply the best\". They are real professionals who have always done quality work for us.",
+      "author": "John R.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": []
+}

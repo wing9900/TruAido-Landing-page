@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "ee-biss-heating-harrisburg",
+  "company": "EE BISS Heating & Cooling INC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178204671",
+  "phone_display": "(717) 820-4671",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=EE%20BISS%20Heating%20%26%20Cooling%20INC&query_place_id=ChIJ3Sgf1bu-yIkRPq1IqvY_uCg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407058/truaido-previews/ee-biss-heating-harrisburg/logo",
+    "layout": "square",
+    "badge": "#000000"
+  },
+  "accent": "#532123",
+  "nearby_towns": [
+    "Hummelstown",
+    "Lower Paxton Township",
+    "Highspire",
+    "Middletown",
+    "Steelton",
+    "Hershey"
+  ],
+  "reviews": [],
+  "gallery": []
+}

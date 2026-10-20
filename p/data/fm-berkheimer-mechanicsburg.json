@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "fm-berkheimer-mechanicsburg",
+  "company": "F.M. Berkheimer, Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177666152",
+  "phone_display": "(717) 766-6152",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 177,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=F.M.%20Berkheimer%2C%20Inc&query_place_id=ChIJ50QkoBbmyIkRrVB0PS1GDkE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Boiling Springs",
+    "Camp Hill",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "I have been using this company since 1991 and have always found them to be very friendly and professional - from the girls in the office to the service technicians! They service my heat pump and do the bi-annual check ups on it also.",
+      "author": "Sondra B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Installed a duel fuel heat pump, waiting to see how it works this year. Have always used them for standard heat pump service and installation",
+      "author": "Harry I.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Kerry was our technician for our first heating maintenance with Berkheimer. He took apart things I\u2019ve never seen taken apart before! He cleaned and drained and did an overall impressive and thorough job!",
+      "author": "Barbara L.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

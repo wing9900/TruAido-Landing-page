@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hoffman-mechanical-hvac-reinholds",
+  "company": "Hoffman Mechanical HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Reinholds",
+  "state": "PA",
+  "phone": "+17174150784",
+  "phone_display": "(717) 415-0784",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 50,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hoffman%20Mechanical%20HVAC&query_place_id=ChIJ-7EYL-ibAGoRDRK_RaUzvbg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Denver",
+    "Adamstown",
+    "Robesonia",
+    "Stevens",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "The HVAC contractor was professional and responsive from the start. They diagnosed the issue clearly and explained the repair options before getting started.",
+      "author": "Dagnew",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Overall, I appreciated the professional service and clear communication. The HVAC issue was addressed efficiently, and the technician made sure everything was working properly before finishing.",
+      "author": "Mahabub P.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "We had a good experience with the HVAC contractor. The technician was courteous, knowledgeable, and careful with the equipment and surrounding area.",
+      "author": "rajib D.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "susquehanna-oil-propane-dillsburg",
+  "company": "Susquehanna Oil & Propane Co",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Dillsburg",
+  "state": "PA",
+  "phone": "+17177661511",
+  "phone_display": "(717) 766-1511",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 21,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Oil%20%26%20Propane%20Co&query_place_id=ChIJUzBse9HlyIkRczjDA2FAQ7s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Carlisle"
+  ],
+  "reviews": [
+    {
+      "text": "We needed an emergency propane delivery on a Sunday. Susquehanna propane was the only company who answered their phone. We are switching from patriot to Susquehanna for this reason. In an emergency, you can count on Susquehanna propane!",
+      "author": "Jean B.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Saved the day on Christmas Eve. Amazing service. Polite, courteous, and super helpful.",
+      "author": "Kurt D.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "I have been an oil customer for many years but recently needed a new boiler. They made the whole process easy and got the job done fast. They even waited on payment until I got my financing in order.",
+      "author": "Laura L.",
+      "stars": 5,
+      "month": "March 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408158/truaido-previews/susquehanna-oil-propane-dillsburg/work1"
+  ]
+}

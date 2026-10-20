@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "sa-paint-repair-lititz",
+  "company": "S & A Paint and Repair, LLC",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17176270011",
+  "phone_display": "(717) 627-0011",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 187,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=S%20%26%20A%20Paint%20and%20Repair%2C%20LLC&query_place_id=ChIJIZz47VAYxokR6aNkQthV-QA",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Manheim",
+    "Akron",
+    "Brownstown",
+    "East Petersburg",
+    "Ephrata",
+    "Lancaster"
+  ],
+  "reviews": [
+    {
+      "text": "They did a great job of repairing and fixing my car.",
+      "author": "Sandra W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Getting into an accident is never fun but thankfully I had Bill and his team help me out!! Highly recommend if you want a reliable and trustworthy team who\u2019s sole focus is to help you, the customer!",
+      "author": "Fish C.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Kaitlyn and Todd were so helpful and communicative the entire process. They not only guided me through dealing with car insurance for my repairs, but also helped advocate for me when needed. The work they did is invisible.",
+      "author": "Belle F.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406055/truaido-previews/sa-paint-repair-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406056/truaido-previews/sa-paint-repair-lititz/work2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "brothers-mechanical-harrisburg",
+  "company": "D. Brothers Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173037334",
+  "phone_display": "(717) 303-7334",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=D.%20Brothers%20Mechanical%20LLC&query_place_id=ChIJI-MrTS7ByIkRvJZCWO8oQaw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Steelton",
+    "New Cumberland",
+    "Lemoyne",
+    "Lower Paxton Township",
+    "East Pennsboro Township",
+    "Highspire"
+  ],
+  "reviews": [
+    {
+      "text": "Price was right and the service was very quick! Andy was friendly and respectful! I will call them again if I ever need anything.",
+      "author": "Ben W.",
+      "stars": 5,
+      "month": "November 2022"
+    }
+  ],
+  "gallery": []
+}

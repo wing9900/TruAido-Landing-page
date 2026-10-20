@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "landis-hvac-lancaster",
+  "company": "Landis HVAC & Refrigeration",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172888064",
+  "phone_display": "(717) 288-8064",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Landis%20HVAC%20%26%20Refrigeration&query_place_id=ChIJ6_vgLGWQUWgRi3bmO4L42iU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406470/truaido-previews/landis-hvac-lancaster/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "Mountville",
+    "East Petersburg",
+    "Washington Boro",
+    "Conestoga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "On time, professional and knowledgeable! I have used Landis HVAC for my business and would highly recommend for residential or commercial work",
+      "author": "Jeremy H.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406470/truaido-previews/landis-hvac-lancaster/work1"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bob-snyder-welding-mechanicsburg",
+  "company": "Bob Snyder Welding",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17177376693",
+  "phone_display": "(717) 737-6693",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bob%20Snyder%20Welding&query_place_id=ChIJBWX9cwjoyIkRpoRZ2kABspw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Dillsburg",
+    "Lemoyne",
+    "Enola"
+  ],
+  "reviews": [],
+  "gallery": []
+}

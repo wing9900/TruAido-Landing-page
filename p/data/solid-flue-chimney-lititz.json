@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "solid-flue-chimney-lititz",
+  "company": "Solid Flue Chimney Savers",
+  "trade": "chimney",
+  "trade_label": "Chimney Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+16105525712",
+  "phone_display": "(610) 552-5712",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Solid%20Flue%20Chimney%20Savers&query_place_id=ChIJb9YUYAAZxokROwlpC2XEiFc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/chimney.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Brownstown",
+    "Akron",
+    "East Petersburg",
+    "Manheim",
+    "Ephrata",
+    "Lancaster"
+  ],
+  "reviews": [],
+  "gallery": []
+}

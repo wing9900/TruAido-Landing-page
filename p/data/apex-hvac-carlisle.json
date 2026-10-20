@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "apex-hvac-carlisle",
+  "company": "Apex HVAC Repair Systems",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17174275595",
+  "phone_display": "(717) 427-5595",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Apex%20HVAC%20Repair%20Systems&query_place_id=ChIJKavPLD0fyYkRtCko72JGuoU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Gardners",
+    "Newville",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Walnut Bottom"
+  ],
+  "reviews": [
+    {
+      "text": "I decided to leave a review because the technicians fixed my portable A/C quickly, though they could have communicated a bit better about the part they needed to order. Overall, I was satisfied with the repair but clearer updates would have been appreciated.\ud83d\udc4d",
+      "author": "JEREMY C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Compared to a previous service I used, the scheduling process with management was more straightforward this time, and Portable A/C Services handled the installation efficiently. While communication could have been quicker, the job itself was done effectively.",
+      "author": "MASON U.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I was pleasantly surprised when the cost for dismantling my A/C system was exactly what I had been quoted, and the technician took time to explain every step thoroughly.",
+      "author": "Dwight J.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

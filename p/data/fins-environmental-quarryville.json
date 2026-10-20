@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "fins-environmental-quarryville",
+  "company": "Fins Environmental Service LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Quarryville",
+  "state": "PA",
+  "phone": "+17172845228",
+  "phone_display": "(717) 284-5228",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 472,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fins%20Environmental%20Service%20LLC&query_place_id=ChIJ862itCcyxokRqqKWLQ5FeRk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406326/truaido-previews/fins-environmental-quarryville/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#01017E",
+  "nearby_towns": [
+    "New Providence",
+    "Holtwood",
+    "Pequea",
+    "Willow Street",
+    "Conestoga",
+    "Strasburg"
+  ],
+  "reviews": [
+    {
+      "text": "Quick service to get our septic system pumped out. They had to dig around our plants in the back yard and you'd never know they were there. The driver who called my husband was great...excellent service!",
+      "author": "carol W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Service was fast and super. We appreciated how quickly they came and pumped our tank!",
+      "author": "Michele S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Robert was super! He was very personable and knowledgeable. He even put the dirt back in the hole.",
+      "author": "Charlie S.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

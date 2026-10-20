@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "reynolds-heating-lancaster",
+  "company": "Reynolds Heating & Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172995220",
+  "phone_display": "(717) 299-5220",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Reynolds%20Heating%20%26%20Air%20Conditioning&query_place_id=ChIJRYPyXbMkxokR2BXVN_cPb-Q",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Leola",
+    "Millersville",
+    "Willow Street",
+    "Strasburg",
+    "Brownstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

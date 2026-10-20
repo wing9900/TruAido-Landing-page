@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "eric-hvac-lancaster",
+  "company": "Eric HVAC Service Lancaster",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17173499618",
+  "phone_display": "(717) 349-9618",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Eric%20HVAC%20Service%20Lancaster&query_place_id=ChIJ4diCc34lxokRU0vU0cT63cw",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406568/truaido-previews/eric-hvac-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Leola",
+    "Brownstown"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406568/truaido-previews/eric-hvac-lancaster/work1"
+  ]
+}

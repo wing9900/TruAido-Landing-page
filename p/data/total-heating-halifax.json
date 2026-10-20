@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "total-heating-halifax",
+  "company": "Total Heating & Cooling Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17176486964",
+  "phone_display": "(717) 648-6964",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Total%20Heating%20%26%20Cooling%20Inc.&query_place_id=ChIJnUwPvGPKyIkRYtVSpVGAmTg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407309/truaido-previews/total-heating-halifax/logo",
+    "layout": "wide",
+    "badge": "#E0702F"
+  },
+  "accent": "#0D6BB2",
+  "nearby_towns": [
+    "Elizabethville",
+    "Millersburg",
+    "Lykens",
+    "Dauphin",
+    "Gratz",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "The technician that provided service for our air conditioning was amazing. He answered all my questions and didn't rush or give quick answers . He took his time to explain things that will now help us use our system more efficiently.",
+      "author": "Kathleen L.",
+      "stars": 5,
+      "month": "April 2025"
+    },
+    {
+      "text": "Chuck and the team at Total Heating and Cooling have been my go to for over a decade. Great service and installation of my geothermal unit, and responsive to services since.",
+      "author": "Shane M.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "Top-notch HVAC Company for every need, highly recommend!!!",
+      "author": "Justin M.",
+      "stars": 5,
+      "month": "October 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407308/truaido-previews/total-heating-halifax/work1"
+  ]
+}

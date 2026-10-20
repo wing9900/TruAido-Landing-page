@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "beacon-hvac-harrisburg",
+  "company": "Beacon HVAC Repair Harrisburg",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176756941",
+  "phone_display": "(717) 675-6941",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Beacon%20HVAC%20Repair%20Harrisburg&query_place_id=ChIJrYK8OgDByIkRoVbBvhAzVUQ",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792407050/truaido-previews/beacon-hvac-harrisburg/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "New Cumberland",
+    "Steelton",
+    "Enola",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "Five-star experience with this HVAC contractor. The technician was punctual, skilled, respectful, and completed the work efficiently. Very satisfied with service.",
+      "author": "Wilford I.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I had a great experience with Beacon HVAC Repair Harrisburg. The technician arrived on time, carefully inspected the system, and explained everything clearly. He worked efficiently and professionally. The entire appointment was smooth and well handled.",
+      "author": "Icona I.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

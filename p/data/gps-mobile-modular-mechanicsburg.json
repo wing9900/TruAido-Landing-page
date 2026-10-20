@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "gps-mobile-modular-mechanicsburg",
+  "company": "GPS Mobile Modular",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176976145",
+  "phone_display": "(717) 697-6145",
+  "has_website": false,
+  "rating": 4.2,
+  "review_count": 27,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=GPS%20Mobile%20Modular&query_place_id=ChIJvwUu17HCyIkRjIAtYQuWmnQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Enola",
+    "Lemoyne",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Very friendly. And very helpful i got the door i needed and now I feel more secure. Thanks for all of your help.",
+      "author": "Clarence W.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "A plus ser L0k Ovices. Very affordable. Extremely nice people. Very professional.",
+      "author": "Allen C.",
+      "stars": 5,
+      "month": "April 2026"
+    }
+  ],
+  "gallery": []
+}

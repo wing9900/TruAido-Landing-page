@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "justin-time-plumbing-lancaster",
+  "company": "Justin Time Plumbing Heating Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172082367",
+  "phone_display": "(717) 208-2367",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Justin%20Time%20Plumbing%20Heating%20Cooling&query_place_id=ChIJV1390s-fyIkR8EQBYrZRdco",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406450/truaido-previews/justin-time-plumbing-lancaster/logo",
+    "layout": "square",
+    "badge": "#1B3665"
+  },
+  "accent": "#D81307",
+  "nearby_towns": [
+    "Mount Joy",
+    "Mount Joy Township",
+    "Salunga",
+    "Elizabethtown",
+    "Landisville",
+    "Marietta"
+  ],
+  "reviews": [
+    {
+      "text": "My sister originally had these guys come out to do some mini splits and had really good things to say about them. I had about 4 people come out to get a quote on mini splits as well.",
+      "author": "Alicia M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "They fixed my water which had very high public chlorine with a carbon filter. Attention to detail, knowledgeable and very quick and friendly service providers! Thank you",
+      "author": "Deborah C.",
+      "stars": 5,
+      "month": "August 2026"
+    },
+    {
+      "text": "I am writing to express my sincere appreciation for the outstanding service provided by your team during their recent visit to my property. I was thoroughly impressed by the professionalism and efficiency demonstrated by your crew.",
+      "author": "Aaron N.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406450/truaido-previews/justin-time-plumbing-lancaster/work1"
+  ]
+}

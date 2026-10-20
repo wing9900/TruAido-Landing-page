@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "leaps-bounds-lemoyne",
+  "company": "Leaps & Bounds",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lemoyne",
+  "state": "PA",
+  "phone": "+17172205729",
+  "phone_display": "(717) 220-5729",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 744,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Leaps%20%26%20Bounds&query_place_id=ChIJpXqn-Rr9yIkR7F1BWRwhMNg",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792408189/truaido-previews/leaps-bounds-lemoyne/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408195/truaido-previews/leaps-bounds-lemoyne/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#347E94",
+  "nearby_towns": [
+    "New Cumberland",
+    "Camp Hill",
+    "Shiremanstown",
+    "Steelton",
+    "East Pennsboro Township",
+    "Harrisburg"
+  ],
+  "reviews": [
+    {
+      "text": "Me - Jeff again lol. Finally , our family and especially ( my daughter ) has so happy. Appreciated your service. Especially Tech \" JOVANI VAZQUEZ & CHRISTOPHER TAYLOR \" were made us happy and cold air come out.",
+      "author": "Jeffery O.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Mike was a professional, friendy, respectful and he provided detail information about next step. Thank you Mike.",
+      "author": "Max L.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Chris was very polite and knowledgeable. He explained everything that he was doing and made recommendations. He also scheduled our plumbing inspection while he was here.",
+      "author": "Todd W.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408190/truaido-previews/leaps-bounds-lemoyne/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408191/truaido-previews/leaps-bounds-lemoyne/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408193/truaido-previews/leaps-bounds-lemoyne/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408195/truaido-previews/leaps-bounds-lemoyne/work4"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "hillcrest-critter-pest-harrisburg",
+  "company": "Hillcrest Critter & Pest Control Inc",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178962721",
+  "phone_display": "(717) 896-2721",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Hillcrest%20Critter%20%26%20Pest%20Control%20Inc&query_place_id=ChIJozgJD37LyIkRu2qXttYsbNE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Halifax",
+    "Millersburg",
+    "Elizabethville",
+    "Dauphin",
+    "Lykens",
+    "Gratz"
+  ],
+  "reviews": [
+    {
+      "text": "Alex did a super job giving me tips and setting up mice baits to control mice entering my basement. Very helpful and very knowledgeable and very pleasant. Very reasonable rates! Thank you for a super job, Alex!!",
+      "author": "Penny H.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Alex sprays around my house every year, and I can not be happier. Since we hired them, no more wasps, stingbugs, and even lantern flies are flying around my place anymore! Great job and very reasonable rates. 100% recommended.",
+      "author": "Sue S.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Heard noises in my kiddos ceiling, kind of expected something but not 100+ bees to fall on my head after the ceiling broke through. Was recommended to these guys; called in the morning only to receive service, in what I would consider immediately and within...",
+      "author": "Aubrie M.",
+      "stars": 5,
+      "month": "September 2025"
+    }
+  ],
+  "gallery": []
+}

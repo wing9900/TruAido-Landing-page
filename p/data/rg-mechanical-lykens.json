@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "rg-mechanical-lykens",
+  "company": "R&G Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lykens",
+  "state": "PA",
+  "phone": "+17172654827",
+  "phone_display": "(717) 265-4827",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=R%26G%20Mechanical%20LLC&query_place_id=ChIJ22qMZ8BLz4kR2DghaQ8mSXk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gratz",
+    "Elizabethville",
+    "Williamstown",
+    "Millersburg",
+    "Halifax",
+    "Grantville"
+  ],
+  "reviews": [],
+  "gallery": []
+}

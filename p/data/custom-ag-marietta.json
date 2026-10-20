@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "slug": "custom-ag-marietta",
+  "company": "Custom Ag Services",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Marietta",
+  "state": "PA",
+  "phone": "+17176459374",
+  "phone_display": "(717) 645-9374",
+  "has_website": true,
+  "rating": 3.7,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Custom%20Ag%20Services&query_place_id=ChIJaa0L-eGbyIkRwG_ntK6QmFU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406295/truaido-previews/custom-ag-marietta/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#623A14",
+  "nearby_towns": [
+    "Bainbridge",
+    "Elizabethtown",
+    "Mount Joy",
+    "Mount Joy Township",
+    "Columbia",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "These guys do great work! Always a pleasure to work with!",
+      "author": "Clear C.",
+      "stars": 5,
+      "month": "January 2024"
+    },
+    {
+      "text": "Was glad to find Custom Ag\u2019s ad and called, they were prompt, gave an estimate , came out and did the work on time. Virgil and his brother are professional, and their work shows it! Would recommend them to anyone! Thank you!",
+      "author": "Joe A.",
+      "stars": 5,
+      "month": "November 2022"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406293/truaido-previews/custom-ag-marietta/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406294/truaido-previews/custom-ag-marietta/work2"
+  ]
+}

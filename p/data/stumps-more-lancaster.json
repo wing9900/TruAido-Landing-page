@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "stumps-more-lancaster",
+  "company": "Stumps and More",
+  "trade": "stump-grinding",
+  "trade_label": "Stump Grinding",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174312995",
+  "phone_display": "(717) 431-2995",
+  "has_website": false,
+  "rating": 2.3,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Stumps%20and%20More&query_place_id=ChIJZ4WLFHsjxokR-a9sKK9JkLI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Leola",
+    "Willow Street"
+  ],
+  "reviews": [
+    {
+      "text": "These guys are responsive and FAIRLY priced compared to others I have dealt with Would use them anytime",
+      "author": "Michael Y.",
+      "stars": 5,
+      "month": "May 2018"
+    }
+  ],
+  "gallery": []
+}

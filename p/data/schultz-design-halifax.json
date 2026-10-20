@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "schultz-design-halifax",
+  "company": "Schultz Design & Fabrication LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Halifax",
+  "state": "PA",
+  "phone": "+17175494232",
+  "phone_display": "(717) 549-4232",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Schultz%20Design%20%26%20Fabrication%20LLC&query_place_id=ChIJl6ca4nXPyIkRzIcWTBRBbTU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Dauphin",
+    "Millersburg",
+    "Summerdale",
+    "Enola",
+    "Elizabethville",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407558/truaido-previews/schultz-design-halifax/work1"
+  ]
+}

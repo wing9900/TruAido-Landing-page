@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "scott-walen-md-harrisburg",
+  "company": "Scott Walen, MD",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175311386",
+  "phone_display": "(717) 531-1386",
+  "has_website": true,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Scott%20Walen%2C%20MD&query_place_id=ChIJPXmcTRHHyIkRdVa89dWeg_s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/garage-doors.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "East Pennsboro Township",
+    "Summerdale",
+    "Enola",
+    "Steelton",
+    "Lemoyne"
+  ],
+  "reviews": [],
+  "gallery": []
+}

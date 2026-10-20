@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "mountain-air-heating-lancaster",
+  "company": "Mountain Air Heating and Cooling Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177990101",
+  "phone_display": "(717) 799-0101",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mountain%20Air%20Heating%20and%20Cooling%20Services&query_place_id=ChIJt8CcyhOvCK4RJuHeo2lvsBI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lititz",
+    "Brownstown",
+    "East Petersburg",
+    "Akron",
+    "Manheim",
+    "Ephrata"
+  ],
+  "reviews": [
+    {
+      "text": "Derick is meticulous, reasonable, and very professional, would definitely recommend to anyone needing some HVAC work.",
+      "author": "Reed F.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "My furnace quit this winter when we were having record cold temperatures outside. I called a number of companies for service, but Derick was the only person who was able to come to my house on the same day to fix it for me. He did a great job.",
+      "author": "Debbie W.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "Great service and diagnostics! Always knows how to help fix my oil boiler - highly recommend!!",
+      "author": "Austin G.",
+      "stars": 5,
+      "month": "January 2026"
+    }
+  ],
+  "gallery": []
+}

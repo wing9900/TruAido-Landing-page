@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "kd-handyman-e-pennsboro",
+  "company": "K&D Handyman and Tree Service",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "East Pennsboro Township",
+  "state": "PA",
+  "phone": "+17175143757",
+  "phone_display": "(717) 514-3757",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=K%26D%20Handyman%20and%20Tree%20Service&query_place_id=ChIJF3ZUTUaFOWURWFzEB7jqKoU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Enola",
+    "Summerdale",
+    "Lemoyne",
+    "Harrisburg",
+    "Camp Hill",
+    "Shiremanstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

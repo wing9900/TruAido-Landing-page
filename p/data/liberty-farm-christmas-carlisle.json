@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "liberty-farm-christmas-carlisle",
+  "company": "Liberty Farm Christmas Trees and Shoppe",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17179194611",
+  "phone_display": "(717) 919-4611",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 10,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Farm%20Christmas%20Trees%20and%20Shoppe&query_place_id=ChIJjYNs3MXhyIkR1_8jlLfF7YQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Wonderful place! We needed a last minute Christmas tree on our way to West Virginia and we were surprised to find this farm open on the 23 of December. The owner was very nice, kind, and helpful. He even gave me a bunch of nice firewood for free!",
+      "author": "Andre G.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "We visited the farm today and we were very impressed with this place. The process of choosing and purchasing a tree was very straightforward and the staff were all very friendly and helpful.",
+      "author": "Mary A.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "They have a great selection of trees, different kinds and heights. Excellent service and friendly staff. You can tell they take pride in their service. Will come back next year again!",
+      "author": "Arelys M.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407939/truaido-previews/liberty-farm-christmas-carlisle/work1"
+  ]
+}

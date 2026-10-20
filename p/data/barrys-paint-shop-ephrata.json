@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "barrys-paint-shop-ephrata",
+  "company": "Barry's Paint Shop Inc",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177336900",
+  "phone_display": "(717) 733-6900",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 595,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Barry's%20Paint%20Shop%20Inc&query_place_id=ChIJXyd9sYoTxokRjPHP5zX1qvQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "Akron",
+    "Reinholds",
+    "Adamstown",
+    "Brownstown"
+  ],
+  "reviews": [
+    {
+      "text": "It's been a few years since Barry's did a big restoration project on a great, old car of mine. They did such a good job. Their paint matching and quality is so good. They can also add on, small, detailed, trim repair and painting. Wonderful job.",
+      "author": "Max K.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "They worked hard to solve the problems that came up and communicated well",
+      "author": "Maxphone M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great, quick experience with Barry\u2019s! They were super helpful and great with communication.",
+      "author": "Jaden L.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

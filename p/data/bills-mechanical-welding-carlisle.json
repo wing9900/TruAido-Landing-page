@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "bills-mechanical-welding-carlisle",
+  "company": "Bill's Mechanical & Welding Co",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172430338",
+  "phone_display": "(717) 243-0338",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bill's%20Mechanical%20%26%20Welding%20Co&query_place_id=ChIJDSuFU8vhyIkRWoltljkMBow",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Gardners",
+    "Shiremanstown"
+  ],
+  "reviews": [],
+  "gallery": []
+}

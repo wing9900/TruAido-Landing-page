@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "superheat-refrigeration-elizabethtown",
+  "company": "Superheat Refrigeration, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17172879989",
+  "phone_display": "(717) 287-9989",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Superheat%20Refrigeration%2C%20LLC&query_place_id=ChIJgSG-J7LgjSYRUfzE4jou8kU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mount Joy Township",
+    "Marietta",
+    "Mount Joy",
+    "Bainbridge",
+    "Salunga",
+    "Manheim"
+  ],
+  "reviews": [
+    {
+      "text": "I had a great experience with Superheat Refrigeration, LLC. They were professional, reliable, and really know what they\u2019re doing when it comes to HVAC and refrigeration.",
+      "author": "elcojeburra",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "My experience with Vito was amazing. Very honest and thorough in his work. I would highly recommend him.",
+      "author": "Michele W.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406188/truaido-previews/superheat-refrigeration-elizabethtown/work1"
+  ]
+}

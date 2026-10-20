@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "mister-systems-harrisburg",
+  "company": "Mister Systems LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175768442",
+  "phone_display": "(717) 576-8442",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mister%20Systems%20LLC&query_place_id=ChIJGzjVVVG4yIkRvkg8o92CAno",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Grantville",
+    "Summerdale",
+    "Steelton",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Mr. Systems went above and beyond for the emergency repair needed for my HVAC system. Very professional, explained everything in detail and cleaned up everything when finished. I would use them again and again.",
+      "author": "Danielle W.",
+      "stars": 5,
+      "month": "September 2020"
+    }
+  ],
+  "gallery": []
+}

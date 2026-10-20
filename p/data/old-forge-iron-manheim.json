@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "old-forge-iron-manheim",
+  "company": "Old Forge Iron Works",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Manheim",
+  "state": "PA",
+  "phone": "+17172861601",
+  "phone_display": "(717) 286-1601",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Old%20Forge%20Iron%20Works&query_place_id=ChIJx78Qq0UexokRxNk_kq8kUdo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Salunga",
+    "Mount Joy Township",
+    "Landisville",
+    "Lititz",
+    "Mount Joy",
+    "East Petersburg"
+  ],
+  "reviews": [
+    {
+      "text": "Top notch. Knowledgeable. Competitive.",
+      "author": "Mike W.",
+      "stars": 5,
+      "month": "June 2025"
+    },
+    {
+      "text": "Needed quick cut and weld for broken barn door guide. Perfect job and it was done same day. Thanks!",
+      "author": "Don B.",
+      "stars": 5,
+      "month": "October 2024"
+    },
+    {
+      "text": "The quality of workmanship, and attention to detail, is excellent.",
+      "author": "M N.",
+      "stars": 5,
+      "month": "August 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406415/truaido-previews/old-forge-iron-manheim/work1"
+  ]
+}

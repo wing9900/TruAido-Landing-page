@@ -17,14 +17,18 @@
     "source": "generic"
   },
   "logo": {
-    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792111846/truaido-previews/aes-hearth-patio-newville/logo",
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407844/truaido-previews/aes-hearth-patio-newville/logo",
     "layout": "square",
     "badge": null
   },
   "accent": "#51140F",
   "nearby_towns": [
+    "Walnut Bottom",
+    "Gardners",
     "Carlisle",
-    "Shippensburg"
+    "Boiling Springs",
+    "Shippensburg",
+    "Newburg"
   ],
   "reviews": [
     {
@@ -34,5 +38,7 @@
       "month": "July 2026"
     }
   ],
-  "gallery": []
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792111846/truaido-previews/aes-hearth-patio-newville/work1"
+  ]
 }

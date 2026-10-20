@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "lancaster-gas-techs",
+  "company": "Lancaster Gas Techs",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172082565",
+  "phone_display": "(717) 208-2565",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 28,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lancaster%20Gas%20Techs&query_place_id=ChIJTWqq8lQnxokRSW62NeQDY9c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406304/truaido-previews/lancaster-gas-techs/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#CC3232",
+  "nearby_towns": [
+    "Columbia",
+    "Mountville",
+    "Mount Joy",
+    "Washington Boro",
+    "Marietta",
+    "Salunga"
+  ],
+  "reviews": [
+    {
+      "text": "Lenny found the gas leak and repaired it. He also was very informative.",
+      "author": "Rick R.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Excellent work and reasonable prices. Lenny scheduled and communicated via text as was on time. Worked on a gas fireplace insert that wasn\u2019t working. Didn\u2019t try and sell me anything when it was the valve that needed cleaning. Fast, clean friendly service.",
+      "author": "Rich J.",
+      "stars": 5,
+      "month": "October 2025"
+    },
+    {
+      "text": "Lenny fixed and cleaned our older propane fireplace. He was able to get it working again, which others had been unable to do, and saved us from having to replace it.",
+      "author": "Nicole J.",
+      "stars": 5,
+      "month": "June 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406301/truaido-previews/lancaster-gas-techs/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406302/truaido-previews/lancaster-gas-techs/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406303/truaido-previews/lancaster-gas-techs/work3"
+  ]
+}

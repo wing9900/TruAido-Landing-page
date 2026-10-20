@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "eco-friendly-pest-lancaster",
+  "company": "Eco Friendly Pest Control Services in Lancaster",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+12233084202",
+  "phone_display": "(223) 308-4202",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Eco%20Friendly%20Pest%20Control%20Services%20in%20Lancaster&query_place_id=ChIJe-pQhKQlxokRlZ1fTj_8bQQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Willow Street",
+    "Mountville",
+    "Leola",
+    "Conestoga"
+  ],
+  "reviews": [
+    {
+      "text": "I reached out to Eco Friendly Pest Control Services in Lancaster after noticing insects gathering around the back door whenever the weather changed.",
+      "author": "xeyov G.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I had a great experience with Eco Friendly Pest Control Services in Lancaster. The service was professional, friendly, and thorough from start to finish. They arrived on time, explained everything clearly, and did a great job taking care of the pest problem.",
+      "author": "Ravi C.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

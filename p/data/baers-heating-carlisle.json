@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "baers-heating-carlisle",
+  "company": "Baers Heating & Cooling.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17173154266",
+  "phone_display": "(717) 315-4266",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 8,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Baers%20Heating%20%26%20Cooling.&query_place_id=ChIJAQBs68YbyYkRgJboCoB516s",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Newville",
+    "Walnut Bottom",
+    "Boiling Springs",
+    "Gardners",
+    "Shippensburg",
+    "Newburg"
+  ],
+  "reviews": [
+    {
+      "text": "Glenn cane through with not only a very reasonable price but brought heat to a home i purchased without any. This was during holiday season squeezed in between countless no heat calls. I would highly recommend to anyone!",
+      "author": "Gary P.",
+      "stars": 5,
+      "month": "December 2024"
+    },
+    {
+      "text": "Baer was a terrific choice. They came and replaced my water heater. Very professional.",
+      "author": "Jennifer T.",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Highly recommend Baer heating & cooling! Glen is competent and efficient at what he does. Our ac stopped working, He serviced our ac unit the same day of calling.",
+      "author": "Ashley S.",
+      "stars": 5,
+      "month": "July 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407855/truaido-previews/baers-heating-carlisle/work1"
+  ]
+}

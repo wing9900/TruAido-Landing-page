@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "high-efficiency-lancaster",
+  "company": "High Efficiency Solutions LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17176222445",
+  "phone_display": "(717) 622-2445",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 15,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=High%20Efficiency%20Solutions%20LLC&query_place_id=ChIJ9fiay_MkxokR8nzJ1xAPOXU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Millersville",
+    "East Petersburg",
+    "Mountville",
+    "Willow Street",
+    "Conestoga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "Our heat recently went out during the coldest time of the year. They came out quickly and resolved my problem at an amazing price. Will definitely be using High Efficiency Solutions for all my future HVAC needs.",
+      "author": "Mariangely W.",
+      "stars": 5,
+      "month": "February 2026"
+    },
+    {
+      "text": "Fast response, reasonable rates and smart techs. Definitely recommend",
+      "author": "Bill P.",
+      "stars": 5,
+      "month": "June 2022"
+    },
+    {
+      "text": "Great staff good company to deal with, always very helpful",
+      "author": "Keith M.",
+      "stars": 5,
+      "month": "August 2019"
+    }
+  ],
+  "gallery": []
+}

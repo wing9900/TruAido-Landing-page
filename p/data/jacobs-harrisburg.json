@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "jacobs-harrisburg",
+  "company": "Jacobs Service Co.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176480537",
+  "phone_display": "(717) 648-0537",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 34,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Jacobs%20Service%20Co.&query_place_id=ChIJddOvt3e_yIkRwQDc1pEQfsU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Highspire",
+    "Hummelstown",
+    "Middletown",
+    "Steelton",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Extremely technically competent. Excellent work and very cost conscience. Strongly Recommend.",
+      "author": "Gary K.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I rely on Jacobs Service Co for all my HVAC needs for properties in the Harrisburg/Hershey area. He is prompt, on time, dependable, transparent, and very thorough in his work. I enjoy working with Jake and will continue to be a loyal customer of his services.",
+      "author": "Justin N.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "This company was referred to us & I am so grateful they were! They were spoken highly of and we now know why. Straightforward, family oriented, knowledgeable and more there for the customer then most business who look at ppl as #'s.",
+      "author": "S P.",
+      "stars": 5,
+      "month": "July 2024"
+    }
+  ],
+  "gallery": []
+}

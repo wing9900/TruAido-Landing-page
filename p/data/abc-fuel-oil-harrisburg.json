@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "abc-fuel-oil-harrisburg",
+  "company": "ABC Fuel Oil Co. Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175454758",
+  "phone_display": "(717) 545-4758",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 146,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ABC%20Fuel%20Oil%20Co.%20Inc&query_place_id=ChIJHaWNgfa4yIkR5ks1VQwj0ho",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407429/truaido-previews/abc-fuel-oil-harrisburg/logo",
+    "layout": "wide",
+    "badge": "#262626"
+  },
+  "accent": "#E80305",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "East Pennsboro Township",
+    "Summerdale",
+    "New Cumberland"
+  ],
+  "reviews": [
+    {
+      "text": "Good service whenever I need delivery or maintenance. Very polite and helpful when I call.",
+      "author": "Sharon A.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "ABC cleaned my furnace and it ran well afterwards. Thanks",
+      "author": "sharkroy",
+      "stars": 5,
+      "month": "March 2026"
+    },
+    {
+      "text": "ABC oil company is a great family owned company. We have been using the company for over 15 years. Great customer service",
+      "author": "brenda B.",
+      "stars": 5,
+      "month": "March 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407429/truaido-previews/abc-fuel-oil-harrisburg/work1"
+  ]
+}

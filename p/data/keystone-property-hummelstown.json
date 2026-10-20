@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "keystone-property-hummelstown",
+  "company": "Keystone Property Service, LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175768416",
+  "phone_display": "(717) 576-8416",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 3,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Keystone%20Property%20Service%2C%20LLC&query_place_id=ChIJiVBZoxGEF2kRs3oXZiKQSFE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407518/truaido-previews/keystone-property-hummelstown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0468B5",
+  "nearby_towns": [
+    "Middletown",
+    "Elizabethtown",
+    "Hershey",
+    "Highspire",
+    "Lower Paxton Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Josh is reputable, intelligent, punctual and very good communication skills. Explains the situation clearly with you. Gives advice and guidance to your situation. Highly recommend Josh as your future HVAC Technician",
+      "author": "Oran B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Josh was great! Our outside AC unit stopped working. He came over right away, diagnosed the issues, and fixed it. He is very knowledgeable and I would highly recommend reaching out to him if you have any HVAC needs. Very affordable as well.",
+      "author": "Chas K.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,37 @@
+{
+  "v": 1,
+  "slug": "sheaffers-mechanical-gardners",
+  "company": "Sheaffer's Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Gardners",
+  "state": "PA",
+  "phone": "+17172260670",
+  "phone_display": "(717) 226-0670",
+  "has_website": false,
+  "rating": 3.5,
+  "review_count": 26,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sheaffer's%20Mechanical&query_place_id=ChIJe9PmheUDyYkRPhS0zbv8fys",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Boiling Springs",
+    "Carlisle",
+    "Dillsburg",
+    "Walnut Bottom",
+    "Mechanicsburg",
+    "Newville"
+  ],
+  "reviews": [],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407840/truaido-previews/sheaffers-mechanical-gardners/work1"
+  ]
+}

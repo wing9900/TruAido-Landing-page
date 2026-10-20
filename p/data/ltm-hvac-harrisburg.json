@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "ltm-hvac-harrisburg",
+  "company": "LTM HVAC LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174182195",
+  "phone_display": "(717) 418-2195",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 18,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=LTM%20HVAC%20LLC&query_place_id=ChIJeUr4KtoXRakRG3lnBJTDMG0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Hummelstown",
+    "Elizabethtown",
+    "Middletown",
+    "Grantville",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Had LTM HVAC out of Palmyra for a full service visit and they knocked it out. Logan is a rockstar! He handled our HVAC/furnace, replaced the whole-house water filter, refilled the softener, and serviced the Rinnai tankless water heater.",
+      "author": "Mark R.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Logan is always helpful. Comes when we need him. Great attitude!!",
+      "author": "Brenda P.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "New customer. Messaged yesterday and got service today. Would highly recommend!",
+      "author": "Jennifer H.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407595/truaido-previews/ltm-hvac-harrisburg/work1"
+  ]
+}

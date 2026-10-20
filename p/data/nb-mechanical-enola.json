@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "nb-mechanical-enola",
+  "company": "N B Mechanical Services Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17176571700",
+  "phone_display": "(717) 657-1700",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 66,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=N%20B%20Mechanical%20Services%20Inc&query_place_id=ChIJvclKpvbDyIkRfHVFyT-T8R0",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Lemoyne",
+    "Camp Hill",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Absolutely delighted with the service..came immediately during the heatwave, gave me options about products, prices were reasonable..I have already recommended them to my friends..",
+      "author": "Susan G.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "They came out and fixed my 3 1/2 year old new central air unit that previous company installed. The other company couldn't find the leak that did the install and kept charging us outrageous prices.",
+      "author": "Randall T.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Where do I start?? I have had NB Mechanical service my furnace/air conditioner for the past several years. They always showed up when scheduled and were always professional. I recently had my 20 year old system replaced with a hybrid heat pump.",
+      "author": "Elaine B.",
+      "stars": 5,
+      "month": "June 2026"
+    }
+  ],
+  "gallery": []
+}

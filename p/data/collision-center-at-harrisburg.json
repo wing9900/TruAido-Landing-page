@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "collision-center-at-harrisburg",
+  "company": "Collision Center at Hoffman Ford",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17176571613",
+  "phone_display": "(717) 657-1613",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 133,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Collision%20Center%20at%20Hoffman%20Ford&query_place_id=ChIJ44OxovO4yIkRoc9NTPl9CVM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "East Pennsboro Township",
+    "New Cumberland",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Hoffman Collision Repair repaired our mid-sized SUV beautifully! Their assistance and customer service was timely and helpful, and we got our car back early. I hope we don\u2019t need to use them again, but if we do we know where we\u2019ll go.",
+      "author": "Lorraine S.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Great experience from the estimate down to the repair. Extremely satisfied.",
+      "author": "John G.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407606/truaido-previews/collision-center-at-harrisburg/work1"
+  ]
+}

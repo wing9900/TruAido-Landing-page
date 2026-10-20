@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "brubaker-drywall-denver",
+  "company": "Brubaker Drywall Inc",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17173350990",
+  "phone_display": "(717) 335-0990",
+  "has_website": false,
+  "rating": 4.8,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Brubaker%20Drywall%20Inc&query_place_id=ChIJw79IqQITxokRk5fo97mGWPQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Reinholds",
+    "Adamstown",
+    "Ephrata",
+    "Akron",
+    "Robesonia"
+  ],
+  "reviews": [
+    {
+      "text": "Brubaker Drywall was able to help me out with expert consultation on drywall installation, top notch customer service and affordable pricing. Great experience! A++++\ud83d\udc4d\ud83d\udc4d",
+      "author": "Bradly W.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "I would recommend Brubaker Drywall inc service . They have great pricing and very friendly and helpfully when explaining everything to you .",
+      "author": "John C.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "The team was fantastic. Great work and positive attitudes. Would recommend.",
+      "author": "Stan P.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405820/truaido-previews/brubaker-drywall-denver/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405821/truaido-previews/brubaker-drywall-denver/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405822/truaido-previews/brubaker-drywall-denver/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405823/truaido-previews/brubaker-drywall-denver/work4"
+  ]
+}

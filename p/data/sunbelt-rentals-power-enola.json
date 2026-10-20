@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "sunbelt-rentals-power-enola",
+  "company": "Sunbelt Rentals Power & HVAC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17176034581",
+  "phone_display": "(717) 603-4581",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 5,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sunbelt%20Rentals%20Power%20%26%20HVAC&query_place_id=ChIJZYtpt83DyIkRC-43s4gWVUo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408201/truaido-previews/sunbelt-rentals-power-enola/logo",
+    "layout": "square",
+    "badge": "#018544"
+  },
+  "accent": "#887000",
+  "nearby_towns": [
+    "Summerdale",
+    "East Pennsboro Township",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Very friendly and helpful staff. Will absolutely be using them again!",
+      "author": "Logan W.",
+      "stars": 5,
+      "month": "August 2021"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408201/truaido-previews/sunbelt-rentals-power-enola/work1"
+  ]
+}

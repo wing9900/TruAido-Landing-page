@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "mr-freeze-mechanical-denver",
+  "company": "Mr. Freeze Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Denver",
+  "state": "PA",
+  "phone": "+17177232490",
+  "phone_display": "(717) 723-2490",
+  "has_website": true,
+  "rating": 2.6,
+  "review_count": 17,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Freeze%20Mechanical&query_place_id=ChIJ6cjAY1ASxokRZpmN67algiI",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Reinholds",
+    "Stevens",
+    "Robesonia",
+    "Adamstown",
+    "Ephrata",
+    "Akron"
+  ],
+  "reviews": [
+    {
+      "text": "Had my boiler shut off he got here in 30 min and back up and running within an hour amazing service",
+      "author": "Randy R.",
+      "stars": 5,
+      "month": "December 2022"
+    }
+  ],
+  "gallery": []
+}

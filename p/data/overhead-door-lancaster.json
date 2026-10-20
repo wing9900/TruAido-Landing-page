@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "overhead-door-lancaster",
+  "company": "Overhead Door Company of Lancaster",
+  "trade": "garage-doors",
+  "trade_label": "Garage Doors",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17177350011",
+  "phone_display": "(717) 735-0011",
+  "has_website": true,
+  "rating": 4.9,
+  "review_count": 153,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Overhead%20Door%20Company%20of%20Lancaster&query_place_id=ChIJx46Ae1w7xokR68N2f_1M6Uc",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792405859/truaido-previews/overhead-door-lancaster/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Leola",
+    "East Petersburg",
+    "Brownstown",
+    "Strasburg",
+    "Willow Street",
+    "Millersville"
+  ],
+  "reviews": [
+    {
+      "text": "Same day service! I am very pleased with this company! Great job! Thanks!",
+      "author": "Adam K.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "If we ever need something done for our home's garage door, we think of Overhead Door of Lancaster first. From routine maintenance (like to address a noisy opening) to emergency service (like to fix broken cables this last time), these guys are the best.",
+      "author": "Steve W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Sorry I think the name of your technician was Adam ? But I will like thanks his kindness and professionalism. He really did a good job . I happy with my new motor garage\u2019s door hope will woo for many years.",
+      "author": "Marysol G.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405859/truaido-previews/overhead-door-lancaster/work1"
+  ]
+}

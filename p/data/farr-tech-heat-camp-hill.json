@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "farr-tech-heat-camp-hill",
+  "company": "Farr Tech Heat LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Camp Hill",
+  "state": "PA",
+  "phone": "+17178893960",
+  "phone_display": "(717) 889-3960",
+  "has_website": false,
+  "rating": 4.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Farr%20Tech%20Heat%20LLC&query_place_id=ChIJxe6EGgnCyIkRuEc-awwNp_E",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Wouldn't recommend anyone else, 5 stars all the way!",
+      "author": "Robert C.",
+      "stars": 5,
+      "month": "October 2021"
+    },
+    {
+      "text": "Always fixed are space heater. Always fast to fix and great people.",
+      "author": "Jennifer H.",
+      "stars": 5,
+      "month": "October 2018"
+    }
+  ],
+  "gallery": []
+}

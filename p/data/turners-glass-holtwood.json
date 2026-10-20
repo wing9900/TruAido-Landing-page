@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "turners-glass-holtwood",
+  "company": "Turner's Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Holtwood",
+  "state": "PA",
+  "phone": "+17172843833",
+  "phone_display": "(717) 284-3833",
+  "has_website": true,
+  "rating": 4.6,
+  "review_count": 30,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Turner's%20Glass&query_place_id=ChIJg-w0AKktxokRUqKSvCGlv7c",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Pequea",
+    "New Providence",
+    "Quarryville",
+    "Conestoga",
+    "Willow Street",
+    "Peach Bottom"
+  ],
+  "reviews": [
+    {
+      "text": "Two heros went above and beyond to repair my power window. Experienced, knowledgeable and very pleasant people. A total win. Thanks.",
+      "author": "Therese H.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "aa-contracting-harrisburg",
+  "company": "A & A Contracting Inc.",
+  "trade": "insulation",
+  "trade_label": "Insulation",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17173653266",
+  "phone_display": "(717) 365-3266",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20A%20Contracting%20Inc.&query_place_id=ChIJGap64eVPz4kROrWZM_0UvHM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/insulation.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gratz",
+    "Lykens",
+    "Elizabethville",
+    "Williamstown",
+    "Millersburg",
+    "Halifax"
+  ],
+  "reviews": [],
+  "gallery": []
+}

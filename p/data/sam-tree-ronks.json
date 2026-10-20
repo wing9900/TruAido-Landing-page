@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "sam-tree-ronks",
+  "company": "Sam The Tree Guy LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Ronks",
+  "state": "PA",
+  "phone": "+17175480886",
+  "phone_display": "(717) 548-0886",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 63,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sam%20The%20Tree%20Guy%20LLC&query_place_id=ChIJqWmWYHrLx4kR6OCLqoqc2Vs",
+  "hero": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_1600,h_900/f_auto,q_auto/v1792406455/truaido-previews/sam-tree-ronks/hero",
+    "source": "google"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Paradise",
+    "Strasburg",
+    "Gordonville",
+    "Christiana",
+    "New Providence",
+    "Quarryville"
+  ],
+  "reviews": [
+    {
+      "text": "Sam has been taking care of my trees for over 10 years and he and his group do a beautiful job. Besides cutting down dead or dying trees, they have also kept the other trees healthy and well trimmed.",
+      "author": "Maria M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Quick response to initial inquiry for quote. Very friendly and accommodating. Took down large tree close to house in a timely manner. Cleanup was much better than I could have done. Will definitely use again!",
+      "author": "Nancy M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Outstanding service. Very Knowledgeable and skilled. Took down 4 very Lg. Trees and trimmed a bunch more. Cleaned everything up and spread grass seed over the whole yard when done. I highly recommend Sam and his crew.",
+      "author": "Wendy A.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406457/truaido-previews/sam-tree-ronks/work1"
+  ]
+}

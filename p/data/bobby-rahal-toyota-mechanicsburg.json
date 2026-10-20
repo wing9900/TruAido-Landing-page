@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "bobby-rahal-toyota-mechanicsburg",
+  "company": "Bobby Rahal Toyota Service Center",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17176910500",
+  "phone_display": "(717) 691-0500",
+  "has_website": true,
+  "rating": 4.7,
+  "review_count": 60,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bobby%20Rahal%20Toyota%20Service%20Center&query_place_id=ChIJ9SvftHndyIkRocxJSSm03Fg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408295/truaido-previews/bobby-rahal-toyota-mechanicsburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#DA1224",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Dillsburg",
+    "Enola",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "Good service. Very helpful and efficient.",
+      "author": "SR W.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "Just had a 15000 mile service and oil change done,they offered to do my inspection and emissions due in January as well.All this while I waited in their very comfortable waiting room, Very fast and efficient service.Thank you",
+      "author": "Michael C.",
+      "stars": 5,
+      "month": "November 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408294/truaido-previews/bobby-rahal-toyota-mechanicsburg/work1"
+  ]
+}

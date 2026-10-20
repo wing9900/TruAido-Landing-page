@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "carter-plumbing-carlisle",
+  "company": "Carter Plumbing Electric & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17172452486",
+  "phone_display": "(717) 245-2486",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Carter%20Plumbing%20Electric%20%26%20Heating&query_place_id=ChIJB9nQNqHgyIkRrS7zAI1Bi70",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Hampden Township",
+    "Boiling Springs",
+    "Dillsburg",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [],
+  "gallery": []
+}

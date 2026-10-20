@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "dvl-group-harrisburg",
+  "company": "DVL Group Inc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175642600",
+  "phone_display": "(717) 564-2600",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=DVL%20Group%20Inc&query_place_id=ChIJZQDXGm-_yIkRG-TXAGY5I34",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407405/truaido-previews/dvl-group-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#2375B1",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Grantville",
+    "Steelton",
+    "Hershey",
+    "East Pennsboro Township"
+  ],
+  "reviews": [],
+  "gallery": []
+}

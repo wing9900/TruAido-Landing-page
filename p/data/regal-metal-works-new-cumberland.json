@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "regal-metal-works-new-cumberland",
+  "company": "Regal Metal Works",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "New Cumberland",
+  "state": "PA",
+  "phone": "+17178106748",
+  "phone_display": "(717) 810-6748",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 16,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Regal%20Metal%20Works&query_place_id=ChIJKYb_MkrAyIkRtKUhy-ZlVCo",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408051/truaido-previews/regal-metal-works-new-cumberland/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0067AB",
+  "nearby_towns": [
+    "Steelton",
+    "Lemoyne",
+    "Camp Hill",
+    "Harrisburg",
+    "Highspire",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "Regal Metal Works did an outstanding job repairing the aluminum casting on my tractor, The turnaround was quick and the cost was reasonable\u2014I\u2019d definitely use them again and highly recommend their work.",
+      "author": "Ken S.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "PURCHASED A M4 RECOIL TUBE FROM THEM. SPOKE WITH COLE OVER THE PHONE AND WE WAS SUPER FRIENDLY, WOULD HIGHLY RECOMMEND. GREAT QUALITY PART.",
+      "author": "JONATHAN T.",
+      "stars": 5,
+      "month": "October 2024"
+    },
+    {
+      "text": "When my ebike broke I needed a quick fix to get me home and last until my replacement part came in. The weld was very clean and strong. It took a month for my replacement part to come in and weld held up just fine. Thanks again.",
+      "author": "Lynn",
+      "stars": 5,
+      "month": "September 2024"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408050/truaido-previews/regal-metal-works-new-cumberland/work1"
+  ]
+}

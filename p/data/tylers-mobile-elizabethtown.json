@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "slug": "tylers-mobile-elizabethtown",
+  "company": "Tyler\u2019s Mobile Services LLC",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Elizabethtown",
+  "state": "PA",
+  "phone": "+17178249872",
+  "phone_display": "(717) 824-9872",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 2,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tyler%E2%80%99s%20Mobile%20Services%20LLC&query_place_id=ChIJd473p6SjyIkRgr4WVWLSBDc",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407226/truaido-previews/tylers-mobile-elizabethtown/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hershey",
+    "Hummelstown",
+    "Middletown",
+    "Highspire",
+    "Lower Paxton Township",
+    "Grantville"
+  ],
+  "reviews": [
+    {
+      "text": "I've used Tyler for multiple jobs already and I can't recommend him enough. He is knowledgeable, honest and get's the job done.",
+      "author": "Katy K.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Let me be the first to leave a review. We were looking for a mobile service in the area and found Tayler's Mobile Service. Everything was done exactly as promised. Showed up on time and got the job done quickly. We would definitely use them again",
+      "author": "Alex M.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407226/truaido-previews/tylers-mobile-elizabethtown/work1"
+  ]
+}

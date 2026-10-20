@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "zimmerman-oliver-cletrac-ephrata",
+  "company": "Zimmerman Oliver Cletrac",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Ephrata",
+  "state": "PA",
+  "phone": "+17177382573",
+  "phone_display": "(717) 738-2573",
+  "has_website": true,
+  "rating": 4.5,
+  "review_count": 14,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zimmerman%20Oliver%20Cletrac&query_place_id=ChIJ79o4cHYWxokRIGBUSWzFbEY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Akron",
+    "Brownstown",
+    "Leola",
+    "Stevens",
+    "New Holland",
+    "Lititz"
+  ],
+  "reviews": [
+    {
+      "text": "Brought our Oliver tractor here for hydrolics work. Drop off efficient. Beautiful area. Will update after work is done.",
+      "author": "Suzanne W.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "People and service were the best!!!!! I wish every business was like this. You can only give 5 stars here but they honestly deserve more.",
+      "author": "Patrick K.",
+      "stars": 5,
+      "month": "April 2026"
+    },
+    {
+      "text": "I\u2019ve had an excellent experience with them and they are very helpful",
+      "author": "wyatt W.",
+      "stars": 5,
+      "month": "October 2025"
+    }
+  ],
+  "gallery": []
+}

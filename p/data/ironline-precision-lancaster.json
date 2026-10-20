@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "ironline-precision-lancaster",
+  "company": "Ironline precision",
+  "trade": "welding",
+  "trade_label": "Mobile Welding",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17174901906",
+  "phone_display": "(717) 490-1906",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ironline%20precision&query_place_id=ChIJwciuXh2OHAsRvKXJW3OcqOg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/welding.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Stevens",
+    "Denver",
+    "Ephrata",
+    "Reinholds",
+    "Adamstown",
+    "Akron"
+  ],
+  "reviews": [],
+  "gallery": []
+}

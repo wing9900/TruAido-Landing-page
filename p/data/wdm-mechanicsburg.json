@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "wdm-mechanicsburg",
+  "company": "WDM Services",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17174228420",
+  "phone_display": "(717) 422-8420",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 6,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=WDM%20Services&query_place_id=ChIJN-kpMz78NiQRXfXu-kaK5bg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407893/truaido-previews/wdm-mechanicsburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#C05517",
+  "nearby_towns": [
+    "Carlisle",
+    "Boiling Springs",
+    "Hampden Township",
+    "Dillsburg",
+    "Newville",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "A storm broke our electric service pole off at the ground and we needed a new meter box installed and the line and weatherhead re attached. Wes was prompt, efficient and knowledgeable and had us fixed up in no time! I highly recommend WDM Services!!",
+      "author": "Dave U.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "I was having issues with my air conditioner unit it was running none stop and would not cool down I called WDM and he came out last night figured out the issues and fixed immediately very professional and knowledgeable also price was very reasonable and...",
+      "author": "John G.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "We had spent 3 weeks with barely any water. Two other plumbers either didnt have the proper equipment or didn't get back to us. We thankfully got Wes' number and even tho his home base is many miles from us, he was here quite quickly.",
+      "author": "Deb H.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407892/truaido-previews/wdm-mechanicsburg/work1"
+  ]
+}

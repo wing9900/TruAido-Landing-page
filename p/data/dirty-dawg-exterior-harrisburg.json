@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "slug": "dirty-dawg-exterior-harrisburg",
+  "company": "Dirty Dawg Exterior Cleaning & Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17178028359",
+  "phone_display": "(717) 802-8359",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 52,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Dirty%20Dawg%20Exterior%20Cleaning%20%26%20Pest%20Control&query_place_id=ChIJk5DClapJUaAR_JpSouCyg8o",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Camp Hill",
+    "Lemoyne",
+    "Hampden Township",
+    "New Cumberland",
+    "East Pennsboro Township"
+  ],
+  "reviews": [
+    {
+      "text": "This service beats pressure washing any day. I\u2019ve never had a cleaner house since I\u2019ve lived here. I usually pressure wash every year, but this is a huge difference. Siding, deck, gutters, windows, and walkways are all looking brand new.",
+      "author": "Mike J.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "This company did two jobs for me a did an excellent job on both. I will use them again in the future for sure.",
+      "author": "Tristan M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "He did a wonderful job. Competent and quick response time.",
+      "author": "Denise Y.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408238/truaido-previews/dirty-dawg-exterior-harrisburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408241/truaido-previews/dirty-dawg-exterior-harrisburg/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408242/truaido-previews/dirty-dawg-exterior-harrisburg/work3",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408246/truaido-previews/dirty-dawg-exterior-harrisburg/work4"
+  ]
+}

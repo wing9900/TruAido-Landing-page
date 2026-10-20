@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "sharp-septic-new-holland",
+  "company": "Sharp Septic LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "New Holland",
+  "state": "PA",
+  "phone": "+17173546147",
+  "phone_display": "(717) 354-6147",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 9,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sharp%20Septic%20LLC&query_place_id=ChIJ0yFLTl1AxokRQLcuqyp0XBk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Gordonville",
+    "Gap",
+    "East Earl",
+    "Narvon",
+    "Leola",
+    "Ronks"
+  ],
+  "reviews": [
+    {
+      "text": "Highly recommended Professional and respond quickly Very reasonable",
+      "author": "Revival S.",
+      "stars": 5,
+      "month": "September 2025"
+    },
+    {
+      "text": "Started using them years ago. I remember the 1st time. The original owner showed up at my front door in a suit. Pretty impressive. Then he changed or put his overalls on over top before doing the septic work... I don't know which... I didn't spy on him...",
+      "author": "Leanne",
+      "stars": 5,
+      "month": "August 2024"
+    },
+    {
+      "text": "Super pleased with the service. Called at 6 AM needing same day service. Saw the truck arrive at 10 AM. The guys were very helpful in answering questions about my situation.",
+      "author": "Tim F.",
+      "stars": 5,
+      "month": "September 2023"
+    }
+  ],
+  "gallery": []
+}

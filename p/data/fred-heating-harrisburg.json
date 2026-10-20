@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "fred-heating-harrisburg",
+  "company": "Fred s Heating and Air Conditioning",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17179949930",
+  "phone_display": "(717) 994-9930",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fred%20s%20Heating%20and%20Air%20Conditioning&query_place_id=ChIJYSs59aPUsSQRGNiDdXYallw",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Enola",
+    "Summerdale",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [],
+  "gallery": []
+}

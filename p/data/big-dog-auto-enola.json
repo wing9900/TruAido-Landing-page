@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "slug": "big-dog-auto-enola",
+  "company": "Big Dog Auto & A/C Repair LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Enola",
+  "state": "PA",
+  "phone": "+17177324575",
+  "phone_display": "(717) 732-4575",
+  "has_website": false,
+  "rating": 4.9,
+  "review_count": 110,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Big%20Dog%20Auto%20%26%20A%2FC%20Repair%20LLC&query_place_id=ChIJg5rtU_fDyIkRmk_C3_TAorM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Summerdale",
+    "Lemoyne",
+    "Camp Hill",
+    "Harrisburg",
+    "Shiremanstown"
+  ],
+  "reviews": [
+    {
+      "text": "These guys went out of their way to help me with navigating PA requirements. Such a nice team and I would definitely recommend!!",
+      "author": "Lauren B.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "1st time there. Friendly and knowledgeable service. Would definitely return in the future",
+      "author": "joseph B.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "I took my truck to Big Dog Auto for an inspection and I was thoroughly impressed by James's professionalism and work ethic. As a woman, sometimes shops do try and get over but James focused on what the actual inspection entailed, explained in detailed what...",
+      "author": "Erica W.",
+      "stars": 5,
+      "month": "August 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408215/truaido-previews/big-dog-auto-enola/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408216/truaido-previews/big-dog-auto-enola/work2",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792408217/truaido-previews/big-dog-auto-enola/work3"
+  ]
+}

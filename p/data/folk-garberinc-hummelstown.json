@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "folk-garberinc-hummelstown",
+  "company": "Folk&GarberInc",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Hummelstown",
+  "state": "PA",
+  "phone": "+17175667491",
+  "phone_display": "(717) 566-7491",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 24,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Folk%26GarberInc&query_place_id=ChIJvX-oNla5yIkR3sYW7YatXMQ",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407507/truaido-previews/folk-garberinc-hummelstown/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hershey",
+    "Middletown",
+    "Highspire",
+    "Harrisburg",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "New furnace a year ago, not a single issue since then and cost us thousands less than the quote from the furnace/oil company we have dealt with for 30+ years. They were prompt, clean, curteous.",
+      "author": "Karen N.",
+      "stars": 5,
+      "month": "August 2025"
+    },
+    {
+      "text": "I can't stress enough just how pleased I am with the work folk and garber did installing my dishwasher and new faucet with sprayer. Arron and colin were remarkable and exceeded my expectations ten fold! They were extremely knowledgeable and efficient.",
+      "author": "Jean H.",
+      "stars": 5,
+      "month": "December 2024"
+    }
+  ],
+  "gallery": []
+}

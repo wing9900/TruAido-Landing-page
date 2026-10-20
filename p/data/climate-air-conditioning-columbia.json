@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "slug": "climate-air-conditioning-columbia",
+  "company": "Climate Air Conditioning Link",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Columbia",
+  "state": "PA",
+  "phone": "+17173266023",
+  "phone_display": "(717) 326-6023",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 1,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Climate%20Air%20Conditioning%20Link&query_place_id=ChIJb5dQOQGdyIkRsQ-lNFe8Shg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mountville",
+    "Mount Joy",
+    "Washington Boro",
+    "Marietta",
+    "Salunga",
+    "Landisville"
+  ],
+  "reviews": [
+    {
+      "text": "Installed thermostat with plain instructions.",
+      "author": "Samantha N.",
+      "stars": 5,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406834/truaido-previews/climate-air-conditioning-columbia/work1"
+  ]
+}

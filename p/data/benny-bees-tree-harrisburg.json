@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "benny-bees-tree-harrisburg",
+  "company": "Benny Bee's Tree Service, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17177277781",
+  "phone_display": "(717) 727-7781",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Benny%20Bee's%20Tree%20Service%2C%20LLC&query_place_id=ChIJhS2DHrPgr6ARgI7Tk5xvQhs",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Pennsboro Township",
+    "Lemoyne",
+    "Enola",
+    "Summerdale",
+    "New Cumberland",
+    "Steelton"
+  ],
+  "reviews": [],
+  "gallery": []
+}

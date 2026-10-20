@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "slug": "zeus-landscaping-harrisburg",
+  "company": "Zeus & Co Landscaping and Tree Services, LLC",
+  "trade": "tree-service",
+  "trade_label": "Tree Service",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174622221",
+  "phone_display": "(717) 462-2221",
+  "has_website": false,
+  "rating": null,
+  "review_count": 0,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zeus%20%26%20Co%20Landscaping%20and%20Tree%20Services%2C%20LLC&query_place_id=ChIJFX-LMZQixGgR-3jxnV04VzU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/tree-service.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Shiremanstown",
+    "Hampden Township",
+    "Camp Hill",
+    "Mechanicsburg",
+    "Lemoyne",
+    "Dillsburg"
+  ],
+  "reviews": [],
+  "gallery": []
+}

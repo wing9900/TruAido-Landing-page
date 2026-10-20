@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "trane-supply-harrisburg",
+  "company": "Trane Supply",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17175411570",
+  "phone_display": "(717) 541-1570",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Trane%20Supply&query_place_id=ChIJT41MRFC4yIkRd50K0oOzMyE",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407422/truaido-previews/trane-supply-harrisburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#E52600",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Steelton",
+    "Grantville",
+    "East Pennsboro Township",
+    "Summerdale"
+  ],
+  "reviews": [
+    {
+      "text": "Located a little out of the way, but they are the distributors for Trane in the greater Harrisburg area.",
+      "author": "Art H.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": []
+}

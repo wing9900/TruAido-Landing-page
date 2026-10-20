@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "slug": "naugher-heating-lancaster",
+  "company": "Naugher Heating and Cooling",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Lancaster",
+  "state": "PA",
+  "phone": "+17172881887",
+  "phone_display": "(717) 288-1887",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 94,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Naugher%20Heating%20and%20Cooling&query_place_id=ChIJycnmFWQkxokR3JiPYtAdmac",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "East Petersburg",
+    "Millersville",
+    "Mountville",
+    "Landisville",
+    "Salunga",
+    "Washington Boro"
+  ],
+  "reviews": [
+    {
+      "text": "We appreciate Tim's professionalism and knowledge.",
+      "author": "Cherie B.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "The technician did a fantastic job. Very professional and very nice.",
+      "author": "Angela H.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "Prompt, friendly, and knowledgeable! Fixed our AC problem quickly!",
+      "author": "Rube F.",
+      "stars": 5,
+      "month": "July 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792406759/truaido-previews/naugher-heating-lancaster/work1"
+  ]
+}

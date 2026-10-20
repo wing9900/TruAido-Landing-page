@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "reeses-plumbing-newburg",
+  "company": "Reese's Plumbing & Heating",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Newburg",
+  "state": "PA",
+  "phone": "+17174235568",
+  "phone_display": "(717) 423-5568",
+  "has_website": true,
+  "rating": 4.4,
+  "review_count": 13,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Reese's%20Plumbing%20%26%20Heating&query_place_id=ChIJcZup-lBtyYkRIlHvQQoGKCg",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408006/truaido-previews/reeses-plumbing-newburg/logo",
+    "layout": "square",
+    "badge": null
+  },
+  "accent": "#0C2096",
+  "nearby_towns": [
+    "Shippensburg",
+    "Walnut Bottom",
+    "Newville",
+    "Carlisle",
+    "Gardners",
+    "Boiling Springs"
+  ],
+  "reviews": [
+    {
+      "text": "Been using Reese's plumbing and heating for 20 plus years. Always at good service. Just had them out today and was very pleased with their resourceful way of fixing a water leak in a very confined find area.",
+      "author": "Elmer W.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "excellent service ., knowledgeable with all the mechanical aspects of the heating and air conditioning systems ., installations and resolving the technical issues in a timely manner and reasonable and competitive rates Mitch is my go to guy thanks Mitch",
+      "author": "Luis M.",
+      "stars": 5,
+      "month": "March 2025"
+    },
+    {
+      "text": "The thermostat in my electric water heater went out, and so I called around to eight different companies essentially asking three questions: do you work on manufactured homes, do you work on water heaters, and do you have availability to come out within the...",
+      "author": "Charles (.",
+      "stars": 5,
+      "month": "April 2023"
+    }
+  ],
+  "gallery": []
+}

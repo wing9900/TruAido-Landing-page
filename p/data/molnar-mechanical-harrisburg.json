@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "slug": "molnar-mechanical-harrisburg",
+  "company": "Molnar Mechanical LLC",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12232250226",
+  "phone_display": "(223) 225-0226",
+  "has_website": true,
+  "rating": 4.3,
+  "review_count": 19,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Molnar%20Mechanical%20LLC&query_place_id=ChIJMdnGKzG5yIkRgYFBPZchsoM",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407401/truaido-previews/molnar-mechanical-harrisburg/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#25599C",
+  "nearby_towns": [
+    "Lower Paxton Township",
+    "Hummelstown",
+    "Summerdale",
+    "East Pennsboro Township",
+    "Dauphin",
+    "Steelton"
+  ],
+  "reviews": [
+    {
+      "text": "Rob did wonderful work for us installing and retro-fitting central air and heat pump into an older home that didn't have it. He is communicative and easy to get along with and I was very satisfied with the work and the pricing!",
+      "author": "Matthew M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": []
+}

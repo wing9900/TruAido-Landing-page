@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "tuckey-mechanical-carlisle",
+  "company": "Tuckey Mechanical Services Inc.",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Carlisle",
+  "state": "PA",
+  "phone": "+17179738339",
+  "phone_display": "(717) 973-8339",
+  "has_website": true,
+  "rating": 4.8,
+  "review_count": 204,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tuckey%20Mechanical%20Services%20Inc.&query_place_id=ChIJBTE-f5HgyIkRRXi_Pbksy1I",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Boiling Springs",
+    "Dillsburg",
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "The Mechanical Team, Blake H. and Matt V., from Tuckey were both timely and provided high quality work as all of my experiences have been with this company.",
+      "author": "Aaron H.",
+      "stars": 5,
+      "month": "June 2026"
+    },
+    {
+      "text": "We have been using Tuckey for several years and are very pleased with their service....today, Dave and Emma took care of a plumbing issue in a timely, professional manner and were very pleasant to have in our home.",
+      "author": "constance B.",
+      "stars": 5,
+      "month": "January 2026"
+    },
+    {
+      "text": "Recently, we had a very short turn around on some major HVAC/Plumbing projects at a new facility. Our first call was to Tuckey's and both Colton and Matt were very responsive to our questions - made time to explain the process and were we stood on various...",
+      "author": "Justin R.",
+      "stars": 5,
+      "month": "November 2025"
+    }
+  ],
+  "gallery": []
+}

@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "slug": "safe-grip-auto-mechanicsburg",
+  "company": "Safe Grip Auto Glass",
+  "trade": "auto-glass",
+  "trade_label": "Auto Glass",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "phone": "+17174480414",
+  "phone_display": "(717) 448-0414",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 104,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Safe%20Grip%20Auto%20Glass&query_place_id=ChIJ58B6uQrDyIkRZeo3wyVvdeU",
+  "hero": {
+    "url": "https://truaido.com/images/stock/auto-glass.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Hampden Township",
+    "Shiremanstown",
+    "Camp Hill",
+    "Enola",
+    "East Pennsboro Township",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "Great service, Dana is very professional! Quick easy and was done in no time! If you ever need auto glass replacement he is your goto guy!",
+      "author": "Daban",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "This man here is a legend, had a rock thrown up on the highway and it cracked my driver side on my windshield, in the rain on a SUNDAY this man was working and replaced my windshield in less then an hour and beat every price any other shop quoted me for, I\u2019ll...",
+      "author": "G M.",
+      "stars": 5,
+      "month": "October 2026"
+    },
+    {
+      "text": "Had a great experience with Danny at Safe Grip Auto Glass. He was easy to work with from start to finish, showed up when he said he would, and did a really professional job with the installation. What really stood out was the price.",
+      "author": "Bret M.",
+      "stars": 5,
+      "month": "September 2026"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407813/truaido-previews/safe-grip-auto-mechanicsburg/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407817/truaido-previews/safe-grip-auto-mechanicsburg/work2"
+  ]
+}

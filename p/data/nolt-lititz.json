@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "slug": "nolt-lititz",
+  "company": "Nolt Services LLC",
+  "trade": "septic",
+  "trade_label": "Septic Service",
+  "city": "Lititz",
+  "state": "PA",
+  "phone": "+17177381066",
+  "phone_display": "(717) 738-1066",
+  "has_website": false,
+  "rating": 3.9,
+  "review_count": 7,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nolt%20Services%20LLC&query_place_id=ChIJ5RHUVukWxokRyMHhau73gxY",
+  "hero": {
+    "url": "https://truaido.com/images/stock/septic.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Ephrata",
+    "Akron",
+    "Brownstown",
+    "Stevens",
+    "Denver",
+    "Leola"
+  ],
+  "reviews": [
+    {
+      "text": "Good sewage pumpers and commercial waste management. Clean trucks and honest business",
+      "author": "Shawn H.",
+      "stars": 5,
+      "month": "August 2025"
+    }
+  ],
+  "gallery": [
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405646/truaido-previews/nolt-lititz/work1",
+    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792405646/truaido-previews/nolt-lititz/work2"
+  ]
+}

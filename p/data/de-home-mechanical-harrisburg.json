@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "de-home-mechanical-harrisburg",
+  "company": "D.E. Home Mechanical",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+17174807452",
+  "phone_display": "(717) 480-7452",
+  "has_website": true,
+  "rating": 5.0,
+  "review_count": 140,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=D.E.%20Home%20Mechanical&query_place_id=ChIJ18u-LYTy5mgRbSynL7HqXs8",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Mechanicsburg",
+    "Dillsburg",
+    "Hampden Township",
+    "Boiling Springs",
+    "Shiremanstown",
+    "Camp Hill"
+  ],
+  "reviews": [
+    {
+      "text": "DE home mechanical continues to impress. The job was completed just as described without hidden costs. They are efficient but thorough and took the time to explain the work before leaving. I highly recommend them for any plumbing need!",
+      "author": "Alicia F.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "Elwood was great to work with. Fast response, quality work. I will be working with these guys again, I'm sure.",
+      "author": "Tyler M.",
+      "stars": 5,
+      "month": "September 2026"
+    },
+    {
+      "text": "First time we have used D.E. and are very satisfied. Water softener system was replaced and all went as quoted. Anticipate using them in the near future for further repairs.",
+      "author": "Linda S.",
+      "stars": 4,
+      "month": "October 2026"
+    }
+  ],
+  "gallery": []
+}

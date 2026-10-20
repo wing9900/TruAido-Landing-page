@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "slug": "all-american-termite-highspire",
+  "company": "All American Termite & Pest Control",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
+  "city": "Highspire",
+  "state": "PA",
+  "phone": "+17179392539",
+  "phone_display": "(717) 939-2539",
+  "has_website": true,
+  "rating": 4.0,
+  "review_count": 29,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=All%20American%20Termite%20%26%20Pest%20Control&query_place_id=ChIJ_3MwUgW_yIkRDBnBYg35RFk",
+  "hero": {
+    "url": "https://truaido.com/images/stock/pest-control.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407176/truaido-previews/all-american-termite-highspire/logo",
+    "layout": "wide",
+    "badge": null
+  },
+  "accent": "#E10108",
+  "nearby_towns": [
+    "Steelton",
+    "Middletown",
+    "New Cumberland",
+    "Harrisburg",
+    "Lemoyne",
+    "Lower Paxton Township"
+  ],
+  "reviews": [
+    {
+      "text": "Straightforward, effective and reasonable service without all the extra upsells.",
+      "author": "Jason G.",
+      "stars": 5,
+      "month": "May 2026"
+    },
+    {
+      "text": "We have been with this company for years . RICK is very knowledgeable and very dependable. They solved many problems for us over the years Tom Palmer",
+      "author": "tom P.",
+      "stars": 5,
+      "month": "April 2025"
+    }
+  ],
+  "gallery": []
+}

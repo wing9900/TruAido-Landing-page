@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "slug": "air-duct-comfort-harrisburg",
+  "company": "Air Duct Comfort Edge",
+  "trade": "hvac",
+  "trade_label": "HVAC",
+  "city": "Harrisburg",
+  "state": "PA",
+  "phone": "+12232484974",
+  "phone_display": "(223) 248-4974",
+  "has_website": false,
+  "rating": 5.0,
+  "review_count": 4,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20Duct%20Comfort%20Edge&query_place_id=ChIJqxMXOwDHyIkRI6QrtbH9p08",
+  "hero": {
+    "url": "https://truaido.com/images/stock/hvac.webp",
+    "source": "generic"
+  },
+  "logo": {
+    "url": "",
+    "layout": "text",
+    "badge": null
+  },
+  "accent": "#1E5B31",
+  "nearby_towns": [
+    "Summerdale",
+    "Lower Paxton Township",
+    "East Pennsboro Township",
+    "Enola",
+    "Dauphin",
+    "Lemoyne"
+  ],
+  "reviews": [
+    {
+      "text": "I had the air duct in my home cleaned because I saw dust coming out of a lot of the vents. The technician Ryan, got to my house on time. He told me everything he was going to do before he started cleaning the air duct.",
+      "author": "James C.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "We wanted a maintenance for our home so we chose air duct cleaning, air vent cleaning, HVAC cleaning, and dryer vent cleaning. The crew was polite, careful, and did a great job. They left our home clean, and we noticed less dust right away.",
+      "author": "Tamara G.",
+      "stars": 5,
+      "month": "July 2026"
+    },
+    {
+      "text": "The air duct cleaning service from this company exceeded our expectations. Ben was punctual, professional, and very thorough while cleaning our HVAC system. We noticed less dust and improved airflow immediately after the service was completed.",
+      "author": "stretch W.",
+      "stars": 5,
+      "month": "May 2026"
+    }
+  ],
+  "gallery": []
+}
