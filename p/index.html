@@ -54,6 +54,8 @@
   .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; min-width: 0; flex: none; }
   .brand img { height: 42px; width: auto; }
   .brand.wide img { height: 40px; max-width: 220px; object-fit: contain; }
+  .brand.full img { height: 58px; max-width: 220px; object-fit: contain; }
+  .brand.full .badge img { height: 50px; }
   .brand .badge { border-radius: 10px; padding: 6px 8px; display: inline-flex; }
   .brand .badge img { height: 34px; }
   .brand .name { font-family: var(--display); font-weight: 700; font-size: 20px; line-height: 1.05; font-stretch: 85%; }
@@ -293,6 +295,7 @@
     .head-cta .phone-link, .head-cta .btn { display: none; }
     .brand img { height: 38px; }
     .brand .name { font-size: 18px; }
+    .brand.full img { height: 48px; }
     /* Phones: the whole photo across the top, text on dark below it */
     .hero { background-color: var(--ink); background-size: 100% auto; background-position: top center; }
     .hero.no-photo { background-size: cover; }
@@ -465,6 +468,10 @@
     if (logoUrl && logo.layout === "wide") {
       var img = '<img src="' + esc(logoUrl) + '" alt="' + co + '">';
       brand = '<a class="brand wide" href="' + href("") + '">' + (logo.badge ? '<span class="badge" style="background:' + esc(logo.badge) + '">' + img + "</span>" : img) + "</a>";
+    } else if (logoUrl && logo.layout === "square" && (logo.has_name === true || qs.get("logoname") === "1")) {
+      // Logo already spells out the business name (approved on logo-review.html): logo alone, bigger
+      var fimg = '<img src="' + esc(logoUrl) + '" alt="' + co + '">';
+      brand = '<a class="brand full" href="' + href("") + '">' + (logo.badge ? '<span class="badge" style="background:' + esc(logo.badge) + '">' + fimg + "</span>" : fimg) + "</a>";
     } else if (logoUrl && logo.layout === "square") {
       var simg = '<img src="' + esc(logoUrl) + '" alt="">';
       brand = '<a class="brand" href="' + href("") + '">' + (logo.badge ? '<span class="badge" style="background:' + esc(logo.badge) + '">' + simg + "</span>" : simg) + '<span class="name">' + co + "</span></a>";
