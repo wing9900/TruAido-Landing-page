@@ -99,14 +99,19 @@
   /* Estimate form */
   #estimate { scroll-margin-top: 92px; }
   .hero.no-form .wrap { grid-template-columns: minmax(0, 1fr); }
-  .estimate-band { background: var(--concrete); padding: 72px 0; }
-  .estimate-band .wrap { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 660px); gap: 56px; align-items: start; }
-  .estimate-band .lede { color: var(--steel); font-size: 19px; margin-top: 16px; max-width: 30ch; }
-  .estimate-band .or-call { margin-top: 22px; font-weight: 600; }
-  .estimate-band .or-call a { color: var(--accent); text-underline-offset: 3px; }
-  .estimate-band .quote { box-shadow: 0 1px 2px rgba(20,24,28,.06); border: 1px solid var(--line); }
-  .estimate-band .quote > h2, .estimate-band .quote > p { display: none; }
-  @media (max-width: 1040px) { .estimate-band { padding: 48px 0; } .estimate-band .wrap { grid-template-columns: minmax(0, 1fr); gap: 22px; } }
+  .hero.split { background: radial-gradient(90% 120% at 100% 0%, color-mix(in srgb, var(--accent) 28%, var(--ink)) 0%, var(--ink) 55%); }
+  .hero.split::before { display: none; }
+  .hero.split .wrap { grid-template-columns: minmax(0, 1fr) 420px; grid-template-areas: "intro form" "shot form"; grid-template-rows: auto 1fr; align-items: start; gap: 26px 48px; min-height: 0; padding-top: 40px; padding-bottom: 48px; }
+  .hero.split.no-form .wrap { grid-template-columns: minmax(0, 1fr); grid-template-areas: "intro" "shot"; }
+  .hero.split .intro { grid-area: intro; }
+  .hero.split h1 { font-size: clamp(40px, 4.4vw, 66px); max-width: none; }
+  .hero.split .line { font-size: 18px; margin-top: 12px; max-width: 52ch; }
+  .hero.split .rating { margin-top: 14px; }
+  .hero.split .actions { margin-top: 20px; }
+  .hero.split .shot { grid-area: shot; margin: 0; }
+  .hero.split .shot img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius-m); background: #2A3036; }
+  .hero.split .quote-wrap { grid-area: form; }
+  .hero.split .quote { margin-right: 0; grid-area: form; }
   .quote { background: var(--white); color: var(--ink); border-radius: var(--radius-m); padding: 22px 22px 16px; box-shadow: 0 24px 60px rgba(10,14,18,.35); }
   .quote h2 { font-size: 31px; font-stretch: 85%; text-align: center; }
   .quote > p { color: var(--steel); font-size: 15px; margin-top: 6px; text-align: center; }
@@ -269,6 +274,7 @@
     .nav.open a, .nav.open a:hover, .nav.open a[aria-current="page"] { border-bottom-color: var(--line); background: none; }
     .nav.open a:active { background: color-mix(in srgb, var(--accent) 10%, var(--white)); }
     .hero .wrap { grid-template-columns: minmax(0, 1fr) 400px; gap: 32px; }
+    .hero.split .wrap { grid-template-columns: minmax(0, 1fr) 380px; gap: 22px 32px; }
     .services .wrap, .area .wrap, .system .wrap { grid-template-columns: 1fr; gap: 40px; }
     .services .side { position: static; }
     .system .phone { width: min(330px, 100%); }
@@ -295,6 +301,10 @@
     .hero .wrap { padding-bottom: 0; }
     .hero .wrap > div:first-child { padding-bottom: 34px; }
     .quote-wrap { position: relative; margin: 0 -18px; padding: 22px 18px 30px; background: var(--concrete); }
+    .hero.split .wrap { display: block; padding-top: 28px; }
+    .hero.split .intro { padding-bottom: 26px; }
+    .hero.split .shot { margin: 0 -18px; }
+    .hero.split .shot img { border-radius: 0; }
     .quote { box-shadow: none; border: 1px solid var(--line); }
     .proof .wrap { grid-template-columns: 1fr; }
     .proof div { padding: 16px 0; }
@@ -466,21 +476,17 @@
       var rating = d.rating
         ? '<div class="rating">' + stars(d.rating) + "<span>" + esc(d.rating) + " from " + esc(d.review_count) + " Google reviews</span></div>"
         : "";
-      var hero = '<section class="hero no-form' + (heroUrl ? "" : " no-photo") + '"' + (heroUrl ? ' style="background-image:url(\'' + esc(heroUrl) + '\')"' : "") + '>' +
-        '<div class="wrap"><div>' +
+      // The photo is shown whole, beside the form, never behind it.
+      var hero = '<section class="hero split' + (SHOW_ESTIMATE_FORM ? "" : " no-form") + '">' +
+        '<div class="wrap"><div class="intro">' +
         '<p class="where">' + where + "</p>" +
         '<h1 class="hero-name-in">' + co + "</h1>" +
         '<p class="line">' + esc(trade.line) + (SHOW_ESTIMATE_FORM ? ". Call, or send a few details and get a text back.</p>" : ". Call, and if we miss you, you'll get a text back.</p>") + rating +
-        '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") +
-        (SHOW_ESTIMATE_FORM ? '<a class="btn btn-light" href="#estimate">Get an estimate</a>' : "") + "</div>" +
+        '<div class="actions">' + (tel ? '<a class="btn btn-accent" href="tel:' + tel + '">' + ICON.phone + "Call " + phoneDisplay + "</a>" : "") + "</div>" +
         "</div>" +
-        "</div></section>" +
-        // The estimate form sits in its own band under the photo, so it never covers the picture.
-        (SHOW_ESTIMATE_FORM ? '<section class="estimate-band"><div class="wrap">' +
-          '<div><h2 class="title">Get an estimate</h2><p class="lede">Send a few details and ' + co + ' will text you back in seconds.</p>' +
-          (tel ? '<p class="or-call">Rather talk? <a href="tel:' + tel + '">Call ' + phoneDisplay + "</a></p>" : "") + "</div>" +
-          '<div class="quote" id="estimate">' + formHtml() + "</div></div></section>" : "") +
-        tbar;
+        (heroUrl ? '<figure class="shot"><img src="' + esc(heroUrl) + '" alt="' + co + ' at work" width="1600" height="900" fetchpriority="high"></figure>' : "") +
+        (SHOW_ESTIMATE_FORM ? '<div class="quote-wrap"><div class="quote" id="estimate">' + formHtml() + "</div></div>" : "") +
+        "</div></section>" + tbar;
 
 
       var gal = gallery.length
