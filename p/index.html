@@ -476,6 +476,8 @@
     // Header brand per logo layout
     var logo = d.logo || {};
     var logoUrl = safeUrl(logo.url);
+    // Cluttered logo (marked "Name only" on logo-review.html): drop the image, show the name. ?nologo=1 previews it.
+    if (logo.hide === true || qs.get("nologo") === "1") logoUrl = "";
     var brand;
     if (logoUrl && logo.layout === "wide") {
       var img = '<img src="' + esc(logoUrl) + '" alt="' + co + '">';
