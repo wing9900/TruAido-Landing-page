@@ -126,11 +126,26 @@
     main.querySelectorAll(".frame iframe").forEach(function (f) {
       f.onload = function () {
         // Keep each preview on the first screen, as a visitor sees it on arrival.
-        var n = 0, t = setInterval(function () { try { f.contentWindow.scrollTo(0, 0); } catch (e) {} if (++n > 24) clearInterval(t); }, 250);
+        var n = 0, t = setInterval(function () { if (f._userScrolled) return clearInterval(t); try { f.contentWindow.scrollTo(0, 0); } catch (e) {} if (++n > 24) clearInterval(t); }, 250);
       };
+      f._userScrolled = false;
       f.src = "/p/index.html?b=" + encodeURIComponent(slug) + "&hdr=" + (choice < 0 ? "stock" : choice);
     });
   }
+  // Mouse wheel over a preview scrolls that preview; at its top or bottom the review page scrolls instead.
+  main.addEventListener("wheel", function (e) {
+    var box = e.target.closest && e.target.closest(".frame .box"); if (!box) return;
+    var f = box.querySelector("iframe"), w, el;
+    try { w = f.contentWindow; el = w.document.scrollingElement; } catch (err) { return; }
+    if (!el) return;
+    var scale = box.clientWidth / (+box.dataset.w || box.clientWidth);
+    var dy = e.deltaY * (e.deltaMode === 1 ? 40 : e.deltaMode === 2 ? box.clientHeight : 1) / scale;
+    var max = el.scrollHeight - el.clientHeight;
+    if ((dy > 0 && el.scrollTop >= max - 1) || (dy < 0 && el.scrollTop <= 0)) return;
+    e.preventDefault();
+    f._userScrolled = true;
+    w.scrollTo({ top: Math.max(0, Math.min(max, el.scrollTop + dy)), behavior: "instant" });
+  }, { passive: false });
   function fit() {
     main.querySelectorAll(".frame .box").forEach(function (box) {
       var w = +box.dataset.w, h = +box.dataset.h, s = box.clientWidth / w, f = box.querySelector("iframe");
