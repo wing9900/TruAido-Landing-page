@@ -432,7 +432,7 @@
 
   fetch("/p/data/" + slug + ".json", { cache: "no-cache" })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(render)
+    .then(function (d) { if (d && d.demo) SHOW_ESTIMATE_FORM = false; render(d); })
     .catch(notFound);
 
   function render(d) {
@@ -466,10 +466,12 @@
     var lookPhotos = photos.filter(function (_u, i) { return i !== pick; });
 
     // TruAido bar
-    var pitch = d.has_website
+    var pitch = d.demo
+      ? "Sample website by TruAido. <strong>" + co + "</strong> is a made-up business used for this demo."
+      : d.has_website
       ? "Here's the new <strong>" + co + "</strong> website, built to turn visits into texts."
       : "Here's a website for <strong>" + co + "</strong>, built by TruAido.";
-    var tbar = '<div class="tbar"><div class="wrap"><p><span class="long">' + pitch + '</span><span class="short">Website preview for <strong>' + co + '</strong></span></p>' +
+    var tbar = '<div class="tbar"><div class="wrap"><p><span class="long">' + pitch + '</span><span class="short">' + (d.demo ? "Sample site by TruAido. Made-up business." : 'Website preview for <strong>' + co + '</strong>') + '</span></p>' +
       (VIDEO ? '<a class="video" href="' + VIDEO + '" target="_blank" rel="noopener"><span class="play"></span>See how it works</a>' : "") +
       '<a class="start" href="' + esc(start) + '">Start my build</a></div></div>';
 

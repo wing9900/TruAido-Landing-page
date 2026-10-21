@@ -1,6 +1,7 @@
 {
   "v": 1,
   "slug": "sample-tree",
+  "demo": true,
   "company": "Mike's Tree Service",
   "trade": "tree-service",
   "trade_label": "Tree Service",
