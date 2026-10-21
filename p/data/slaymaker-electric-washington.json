@@ -53,5 +53,6 @@
   "gallery": [
     "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477815/truaido-previews/slaymaker-electric-washington/work1",
     "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792477816/truaido-previews/slaymaker-electric-washington/work2"
-  ]
+  ],
+  "header_photo": 1
 }
