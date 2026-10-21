@@ -2,8 +2,8 @@
   "v": 1,
   "slug": "pure-pest-harrisburg",
   "company": "Pure Pest Services LLC",
-  "trade": "insulation",
-  "trade_label": "Insulation",
+  "trade": "pest-control",
+  "trade_label": "Pest Control",
   "city": "Harrisburg",
   "state": "PA",
   "phone": "+17176862095",
@@ -13,7 +13,7 @@
   "review_count": 19,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pure%20Pest%20Services%20LLC&query_place_id=ChIJXUSyTCO7yIkRhwNfNMNG0D0",
   "hero": {
-    "url": "https://truaido.com/images/stock/insulation.webp",
+    "url": "https://truaido.com/images/stock/pest-control.webp",
     "source": "generic"
   },
   "logo": {
