@@ -50,10 +50,5 @@
       "month": "January 2020"
     }
   ],
-  "gallery": [
-    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407572/truaido-previews/mt-heating-hummelstown/work1",
-    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407574/truaido-previews/mt-heating-hummelstown/work2",
-    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407575/truaido-previews/mt-heating-hummelstown/work3",
-    "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fill,g_auto,w_800,h_600/f_auto,q_auto/v1792407576/truaido-previews/mt-heating-hummelstown/work4"
-  ]
+  "gallery": []
 }
