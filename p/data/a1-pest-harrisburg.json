@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406991/truaido-previews/a1-pest-harrisburg/logo",
     "layout": "square",
-    "badge": "#000000"
+    "badge": "#000000",
+    "has_name": true
   },
   "accent": "#B72026",
   "nearby_towns": [

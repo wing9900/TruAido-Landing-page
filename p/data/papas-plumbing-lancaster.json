@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406735/truaido-previews/papas-plumbing-lancaster/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "has_name": true
   },
   "accent": "#B31C1C",
   "nearby_towns": [

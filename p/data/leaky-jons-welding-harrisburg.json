@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407240/truaido-previews/leaky-jons-welding-harrisburg/logo",
     "layout": "square",
-    "badge": "#ECE5D6"
+    "badge": "#ECE5D6",
+    "hide": true
   },
   "accent": "#7E6A3E",
   "nearby_towns": [

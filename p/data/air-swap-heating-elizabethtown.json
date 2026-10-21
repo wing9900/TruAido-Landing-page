@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406145/truaido-previews/air-swap-heating-elizabethtown/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "has_name": true
   },
   "accent": "#D32400",
   "nearby_towns": [

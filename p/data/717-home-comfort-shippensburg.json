@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792407854/truaido-previews/717-home-comfort-shippensburg/logo",
     "layout": "square",
-    "badge": "#0F2729"
+    "badge": "#0F2729",
+    "has_name": true
   },
   "accent": "#1E3E3F",
   "nearby_towns": [

@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406637/truaido-previews/jk-stump-christiana/logo",
     "layout": "square",
-    "badge": "#EBE9E4"
+    "badge": "#EBE9E4",
+    "has_name": true
   },
   "accent": "#714B35",
   "nearby_towns": [

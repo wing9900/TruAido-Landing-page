@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405848/truaido-previews/hoovertec-new-holland/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "has_name": true
   },
   "accent": "#CC312A",
   "nearby_towns": [

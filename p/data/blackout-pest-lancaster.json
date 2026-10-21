@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406733/truaido-previews/blackout-pest-lancaster/logo",
     "layout": "square",
-    "badge": "#131612"
+    "badge": "#131612",
+    "has_name": true
   },
   "accent": "#896F09",
   "nearby_towns": [

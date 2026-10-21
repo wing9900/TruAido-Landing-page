@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406755/truaido-previews/all-county-termite-lancaster/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "has_name": true
   },
   "accent": "#846B03",
   "nearby_towns": [

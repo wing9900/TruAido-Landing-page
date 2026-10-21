@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406326/truaido-previews/fins-environmental-quarryville/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "hide": true
   },
   "accent": "#01017E",
   "nearby_towns": [

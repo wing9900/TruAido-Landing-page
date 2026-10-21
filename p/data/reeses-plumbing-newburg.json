@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408006/truaido-previews/reeses-plumbing-newburg/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "hide": true
   },
   "accent": "#0C2096",
   "nearby_towns": [

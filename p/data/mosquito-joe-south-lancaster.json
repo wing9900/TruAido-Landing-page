@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792406683/truaido-previews/mosquito-joe-south-lancaster/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "has_name": true
   },
   "accent": "#327E35",
   "nearby_towns": [

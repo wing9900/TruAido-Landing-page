@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792477793/truaido-previews/zeiset-electric-manheim/logo",
     "layout": "square",
-    "badge": "#01143F"
+    "badge": "#01143F",
+    "has_name": true
   },
   "accent": "#CC2E10",
   "nearby_towns": [

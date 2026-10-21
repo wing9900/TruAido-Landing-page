@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408126/truaido-previews/lynch-mechanicals-camp-hill/logo",
     "layout": "square",
-    "badge": null
+    "badge": null,
+    "hide": true
   },
   "accent": "#87292C",
   "nearby_towns": [

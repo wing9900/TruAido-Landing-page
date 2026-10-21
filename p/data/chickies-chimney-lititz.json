@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792405970/truaido-previews/chickies-chimney-lititz/logo",
     "layout": "square",
-    "badge": "#4F74BB"
+    "badge": "#4F74BB",
+    "has_name": true
   },
   "accent": "#0F7E93",
   "nearby_towns": [

@@ -19,7 +19,8 @@
   "logo": {
     "url": "https://res.cloudinary.com/dpxlc4ep/image/upload/c_fit,w_600,h_240/f_auto,q_auto/v1792408199/truaido-previews/haase-home-comfort-harrisburg/logo",
     "layout": "square",
-    "badge": "#2F2F32"
+    "badge": "#2F2F32",
+    "hide": true
   },
   "accent": "#806A3D",
   "nearby_towns": [
