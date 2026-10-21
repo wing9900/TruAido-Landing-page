@@ -52,16 +52,21 @@
   <h1>Header review</h1>
   <span class="prog" id="prog"></span>
   <span class="grow"></span>
+  <button id="undo" type="button">Undo last</button>
   <button id="filter" type="button">Show: not reviewed</button>
   <button id="copy" class="primary" type="button">Copy my picks</button>
 </div></header>
 <main id="main"></main>
 <script>
 (function () {
-  var KEY = "truaido-header-picks";
+  var KEY = "truaido-header-picks-v2";
+  // Bob's first 103 picks (pasted Oct 21, 1:40 am), preloaded so a new preview link starts with them.
+  var SEED = {"goods-tree-manheim":0,"abc-fuel-oil-harrisburg":-1,"goods-tree-harrisburg":4,"all-season-tree-lititz":2,"bsm-landscaping-mechanicsburg":-1,"fireside-chimney-lancaster":-1,"peppers-auto-glass-middletown":-1,"tree-wise-guys-lititz":-1,"windshield-world-manheim":-1,"dominion-pest-lancaster":-1,"slaymaker-electric-washington":1,"okay-auto-glass-columbia":0,"kb-welding-lititz":-1,"longs-stump-millersburg":-1,"plastic-welding-ephrata":-1,"scott-king-glassworks-enola":-1,"brown-heating-quarryville":-1,"zooks-tree-ephrata":-1,"lenk-tree-mechanicsburg":-1,"tomlinson-bomberger-pest-lancaster":-1,"ds-tree-harrisburg":-1,"dmv-mechanical-lancaster":-1,"eg-heating-harrisburg":-1,"gebhard-son-tree-lancaster":-1,"git-down-tree-mechanicsburg":-1,"hl-bowman-plumbing-harrisburg":-1,"joyce-tree-lancaster":-1,"kerrs-tree-harrisburg":-1,"lnp-tree-lancaster":-1,"martin-tree-new-holland":-1,"nathans-tree-halifax":-1,"pecks-septic-gardners":-1,"riddle-tree-camp-hill":0,"sattazahn-chimney-harrisburg":-1,"safe-grip-auto-mechanicsburg":-1,"venturo-welding-harrisburg":-1,"your-chimney-harrisburg":-1,"ak-extreme-heating-lancaster":-1,"arborist-enterprises-manheim":-1,"frey-lutz-lancaster":-1,"integrity-tree-new-providence":-1,"monyer-electric-denver":-1,"scott-murlins-plumbing-harrisburg":-1,"shulls-tree-elizabethtown":-1,"total-exterminating-columbia":-1,"717-home-comfort-shippensburg":-1,"af-carlisle":-1,"absolute-energy-hummelstown":-1,"arbor-assassin-harrisburg":-1,"ck-windshield-harrisburg":-1,"capital-auto-glass-enola":0,"chimney-pro-lancaster":-1,"dale-lees-auto-ephrata":-1,"derick-nye-tree-shippensburg":-1,"elite-insulation-shippensburg":-1,"gilberts-pest-carlisle":-1,"keener-insulating-supply-lancaster":-1,"kuhn-tree-carlisle":-1,"miselberger-columbia":-1,"superheat-refrigeration-elizabethtown":-1,"susquehanna-oil-propane-dillsburg":-1,"tapper-sons-dauphin":0,"temp-tech-lemoyne":-1,"thermotech-camp-hill":-1,"tree-life-willow-street":-1,"717-arborist-harrisburg":-1,"green-tree-harrisburg-2":-1,"heritage-arbor-group-harrisburg":-1,"itg-glass-hershey":-1,"jeffrey-wilbur-plumbing-mechanicsburg":-1,"puentes-stove-lancaster":-1,"sunny-slope-tree-gordonville":-1,"walters-environmental-grantville":-1,"diamond-mechanical-lancaster":-1,"abc-tree-halifax":-1,"all-county-termite-lancaster":-1,"arrow-auto-glass-harrisburg":-1,"big-crack-autoglass-manheim":-1,"brubaker-lancaster":-1,"cf-acri-son-harrisburg":-1,"carstar-fred-beans-mechanicsburg":-1,"clark-brothers-stump-harrisburg":-1,"cutting-edge-tree-harrisburg":-1,"er-lighty-middletown":-1,"gf-bowman-harrisburg":-1,"haven-mechanicals-ephrata":-1,"heisenberg-heating-mt-joy":-1,"home-orchards-harrisburg":-1,"jr-king-excavating-lititz":-1,"kalmia-ornamental-tree-lancaster":-1,"librandis-machine-shop-middletown":-1,"mi-contractor-gap":-1,"martin-tree-hummelstown":-1,"naugher-heating-lancaster":-1,"parkway-tree-ephrata":-1,"rl-graham-sons-columbia":-1,"regal-metal-works-new-cumberland":-1,"smith-family-sawmill-harrisburg":-1,"southern-end-hvac-lancaster":-1,"stumpinator-stump-harrisburg":-1,"tele-pest-lancaster":-1,"bucher-honey-pest-carlisle":-1,"first-choice-chimney-elizabethtown":-1};
   var SIZES = [["Small laptop", 1366, 660], ["Desktop", 1600, 820], ["Wide monitor", 1920, 940]];
   var picks = {};
-  try { picks = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { picks = {}; }
+  try { picks = JSON.parse(localStorage.getItem(KEY) || "null"); } catch (e) { picks = null; }
+  if (!picks || typeof picks !== "object") picks = JSON.parse(JSON.stringify(SEED));
+  var undone = {};
   var list = [], idx = 0, onlyOpen = true, data = null, choice = -1;
   var main = document.getElementById("main");
 
@@ -89,7 +94,7 @@
       data = d;
       var own = d.hero && d.hero.source === "google" ? d.hero.url : "";
       var photos = (own ? [own] : []).concat(d.gallery || []).slice(0, 5);
-      choice = r.s in picks ? picks[r.s] : -1;
+      choice = r.s in picks ? picks[r.s] : (r.s in undone ? undone[r.s] : -1);
       var opts = [{ i: -1, label: "Stock photo", img: "/images/stock/" + stockName(d.trade) + ".webp" }].concat(photos.map(function (u, i) {
         return { i: i, label: (i === 0 && own ? "Their photo 1 (import's pick)" : "Their photo " + (i + 1)), img: cld(u, "c_fill,g_auto,w_336,h_189") };
       }));
@@ -155,7 +160,7 @@
   }
   function use() {
     var r = visible()[idx];
-    picks[r.s] = choice; save();
+    delete picks[r.s]; picks[r.s] = choice; delete undone[r.s]; save();
     if (!onlyOpen) idx++;
     show();
   }
@@ -166,6 +171,14 @@
     else if (e.key === "Enter") { var u = document.getElementById("use"); if (u) { e.preventDefault(); u.click(); } }
     else if (e.key === "ArrowRight") { idx++; show(); }
     else if (e.key === "ArrowLeft") { idx = Math.max(0, idx - 1); show(); }
+  });
+  // Undo last: reopen the most recently saved business with its old pick selected, so it can be changed.
+  document.getElementById("undo").addEventListener("click", function () {
+    var keys = Object.keys(picks); if (!keys.length) return;
+    var s = keys[keys.length - 1];
+    undone[s] = picks[s]; delete picks[s]; save();
+    var v = visible(); for (var i = 0; i < v.length; i++) if (v[i].s === s) { idx = i; break; }
+    show();
   });
   document.getElementById("filter").addEventListener("click", function () {
     onlyOpen = !onlyOpen; idx = 0;
