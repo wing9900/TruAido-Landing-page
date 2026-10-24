@@ -1,6 +1,23 @@
 {
   "rewrites": [
-    { "source": "/p/:slug", "destination": "/p/index.html" },
-    { "source": "/p/:slug/:page", "destination": "/p/index.html" }
+    {
+      "source": "/p/:slug",
+      "destination": "/p/index.html"
+    },
+    {
+      "source": "/p/:slug/:page",
+      "destination": "/p/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/images/sms-opt-in(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noimageindex"
+        }
+      ]
+    }
   ]
 }
