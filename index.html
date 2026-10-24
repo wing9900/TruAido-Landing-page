@@ -134,8 +134,7 @@
   .demo-number a { color: inherit; text-decoration: none; }
   .demo-status { font-size: 14px; } .demo-status:not(:empty) { margin-top: 12px; }
   .demo-status.ok { color: #0B4A34; font-weight: 600; }
-  .demo-status.err { color: #B0432B; font-weight: 600; }
-  .demo-consent.need label { color: #B0432B; }
+  .demo-status.err { color: #B0432B; }
   .demo-consent.need input[type="checkbox"] { outline: 2px solid #B0432B; outline-offset: 2px; }
   .demo-consent { display: flex; align-items: flex-start; gap: 9px; max-width: 480px; margin: 14px auto 0; text-align: left; }
   .demo-consent input[type="checkbox"] { flex: none; width: 17px; height: 17px; margin: 2px 0 0; padding: 0; border: none; border-radius: 0; background: none; accent-color: #0E8A5F; cursor: pointer; }
@@ -352,7 +351,6 @@
     .demo-consent a { color: #0B4A34 !important; }
     .demo-status.ok { color: #0B4A34 !important; }
     .demo-status.err { color: #B0432B !important; }
-    .demo-consent.need label { color: #B0432B !important; }
     .feature .shot, .feature .clipwrap { background: #FFFFFF !important; }
     .mockup-cap { color: #47546B !important; }
     .mockup-cap b { color: #10203A !important; }
@@ -2943,7 +2941,6 @@
     <div class="foot-contact">
       <div><span class="fc-lbl">Phone</span><a href="tel:+19163822904">1 (916) 382-2904</a></div>
       <div><span class="fc-lbl">Email</span><a href="mailto:info@truaido.com">info@truaido.com</a></div>
-      <div><span class="fc-lbl">Location</span><span class="fc-city">Roseville, California</span></div>
     </div>
   </div>
   <div class="foot-bar">
@@ -2983,8 +2980,8 @@
     call.addEventListener('click', function (e) {
       if (!box.checked) {
         e.preventDefault();
-        status.textContent = 'Please check the box below first.';
-        status.className = 'demo-status err';
+        status.textContent = 'Please check the box below.';
+        status.className = 'demo-status';
         box.parentElement.classList.add('need');
         box.focus();
       }
