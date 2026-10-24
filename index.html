@@ -134,7 +134,9 @@
   .demo-number a { color: inherit; text-decoration: none; }
   .demo-status { font-size: 14px; } .demo-status:not(:empty) { margin-top: 12px; }
   .demo-status.ok { color: #0B4A34; font-weight: 600; }
-  .demo-status.err { color: #B0432B; }
+  .demo-status.err { color: #B0432B; font-weight: 600; }
+  .demo-consent.need label { color: #B0432B; }
+  .demo-consent.need input[type="checkbox"] { outline: 2px solid #B0432B; outline-offset: 2px; }
   .demo-consent { display: flex; align-items: flex-start; gap: 9px; max-width: 480px; margin: 14px auto 0; text-align: left; }
   .demo-consent input[type="checkbox"] { flex: none; width: 17px; height: 17px; margin: 2px 0 0; padding: 0; border: none; border-radius: 0; background: none; accent-color: #0E8A5F; cursor: pointer; }
   .demo-consent label { font-size: 12.5px; line-height: 1.55; color: #3E5D50; cursor: pointer; }
@@ -350,6 +352,7 @@
     .demo-consent a { color: #0B4A34 !important; }
     .demo-status.ok { color: #0B4A34 !important; }
     .demo-status.err { color: #B0432B !important; }
+    .demo-consent.need label { color: #B0432B !important; }
     .feature .shot, .feature .clipwrap { background: #FFFFFF !important; }
     .mockup-cap { color: #47546B !important; }
     .mockup-cap b { color: #10203A !important; }
@@ -583,11 +586,11 @@
       <div class="demo-row">
         <a class="btn-solid demo-call" id="demoCall" role="link" aria-disabled="true" data-tel="+18884867630"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>Call the Demo Line</a>
       </div>
+      <div class="demo-status" id="demoStatus" role="status" aria-live="polite"></div>
       <div class="demo-consent">
         <input type="checkbox" id="demoConsent">
         <label for="demoConsent">I agree to receive one demo text message from TruAido at the number I call from. Msg &amp; data rates may apply. Reply STOP to opt out or HELP for help. Consent is not a condition of purchase. See our <a href="/privacy.html">Privacy Policy</a> and <a href="/terms.html">Terms</a>.</label>
       </div>
-      <div class="demo-status" id="demoStatus" role="status" aria-live="polite"></div>
       <div class="demo-note">Call from a phone that can receive texts.</div>
     </div>
     <div class="offer-block">
@@ -2972,16 +2975,17 @@
       call.addEventListener('click', function (e) { e.preventDefault(); });
       return;
     }
+    // The button always looks ready (dark blue). Tapping it before the box is checked shows a short note instead of dialing.
     function sync() {
       call.setAttribute('aria-disabled', box.checked ? 'false' : 'true');
-      call.style.opacity = box.checked ? '' : '0.55';
-      if (box.checked) { status.textContent = ''; status.className = 'demo-status'; }
+      if (box.checked) { status.textContent = ''; status.className = 'demo-status'; box.parentElement.classList.remove('need'); }
     }
     call.addEventListener('click', function (e) {
       if (!box.checked) {
         e.preventDefault();
-        status.textContent = 'Check the box above to get the demo text.';
+        status.textContent = 'Please check the box below first.';
         status.className = 'demo-status err';
+        box.parentElement.classList.add('need');
         box.focus();
       }
     });
