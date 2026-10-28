@@ -432,7 +432,7 @@
 
   fetch("/p/data/" + slug + ".json", { cache: "no-cache" })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (d) { if (d && d.demo) SHOW_ESTIMATE_FORM = false; render(d); })
+    .then(render)
     .catch(notFound);
 
   function render(d) {
