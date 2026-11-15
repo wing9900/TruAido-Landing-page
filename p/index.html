@@ -367,13 +367,13 @@ fbq('track', 'PageView');
   var STRIPE = "https://buy.stripe.com/aFa5kE5oRcaW6lQcgzaIM00";
   // The short video (same file the landing page plays). Empty hides the link.
   var VIDEO = "https://video.truaido.com/VSL.mp4";
-  // The estimate form is a GoHighLevel form embedded in an iframe. The preview
+  // The estimate form is embedded in an iframe. The preview
   // slug is passed in the URL so the hidden Preview Slug field fills itself.
   // Leave GHL_FORM_ID empty to show the built-in demo form instead.
   var GHL_FORM_ID = "wxvfR9m4cCv9EAsS1oDO";
   // Set to false to hide the estimate form card and its buttons (nothing is removed; flip back to true to restore).
   var SHOW_ESTIMATE_FORM = true;
-  // GoHighLevel SMS chat widget (bottom right). Leave empty to show no widget.
+  // SMS chat widget (bottom right). Leave empty to show no widget.
   var GHL_CHAT_WIDGET_ID = "6ad1b8b34e3a6a8f9564a7ee";
   // Set to false to keep the chat widget off (the ID above stays; flip back to true to restore).
   var SHOW_CHAT_WIDGET = false;
@@ -806,7 +806,7 @@ fbq('track', 'PageView');
         btn.setAttribute("aria-expanded", open ? "true" : "false");
       });
       if (GHL_FORM_ID && document.querySelector(".ghl-form iframe")) {
-        // GoHighLevel's embed script sizes the iframe to the form once it loads.
+        // The embed script sizes the iframe to the form once it loads.
         var es = document.createElement("script");
         es.src = "https://link.msgsndr.com/js/form_embed.js";
         document.body.appendChild(es);
